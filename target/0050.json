@@ -1,18 +1,18 @@
-{
-  "number": "0050",
-  "idioms": [
-    "rely on ~",
-    "rely upon ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～に頼る",
-      "synonyms": [
-        "depend on ~"
-      ],
-      "example-sentence": "We Japanese rely on imports for most of our food.",
-      "sentence-jp": "私たち日本人は食料の大部分を輸入に頼っている。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0050",
+    "idioms": [
+      "result from ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜から起こる",
+        "example-sentence": "Japan will face many problems that result from the declining population.",
+        "sentence-jp": "日本は人口減少から生じる多くの問題に直面するだろう。"
+      }
+    ],
+    "notes": [
+      "result in 〜「〜の結果に終わる」と区別する。"
+    ]
+  }
+]

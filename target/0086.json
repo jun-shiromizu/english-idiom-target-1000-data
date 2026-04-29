@@ -1,14 +1,19 @@
-{
-  "number": "0086",
-  "idioms": [
-    "brush up (on) ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～（学んだことなど）をやり直す［磨きをかける］",
-      "example-sentence": "My kid sister has been spending a lot of time brushing up on her English lately.",
-      "sentence-jp": "私の妹は最近、英語の磨き直しに多くの時間を費やしている。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0086",
+    "idioms": [
+      "keep doing"
+    ],
+    "means": [
+      {
+        "idiom-jp": "…し続ける",
+        "synonyms": [
+          "keep [go] on doing"
+        ],
+        "example-sentence": "The air became cooler as we kept climbing the mountain.",
+        "sentence-jp": "私たちが山を登り続けるにつれて空気が冷たくなってきた。"
+      }
+    ],
+    "notes": []
+  }
+]

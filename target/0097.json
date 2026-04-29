@@ -1,17 +1,22 @@
-{
-  "number": "0097",
-  "idioms": [
-    "turn off (~)"
-  ],
-  "means": [
-    {
-      "idiom-jp": "（スイッチなどを）消す；（水・ガスなどを）止める",
-      "synonyms": [
-        "switch off の対義語"
-      ],
-      "example-sentence": "In the classroom, we were told to turn off our smartphones and put them on the desks.",
-      "sentence-jp": "教室では、スマートフォンを消して机の上に置くように言われた。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0097",
+    "idioms": [
+      "get lost"
+    ],
+    "means": [
+      {
+        "idiom-jp": "道に迷う",
+        "synonyms": [
+          "go astray"
+        ],
+        "example-sentence": "If you get lost in a foreign country, do not hesitate to ask somebody for help.",
+        "sentence-jp": "もし外国で道に迷ったら、躊躇せず誰かに助けを求めなさい。"
+      }
+    ],
+    "notes": [
+      "「人生の道に迷う」の意味でも使われる。",
+      "be lost は「迷っている」という「状態」を表す。"
+    ]
+  }
+]

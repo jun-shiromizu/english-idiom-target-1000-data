@@ -1,18 +1,22 @@
-{
-  "number": "0075",
-  "idioms": [
-    "deal with ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～に対処する；～を扱う",
-      "synonyms": [
-        "handle",
-        "cope with ~"
-      ],
-      "example-sentence": "These two books deal with similar topics, but their conclusions are different from each other.",
-      "sentence-jp": "この2冊の本は似たような話題を扱っているが、その結論は互いに異なっている。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0075",
+    "idioms": [
+      "pick out ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜を選ぶ",
+        "synonyms": [
+          "choose",
+          "select"
+        ],
+        "example-sentence": "Yumi, can you come along with me and help me pick out a birthday present for John?",
+        "sentence-jp": "ユミ、私と一緒に来て、ジョンの誕生日プレゼントを選ぶのを手伝ってくれますか。"
+      }
+    ],
+    "notes": [
+      "pick 〜 out の語順も可。"
+    ]
+  }
+]

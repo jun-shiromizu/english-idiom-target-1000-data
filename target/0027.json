@@ -1,14 +1,18 @@
-{
-  "number": "0027",
-  "idioms": [
-    "be responsible for ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～に対して責任がある",
-      "example-sentence": "Parents are responsible for taking care of their children.",
-      "sentence-jp": "親は子供の世話をする責任がある。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0027",
+    "idioms": [
+      "be curious about ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜を知りたがる，〜に好奇心の強い",
+        "example-sentence": "I was very curious about how my brother lived while he was studying in America.",
+        "sentence-jp": "私は、兄がアメリカに留学中どのように生活したのかをとても知りたかった。"
+      }
+    ],
+    "notes": [
+      "be curious to do は「しきりに…したがる」。"
+    ]
+  }
+]

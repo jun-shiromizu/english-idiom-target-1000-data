@@ -1,15 +1,25 @@
-{
-  "number": "0077",
-  "idioms": [
-    "abound in ~",
-    "abound with ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "（場所などが）～に富んでいる",
-      "example-sentence": "The beautiful forests surrounding those houses abound in mushrooms and berries.",
-      "sentence-jp": "それらの家の周囲を囲む美しい森は、キノコやベリーが豊富である。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0077",
+    "idioms": [
+      "work on (~)"
+    ],
+    "means": [
+      {
+        "idiom-jp": "働き続ける",
+        "example-sentence": "The boy worked on while all the others took a short break.",
+        "sentence-jp": "その少年はほかの全員が短い休憩をとっている間に働き続けた。"
+      },
+      {
+        "idiom-jp": "〜に取り組む；〜を手がける；〜に影響を与える；(薬などが)〜に効く",
+        "example-sentence": "Many scientists today are working on AI technology to make our lives better.",
+        "sentence-jp": "今日の多くの科学者たちは、私たちの生活をよりよいものにするためにAI技術に取り組んでいる。"
+      }
+    ],
+    "notes": [
+      "on は「継続」を表す副詞。read on は「読み続ける」、sleep on は「眠り続ける」で、アクセントはいずれも on にある。",
+      "on は前置詞で、アクセントは work on 〜。",
+      "AI = artificial intelligence「人工知能」"
+    ]
+  }
+]

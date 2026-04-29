@@ -1,17 +1,18 @@
-{
-  "number": "0019",
-  "idioms": [
-    "be afraid of ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～を恐れる［怖がる］；～を心配する",
-      "synonyms": [
-        "fear"
-      ],
-      "example-sentence": "Don't be afraid of making mistakes when you are learning a second language.",
-      "sentence-jp": "外国語を学んでいるときは、間違いを犯すことを恐れてはいけない。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0019",
+    "idioms": [
+      "be composed of ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜から構成されている",
+        "example-sentence": "I like the fact that our group is composed of different types of individuals.",
+        "sentence-jp": "私たちのグループがさまざまなタイプの個人で構成されている事実を私は気に入っている。"
+      }
+    ],
+    "notes": [
+      "consist of 〜 → 46 と異なり、受動態。"
+    ]
+  }
+]

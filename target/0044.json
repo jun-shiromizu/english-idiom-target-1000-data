@@ -1,14 +1,20 @@
-{
-  "number": "0044",
-  "idioms": [
-    "amount to ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "合計～になる",
-      "example-sentence": "The damage from the recent typhoon is estimated to amount to billions of yen.",
-      "sentence-jp": "最近の台風による被害は、数十億円に達すると推定されている。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0044",
+    "idioms": [
+      "prepare for ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜の準備をする；〜に備える",
+        "example-sentence": "I have to prepare for a test in English scheduled next week.",
+        "sentence-jp": "私は来週に予定されている英語のテストの準備をしなければならない。"
+      }
+    ],
+    "notes": [
+      "prepare A for B は「B に備えて A を準備する」。",
+      "この場合の prepare は他動詞。",
+      "be prepared for 〜 は「〜への用意［覚悟］ができている」（= be ready for 〜）。"
+    ]
+  }
+]

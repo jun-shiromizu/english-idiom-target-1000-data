@@ -1,17 +1,21 @@
-{
-  "number": "0060",
-  "idioms": [
-    "consist of ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～から成っている",
-      "synonyms": [
-        "be composed of ~"
-      ],
-      "example-sentence": "In those days, our club consisted of about a hundred members.",
-      "sentence-jp": "当時、私たちのクラブは約100人のメンバーで構成されていた。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0060",
+    "idioms": [
+      "bring about ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜を引き起こす",
+        "synonyms": [
+          "cause"
+        ],
+        "example-sentence": "Climate change has brought about rainfall shortages even in areas which used to be wet.",
+        "sentence-jp": "気候変動は以前に雨の多かった地域においてさえ降雨不足を引き起こしている。"
+      }
+    ],
+    "notes": [
+      "bring 〜 about の語順も可。"
+    ]
+  }
+]

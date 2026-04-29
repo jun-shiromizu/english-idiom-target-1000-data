@@ -1,14 +1,18 @@
-{
-  "number": "0047",
-  "idioms": [
-    "concentrate on ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～に集中する",
-      "example-sentence": "Right now he is concentrating on the last part of his paper.",
-      "sentence-jp": "今、彼は論文の最後の部分に集中している。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0047",
+    "idioms": [
+      "complain [about] of ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "（苦痛など）を訴える；〜について不平を言う",
+        "example-sentence": "I remember my grandfather used to regularly complain of backache in his later years.",
+        "sentence-jp": "私は、祖父が晩年によく背中の痛みを訴えていたことを覚えている。"
+      }
+    ],
+    "notes": [
+      "「（苦痛など）を訴える」の意味では of が普通。"
+    ]
+  }
+]

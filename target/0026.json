@@ -1,14 +1,18 @@
-{
-  "number": "0026",
-  "idioms": [
-    "be engaged in ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～に従事している；～に携わっている",
-      "example-sentence": "Millions of Americans are engaged in volunteer work for charities.",
-      "sentence-jp": "何百万ものアメリカ人がチャリティーのためのボランティア活動に従事している。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0026",
+    "idioms": [
+      "be satisfied with ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜に満足している",
+        "example-sentence": "What I cannot understand is why he is not satisfied with his job.",
+        "sentence-jp": "私が理解できないのは、彼がなぜ自分の仕事に満足していないのかということだ。"
+      }
+    ],
+    "notes": [
+      "意味に応じて be の代わりに seem, look などを用いることもある。"
+    ]
+  }
+]

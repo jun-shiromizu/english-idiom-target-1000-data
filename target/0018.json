@@ -1,17 +1,23 @@
-{
-  "number": "0018",
-  "idioms": [
-    "be capable of ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～できる；～の可能性がある",
-      "synonyms": [
-        "be able to ~"
-      ],
-      "example-sentence": "Tina is capable of speaking three foreign languages, including German.",
-      "sentence-jp": "ティナはドイツ語を含む3つの外国語を話すことができる。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0018",
+    "idioms": [
+      "be sure (of/about) ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜を確信している",
+        "synonyms": [
+          "be certain of [about] ~",
+          "be confident of [about] ~"
+        ],
+        "example-sentence": "I've been thinking, but I'm still not sure about what I want to do in the future.",
+        "sentence-jp": "私はずっと考えているが、いまだに自分が将来したいことがわからない。"
+      }
+    ],
+    "notes": [
+      "主語には「人」がくる。",
+      "be sure [certain] that ... と節も続く。"
+    ]
+  }
+]

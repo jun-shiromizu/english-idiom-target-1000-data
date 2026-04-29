@@ -1,14 +1,22 @@
-{
-  "number": "0046",
-  "idioms": [
-    "focus on ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～に焦点を合わせる；～に重点を置く",
-      "example-sentence": "Why don't you just focus on doing what you have to do today?",
-      "sentence-jp": "今日しなければならないことをすることに集中したらどうですか。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0046",
+    "idioms": [
+      "consist of ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜から成り立っている",
+        "synonyms": [
+          "be composed of ~"
+        ],
+        "example-sentence": "In those days, our baseball club consisted of about a hundred members.",
+        "sentence-jp": "当時、私たちの野球部は約 100 人の部員で成り立っていた。"
+      }
+    ],
+    "notes": [
+      "進行形や受動態にはしない。",
+      "consist in 〜 → 297 と混同しないこと。"
+    ]
+  }
+]

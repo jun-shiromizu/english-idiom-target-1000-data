@@ -1,19 +1,19 @@
-{
-  "number": "0003",
-  "idioms": [
-    "a number of ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "いくつかの～；かなりの～",
-      "synonyms": [
-        "many ~"
-      ],
-      "example-sentence": "Remember that there are a number of places where you can seek help if you need it.",
-      "sentence-jp": "必要なら助けを求められる場所が数多くあることを覚えておきなさい。"
-    }
-  ],
-  "notes": [
-    "the number of ~（～の数）との混同に注意。"
-  ]
-}
+[
+  {
+    "number": "0003",
+    "idioms": [
+      "a number of ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "いくつもの〜；かなり多くの〜",
+        "example-sentence": "Remember that there are a number of places where you can seek help if you need it.",
+        "sentence-jp": "必要なら助けを求めることのできる場所がいくつもあることを覚えておきなさい。"
+      }
+    ],
+    "notes": [
+      "後には可算名詞がくる。number の前には large, small, huge などを用いて「数の大小」を表すことができる。",
+      "定冠詞の付く the number of 〜「〜の数」と混同しない。"
+    ]
+  }
+]

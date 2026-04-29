@@ -1,16 +1,23 @@
-{
-  "number": "0036",
-  "idioms": [
-    "be about to do"
-  ],
-  "means": [
-    {
-      "idiom-jp": "今にも～しようとしている",
-      "example-sentence": "He was just about to go out when she called.",
-      "sentence-jp": "彼女が電話してきたとき、彼はちょうど外出しようとしていた。"
-    }
-  ],
-  "notes": [
-    "be on the point of doingとほぼ同義。"
-  ]
-}
+[
+  {
+    "number": "0036",
+    "idioms": [
+      "depend (on/upon) ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜に頼る；〜しだいである",
+        "synonyms": [
+          "rely on [upon] ~",
+          "count on [upon] ~",
+          "rest on [upon] ~"
+        ],
+        "example-sentence": "It's important to remember that we all depend on various people for different reasons.",
+        "sentence-jp": "私たちは皆、さまざまな理由でいろいろな人々に頼っているということを覚えておくことが大切だ。"
+      }
+    ],
+    "notes": [
+      "「A に B を頼る」は depend on [upon] A for B。"
+    ]
+  }
+]

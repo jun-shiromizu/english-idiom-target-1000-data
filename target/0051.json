@@ -1,14 +1,18 @@
-{
-  "number": "0051",
-  "idioms": [
-    "look for ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～を探す",
-      "example-sentence": "Just tell me what you're looking for, and I might be able to help you find it.",
-      "sentence-jp": "何を探しているのか言ってくれれば、それを見つけるのを手伝うことができるかもしれない。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0051",
+    "idioms": [
+      "graduate from ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜を卒業する",
+        "example-sentence": "My sister is expected to graduate from university next spring.",
+        "sentence-jp": "来春、私の姉は大学を卒業する予定だ。"
+      }
+    ],
+    "notes": [
+      "最近では from を省略した形もときに使われるが、これを認めない人は多い。"
+    ]
+  }
+]

@@ -1,14 +1,19 @@
-{
-  "number": "0072",
-  "idioms": [
-    "succeed in ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～に成功する",
-      "example-sentence": "We appreciate your support, without which we wouldn't have succeeded in this new project.",
-      "sentence-jp": "あなたの支えに感謝します。それがなければ私たちはこの新しいプロジェクトに成功しなかったでしょう。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0072",
+    "idioms": [
+      "figure out ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜を理解する；〜を計算する；〜を解く",
+        "example-sentence": "Scientists are trying to figure out how the universe came into being.",
+        "sentence-jp": "科学者たちはどのように宇宙が出現したのかを理解しようとしている。"
+      }
+    ],
+    "notes": [
+      "figure 〜 out の語順も可。",
+      "come into being「出現する」→ 586"
+    ]
+  }
+]

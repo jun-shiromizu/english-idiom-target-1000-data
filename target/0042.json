@@ -1,21 +1,19 @@
-{
-  "number": "0042",
-  "idioms": [
-    "refer to ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～に言及する",
-      "example-sentence": "The author referred to this traditional festival in his new book.",
-      "sentence-jp": "著者は新刊の中で、この伝統的な祭りについて言及した。"
-    },
-    {
-      "idiom-jp": "～を参照する",
-      "example-sentence": "[読取不可]",
-      "sentence-jp": "[読取不可]"
-    }
-  ],
-  "notes": [
-    "[要確認] 一部読み取り不可の箇所あり"
-  ]
-}
+[
+  {
+    "number": "0042",
+    "idioms": [
+      "look for ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜を探す[捜す]",
+        "synonyms": [
+          "search for ~"
+        ],
+        "example-sentence": "Just tell me what you're looking for, and I might be able to help you find it.",
+        "sentence-jp": "あなたが何を探しているのか教えてください。そうすれば見つけるお手伝いができるかもしれません。"
+      }
+    ],
+    "notes": []
+  }
+]

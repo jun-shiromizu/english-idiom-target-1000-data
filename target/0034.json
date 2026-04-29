@@ -1,14 +1,22 @@
-{
-  "number": "0034",
-  "idioms": [
-    "be likely to do"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～しそうである",
-      "example-sentence": "The weather report says that it's likely to rain this afternoon.",
-      "sentence-jp": "天気予報によると、今日の午後は雨が降りそうだ。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0034",
+    "idioms": [
+      "contribute to ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜の一因となる，〜に貢献する；〜に寄付[寄贈]する",
+        "synonyms": [
+          "make for ~"
+        ],
+        "example-sentence": "Cutting down trees eventually contributes to global warming.",
+        "sentence-jp": "樹木の伐採は最終的には地球温暖化の一因となっている。"
+      }
+    ],
+    "notes": [
+      "よい意味でも悪い意味でも使う。",
+      "contribute A to B は「A を B に寄付[寄贈]する」。この contribute は他動詞。"
+    ]
+  }
+]

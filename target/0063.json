@@ -1,14 +1,19 @@
-{
-  "number": "0063",
-  "idioms": [
-    "recover from ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～から回復する",
-      "example-sentence": "The company will surely recover from the recent financial crisis.",
-      "sentence-jp": "その会社は最近の経済危機から必ず立ち直るだろう。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0063",
+    "idioms": [
+      "give up ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜をあきらめる；〜を捨てる［やめる］",
+        "example-sentence": "Maggie is known for her strong will; she would not easily give up her dreams.",
+        "sentence-jp": "マギーは強い意志で知られている。彼女は簡単に自分の夢をあきらめようとはしないだろう。"
+      }
+    ],
+    "notes": [
+      "give 〜 up の語順も可。",
+      "give up on 〜 の形もある。"
+    ]
+  }
+]

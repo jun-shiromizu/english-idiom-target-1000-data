@@ -1,14 +1,18 @@
-{
-  "number": "0059",
-  "idioms": [
-    "remind A of B"
-  ],
-  "means": [
-    {
-      "idiom-jp": "AにBを思い出させる",
-      "example-sentence": "Can you think of any important advice you received from your parents when you were young?",
-      "sentence-jp": "子供のころに両親からもらった大切なアドバイスを何か思い出せますか。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0059",
+    "idioms": [
+      "care about ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜を気にかける、〜に関心を持つ",
+        "example-sentence": "My father doesn't care about clothes much when he goes out.",
+        "sentence-jp": "私の父は出かけるときにあまり服装を気にしない。"
+      }
+    ],
+    "notes": [
+      "否定文・疑問文で使われることが多い。"
+    ]
+  }
+]

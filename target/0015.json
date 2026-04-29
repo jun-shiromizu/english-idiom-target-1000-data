@@ -1,17 +1,19 @@
-{
-  "number": "0015",
-  "idioms": [
-    "by degrees"
-  ],
-  "means": [
-    {
-      "idiom-jp": "徐々に；少しずつ",
-      "synonyms": [
-        "gradually"
-      ],
-      "example-sentence": "The weather is getting warmer by degrees.",
-      "sentence-jp": "天気は少しずつ暖かくなってきている。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0015",
+    "idioms": [
+      "be made of ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜でできている",
+        "example-sentence": "The special golf ball used then was made of feathers instead of stone.",
+        "sentence-jp": "そのとき使われた特別なゴルフボールは石の代わりに羽でできていた。"
+      }
+    ],
+    "notes": [
+      "原材料の質の変化が伴わない。伴う場合には be made from 〜。",
+      "「〜で構成されている」と言うときは be made up of 〜 を使う。"
+    ]
+  }
+]

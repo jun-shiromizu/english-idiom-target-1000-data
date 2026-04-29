@@ -1,16 +1,19 @@
-{
-  "number": "0088",
-  "idioms": [
-    "[読取不可]"
-  ],
-  "means": [
-    {
-      "idiom-jp": "[読取不可]",
-      "example-sentence": "[読取不可]",
-      "sentence-jp": "[読取不可]"
-    }
-  ],
-  "notes": [
-    "[要確認] 一部読み取り不可の箇所あり"
-  ]
-}
+[
+  {
+    "number": "0088",
+    "idioms": [
+      "play a role (in ~)",
+      "play a part (in ~)"
+    ],
+    "means": [
+      {
+        "idiom-jp": "(〜で)役割を演じる[果たす]",
+        "example-sentence": "Nobody can deny that social media plays an important role in modern life.",
+        "sentence-jp": "ソーシャルメディアが現代生活において重要な役割を果たしていることは誰にも否定できない。"
+      }
+    ],
+    "notes": [
+      "role [part] の前にはいろいろな形容詞を入れることが可能。"
+    ]
+  }
+]

@@ -1,14 +1,18 @@
-{
-  "number": "0084",
-  "idioms": [
-    "set up ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～を設立［設置］する；～を準備する",
-      "example-sentence": "I'm a music lover, and my dream is to set up a small recording studio in my house.",
-      "sentence-jp": "私は音楽愛好家で、夢は自宅に小さなレコーディング・スタジオを設置することだ。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0084",
+    "idioms": [
+      "calm down (~)"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜を落ち着かせる[静める]；落ち着く[静まる]",
+        "example-sentence": "One of the best ways to calm yourself down is to take a deep breath.",
+        "sentence-jp": "自分を落ち着かせる最善の方法の1つは深呼吸をすることだ。"
+      }
+    ],
+    "notes": [
+      "他動詞では calm 〜 down の語順も可。"
+    ]
+  }
+]

@@ -1,14 +1,27 @@
-{
-  "number": "0039",
-  "idioms": [
-    "have ~ off"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～を休む；～を脱ぐ",
-      "example-sentence": "I have two days off each week, usually Saturdays and Sundays.",
-      "sentence-jp": "私は毎週2日の休みがある。たいてい土曜日と日曜日だ。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0039",
+    "idioms": [
+      "get on (~)"
+    ],
+    "means": [
+      {
+        "idiom-jp": "（公共の乗り物など）に乗る",
+        "example-sentence": "I arrived at the airport just ten minutes before it was time to get on the plane.",
+        "sentence-jp": "私は飛行機に乗る時刻のほんの10分前に空港へ到着した。"
+      },
+      {
+        "idiom-jp": "主に英 仲良くやっていく；(なんとか)やっていく",
+        "synonyms": [
+          "get along"
+        ],
+        "example-sentence": "It is important that students get on with their classmates at school.",
+        "sentence-jp": "生徒たちが学校でクラスメートと仲良くやっていくことは重要なことだ。"
+      }
+    ],
+    "notes": [
+      "「(乗用車)に乗り込む」なら、get into 〜。",
+      "「〜と仲よくやっていく」は、get on with 〜（例文）。"
+    ]
+  }
+]

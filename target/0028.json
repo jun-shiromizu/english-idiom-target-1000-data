@@ -1,17 +1,24 @@
-{
-  "number": "0028",
-  "idioms": [
-    "be responsible for ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～に責任がある",
-      "example-sentence": "Parents are responsible for taking care of their children.",
-      "sentence-jp": "親は自分たちの子供の面倒を見ることに対して責任がある。"
-    }
-  ],
-  "notes": [
-    "「人」以外も主語になる。",
-    "「人」に対して責任があると言う場合には、be responsibl to ~ となる。例：Parents are responsible to their children.（親は自分たちの子供に対して責任がある）。 "
-  ]
-}
+[
+  {
+    "number": "0028",
+    "idioms": [
+      "be well off"
+    ],
+    "means": [
+      {
+        "idiom-jp": "裕福である",
+        "synonyms": [
+          "be well-to-do"
+        ],
+        "example-sentence": "Maki, who is married, asked her father for financial support though she is quite well off.",
+        "sentence-jp": "マキは既婚者だが、たいへん裕福であるのに父親に財政的な支援を求めた。"
+      }
+    ],
+    "notes": [
+      "be bad [badly] off「お金に困っている、落ちぶれている」（比較級は be worse off）",
+      "be well-off とも書く。well-off は「裕福な」の意味の形容詞。",
+      "a well-off family「裕福な一家」",
+      "比較級 be better off には「もっと裕福である」のほか、「もっと好都合である」の意味もある。"
+    ]
+  }
+]

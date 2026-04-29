@@ -1,27 +1,18 @@
-{
-  "number": "0040",
-  "idioms": [
-    "take ~ off"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～を脱ぐ",
-      "synonyms": [
-        "put on の対義語"
-      ],
-      "example-sentence": "If your shoes hurt, take them off and wear different ones.",
-      "sentence-jp": "もし靴が痛むなら、脱いで別のものを履きなさい。"
-    },
-    {
-      "idiom-jp": "（飛行機などが）離陸する",
-      "synonyms": [
-        "land の対義語"
-      ],
-      "example-sentence": "[読取不可]",
-      "sentence-jp": "[読取不可]"
-    }
-  ],
-  "notes": [
-    "[要確認] 一部読み取り不可の箇所あり"
-  ]
-}
+[
+  {
+    "number": "0040",
+    "idioms": [
+      "insist (on/upon) ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜を主張する",
+        "example-sentence": "The child insisted on continuing to play in the game despite an injury to her right leg.",
+        "sentence-jp": "その子供は右足の負傷にもかかわらず試合でプレーし続けると主張した。"
+      }
+    ],
+    "notes": [
+      "insist that ... と節を続けることもできる。"
+    ]
+  }
+]

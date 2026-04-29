@@ -1,19 +1,22 @@
-{
-  "number": "0010",
-  "idioms": [
-    "in fashion"
-  ],
-  "means": [
-    {
-      "idiom-jp": "流行して",
-      "synonyms": [
-        "popular"
-      ],
-      "example-sentence": "Our car was red because the color was in fashion in those days.",
-      "sentence-jp": "当時はその色が流行していたので、私たちの車は赤だった。"
-    }
-  ],
-  "notes": [
-    "out of fashion（廃れて）。"
-  ]
-}
+[
+  {
+    "number": "0010",
+    "idioms": [
+      "on time"
+    ],
+    "means": [
+      {
+        "idiom-jp": "時間どおりに[で]",
+        "synonyms": [
+          "punctually",
+          "on schedule"
+        ],
+        "example-sentence": "We have to work harder, or we won't finish this project on time.",
+        "sentence-jp": "私たちはもっと一生懸命働かねばならない。さもないとこの計画は時間どおりに終わらないだろう。"
+      }
+    ],
+    "notes": [
+      "in time → 8 は on time に比べ、何かが間に合い、先に到着していることを示す。"
+    ]
+  }
+]

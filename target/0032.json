@@ -1,16 +1,18 @@
-{
-  "number": "0032",
-  "idioms": [
-    "pay attention to ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～に注意を払う",
-      "example-sentence": "You should pay attention to [読取不可]",
-      "sentence-jp": "[読取不可]"
-    }
-  ],
-  "notes": [
-    "[要確認] 一部読み取り不可の箇所あり"
-  ]
-}
+[
+  {
+    "number": "0032",
+    "idioms": [
+      "lead to ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜(という結果)を引き起こす；〜へ通じる",
+        "example-sentence": "His constant hard work has led to his victory in the competition.",
+        "sentence-jp": "彼の絶え間ない努力が競技会での勝利につながった。"
+      }
+    ],
+    "notes": [
+      "lead A to B は「A を B に導く」。この lead は他動詞。"
+    ]
+  }
+]

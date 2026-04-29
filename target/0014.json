@@ -1,17 +1,19 @@
-{
-  "number": "0014",
-  "idioms": [
-    "by and large"
-  ],
-  "means": [
-    {
-      "idiom-jp": "概して；全体的に見て",
-      "synonyms": [
-        "on the whole"
-      ],
-      "example-sentence": "By and large, the project was a success.",
-      "sentence-jp": "概して、そのプロジェクトは成功だった。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0014",
+    "idioms": [
+      "be aware of ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜に気がついている，〜を知っている",
+        "example-sentence": "From the beginning I was aware of this misunderstanding between us.",
+        "sentence-jp": "私は最初から私たちの間でのこの誤解に気がついていた。"
+      }
+    ],
+    "notes": [
+      "「〜に気づく」なら、become aware of 〜。",
+      "be [become] aware that ... と節も続く。"
+    ]
+  }
+]

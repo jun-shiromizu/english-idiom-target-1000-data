@@ -1,27 +1,22 @@
-{
-  "number": "0009",
-  "idioms": [
-    "in time"
-  ],
-  "means": [
-    {
-      "idiom-jp": "間に合って",
-      "synonyms": [
-        "early enough"
-      ],
-      "example-sentence": "Do you think we can get back in time for dinner?",
-      "sentence-jp": "夕食に間に合うように戻ってこられると思いますか。"
-    },
-    {
-      "idiom-jp": "やがて、そのうちに",
-      "synonyms": [
-        "sooner or later"
-      ],
-      "example-sentence": "These small changes will have a big impact in time.",
-      "sentence-jp": "これらの小さな変化はやがて大きな影響を与えるだろう。"
-    }
-  ],
-  "notes": [
-    "in time for ~（～に間に合って）。"
-  ]
-}
+[
+  {
+    "number": "0009",
+    "idioms": [
+      "in fashion"
+    ],
+    "means": [
+      {
+        "idiom-jp": "流行して",
+        "synonyms": [
+          "in vogue",
+          "(all) the rage"
+        ],
+        "example-sentence": "Our car was red because the color was in fashion in those days.",
+        "sentence-jp": "当時その色がはやっていたので、私たちの車は赤だった。"
+      }
+    ],
+    "notes": [
+      "out of fashion「すたれて」"
+    ]
+  }
+]

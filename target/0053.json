@@ -1,14 +1,19 @@
-{
-  "number": "0053",
-  "idioms": [
-    "brush up (on) ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～（学んだことなど）をやり直す［磨きをかける］",
-      "example-sentence": "I need to brush up on my Spanish before I go to Mexico.",
-      "sentence-jp": "メキシコに行く前にスペイン語をやり直す必要がある。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0053",
+    "idioms": [
+      "recover from ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜から立ち直る［回復する］",
+        "synonyms": [
+          "get over ~"
+        ],
+        "example-sentence": "The company will surely recover from the recent financial crisis.",
+        "sentence-jp": "その会社はきっと最近の財政危機から立ち直るだろう。"
+      }
+    ],
+    "notes": []
+  }
+]

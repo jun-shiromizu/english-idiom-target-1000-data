@@ -1,14 +1,18 @@
-{
-  "number": "0048",
-  "idioms": [
-    "insist on ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～を主張する；～と言い張る",
-      "example-sentence": "The child insisted on continuing to play in the game despite an injury to her right leg.",
-      "sentence-jp": "その子は右脚をけがしているにもかかわらず、試合に出続けると言い張った。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0048",
+    "idioms": [
+      "die [of/from] ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜で死ぬ",
+        "example-sentence": "Sadly, her aunt died of a rare lung disease in her late 40s.",
+        "sentence-jp": "悲しいことに、彼女のおばは 40 代後半に珍しい肺の病気で亡くなった。"
+      }
+    ],
+    "notes": [
+      "一般に、死因が「病気・飢え・老齢」などのときは die of 〜 を、「外傷・衰弱・不注意」などのときは die from 〜 を使うとされるが、区別なく使われることも多い。"
+    ]
+  }
+]

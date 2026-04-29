@@ -1,14 +1,19 @@
-{
-  "number": "0052",
-  "idioms": [
-    "search for ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～を探す",
-      "example-sentence": "Drones were used to search for missing people after the flood.",
-      "sentence-jp": "洪水の後、行方不明者を捜索するためにドローンが使用された。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0052",
+    "idioms": [
+      "differ from ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜と異なる",
+        "example-sentence": "Humans differ from other animals in that they can use language.",
+        "sentence-jp": "言語を使えるという点で人間はほかの動物とは異なる。"
+      }
+    ],
+    "notes": [
+      "形容詞を使った be different from 〜 → 21 よりやや堅い表現。",
+      "in that ...「…の点で」→ 760"
+    ]
+  }
+]

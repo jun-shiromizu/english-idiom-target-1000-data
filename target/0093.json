@@ -1,14 +1,19 @@
-{
-  "number": "0093",
-  "idioms": [
-    "fill out ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "（書類などに）必要事項を記入する",
-      "example-sentence": "You should always be careful when you fill out an application form.",
-      "sentence-jp": "申込書に記入するときは、常に注意を払うべきだ。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0093",
+    "idioms": [
+      "make progress"
+    ],
+    "means": [
+      {
+        "idiom-jp": "進歩する",
+        "example-sentence": "Speech-to-text technology has made great progress in recent years.",
+        "sentence-jp": "話し言葉を文書に変える技術は近年大きく進歩している。"
+      }
+    ],
+    "notes": [
+      "progress にはいろいろな形容詞が付くが、a は付けない。",
+      "speech-to-text「話し言葉を文書に変える」(形容詞)"
+    ]
+  }
+]

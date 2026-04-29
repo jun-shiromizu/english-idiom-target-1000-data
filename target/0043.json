@@ -1,14 +1,21 @@
-{
-  "number": "0043",
-  "idioms": [
-    "contribute to ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～に貢献する；～の一助となる",
-      "example-sentence": "Cutting down trees eventually contributes to global warming.",
-      "sentence-jp": "木を切り倒すことは、結局のところ地球温暖化の一因となる。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0043",
+    "idioms": [
+      "search for ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜を探す[捜す]",
+        "synonyms": [
+          "look for ~"
+        ],
+        "example-sentence": "Drones were used to search for missing people after the flood.",
+        "sentence-jp": "洪水の後、行方不明者を捜すためにドローンが使われた。"
+      }
+    ],
+    "notes": [
+      "search for a house「家はどこかと探す」、search a house「家の中を捜す」の違いに注意。"
+    ]
+  }
+]

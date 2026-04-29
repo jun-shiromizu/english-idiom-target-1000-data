@@ -1,17 +1,18 @@
-{
-  "number": "0041",
-  "idioms": [
-    "lead to ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～につながる；～を引き起こす",
-      "synonyms": [
-        "cause"
-      ],
-      "example-sentence": "His constant hard work has led to his victory in the competition.",
-      "sentence-jp": "彼の絶え間ない努力が競技会での勝利につながった。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0041",
+    "idioms": [
+      "concentrate on ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜に集中する",
+        "example-sentence": "Right now he is concentrating on the last part of his paper.",
+        "sentence-jp": "今、彼はレポートの最後の部分に集中しているところだ。"
+      }
+    ],
+    "notes": [
+      "concentrate A on B は「A を B に集中する」。この場合の concentrate は他動詞。"
+    ]
+  }
+]

@@ -1,14 +1,37 @@
-{
-  "number": "0073",
-  "idioms": [
-    "care about ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～を気にかける；～に関心を持つ",
-      "example-sentence": "My father doesn't care about clothes much when he goes out.",
-      "sentence-jp": "父は外出するとき、服のことをあまり気にかけない。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0073",
+    "idioms": [
+      "turn out (~)"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜であることがわかる；（結果的に）〜になる",
+        "synonyms": [
+          "prove"
+        ],
+        "example-sentence": "The e-mail address she'd given me turned out to be completely wrong.",
+        "sentence-jp": "彼女が私にくれたメールアドレスがまったく違っていることがわかった。"
+      },
+      {
+        "idiom-jp": "〜を産出する",
+        "synonyms": [
+          "produce"
+        ],
+        "example-sentence": "The speaker said, \"Even a rural school turns out a competent scientist once in a while.\"",
+        "sentence-jp": "講演者は「地方の学校でさえ時折有能な科学者を生み出すことがある」と発言した。"
+      },
+      {
+        "idiom-jp": "（催しなどに）繰り出す",
+        "example-sentence": "Hundreds of villagers turned out for the circus.",
+        "sentence-jp": "何百人もの村人たちがサーカスに繰り出した。"
+      }
+    ],
+    "notes": [
+      "〜 には名詞のほか、形容詞や不定詞（例文）、that 節も入る。",
+      "It turns out that ... の構文もとる。",
+      "turn 〜 out の語順も可。",
+      "turnout [tə́ːrnaut]「人出；(選挙の) 投票者数」"
+    ]
+  }
+]

@@ -1,16 +1,19 @@
-{
-  "number": "0004",
-  "idioms": [
-    "dozens of ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "数十もの～；（～の）何ダースもの～",
-      "example-sentence": "I introduced myself in front of dozens of new students yesterday.",
-      "sentence-jp": "私は昨日、何十人もの新入生の前で自己紹介した。"
-    }
-  ],
-  "notes": [
-    "a dozen（12個の）、dozens of ~（何十もの、多数の）。"
-  ]
-}
+[
+  {
+    "number": "0004",
+    "idioms": [
+      "dozens of ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "数十もの〜；何ダースもの〜",
+        "example-sentence": "I introduced myself in front of dozens of new students yesterday.",
+        "sentence-jp": "私は昨日、何十人もの新入生の前で自己紹介をした。"
+      }
+    ],
+    "notes": [
+      "dozen をはじめ「数詞」が付く場合には複数形にしない語も、後に of 〜 が付けば複数形にするものは多い。",
+      "hundreds of 〜「何百もの〜」、thousands of 〜「何千もの〜」、millions of 〜「何百万もの〜」、billions of 〜「何十億もの〜」"
+    ]
+  }
+]

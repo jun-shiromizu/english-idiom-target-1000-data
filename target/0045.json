@@ -1,25 +1,38 @@
-{
-  "number": "0045",
-  "idioms": [
-    "depend on ~",
-    "depend upon ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～に頼る",
-      "synonyms": [
-        "rely on ~"
-      ],
-      "example-sentence": "It's important to remember that we all depend on various people for different reasons.",
-      "sentence-jp": "私たちは皆、さまざまな理由でさまざまな人に依存していることを忘れないことが重要だ。"
-    },
-    {
-      "idiom-jp": "～次第である",
-      "example-sentence": "[読取不可]",
-      "sentence-jp": "[読取不可]"
-    }
-  ],
-  "notes": [
-    "[要確認] 一部読み取り不可の箇所あり"
-  ]
-}
+[
+  {
+    "number": "0045",
+    "idioms": [
+      "think of ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜をしようかなと思う；〜のことを考える",
+        "example-sentence": "My cousin is thinking of staying in America and studying English during this summer vacation.",
+        "sentence-jp": "私のいとこは今年の夏休みにアメリカに滞在し、英語を勉強しようかと思っている。"
+      },
+      {
+        "idiom-jp": "〜を思いつく",
+        "synonyms": [
+          "come up with ~",
+          "hit on [upon] ~"
+        ],
+        "example-sentence": "I need to think of at least three more interesting topics for discussion.",
+        "sentence-jp": "私は話し合いのために少なくともあと 3 つおもしろいトピックを思いつく必要がある。"
+      },
+      {
+        "idiom-jp": "〜を思い出す",
+        "synonyms": [
+          "remember"
+        ],
+        "example-sentence": "Can you think of any important advice you received from your parents when you were young?",
+        "sentence-jp": "若いころ両親から受けた何か大切な助言を思い出すことができますか。"
+      }
+    ],
+    "notes": [
+      "進行形で使うことも多い。",
+      "「〜をしようかなと思う」の意味では、of の後に doing が続くことが多い（例文）。",
+      "②③では can, cannot, try to などが前に付くことも多い。",
+      "think of A as B → 286"
+    ]
+  }
+]

@@ -1,25 +1,21 @@
-{
-  "number": "0076",
-  "idioms": [
-    "go through ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～を経験する",
-      "synonyms": [
-        "experience",
-        "undergo"
-      ],
-      "example-sentence": "Suddenly the child shouted, \"Oh, no! I don't want to go through that experience again.\"",
-      "sentence-jp": "突然その子は叫んだ。「あ、だめ！あんな経験は二度としたくない。」"
-    },
-    {
-      "idiom-jp": "～を通り抜ける",
-      "example-sentence": "[読取不可]",
-      "sentence-jp": "[読取不可]"
-    }
-  ],
-  "notes": [
-    "[要確認] 一部読み取り不可の箇所あり"
-  ]
-}
+[
+  {
+    "number": "0076",
+    "idioms": [
+      "put on ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜を(身に)つける；(電気器具・ガスなど)をつける",
+        "example-sentence": "The boy took off the jacket he'd put on just a minute before.",
+        "sentence-jp": "その少年はたった1分前に身につけたジャケットを脱いだ。"
+      }
+    ],
+    "notes": [
+      "take off 〜「〜を脱ぐ」→ 81",
+      "put 〜 on の語順も可。",
+      "「身につける」から「〜を装う、〜のふりをする」の意味にもなる。",
+      "put on airs「気取る」(airs は複数形で「気取った態度」の意味)"
+    ]
+  }
+]

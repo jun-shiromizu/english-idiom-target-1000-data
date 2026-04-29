@@ -1,17 +1,22 @@
-{
-  "number": "0098",
-  "idioms": [
-    "turn on (~)"
-  ],
-  "means": [
-    {
-      "idiom-jp": "（スイッチなどを）つける；（水・ガスなどを）出す",
-      "synonyms": [
-        "switch on の対義語"
-      ],
-      "example-sentence": "When I turned on the TV, our team had already scored two goals.",
-      "sentence-jp": "私がテレビをつけたとき、私たちのチームはすでに2ゴールを決めていた。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0098",
+    "idioms": [
+      "enjoy oneself"
+    ],
+    "means": [
+      {
+        "idiom-jp": "楽しい時を過ごす",
+        "synonyms": [
+          "have a good [great] time",
+          "have fun"
+        ],
+        "example-sentence": "My brother usually enjoys himself working out at a gym after work.",
+        "sentence-jp": "兄はふだん、仕事の後にジムでトレーニングをして楽しい時を過ごしている。"
+      }
+    ],
+    "notes": [
+      "get a (big) kick out of 〜 という口語表現もある。"
+    ]
+  }
+]

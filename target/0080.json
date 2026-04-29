@@ -1,16 +1,23 @@
-{
-  "number": "0080",
-  "idioms": [
-    "[読取不可]"
-  ],
-  "means": [
-    {
-      "idiom-jp": "[読取不可]",
-      "example-sentence": "[読取不可]",
-      "sentence-jp": "[読取不可]"
-    }
-  ],
-  "notes": [
-    "[要確認] 一部読み取り不可の箇所あり"
-  ]
-}
+[
+  {
+    "number": "0080",
+    "idioms": [
+      "turn off (~)"
+    ],
+    "means": [
+      {
+        "idiom-jp": "(スイッチなど)を消す；(水・ガスなど)を止める；(明かりなどが)消える",
+        "synonyms": [
+          "switch off (~)"
+        ],
+        "example-sentence": "In the room we were told to turn off our smartphones and put them on the desk.",
+        "sentence-jp": "私たちは、部屋ではスマートフォンの電源を切って机の上に置くように言われた。"
+      }
+    ],
+    "notes": [
+      "turn on (~) → 79",
+      "他動詞では turn 〜 off の語順も可。",
+      "「(人の気持ち)をしらけさせる」の意味もある。"
+    ]
+  }
+]

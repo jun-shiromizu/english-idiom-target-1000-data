@@ -1,19 +1,18 @@
-{
-  "number": "0005",
-  "idioms": [
-    "plenty of ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "たくさんの～",
-      "synonyms": [
-        "a lot of ~"
-      ],
-      "example-sentence": "Be sure to get plenty of sleep; sleep is the key to good health.",
-      "sentence-jp": "十分な睡眠をとるようにしなさい。睡眠は健康への秘訣だ。"
-    }
-  ],
-  "notes": [
-    "十分すぎてゆとりがあるニュアンス。"
-  ]
-}
+[
+  {
+    "number": "0005",
+    "idioms": [
+      "plenty of ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "たくさんの〜",
+        "example-sentence": "Be sure to get plenty of sleep; sleep is the key to good health.",
+        "sentence-jp": "十分な睡眠をとるようにしなさい。睡眠は健康のかぎなのです。"
+      }
+    ],
+    "notes": [
+      "「数」「量」のどちらにも使える。"
+    ]
+  }
+]

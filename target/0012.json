@@ -1,16 +1,20 @@
-{
-  "number": "0012",
-  "idioms": [
-    "on schedule"
-  ],
-  "means": [
-    {
-      "idiom-jp": "予定通りに",
-      "example-sentence": "The traffic was heavy and the buses weren't running on schedule.",
-      "sentence-jp": "交通渋滞がひどく、バスは予定通りに走っていなかった。"
-    }
-  ],
-  "notes": [
-    "according to schedule（予定に従って）。"
-  ]
-}
+[
+  {
+    "number": "0012",
+    "idioms": [
+      "on schedule"
+    ],
+    "means": [
+      {
+        "idiom-jp": "予定どおりで，定時に",
+        "synonyms": [
+          "according to schedule",
+          "on time"
+        ],
+        "example-sentence": "The traffic was heavy and the buses weren't running on schedule.",
+        "sentence-jp": "交通量が激しく、バスは予定どおりに運行していなかった。"
+      }
+    ],
+    "notes": []
+  }
+]

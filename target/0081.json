@@ -1,14 +1,32 @@
-{
-  "number": "0081",
-  "idioms": [
-    "give up (~)"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～をあきらめる；～をやめる",
-      "example-sentence": "Maggie is known for her strong will; she would not easily give up her dreams.",
-      "sentence-jp": "マギーは意志が強いことで知られている。彼女は簡単に夢をあきらめないだろう。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0081",
+    "idioms": [
+      "take off (~)"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜を脱ぐ；〜を取り除く",
+        "example-sentence": "If your shoes hurt, the only thing you can do is take them off and wear different ones.",
+        "sentence-jp": "もし靴が痛かったら、あなたにできることはそれを脱ぎ、別の靴を履くことだけだ。"
+      },
+      {
+        "idiom-jp": "離陸する；(流行・売り上げなどが)急増[急伸]する",
+        "example-sentence": "Our plane couldn't take off because of bad weather.",
+        "sentence-jp": "私たちの飛行機は悪天候のために離陸することができなかった。"
+      },
+      {
+        "idiom-jp": "(take 〜 off で)〜を休暇としてとる",
+        "synonyms": [
+          "have ~ off"
+        ],
+        "example-sentence": "I've decided to take tomorrow off from work.",
+        "sentence-jp": "私は明日を仕事の休みにすることにした。"
+      }
+    ],
+    "notes": [
+      "put on 〜 → 76",
+      "take 〜 off の語順も可。"
+    ]
+  }
+]

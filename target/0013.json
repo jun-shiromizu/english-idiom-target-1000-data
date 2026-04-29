@@ -1,16 +1,18 @@
-{
-  "number": "0013",
-  "idioms": [
-    "up to date"
-  ],
-  "means": [
-    {
-      "idiom-jp": "最新の（で）",
-      "example-sentence": "It's important to keep information up to date.",
-      "sentence-jp": "情報を最新の状態に保つことが重要だ。"
-    }
-  ],
-  "notes": [
-    "out of date（時代遅れの）。"
-  ]
-}
+[
+  {
+    "number": "0013",
+    "idioms": [
+      "up to date"
+    ],
+    "means": [
+      {
+        "idiom-jp": "最新(式)の",
+        "example-sentence": "It's important to keep information up to date.",
+        "sentence-jp": "情報を常に最新にしておくことが大切だ。"
+      }
+    ],
+    "notes": [
+      "名詞の前に付けるときには、up-to-date のようにハイフンを付けて形容詞にするのが普通。"
+    ]
+  }
+]

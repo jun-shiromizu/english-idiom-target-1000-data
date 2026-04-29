@@ -1,18 +1,18 @@
-{
-  "number": "0020",
-  "idioms": [
-    "be sure of ~",
-    "be sure about ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～を確信している",
-      "synonyms": [
-        "be certain of [about] ~"
-      ],
-      "example-sentence": "I've been thinking, but I'm still not sure about what I want to do in the future.",
-      "sentence-jp": "ずっと考えているのだが、将来何をしたいのかまだ確信が持てない。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0020",
+    "idioms": [
+      "be based (on/upon) ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜に基づいている",
+        "example-sentence": "These papers are based on his long research.",
+        "sentence-jp": "これらの論文は彼の長年の研究に基づいている。"
+      }
+    ],
+    "notes": [
+      "base A on [upon] B「A を B に基づかせる」の受動態。"
+    ]
+  }
+]

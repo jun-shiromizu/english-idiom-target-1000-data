@@ -1,14 +1,16 @@
-{
-  "number": "0092",
-  "idioms": [
-    "carry out ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～を実行する",
-      "example-sentence": "The biologist has been carrying out research into the behavior of reptiles.",
-      "sentence-jp": "その生物学者は爬虫類の行動に関する研究を行っている。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0092",
+    "idioms": [
+      "make a mistake"
+    ],
+    "means": [
+      {
+        "idiom-jp": "間違いをする",
+        "example-sentence": "It is really difficult to admit that we have made a mistake.",
+        "sentence-jp": "間違いをしたことを認めるのは本当に難しい。"
+      }
+    ],
+    "notes": []
+  }
+]

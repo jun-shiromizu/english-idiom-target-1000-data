@@ -1,17 +1,18 @@
-{
-  "number": "0049",
-  "idioms": [
-    "get on (~)"
-  ],
-  "means": [
-    {
-      "idiom-jp": "（公共の乗り物などに）乗る",
-      "synonyms": [
-        "get off の対義語"
-      ],
-      "example-sentence": "I arrived at the airport just ten minutes before it was time to get on the plane.",
-      "sentence-jp": "私は飛行機に乗る時間のわずか10分前に空港に到着した。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0049",
+    "idioms": [
+      "suffer from ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "（病気など）で苦しむ［悩む］",
+        "example-sentence": "It's a well-known fact that those who enjoy smoking often suffer from lung diseases.",
+        "sentence-jp": "愛煙家の人々がしばしば肺の病気に苦しむことはよく知られた事実だ。"
+      }
+    ],
+    "notes": [
+      "suffer には、suffer damage [a loss]「損害［損失］を受ける」などの他動詞用法もある。"
+    ]
+  }
+]

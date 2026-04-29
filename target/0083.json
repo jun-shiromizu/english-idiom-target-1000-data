@@ -1,21 +1,18 @@
-{
-  "number": "0083",
-  "idioms": [
-    "pick up ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～を（車などに）乗せる；～を迎えに行く",
-      "example-sentence": "Miki was kind enough to come with the car to pick me up at the airport.",
-      "sentence-jp": "ミキは親切にも、車で空港まで私を迎えに来てくれた。"
-    },
-    {
-      "idiom-jp": "～を拾い上げる",
-      "example-sentence": "[読取不可]",
-      "sentence-jp": "[読取不可]"
-    }
-  ],
-  "notes": [
-    "[要確認] 一部読み取り不可の箇所あり"
-  ]
-}
+[
+  {
+    "number": "0083",
+    "idioms": [
+      "get together (~)"
+    ],
+    "means": [
+      {
+        "idiom-jp": "集まる；〜を集める",
+        "example-sentence": "Why not get together sometime next week?",
+        "sentence-jp": "来週のいつかに集まるのはどうですか。"
+      }
+    ],
+    "notes": [
+      "他動詞では get 〜 together の語順も可。"
+    ]
+  }
+]

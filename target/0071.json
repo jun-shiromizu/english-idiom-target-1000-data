@@ -1,14 +1,20 @@
-{
-  "number": "0071",
-  "idioms": [
-    "believe in ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～（の存在）を信じる；～（の価値・正当性）を信じる",
-      "example-sentence": "Melinda believed in Santa Claus until she became ten years old.",
-      "sentence-jp": "メリンダは10歳になるまでサンタクロースを信じていた。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0071",
+    "idioms": [
+      "point out ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜を指摘する",
+        "example-sentence": "I don't need to point out that the food you eat has a direct impact on your health.",
+        "sentence-jp": "あなたの食べるものがあなたの健康に直接影響するということを私が指摘する必要はない。"
+      }
+    ],
+    "notes": [
+      "point 〜 out の語順も可。",
+      "point out that ... と節も続く（例文）。",
+      "「〜を指さす[指し示す]」は、point to [at] 〜。"
+    ]
+  }
+]

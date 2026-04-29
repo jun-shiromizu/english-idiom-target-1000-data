@@ -1,17 +1,18 @@
-{
-  "number": "0037",
-  "idioms": [
-    "be on the point of doing"
-  ],
-  "means": [
-    {
-      "idiom-jp": "今にも～しようとしている",
-      "synonyms": [
-        "be about to do"
-      ],
-      "example-sentence": "He was on the point of leaving when the phone rang.",
-      "sentence-jp": "電話が鳴ったとき、彼は今にも出発しようとしていた。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0037",
+    "idioms": [
+      "focus on ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜に集中する；〜に焦点を合わせる",
+        "example-sentence": "Why don't you just focus on doing what you have to do today, not tomorrow?",
+        "sentence-jp": "明日ではなく今日しなければならないことをするのに集中したらどうですか。"
+      }
+    ],
+    "notes": [
+      "focus A on B は「A を B に集中させる」の意味。この focus は他動詞。"
+    ]
+  }
+]

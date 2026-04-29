@@ -1,18 +1,23 @@
-{
-  "number": "0094",
-  "idioms": [
-    "pick out ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～を選び出す",
-      "synonyms": [
-        "choose",
-        "select"
-      ],
-      "example-sentence": "Vanya, can you come along with me and help me pick out a birthday present for John?",
-      "sentence-jp": "ヴァーニャ、ジョンへの誕生日プレゼントを選ぶのを手伝いに来てくれない？"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0094",
+    "idioms": [
+      "make up one's mind"
+    ],
+    "means": [
+      {
+        "idiom-jp": "決心する",
+        "synonyms": [
+          "decide",
+          "determine"
+        ],
+        "example-sentence": "Have you made up your mind which subjects you will take this school year?",
+        "sentence-jp": "この学年度にどの科目をとるか決めましたか。"
+      }
+    ],
+    "notes": [
+      "mind の後には on 〜 や about 〜、疑問詞節などを置いてもよい。",
+      "change one's mind は「気が変わる」。"
+    ]
+  }
+]

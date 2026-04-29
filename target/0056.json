@@ -1,14 +1,18 @@
-{
-  "number": "0056",
-  "idioms": [
-    "set up ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～を設立［設置］する；～を準備する",
-      "example-sentence": "I'm a music lover, and my dream is to set up a small recording studio in my house.",
-      "sentence-jp": "私は音楽愛好家で、夢は自宅に小さなレコーディング・スタジオを設置することだ。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0056",
+    "idioms": [
+      "succeed in ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜に成功する",
+        "example-sentence": "We appreciate your support; without it, we couldn't have succeeded in our new project.",
+        "sentence-jp": "私たちはあなたの支援に感謝しています。それがなければ、私たちは新プロジェクトを成功させられなかったでしょう。"
+      }
+    ],
+    "notes": [
+      "fail in 〜「〜に失敗する」；fail to do ...「…し損なう」"
+    ]
+  }
+]

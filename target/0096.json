@@ -1,16 +1,21 @@
-{
-  "number": "0096",
-  "idioms": [
-    "[読取不可]"
-  ],
-  "means": [
-    {
-      "idiom-jp": "[読取不可]",
-      "example-sentence": "[読取不可]",
-      "sentence-jp": "[読取不可]"
-    }
-  ],
-  "notes": [
-    "[要確認] 一部読み取り不可の箇所あり"
-  ]
-}
+[
+  {
+    "number": "0096",
+    "idioms": [
+      "keep one's promise",
+      "keep one's word"
+    ],
+    "means": [
+      {
+        "idiom-jp": "約束を守る",
+        "example-sentence": "I kept my promise to help Emily with her work.",
+        "sentence-jp": "私はエミリーの仕事を手伝うという約束を守った。"
+      }
+    ],
+    "notes": [
+      "break one's promise [word]「約束を破る」",
+      "one's promise は a promise [promises] でも可。",
+      "「約束」の意味では、word は常に単数形で、one's を付ける。"
+    ]
+  }
+]

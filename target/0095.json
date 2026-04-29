@@ -1,14 +1,18 @@
-{
-  "number": "0095",
-  "idioms": [
-    "look out (for ~)"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～に注意する；～を捜す",
-      "example-sentence": "Look out for the step!",
-      "sentence-jp": "段差に注意して！"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0095",
+    "idioms": [
+      "do one's best"
+    ],
+    "means": [
+      {
+        "idiom-jp": "最善を尽くす",
+        "example-sentence": "Let's all do our best to make the school festival a success.",
+        "sentence-jp": "学園祭を成功させるために全員で最善を尽くしましょう。"
+      }
+    ],
+    "notes": [
+      "do one's utmost [uttermost] という表現もある。"
+    ]
+  }
+]

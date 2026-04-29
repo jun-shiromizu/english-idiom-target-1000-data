@@ -1,17 +1,18 @@
-{
-  "number": "0054",
-  "idioms": [
-    "find out ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～を見つけ出す；～を知る",
-      "synonyms": [
-        "discover"
-      ],
-      "example-sentence": "The goal of the research is to find out more about the causes of the disease.",
-      "sentence-jp": "その研究の目的は、その病気の原因についてもっと詳しく知ることだ。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0054",
+    "idioms": [
+      "hear from ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜から便り［電話・伝言］がある",
+        "example-sentence": "He left us three years ago, and we haven't heard from him since.",
+        "sentence-jp": "彼は 3 年前に私たちのもとを去り、それ以来彼からは連絡がない。"
+      }
+    ],
+    "notes": [
+      "hear of 〜 は「〜のことを耳にする。そのうわさを聞く」。hear about 〜 は、hear of 〜 より詳しい内容について聞くときに用いる。"
+    ]
+  }
+]

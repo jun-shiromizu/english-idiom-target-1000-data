@@ -1,15 +1,21 @@
-{
-  "number": "0061",
-  "idioms": [
-    "complain about ~",
-    "complain of ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "（苦痛など）を訴える；～について不満を言う",
-      "example-sentence": "I remember my grandmother used to complain of a headache in her late 80s.",
-      "sentence-jp": "祖母が80代後半のころ、頭痛を訴えていたのを覚えている。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0061",
+    "idioms": [
+      "deal with ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜を扱う；〜を処理する",
+        "synonyms": [
+          "cope with ~"
+        ],
+        "example-sentence": "These two books deal with similar topics, but their conclusions are different from each other.",
+        "sentence-jp": "その 2 冊の本は似たような主題を扱っているが、結論は互いに異なっている。"
+      }
+    ],
+    "notes": [
+      "deal in 〜 → 859 と混同しない。"
+    ]
+  }
+]

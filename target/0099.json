@@ -1,21 +1,19 @@
-{
-  "number": "0099",
-  "idioms": [
-    "work on ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～に取り組む",
-      "example-sentence": "The boy worked on while all the others took a short break.",
-      "sentence-jp": "他の皆が短い休憩をとっている間、その少年は仕事を続けた。"
-    },
-    {
-      "idiom-jp": "～に影響を与える",
-      "example-sentence": "[読取不可]",
-      "sentence-jp": "[読取不可]"
-    }
-  ],
-  "notes": [
-    "[要確認] 一部読み取り不可の箇所あり"
-  ]
-}
+[
+  {
+    "number": "0099",
+    "idioms": [
+      "have ~ off"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜を休みとしてとる",
+        "synonyms": [
+          "take ~ off"
+        ],
+        "example-sentence": "Most of the workers have two days off each week these days — Saturdays and Sundays.",
+        "sentence-jp": "最近ほとんどの労働者が毎週、土曜日と日曜日の2日を休みにしている。"
+      }
+    ],
+    "notes": []
+  }
+]

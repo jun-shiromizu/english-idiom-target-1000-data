@@ -1,16 +1,18 @@
-{
-  "number": "0017",
-  "idioms": [
-    "be made of ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "（材料）でできている",
-      "example-sentence": "The special golf ball used then was made of feathers instead of stone.",
-      "sentence-jp": "当時使われていた特別なゴルフボールは、石ではなく羽毛でできていた。"
-    }
-  ],
-  "notes": [
-    "be made from ~（原料からできている）との違いに注意。"
-  ]
-}
+[
+  {
+    "number": "0017",
+    "idioms": [
+      "be afraid of ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜を恐れる[怖がる]；〜を心配している",
+        "example-sentence": "Don't be afraid of making mistakes when you are learning a second language.",
+        "sentence-jp": "第2言語を学習しているときは間違えることを恐れるな。"
+      }
+    ],
+    "notes": [
+      "be afraid to do「怖くて…することができない」と同じ意味で使われることもある。"
+    ]
+  }
+]

@@ -1,14 +1,24 @@
-{
-  "number": "0082",
-  "idioms": [
-    "grow up"
-  ],
-  "means": [
-    {
-      "idiom-jp": "大人に成長する；（事態などが）生じる",
-      "example-sentence": "Bob said he grew up in a Los Angeles suburb, where three in ten people spoke Spanish.",
-      "sentence-jp": "ボブはロサンゼルス郊外で育ったと言ったが、そこでは10人のうち3人がスペイン語を話していた。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0082",
+    "idioms": [
+      "get along"
+    ],
+    "means": [
+      {
+        "idiom-jp": "暮らす，(なんとか)やっていく",
+        "example-sentence": "Since my grandparents live in a rural area, they can't get along without a car.",
+        "sentence-jp": "私の祖父母は田舎に住んでいるので、車なしでは暮らすことができない。"
+      },
+      {
+        "idiom-jp": "仲良くやっていく；進む",
+        "example-sentence": "I've always gotten along well with all my friends.",
+        "sentence-jp": "私は常に友人たち皆と仲良くやってきた。"
+      }
+    ],
+    "notes": [
+      "「〜と仲良くやっていく；〜が進む」は、get along with 〜（例文）。",
+      "①②ともに欧では get on → 39 とも言う。"
+    ]
+  }
+]

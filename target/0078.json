@@ -1,14 +1,18 @@
-{
-  "number": "0078",
-  "idioms": [
-    "major in ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～を専攻する",
-      "example-sentence": "Zuri is an exchange student from Kenya who majors in Japanese Studies.",
-      "sentence-jp": "ズリは日本研究を専攻しているケニアからの留学生だ。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0078",
+    "idioms": [
+      "try on ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜を試着する",
+        "example-sentence": "Why don't you try it on to see if it suits you?",
+        "sentence-jp": "あなたに似合うか確かめるのにそれを試着してはどうですか。"
+      }
+    ],
+    "notes": [
+      "try 〜 on の語順も可。"
+    ]
+  }
+]

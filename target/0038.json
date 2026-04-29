@@ -1,14 +1,23 @@
-{
-  "number": "0038",
-  "idioms": [
-    "be off"
-  ],
-  "means": [
-    {
-      "idiom-jp": "休みである；（電気が）消えている",
-      "example-sentence": "The lights in the room were off when I arrived.",
-      "sentence-jp": "私が着いたとき、部屋の明かりは消えていた。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0038",
+    "idioms": [
+      "rely (on/upon) ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜に頼る",
+        "synonyms": [
+          "depend on [upon] ~",
+          "count on [upon] ~",
+          "rest on [upon] ~"
+        ],
+        "example-sentence": "We Japanese rely on imports for most of our energy resources.",
+        "sentence-jp": "私たち日本人はエネルギー源のほとんどを輸入品に頼っている。"
+      }
+    ],
+    "notes": [
+      "rely on [upon] A for B は「B のことで A に頼る」。"
+    ]
+  }
+]

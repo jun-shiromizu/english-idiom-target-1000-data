@@ -1,14 +1,23 @@
-{
-  "number": "0100",
-  "idioms": [
-    "try on ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～を試着する",
-      "example-sentence": "Why don't you try on that jacket to see if it suits you?",
-      "sentence-jp": "そのジャケットが似合うかどうか、試着してみたらどうですか。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0100",
+    "idioms": [
+      "pay attention to ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜に注意を払う",
+        "synonyms": [
+          "look to ~",
+          "attend to ~"
+        ],
+        "example-sentence": "Everybody, please pay attention to what I am going to say!",
+        "sentence-jp": "皆さん、私がこれから言うことに注意を払ってください！"
+      }
+    ],
+    "notes": [
+      "attention にはいろいろな形容詞が付けられる。",
+      "「(人の) 注意を引く」は、attract [draw / catch] one's attention。"
+    ]
+  }
+]

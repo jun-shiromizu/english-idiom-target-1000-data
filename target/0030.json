@@ -1,14 +1,19 @@
-{
-  "number": "0030",
-  "idioms": [
-    "be satisfied with ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～に満足している",
-      "example-sentence": "What I cannot understand is why he is not satisfied with his job.",
-      "sentence-jp": "私に理解できないのは、なぜ彼が自分の仕事に満足していないのかということだ。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0030",
+    "idioms": [
+      "be willing to do"
+    ],
+    "means": [
+      {
+        "idiom-jp": "…してもかまわない",
+        "example-sentence": "The tourist said he was willing to pay extra for the double room if it really had a good view.",
+        "sentence-jp": "その旅行者は、本当によい眺めならダブルルームの追加料金を払ってもかまわないと言った。"
+      }
+    ],
+    "notes": [
+      "be unwilling [reluctant] to do「…することに気が進まない」",
+      "be glad [pleased] to do などに比べ、積極的な気持ちは弱い。"
+    ]
+  }
+]

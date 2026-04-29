@@ -1,17 +1,20 @@
-{
-  "number": "0021",
-  "idioms": [
-    "be composed of ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～から成っている",
-      "synonyms": [
-        "be made up of ~"
-      ],
-      "example-sentence": "I like the fact that our group is composed of different types of individuals.",
-      "sentence-jp": "私たちのグループがさまざまなタイプの人で構成されているという事実が気に入っている。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0021",
+    "idioms": [
+      "be different from ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜とは違っている",
+        "example-sentence": "Learning one's native language is different from learning a second language.",
+        "sentence-jp": "母語を学習することは第2言語を学習するのとは違う。"
+      }
+    ],
+    "notes": [
+      "be similar to 〜 → 550",
+      "from の代わりに than や to も使われるが、from が一般的。",
+      "differ from 〜 → 52"
+    ]
+  }
+]

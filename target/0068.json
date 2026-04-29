@@ -1,14 +1,18 @@
-{
-  "number": "0068",
-  "idioms": [
-    "result in ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～という結果になる",
-      "example-sentence": "Cutting down trees eventually results in global warming.",
-      "sentence-jp": "木を切り倒すことは、結局のところ地球温暖化という結果になる。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0068",
+    "idioms": [
+      "brush up (on) ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "（語学など）をやり直して磨きをかける",
+        "example-sentence": "My kid sister has been spending a lot of time brushing up on her English lately.",
+        "sentence-jp": "私の妹は最近多くの時間を英語をやり直すことに費やしている。"
+      }
+    ],
+    "notes": [
+      "kid sister = younger sister"
+    ]
+  }
+]

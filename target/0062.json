@@ -1,15 +1,30 @@
-{
-  "number": "0062",
-  "idioms": [
-    "die of ~",
-    "die from ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～で死ぬ",
-      "example-sentence": "Sadly, her aunt died of a rare lung disease in her late 40s.",
-      "sentence-jp": "悲しいことに、彼女の叔母は40代後半に珍しい肺の病気で亡くなった。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0062",
+    "idioms": [
+      "go through ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜を通過する",
+        "synonyms": [
+          "get through ~"
+        ],
+        "example-sentence": "There is no direct flight from Nagoya to San Francisco, so you have to go through Los Angeles.",
+        "sentence-jp": "名古屋からサンフランシスコへの直行便がないため、ロサンゼルスを経由しなければならない。"
+      },
+      {
+        "idiom-jp": "（苦しみなど）を経験する",
+        "synonyms": [
+          "experience",
+          "undergo"
+        ],
+        "example-sentence": "Suddenly the child shouted, \"Oh, no! I don't want to go through that experience again.\"",
+        "sentence-jp": "突然その子供は、「だめだ！ 二度とあんな目にあいたくないよ」と叫んだ。"
+      }
+    ],
+    "notes": [
+      "through は、The bill went through the Diet.「その法案が国会を通過した」では前置詞だが、The bill went through.「その法案が通過した」では副詞。"
+    ]
+  }
+]

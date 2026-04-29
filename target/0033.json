@@ -1,17 +1,23 @@
-{
-  "number": "0033",
-  "idioms": [
-    "be well off"
-  ],
-  "means": [
-    {
-      "idiom-jp": "裕福である",
-      "synonyms": [
-        "rich"
-      ],
-      "example-sentence": "Maki, who is married to a doctor, says her family is quite well off.",
-      "sentence-jp": "医者と結婚しているマキは、とても暮らしがよいと言っている。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0033",
+    "idioms": [
+      "refer to ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜に言及する",
+        "example-sentence": "The author referred to this traditional festival in his new book.",
+        "sentence-jp": "その著者は彼の新刊でこの伝統的な祭りに言及した。"
+      },
+      {
+        "idiom-jp": "〜を参照する；〜に問い合わせる",
+        "example-sentence": "He's still a beginner and has to continually refer to manuals to do his work.",
+        "sentence-jp": "彼はまだ新米で、仕事をするのに絶えずマニュアルを参照しなければならない。"
+      }
+    ],
+    "notes": [
+      "名詞を使った堅い表現では、make reference to 〜。"
+    ]
+  }
+]

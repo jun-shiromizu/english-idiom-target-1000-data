@@ -1,14 +1,19 @@
-{
-  "number": "0029",
-  "idioms": [
-    "be married to ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "（～と）結婚している",
-      "example-sentence": "Yui is married to Hiroki, a dentist.",
-      "sentence-jp": "ユイは歯科医のヒロキと結婚している。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0029",
+    "idioms": [
+      "be likely to do"
+    ],
+    "means": [
+      {
+        "idiom-jp": "…しそうである",
+        "example-sentence": "The weather report says that it's likely to rain this afternoon.",
+        "sentence-jp": "今日の午後は雨が降りそうだと天気予報は伝えている。"
+      }
+    ],
+    "notes": [
+      "be unlikely to do「…しそうにない」",
+      "likely の前に very, more, little, less などの副詞が付くことも多い。"
+    ]
+  }
+]

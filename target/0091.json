@@ -1,14 +1,18 @@
-{
-  "number": "0091",
-  "idioms": [
-    "point out ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～を指摘する",
-      "example-sentence": "I don't need to point out that the food you eat has a direct impact on your health.",
-      "sentence-jp": "君が食べるものが健康に直接的な影響を与えるということは、私が指摘するまでもない。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0091",
+    "idioms": [
+      "make a difference"
+    ],
+    "means": [
+      {
+        "idiom-jp": "違いが生じる；重要である",
+        "example-sentence": "Where you live can make a difference in how long you live.",
+        "sentence-jp": "住んでいる場所によって、どのくらい長生きするかに違いが生じることがある。"
+      }
+    ],
+    "notes": [
+      "「大きな違い」の場合には a big [a lot of / a great deal of] difference、「違いが生じない」の場合には no [little] difference などとなる。"
+    ]
+  }
+]

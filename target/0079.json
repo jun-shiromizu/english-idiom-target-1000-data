@@ -1,14 +1,23 @@
-{
-  "number": "0079",
-  "idioms": [
-    "look into ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～を調査する",
-      "example-sentence": "The police are looking into the cause of the fire.",
-      "sentence-jp": "警察は火事の原因を調査している。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0079",
+    "idioms": [
+      "turn on (~)"
+    ],
+    "means": [
+      {
+        "idiom-jp": "(スイッチなど)をつける；(水・ガスなど)を出す；(明かりなどが)つく",
+        "synonyms": [
+          "switch on (~)"
+        ],
+        "example-sentence": "When I turned on the TV, our team had already scored two goals.",
+        "sentence-jp": "私がテレビをつけたとき、私たちのチームはすでに2ゴール入れていた。"
+      }
+    ],
+    "notes": [
+      "turn off (~) → 80",
+      "他動詞では turn 〜 on の語順も可。",
+      "発展して「(人)を興奮させる」の意味にもなる。"
+    ]
+  }
+]

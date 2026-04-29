@@ -1,14 +1,18 @@
-{
-  "number": "0065",
-  "idioms": [
-    "differ from ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～と異なる",
-      "example-sentence": "Humans differ from other animals in that they can use language.",
-      "sentence-jp": "人間は言語を使えるという点で、他の動物とは異なる。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0065",
+    "idioms": [
+      "pick up ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜を（車などに）乗せる；〜を拾う",
+        "example-sentence": "Miki was kind enough to come with the car to pick me up at the airport.",
+        "sentence-jp": "ミキは親切にも、空港で私を乗せるために車で来てくれた。"
+      }
+    ],
+    "notes": [
+      "pick 〜 up の語順も可。"
+    ]
+  }
+]

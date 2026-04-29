@@ -1,17 +1,28 @@
-{
-  "number": "0007",
-  "idioms": [
-    "a variety of ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "さまざまな～",
-      "synonyms": [
-        "various ~"
-      ],
-      "example-sentence": "This store sells a variety of things, including traditional Japanese crafts.",
-      "sentence-jp": "この店は日本の伝統工芸品を含む、さまざまなものを売っている。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0007",
+    "idioms": [
+      "at home"
+    ],
+    "means": [
+      {
+        "idiom-jp": "在宅して，家庭で",
+        "example-sentence": "What would it feel like to have to stay at home every day?",
+        "sentence-jp": "毎日在宅していなければならないというのは、どんなだろうか。"
+      },
+      {
+        "idiom-jp": "くつろいで",
+        "example-sentence": "Please make yourself at home during your stay with us.",
+        "sentence-jp": "わが家での滞在中はどうぞくつろいでください。"
+      },
+      {
+        "idiom-jp": "精通して",
+        "example-sentence": "Yoshito is completely at home in geometry.",
+        "sentence-jp": "ヨシトは幾何学に完璧に精通している。"
+      }
+    ],
+    "notes": [
+      "「〜に精通して」は、at home in [on / with] 〜（例文）。"
+    ]
+  }
+]

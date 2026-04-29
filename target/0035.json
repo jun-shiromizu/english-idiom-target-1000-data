@@ -1,18 +1,21 @@
-{
-  "number": "0035",
-  "idioms": [
-    "be willing to do"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～してもかまわない",
-      "synonyms": [
-        "be ready to do",
-        "be prepared to do"
-      ],
-      "example-sentence": "The tourist said he was willing to pay extra for the double room if it really had a good view.",
-      "sentence-jp": "その観光客は、もし本当に眺めがよいのであれば、ダブルの部屋に追加料金を払ってもかまわないと言った。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0035",
+    "idioms": [
+      "amount to ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "総計〜になる",
+        "synonyms": [
+          "come to ~"
+        ],
+        "example-sentence": "The damage from the recent typhoon is estimated to amount to billions of yen.",
+        "sentence-jp": "先ごろの台風の被害は総額数十億円になると推計されている。"
+      }
+    ],
+    "notes": [
+      "意味が転じて、「結果として〜となる、〜に等しい」ともなる。"
+    ]
+  }
+]

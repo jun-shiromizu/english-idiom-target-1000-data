@@ -1,17 +1,19 @@
-{
-  "number": "0022",
-  "idioms": [
-    "consist of ~"
-  ],
-  "means": [
-    {
-      "idiom-jp": "～から成っている",
-      "synonyms": [
-        "be composed of ~"
-      ],
-      "example-sentence": "In those days, our club consisted of about a hundred members.",
-      "sentence-jp": "当時、私たちのクラブは約100人のメンバーで構成されていた。"
-    }
-  ],
-  "notes": []
-}
+[
+  {
+    "number": "0022",
+    "idioms": [
+      "be absent from ~"
+    ],
+    "means": [
+      {
+        "idiom-jp": "〜を欠席する",
+        "example-sentence": "Five students were absent from school today.",
+        "sentence-jp": "今日、5人の生徒が学校を欠席していた。"
+      }
+    ],
+    "notes": [
+      "be present at 〜「〜に出席している」",
+      "「学校・職場」など「当然いるべき場所にいない」ときに使われる。"
+    ]
+  }
+]
