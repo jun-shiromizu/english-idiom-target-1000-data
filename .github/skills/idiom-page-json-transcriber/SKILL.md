@@ -57,7 +57,7 @@ compatibility: 'Requires Python with Pillow and rendered page images in .temp/re
 5. JSON を作る
 
    - 1 熟語につき target/NNNN.json を 1 ファイル作る。
-   - ルート要素は配列で、その中に 1 オブジェクトだけ入れる。
+   - ルート要素は単一の JSON オブジェクトにする。配列で包まない。
    - 複数義があるときは means を分け、各意味に対応する例文を正しく対応付ける。
 
 6. 検証する
