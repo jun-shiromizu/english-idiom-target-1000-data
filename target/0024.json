@@ -1,0 +1,17 @@
+{
+  "number": "0024",
+  "idioms": [
+    "die of ~",
+    "die from ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "～で死ぬ",
+      "example-sentence": "Sadly, her aunt died of a rare lung disease in her late 40s.",
+      "sentence-jp": "悲しいことに、彼女の叔母は40代後半に珍しい肺の病気で亡くなった。"
+    }
+  ],
+  "notes": [
+    "通常、ofは病気・空腹・老衰など（直接的原因）、fromはけが・過労・事故など（間接的原因）に用いる。"
+  ]
+}

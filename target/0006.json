@@ -1,0 +1,20 @@
+{
+  "number": "0006",
+  "idioms": [
+    "a great deal of ~",
+    "a good deal of ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "かなりの～；多量の～",
+      "synonyms": [
+        "much ~"
+      ],
+      "example-sentence": "The recent typhoon did a great deal of damage to the crops.",
+      "sentence-jp": "最近の台風は作物に多大な損害を与えた。"
+    }
+  ],
+  "notes": [
+    "不可算名詞に用いる。"
+  ]
+}

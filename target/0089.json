@@ -1,0 +1,27 @@
+{
+  "number": "0089",
+  "idioms": [
+    "turn out (~)"
+  ],
+  "means": [
+    {
+      "idiom-jp": "～であることがわかる",
+      "synonyms": [
+        "prove"
+      ],
+      "example-sentence": "The email address she'd given me turned out to be completely wrong.",
+      "sentence-jp": "彼女が私に教えてくれたメールアドレスは、完全に間違っていることがわかった。"
+    },
+    {
+      "idiom-jp": "～を生産する",
+      "synonyms": [
+        "produce"
+      ],
+      "example-sentence": "[読取不可]",
+      "sentence-jp": "[読取不可]"
+    }
+  ],
+  "notes": [
+    "[要確認] 一部読み取り不可の箇所あり"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "number": "0010",
+  "idioms": [
+    "in fashion"
+  ],
+  "means": [
+    {
+      "idiom-jp": "流行して",
+      "synonyms": [
+        "popular"
+      ],
+      "example-sentence": "Our car was red because the color was in fashion in those days.",
+      "sentence-jp": "当時はその色が流行していたので、私たちの車は赤だった。"
+    }
+  ],
+  "notes": [
+    "out of fashion（廃れて）。"
+  ]
+}

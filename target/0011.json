@@ -1,0 +1,16 @@
+{
+  "number": "0011",
+  "idioms": [
+    "on duty"
+  ],
+  "means": [
+    {
+      "idiom-jp": "当番で；勤務時間中で",
+      "example-sentence": "There is a doctor on duty at the hospital.",
+      "sentence-jp": "病院には当直の医師がいる。"
+    }
+  ],
+  "notes": [
+    "off duty（勤務時間外で）。"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "number": "0001",
+  "idioms": [
+    "a piece of ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "１つの～",
+      "synonyms": [
+        "one"
+      ],
+      "example-sentence": "I handed him a piece of paper so that he could write down all the names.",
+      "sentence-jp": "彼がすべての名前を書けるように私は彼に1枚の紙を手渡した。"
+    }
+  ],
+  "notes": [
+    "不可算名詞を「数量化」する最も一般的な句。",
+    "「数量化」を表す他の例は「深める」P.74。"
+  ]
+}

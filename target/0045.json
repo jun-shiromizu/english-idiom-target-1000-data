@@ -1,0 +1,25 @@
+{
+  "number": "0045",
+  "idioms": [
+    "depend on ~",
+    "depend upon ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "～に頼る",
+      "synonyms": [
+        "rely on ~"
+      ],
+      "example-sentence": "It's important to remember that we all depend on various people for different reasons.",
+      "sentence-jp": "私たちは皆、さまざまな理由でさまざまな人に依存していることを忘れないことが重要だ。"
+    },
+    {
+      "idiom-jp": "～次第である",
+      "example-sentence": "[読取不可]",
+      "sentence-jp": "[読取不可]"
+    }
+  ],
+  "notes": [
+    "[要確認] 一部読み取り不可の箇所あり"
+  ]
+}

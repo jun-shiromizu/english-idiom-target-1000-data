@@ -1,0 +1,27 @@
+{
+  "number": "0058",
+  "idioms": [
+    "think of ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "～を思いつく",
+      "synonyms": [
+        "come up with ~"
+      ],
+      "example-sentence": "[読取不可]",
+      "sentence-jp": "[読取不可]"
+    },
+    {
+      "idiom-jp": "～しようかと考える",
+      "synonyms": [
+        "think about ~"
+      ],
+      "example-sentence": "My cousin is thinking of staying in America and studying English during this summer vacation.",
+      "sentence-jp": "私のいとこはこの夏休みの間、アメリカに滞在して英語を学ぼうかと考えている。"
+    }
+  ],
+  "notes": [
+    "[要確認] 一部読み取り不可の箇所あり"
+  ]
+}

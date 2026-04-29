@@ -1,0 +1,27 @@
+{
+  "number": "0002",
+  "idioms": [
+    "a couple of ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "２つの～",
+      "synonyms": [
+        "two"
+      ],
+      "example-sentence": "My mother wanted me to buy a couple of sandwiches on my way home.",
+      "sentence-jp": "母は私に、帰宅の途中で2個のサンドイッチを買ってきてもらいたかった。"
+    },
+    {
+      "idiom-jp": "２、３の～",
+      "synonyms": [
+        "a few ~"
+      ],
+      "example-sentence": "Take a couple of sweaters with you; it might be cold up there.",
+      "sentence-jp": "２、３枚のセーターを持っていきなさい。その上の方は寒いかもしれません。"
+    }
+  ],
+  "notes": [
+    "①②の区別が明確でない場合も多い。米ではofが省略されることもある。"
+  ]
+}
