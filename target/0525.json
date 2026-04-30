@@ -1,0 +1,22 @@
+{
+  "number": "0525",
+  "idioms": [
+    "take a seat",
+    "have a seat"
+  ],
+  "means": [
+    {
+      "idiom-jp": "着席する",
+      "synonyms": [
+        "be seated",
+        "seat oneself"
+      ],
+      "example-sentence": "Trent has just arrived to class late and hurriedly taken a seat next to Tanya.",
+      "sentence-jp": "トレントはたった今授業に遅れて到着し、急いでターニャの隣に着席したところだ。"
+    }
+  ],
+  "notes": [
+    "sit down より堅い表現。",
+    "動詞としての seat は他動詞であるから、自動詞的に使うには seat oneself が必要。"
+  ]
+}

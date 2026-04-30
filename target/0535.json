@@ -1,0 +1,20 @@
+{
+  "number": "0535",
+  "idioms": [
+    "make fun of ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜をからかう",
+      "synonyms": [
+        "ridicule",
+        "make sport of ~"
+      ],
+      "example-sentence": "Do you know why Tom was made fun of at school?",
+      "sentence-jp": "トムがどうして学校でからかわれたのか知っていますか。"
+    }
+  ],
+  "notes": [
+    "受動態の場合でも of を落とさない(例文)。"
+  ]
+}

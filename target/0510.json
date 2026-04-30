@@ -1,0 +1,22 @@
+{
+  "number": "0510",
+  "idioms": [
+    "transform A into B",
+    "transform A to B"
+  ],
+  "means": [
+    {
+      "idiom-jp": "A を B に変える[変質させる]",
+      "synonyms": [
+        "turn A into B",
+        "change A into B"
+      ],
+      "example-sentence": "I don’t think it a good idea to try to transform Mars into a habitable planet.",
+      "sentence-jp": "私は火星を住むのに適した惑星に変えようとすることはよい考えだとは思わない。"
+    }
+  ],
+  "notes": [
+    "turn A into B → 110。",
+    "いずれのニュアンスでも into を使うことが多い。"
+  ]
+}

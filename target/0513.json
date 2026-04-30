@@ -1,0 +1,17 @@
+{
+  "number": "0513",
+  "idioms": [
+    "diagnose A as B"
+  ],
+  "means": [
+    {
+      "idiom-jp": "A を B と診断する",
+      "example-sentence": "The doctor diagnosed my condition as the common cold.",
+      "sentence-jp": "その医師は私の体調を普通の風邪と診断した。"
+    }
+  ],
+  "notes": [
+    "一般的には A に『病状』、B に『病名』がくる。A が『人』の場合もあり、その際は diagnose A as [with] B となる。",
+    "受動態で使われることも多い。"
+  ]
+}

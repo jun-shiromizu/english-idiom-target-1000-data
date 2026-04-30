@@ -1,0 +1,21 @@
+{
+  "number": "0521",
+  "idioms": [
+    "take one’s place"
+  ],
+  "means": [
+    {
+      "idiom-jp": "[主語と one’s が一致]いつもの席に着く；特定の地位を占める",
+      "example-sentence": "Welcomed by warm applause, she appeared on the stage and took her place at the piano.",
+      "sentence-jp": "彼女は温かい拍手に迎えられてステージに現れ、ピアノのいつもの席に座った。"
+    },
+    {
+      "idiom-jp": "[主語と one’s が不一致]〜に取って代わる",
+      "example-sentence": "Takao, a taxi driver, isn’t worried about self-driving cars taking his place anytime soon.",
+      "sentence-jp": "タクシー運転手であるタカオは、自動運転の車が近いうちに彼に取って代わることについては心配していない。"
+    }
+  ],
+  "notes": [
+    "take the place of ~ の形にもなる。"
+  ]
+}

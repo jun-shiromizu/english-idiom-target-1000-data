@@ -1,0 +1,21 @@
+{
+  "number": "0545",
+  "idioms": [
+    "keep an eye on ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜に気をつけている、〜から目を離さない",
+      "synonyms": [
+        "take care of ~",
+        "look after ~"
+      ],
+      "example-sentence": "We have to keep an eye on obesity because it can lead to a range of health problems.",
+      "sentence-jp": "さまざまな健康問題を引き起こす可能性があるので、私たちは肥満に気をつけなければならない。"
+    }
+  ],
+  "notes": [
+    "take care of ~ → 101、look after ~ → 294。",
+    "eye には close, careful などいろいろな形容詞が付くことも多い。"
+  ]
+}
