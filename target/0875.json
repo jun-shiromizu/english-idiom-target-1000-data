@@ -1,0 +1,21 @@
+{
+  "number": "0875",
+  "idioms": [
+    "throw up (~)"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜をさっと上げる；〜を投げ上げる",
+      "example-sentence": "After he’d tried several times, Jim finally threw up his hands and gave up the attempt.",
+      "sentence-jp": "ジムは何回か挑戦した後で、とうとう両手を上げ、試みをあきらめた。"
+    },
+    {
+      "idiom-jp": "(食べた物を)吐く；〜を吐く",
+      "example-sentence": "Hiro became sick soon after dinner and had thrown up several times by midnight.",
+      "sentence-jp": "ヒロは夕食の直後に気分が悪くなり、真夜中までに何回も吐いた。"
+    }
+  ],
+  "notes": [
+    "throw up one’s hands「両手を上げる」は「あきらめ・降伏」などの意図を表す。①②ともに他動詞では throw 〜 up の語順も可。"
+  ]
+}

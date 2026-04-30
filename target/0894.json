@@ -1,0 +1,25 @@
+{
+  "number": "0894",
+  "idioms": [
+    "take effect"
+  ],
+  "means": [
+    {
+      "idiom-jp": "(法律などが)施行[実施]される",
+      "synonyms": [
+        "come [go] into effect",
+        "come into force"
+      ],
+      "example-sentence": "The revised law concerning privacy took effect on January 1 this year.",
+      "sentence-jp": "プライバシーに関する改正法が今年の1月1日に施行された。"
+    },
+    {
+      "idiom-jp": "(薬などが)効く",
+      "example-sentence": "In half an hour, the medicine he took began to take effect.",
+      "sentence-jp": "30分後、彼が飲んだ薬が効き始めた。"
+    }
+  ],
+  "notes": [
+    "in effect「事実上」。"
+  ]
+}

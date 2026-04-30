@@ -1,0 +1,21 @@
+{
+  "number": "0874",
+  "idioms": [
+    "pull up (~)"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜を引き抜く[引き上げる]；(いすなど)を引き寄せる",
+      "example-sentence": "I went into a vegetable patch and pulled up a carrot, but it looked too small for anything.",
+      "sentence-jp": "私は家庭菜園へ行ってニンジンを引き抜いたが、何に使うにしても小さすぎるようだった。"
+    },
+    {
+      "idiom-jp": "(車などが)止まる；(車など)を止める",
+      "example-sentence": "Our minibus pulled up in front of a small office building on a busy commercial street.",
+      "sentence-jp": "私たちのマイクロバスはにぎやかな商店街にある小さなオフィスビルの正面に止まった。"
+    }
+  ],
+  "notes": [
+    "pull up stakes は「杭を抜く」の本来の意味から発展して、「引っ越しをする」となった。①②ともに pull 〜 up の語順も可(②は他動詞の場合)。"
+  ]
+}

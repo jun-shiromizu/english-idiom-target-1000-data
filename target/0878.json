@@ -1,0 +1,25 @@
+{
+  "number": "0878",
+  "idioms": [
+    "get away with ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "(罰を受けずに)〜をうまくやる",
+      "synonyms": [
+        "go unpunished for ~"
+      ],
+      "example-sentence": "You’re utterly mistaken if you thought you could cheat on exams and get away with it.",
+      "sentence-jp": "もしあなたが試験でカンニングをしてそれをうまくやってのけられると考えていたなら、まったくの勘違いだ。"
+    },
+    {
+      "idiom-jp": "〜を持ち逃げする",
+      "synonyms": [
+        "go [make / run / walk] away with ~"
+      ],
+      "example-sentence": "Today’s newspaper says someone got away with three million yen from a nearby supermarket.",
+      "sentence-jp": "近くのスーパーで誰かが300万円を持ち逃げしたと今日の新聞に出ている。"
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,24 @@
+{
+  "number": "0887",
+  "idioms": [
+    "make good (~)"
+  ],
+  "means": [
+    {
+      "idiom-jp": "成功する",
+      "synonyms": [
+        "succeed"
+      ],
+      "example-sentence": "I’m sure he’ll make good in his new job.",
+      "sentence-jp": "彼は新しい仕事で成功すると私は確信している。"
+    },
+    {
+      "idiom-jp": "(約束など)を果たす；(損害など)を償う",
+      "example-sentence": "In a year, his landlady made good her warning and evicted him from his room.",
+      "sentence-jp": "1年後に、彼の大家の女性は自らの警告を遂行し、彼を部屋から立ち退かせた。"
+    }
+  ],
+  "notes": [
+    "「(約束など)を果たす」の意味では、母では make good on ~ の形も多い。"
+  ]
+}

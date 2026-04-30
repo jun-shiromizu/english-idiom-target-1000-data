@@ -1,0 +1,22 @@
+{
+  "number": "0824",
+  "idioms": [
+    "think much of ~",
+    "think highly of ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜を高く評価する、〜を尊敬[尊重]する",
+      "synonyms": [
+        "respect",
+        "think a lot of ~",
+        "think the world of ~"
+      ],
+      "example-sentence": "The film director was highly thought of by most critics.",
+      "sentence-jp": "その映画監督はほとんどの批評家に高く評価されていた。"
+    }
+  ],
+  "notes": [
+    "反対表現は think little [nothing / poorly] of ~「〜を軽んじる」。much は主に否定文で使われる。much [highly] は、受動態では過去分詞の前にくることが多い。"
+  ]
+}

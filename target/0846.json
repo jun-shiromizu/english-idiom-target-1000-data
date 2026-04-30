@@ -1,0 +1,24 @@
+{
+  "number": "0846",
+  "idioms": [
+    "account for ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜の説明となる、〜の理由を説明する",
+      "example-sentence": "The study was unable to account for the effects of stressful events on emotion.",
+      "sentence-jp": "その調査はストレスのかかる出来事が感情に与える影響の説明にはならなかった。"
+    },
+    {
+      "idiom-jp": "(割合など)を占める",
+      "synonyms": [
+        "make up ~"
+      ],
+      "example-sentence": "A research study has found that habits account for about 40 percent of our daily behaviors.",
+      "sentence-jp": "習慣が私たちの日々の行動の約40%を占めるということが調査研究で明らかになっている。"
+    }
+  ],
+  "notes": [
+    "There is no accounting for tastes.「たで食う虫も好き好き」ということわざがある。"
+  ]
+}

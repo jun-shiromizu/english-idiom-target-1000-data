@@ -1,0 +1,23 @@
+{
+  "number": "0863",
+  "idioms": [
+    "dwell on ~",
+    "dwell upon ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜を詳しく述べる[書く]",
+      "example-sentence": "I’d like to dwell on this point further because it’s so important.",
+      "sentence-jp": "この点は非常に重要なので、さらにこのことを詳しく論じたい。"
+    },
+    {
+      "idiom-jp": "〜をくよくよ[つくづく]考える、〜にこだわる",
+      "synonyms": [
+        "have ~ on one’s mind"
+      ],
+      "example-sentence": "It is futile to dwell on the problems of today; instead, let’s try to have unlimited optimism.",
+      "sentence-jp": "今日の問題についてくよくよ考えても無益だ。代わりに、無限の楽観主義を持つようにしよう。"
+    }
+  ],
+  "notes": []
+}

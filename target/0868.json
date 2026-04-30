@@ -1,0 +1,21 @@
+{
+  "number": "0868",
+  "idioms": [
+    "work out (~)"
+  ],
+  "means": [
+    {
+      "idiom-jp": "(問題などが)うまくいく；〜を計画する；〜を解決する；〜の答えを出す",
+      "example-sentence": "We’d thought the preparations were perfect, but things didn’t work out the way we’d expected.",
+      "sentence-jp": "準備は完璧だと思っていたが、物事は私たちが期待していたようにはうまくいかなかった。"
+    },
+    {
+      "idiom-jp": "運動する",
+      "example-sentence": "James wishes to stay in good shape and works out at a gym three times per week.",
+      "sentence-jp": "ジェームズは調子のよい状態を保ちたいと願って、週に3回ジムで運動している。"
+    }
+  ],
+  "notes": [
+    "他動詞では work 〜 out の語順も可。名詞は workout。"
+  ]
+}
