@@ -1,0 +1,21 @@
+{
+  "number": "0927",
+  "idioms": [
+    "a variety of ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "(同一種類のもので)いろいろ[さまざま]な〜",
+      "example-sentence": "The owner carefully displayed a variety of products in order to appeal to shoppers.",
+      "sentence-jp": "オーナーは買い物客の興味を引くようにいろいろな製品を注意深く陳列した。"
+    },
+    {
+      "idiom-jp": "〜の1種[1つの型]",
+      "example-sentence": "“Golden rice” is a variety of rice produced through genetic engineering.",
+      "sentence-jp": "「ゴールデンライス」は遺伝子組み換えによって作られた米の1種だ。"
+    }
+  ],
+  "notes": [
+    "①の 〜 には複数名詞が集合名詞的にくる。②の 〜 には単数名詞・複数名詞がきて、いずれも無冠詞。「2種類」となれば当然 two varieties of ~ となる。"
+  ]
+}

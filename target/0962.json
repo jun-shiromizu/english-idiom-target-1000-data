@@ -1,0 +1,20 @@
+{
+  "number": "0962",
+  "idioms": [
+    "but for ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜がないならば",
+      "synonyms": [
+        "if it were not for ~",
+        "without"
+      ],
+      "example-sentence": "Our project would definitely have ended in failure but for his earnest support.",
+      "sentence-jp": "彼の熱心な支援がなければ、私たちのプロジェクトは間違いなく失敗に終わっていただろう。"
+    }
+  ],
+  "notes": [
+    "主節の時制が現在か未来なら if it were not for ~、過去なら if it had not been for ~ で書き換えられる。"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "number": "0950",
+  "idioms": [
+    "out of hand"
+  ],
+  "means": [
+    {
+      "idiom-jp": "手に負えない",
+      "synonyms": [
+        "out of control"
+      ],
+      "example-sentence": "We have to make sure that things don’t get out of hand.",
+      "sentence-jp": "私たちは事態が手に負えなくなることがないようにする必要がある。"
+    },
+    {
+      "idiom-jp": "即座に",
+      "synonyms": [
+        "at once",
+        "right away"
+      ],
+      "example-sentence": "A boy asked a question, but the chairman dismissed it out of hand.",
+      "sentence-jp": "少年が質問をしたが、議長は即座にそれを退けた。"
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,29 @@
+{
+  "number": "0992",
+  "idioms": [
+    "on the spot"
+  ],
+  "means": [
+    {
+      "idiom-jp": "その場で、即座に",
+      "synonyms": [
+        "at once",
+        "immediately"
+      ],
+      "example-sentence": "He liked the painting on display the moment he saw it, and decided to buy it on the spot.",
+      "sentence-jp": "彼は展示された絵を見た瞬間に気に入り、その場で買うことを決めた。"
+    },
+    {
+      "idiom-jp": "(口語で)窮地に立って、困って",
+      "synonyms": [
+        "in trouble",
+        "in a jam [bind]"
+      ],
+      "example-sentence": "The interviewer’s question put the politician on the spot.",
+      "sentence-jp": "会見記者の質問はその政治家を窮地に立たせた。"
+    }
+  ],
+  "notes": [
+    "put ~ on the spot は「(質問などで)(人)を窮地に立たせる」。"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "number": "0987",
+  "idioms": [
+    "in person"
+  ],
+  "means": [
+    {
+      "idiom-jp": "(代理人でなく)じかに、自ら",
+      "synonyms": [
+        "in the flesh"
+      ],
+      "example-sentence": "In that study, thousands of people were polled either in person or online.",
+      "sentence-jp": "その研究では、数千人が直接またはオンラインで世論調査を受けた。"
+    }
+  ],
+  "notes": [
+    "in-person classes は「(オンラインではなく)対面での授業」。"
+  ]
+}

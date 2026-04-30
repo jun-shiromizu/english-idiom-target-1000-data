@@ -1,0 +1,18 @@
+{
+  "number": "1000",
+  "idioms": [
+    "to date"
+  ],
+  "means": [
+    {
+      "idiom-jp": "現在まで(のところ)",
+      "synonyms": [
+        "up to [till / until] now",
+        "so far"
+      ],
+      "example-sentence": "Scientists are eagerly trying to develop a vaccine for the new virus, but to no avail to date.",
+      "sentence-jp": "科学者たちはその新型ウイルスのワクチンを熱心に開発しようとしているが、現在までのところ、そのかいはない。"
+    }
+  ],
+  "notes": []
+}

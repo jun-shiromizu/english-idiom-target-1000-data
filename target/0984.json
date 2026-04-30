@@ -1,0 +1,28 @@
+{
+  "number": "0984",
+  "idioms": [
+    "for nothing"
+  ],
+  "means": [
+    {
+      "idiom-jp": "無料で",
+      "synonyms": [
+        "for free",
+        "free of charge"
+      ],
+      "example-sentence": "If you buy one item, you can get another for nothing.",
+      "sentence-jp": "商品を1つ買えば、無料でもう1つもらえます。"
+    },
+    {
+      "idiom-jp": "無駄に",
+      "synonyms": [
+        "in vain"
+      ],
+      "example-sentence": "He tried very hard, but all he did was for nothing.",
+      "sentence-jp": "彼は一生懸命頑張ったが、彼がしたことは無駄だった。"
+    }
+  ],
+  "notes": [
+    "good for nothing は「何の役にも立たない」(形容詞句)。"
+  ]
+}

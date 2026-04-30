@@ -1,0 +1,19 @@
+{
+  "number": "0925",
+  "idioms": [
+    "ascribe A to B"
+  ],
+  "means": [
+    {
+      "idiom-jp": "A を B のせいにする",
+      "synonyms": [
+        "attribute A to B"
+      ],
+      "example-sentence": "He ascribed his failure in the examination to bad luck.",
+      "sentence-jp": "彼は試験に落ちたことを不運のせいにした。"
+    }
+  ],
+  "notes": [
+    "A is ascribed to B の受動態もよく使われる。"
+  ]
+}

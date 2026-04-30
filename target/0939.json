@@ -1,0 +1,24 @@
+{
+  "number": "0939",
+  "idioms": [
+    "every other ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "1つおきの〜、〜おきに",
+      "synonyms": [
+        "every second ~"
+      ],
+      "example-sentence": "To help pay for tuition, I’m working part-time at a supermarket every other weekend.",
+      "sentence-jp": "学費の支払いを助けるために、私は隔週の週末にスーパーでアルバイトをしている。"
+    },
+    {
+      "idiom-jp": "残りのすべての〜",
+      "example-sentence": "I noticed then that every other adult on the train was staring at his or her own smartphone.",
+      "sentence-jp": "私はその時、電車内のほかの大人全員が各々のスマートフォンを見ているのに気づいた。"
+    }
+  ],
+  "notes": [
+    "〜 には単数名詞が入る。"
+  ]
+}
