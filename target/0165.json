@@ -1,0 +1,21 @@
+{
+  "number": "0165",
+  "idioms": [
+    "owing to ~",
+    "due to ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜のために",
+      "synonyms": [
+        "on account of ~",
+        "because of ~"
+      ],
+      "example-sentence": "The price of cabbage has gone up sharply, mainly owing to the bad weather.",
+      "sentence-jp": "主に悪天候のためにキャベツの値段が急騰している。"
+    }
+  ],
+  "notes": [
+    "かつては due to ~ を前置詞的に使うのは誤りとされたが, 現在では標準語法になっている。"
+  ]
+}

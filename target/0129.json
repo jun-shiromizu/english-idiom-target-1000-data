@@ -1,0 +1,29 @@
+{
+  "number": "0129",
+  "idioms": [
+    "at once"
+  ],
+  "means": [
+    {
+      "idiom-jp": "すぐに",
+      "synonyms": [
+        "immediately",
+        "right away",
+        "out of hand",
+        "on the spot"
+      ],
+      "example-sentence": "Oh, this is not what we've ordered. Take it back at once.",
+      "sentence-jp": "おっと, これは私たちが注文したものではありません。すぐに返しなさい。"
+    },
+    {
+      "idiom-jp": "同時に",
+      "synonyms": [
+        "at the same time",
+        "all at once"
+      ],
+      "example-sentence": "It's impossible to meet everyone's needs at once.",
+      "sentence-jp": "全員の要求に同時に応えることは不可能だ。"
+    }
+  ],
+  "notes": []
+}

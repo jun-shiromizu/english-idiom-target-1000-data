@@ -1,0 +1,28 @@
+{
+  "number": "0159",
+  "idioms": [
+    "on earth"
+  ],
+  "means": [
+    {
+      "idiom-jp": "(疑問詞を強めて)一体全体",
+      "synonyms": [
+        "in the world"
+      ],
+      "example-sentence": "What on earth are you trying to convey to him by writing such a long letter?",
+      "sentence-jp": "あなたはあんなに長い手紙を書いて, 一体全体彼に何を伝えようとしているのですか。"
+    },
+    {
+      "idiom-jp": "(最上級を強めて)世界中で",
+      "synonyms": [
+        "in the world"
+      ],
+      "example-sentence": "India is one of the most densely populated countries on earth.",
+      "sentence-jp": "インドは世界中で最も人口が密集している国の1つだ。"
+    }
+  ],
+  "notes": [
+    "単に『地球上で』の意味でも使うこともある。",
+    "否定を強める用法もある。There is no reason on earth to apologize to you. 『あなたに謝る理由はまったくない』。"
+  ]
+}

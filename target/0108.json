@@ -1,0 +1,18 @@
+{
+  "number": "0108",
+  "idioms": [
+    "help A with B"
+  ],
+  "means": [
+    {
+      "idiom-jp": "A の B を手伝う, A を B で助ける",
+      "example-sentence": "My kid brother asked me to help him with his math homework the other day.",
+      "sentence-jp": "先日, 弟は私に彼の数学の宿題を手伝うように頼んできた。"
+    }
+  ],
+  "notes": [
+    "A には「人」が入る。",
+    "help (A) の後に動詞がくるときは, help (A) to do と help (A) do の2つの形があるが, 後者が増えている。",
+    "kid brother = younger brother"
+  ]
+}

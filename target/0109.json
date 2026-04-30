@@ -1,0 +1,20 @@
+{
+  "number": "0109",
+  "idioms": [
+    "prefer A to B"
+  ],
+  "means": [
+    {
+      "idiom-jp": "B より A を好む",
+      "synonyms": [
+        "like A better than B"
+      ],
+      "example-sentence": "A survey shows that more than half of children prefer video games to books.",
+      "sentence-jp": "ある調査によれば, 子供たちの半数以上は本よりテレビゲームを好んでいるそうだ。"
+    }
+  ],
+  "notes": [
+    "A に動詞がくる場合は不定詞・動名詞の両方を使えるが, 不定詞の場合には後の to B は rather than (to) do とするのが一般的。",
+    "I prefer going by taxi to walking. = I prefer to go by taxi rather than (to) walk."
+  ]
+}

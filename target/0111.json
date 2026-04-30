@@ -1,0 +1,21 @@
+{
+  "number": "0111",
+  "idioms": [
+    "prevent A from B"
+  ],
+  "means": [
+    {
+      "idiom-jp": "A が B するのを妨げる, A を B から防ぐ",
+      "synonyms": [
+        "keep A from B",
+        "prohibit A from B",
+        "hinder A from B"
+      ],
+      "example-sentence": "One of the problems with cellphones is that they can prevent us from relaxing.",
+      "sentence-jp": "携帯電話の問題の1つは, それらは私たちがリラックスするのを妨げる可能性があることだ。"
+    }
+  ],
+  "notes": [
+    "「深める」P.228。"
+  ]
+}

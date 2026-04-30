@@ -1,0 +1,32 @@
+{
+  "number": "0130",
+  "idioms": [
+    "at all"
+  ],
+  "means": [
+    {
+      "idiom-jp": "(否定文で)まったく",
+      "synonyms": [
+        "not ~ (in) the least"
+      ],
+      "example-sentence": "I didn't like the movie at all, and Mayu didn't like it either.",
+      "sentence-jp": "私はその映画をまったく気に入らず, マユもそうだった。"
+    },
+    {
+      "idiom-jp": "(疑問文で)一体, そもそも",
+      "example-sentence": "I know there are many people who wonder why we need speed bumps at all in big cities.",
+      "sentence-jp": "一体なぜ大都市にスピードバンプが必要なのかと疑問に思う人がたくさんいることを私は知っている。"
+    },
+    {
+      "idiom-jp": "(肯定文で)そもそも, ともかく",
+      "example-sentence": "Before jumping to a conclusion, let's check if we need any of those regulations at all.",
+      "sentence-jp": "結論を急ぐ前に, そもそもそうした規則が何か必要かどうか調べましょう。"
+    }
+  ],
+  "notes": [
+    "no [not] ~ at all が一般形。",
+    "条件文中でも使われ, 「仮にも, いやしくも」の意味を表す。",
+    "speed bump「スピードバンプ」(車のスピードを落とさせるために路上の段差)",
+    "jump to a conclusion「結論を急ぐ」"
+  ]
+}

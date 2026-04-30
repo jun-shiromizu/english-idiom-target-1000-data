@@ -1,0 +1,27 @@
+{
+  "number": "0181",
+  "idioms": [
+    "bring up ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜を育てる",
+      "synonyms": [
+        "raise"
+      ],
+      "example-sentence": "From the age of five, she was brought up by her aunt.",
+      "sentence-jp": "彼女は5歳のときからおばに育てられた。"
+    },
+    {
+      "idiom-jp": "(問題・話題など)を持ち出す",
+      "synonyms": [
+        "raise"
+      ],
+      "example-sentence": "Yumi felt a little uneasy when her parents brought up the subject of marriage.",
+      "sentence-jp": "ユミは彼女の両親が結婚の話題を持ち出したとき, 少し不安に感じた。"
+    }
+  ],
+  "notes": [
+    "①②ともに bring ~ up の語順も可。"
+  ]
+}

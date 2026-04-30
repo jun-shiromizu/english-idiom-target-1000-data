@@ -1,0 +1,22 @@
+{
+  "number": "0164",
+  "idioms": [
+    "according to ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜によれば",
+      "example-sentence": "According to this article, the world is continuing to be urbanized rapidly.",
+      "sentence-jp": "この記事によれば, 世界は急速に都市化を続けている。"
+    },
+    {
+      "idiom-jp": "〜に従って ; 〜に応じて",
+      "synonyms": [
+        "in accordance with ~"
+      ],
+      "example-sentence": "If all goes according to plan, the building will have been completed by next spring.",
+      "sentence-jp": "もしすべてが計画に従って進めば, その建物は来春までには完成しているだろう。"
+    }
+  ],
+  "notes": []
+}

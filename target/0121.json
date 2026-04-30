@@ -1,0 +1,21 @@
+{
+  "number": "0121",
+  "idioms": [
+    "as ~ as possible",
+    "as ~ as one can"
+  ],
+  "means": [
+    {
+      "idiom-jp": "できる限り〜",
+      "synonyms": [
+        "as best one can",
+        "to the best of one's ability"
+      ],
+      "example-sentence": "I need to return this book to the library as soon as possible.",
+      "sentence-jp": "私はできる限り早くこの本を図書館に返す必要がある。"
+    }
+  ],
+  "notes": [
+    "as ~ as one possibly can という強調の形もある。"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "number": "0177",
+  "idioms": [
+    "not only A but (also) B"
+  ],
+  "means": [
+    {
+      "idiom-jp": "AだけではなくBも",
+      "example-sentence": "Recycling things is not only environmentally friendly but also economically sound.",
+      "sentence-jp": "物をリサイクルすることは, 環境に優しいだけでなく経済的にも健全である。"
+    }
+  ],
+  "notes": [
+    "only の代わりに merely, simply, just なども使われる。",
+    "全体が主語の場合, 受ける動詞は B に合わせる。"
+  ]
+}

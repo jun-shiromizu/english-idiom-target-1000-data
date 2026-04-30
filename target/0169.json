@@ -1,0 +1,31 @@
+{
+  "number": "0169",
+  "idioms": [
+    "apart from ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜のほかに",
+      "synonyms": [
+        "besides",
+        "in addition to ~",
+        "aside from ~"
+      ],
+      "example-sentence": "Apart from being very friendly to us all, David was also a very talented talker.",
+      "sentence-jp": "デイビッドは私たち全員にとても親切であることのほかに, 話がとても上手な人でもあった。"
+    },
+    {
+      "idiom-jp": "〜を除いては",
+      "synonyms": [
+        "except for ~",
+        "aside from ~"
+      ],
+      "example-sentence": "In the school I entered in America, I hardly knew anybody apart from my host sister.",
+      "sentence-jp": "私がアメリカで入学した学校では, 私はホストシスターを除いてはほとんど誰も知らなかった。"
+    }
+  ],
+  "notes": [
+    "『〜から離れて』の意味でも使う。",
+    "sit apart from each other 『互いに離れて座る』。"
+  ]
+}

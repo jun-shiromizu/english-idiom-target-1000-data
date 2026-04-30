@@ -1,0 +1,20 @@
+{
+  "number": "0158",
+  "idioms": [
+    "not always ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "必ずしも〜ではない",
+      "synonyms": [
+        "not necessarily ~"
+      ],
+      "example-sentence": "Experience tells me that things do not always go the way you want them to.",
+      "sentence-jp": "経験は, 物事は必ずしも私たちが望むようにはいかないことを私に教えてくれる。"
+    }
+  ],
+  "notes": [
+    "『否定語 + 全体を表す語』= 部分否定 となることが多い。",
+    "not both ~ 『両方とも〜とは限らない』, not completely ~ 『完全に〜とは限らない』, not entirely ~ 『まったく〜とは限らない』, not every ~ 『すべて〜とは限らない』, not necessarily ~ 『必ずしも〜とは限らない』, not wholly ~ 『完全に〜とは限らない』。"
+  ]
+}

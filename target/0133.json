@@ -1,0 +1,29 @@
+{
+  "number": "0133",
+  "idioms": [
+    "more or less"
+  ],
+  "means": [
+    {
+      "idiom-jp": "多かれ少なかれ, 程度の差はあれ",
+      "example-sentence": "In a new place, we have to adapt our way of living more or less to the local culture.",
+      "sentence-jp": "新しい場所では, 私たちは地域の文化に合わせて自分たちの生活の仕方を多かれ少なかれ適応させなければならない。"
+    },
+    {
+      "idiom-jp": "ほぼ；おおよそ",
+      "synonyms": [
+        "almost",
+        "just about",
+        "approximately",
+        "about"
+      ],
+      "example-sentence": "It's more or less impossible to calculate accurately the number of refugees worldwide.",
+      "sentence-jp": "世界中の難民の数を正確に算出することはほぼ不可能だ。"
+    }
+  ],
+  "notes": [
+    "名詞・形容詞を修飾する。",
+    "名詞・形容詞のほか, 動詞・副詞を修飾。「おおよそ」の意味では数字や the same とともに使う。",
+    "refugee [refjudi]「難民」"
+  ]
+}

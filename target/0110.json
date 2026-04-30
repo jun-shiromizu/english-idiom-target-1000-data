@@ -1,0 +1,21 @@
+{
+  "number": "0110",
+  "idioms": [
+    "turn A into B"
+  ],
+  "means": [
+    {
+      "idiom-jp": "A を B に(質的に)変える",
+      "synonyms": [
+        "transform A into [to] B",
+        "change A into B"
+      ],
+      "example-sentence": "If we use SNS wisely, it has the power to turn strangers into friends all over the planet.",
+      "sentence-jp": "SNSを賢明に使えば, それには世界中の知らない人たちを友達に変える力がある。"
+    }
+  ],
+  "notes": [
+    "turn into 〜「〜に変わる」の turn は自動詞。into は「質的変化」を表す。",
+    "translate A into B「A を B に翻訳する」"
+  ]
+}

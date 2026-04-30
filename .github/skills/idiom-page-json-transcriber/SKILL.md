@@ -8,7 +8,9 @@ compatibility: 'Requires Python with Pillow and rendered page images in .temp/re
 
 英熟語ターゲット1000のようなスキャン PDF から、1 熟語につき 1 つの JSON を正確に作るための Skill です。
 
-この Skill は OCR の自動抽出を主手段にしません。見開き 2 ページを 1 熟語ごとの画像に分割し、その画像を見て正確に転記する前提で使います。
+この Skill は OCR の自動抽出を使いません。件数が多い場合でも OCR に逃げず、見開き 2 ページを 1 熟語ごとの画像に分割し、その画像を見て正確に転記する前提で使います。
+
+OCR は下書き作成、候補抽出、穴埋め、検算のいずれの目的でも使わないでください。過去に品質の悪い JSON を量産した経緯があるため、この Skill では件数や作業量を理由に OCR を許容しません。
 
 ## When to Use This Skill
 
@@ -35,6 +37,7 @@ compatibility: 'Requires Python with Pillow and rendered page images in .temp/re
 
    - 見開きの説明ページと例文ページの番号を特定する。
    - 既に .temp/rendered/page-XXX.png があるならそれを使う。
+   - 必要ページが未レンダリングなら、OCR ではなく PDF から追加でページ画像を用意する。
 
 3. 1 熟語ごとの画像を作る
 
@@ -72,6 +75,7 @@ compatibility: 'Requires Python with Pillow and rendered page images in .temp/re
 ## Transcription Rules
 
 - OCR の結果で埋めない。必ず画像を見て確定する。
+- 件数が多くても OCR を使わない。作業量は OCR 使用の根拠にならない。
 - 書籍の表記を優先し、勝手に言い換えない。
 - 意味が 1 つでも synonyms や notes は必要なときだけ入れる。
 - notes がない場合は空配列 [] を使う。
@@ -87,7 +91,7 @@ compatibility: 'Requires Python with Pillow and rendered page images in .temp/re
   ページ画像が別解像度なら scripts/prepare_llm_crops.py の blue_row_score 閾値を調整する。
 
 - OCR から直したくなる:
-  この Skill の目的は OCR 補修ではなく、画像ベースでの確定入力であることを優先する。
+   この Skill の目的は OCR 補修ではなく、画像ベースでの確定入力であることを優先する。件数が多くても方針は変えない。
 
 ## Bundled Script
 

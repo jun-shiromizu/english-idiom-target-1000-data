@@ -1,0 +1,17 @@
+{
+  "number": "0112",
+  "idioms": [
+    "remind A of B",
+    "remind A about B"
+  ],
+  "means": [
+    {
+      "idiom-jp": "A に B を思い出させる",
+      "example-sentence": "This song always reminds me of the good old days I enjoyed growing up in the countryside.",
+      "sentence-jp": "この歌はいつも私に田舎ですくすくと育ったときの古きよき時代のことを思い出させる。"
+    }
+  ],
+  "notes": [
+    "remind A to do は「A に…することを気づかせる」, remind A that ... は「A に…であることを気づかせる」。"
+  ]
+}

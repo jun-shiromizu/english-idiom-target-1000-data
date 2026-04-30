@@ -1,0 +1,22 @@
+{
+  "number": "0119",
+  "idioms": [
+    "~ and so on",
+    "~ and so forth"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜など",
+      "synonyms": [
+        "and the rest",
+        "and all the rest of it",
+        "and the like"
+      ],
+      "example-sentence": "When we call something a fruit, we necessarily distinguish it from vegetables, meat, dairy, and so on.",
+      "sentence-jp": "私たちはあるものを果物と呼ぶとき, それを野菜や肉, 乳製品などと必ず区別している。"
+    }
+  ],
+  "notes": [
+    "口語では「その他何でも」の意味で you name it も使われる。"
+  ]
+}

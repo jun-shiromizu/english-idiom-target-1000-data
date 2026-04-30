@@ -1,0 +1,18 @@
+{
+  "number": "0176",
+  "idioms": [
+    "A as well as B"
+  ],
+  "means": [
+    {
+      "idiom-jp": "BだけではなくAも",
+      "example-sentence": "Kento is a fluent speaker of Chinese as well as English.",
+      "sentence-jp": "ケントは英語だけでなく中国語も流ちょうに話す。"
+    }
+  ],
+  "notes": [
+    "not only A but (also) B →177 とは A, B の位置が逆。",
+    "A as well as B 全体が主語の場合は, 動詞は A に一致。",
+    "『B と同じようによく〜な A』の意味もある。"
+  ]
+}

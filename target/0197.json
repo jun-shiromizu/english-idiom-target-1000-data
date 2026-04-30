@@ -1,0 +1,30 @@
+{
+  "number": "0197",
+  "idioms": [
+    "put up ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜を掲げる ; 〜を上げる ; 〜を建てる",
+      "synonyms": [
+        "raise",
+        "lift",
+        "erect",
+        "construct"
+      ],
+      "example-sentence": "A sign was put up in front of the station to advertise the new store.",
+      "sentence-jp": "その新しい店を宣伝するために駅の正面に看板が掲げられた。"
+    },
+    {
+      "idiom-jp": "〜を泊める",
+      "synonyms": [
+        "accommodate"
+      ],
+      "example-sentence": "The business school that was hosting me put me up at a nice hotel near the school.",
+      "sentence-jp": "私を招いてくれたビジネススクールは学校の近くのすばらしいホテルに私を泊まらせてくれた。"
+    }
+  ],
+  "notes": [
+    "①②ともに put ~ up の語順も可。"
+  ]
+}

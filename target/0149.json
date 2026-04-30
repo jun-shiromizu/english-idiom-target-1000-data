@@ -1,0 +1,28 @@
+{
+  "number": "0149",
+  "idioms": [
+    "in general"
+  ],
+  "means": [
+    {
+      "idiom-jp": "一般に",
+      "synonyms": [
+        "as a (general) rule",
+        "generally"
+      ],
+      "example-sentence": "In general, childhood obesity is a problem for rich countries.",
+      "sentence-jp": "一般に, 小児肥満は豊かな国における問題だ。"
+    },
+    {
+      "idiom-jp": "(名詞の後に置いて) 一般の",
+      "synonyms": [
+        "at large"
+      ],
+      "example-sentence": "This study brutally reveals our attitude toward poverty in general in this country.",
+      "sentence-jp": "この研究はこの国の貧困に対する私たちの一般の姿勢を残酷なまでにあらわにしている。"
+    }
+  ],
+  "notes": [
+    "形容詞としての用法。"
+  ]
+}
