@@ -1,0 +1,20 @@
+{
+  "number": "0263",
+  "idioms": [
+    "at first"
+  ],
+  "means": [
+    {
+      "idiom-jp": "最初は",
+      "synonyms": [
+        "at the start",
+        "at the outset"
+      ],
+      "example-sentence": "At first I thought he was joking, but soon I realized he was dead serious.",
+      "sentence-jp": "最初は, 私は彼が冗談を言っていると思ったが, すぐに彼は大まじめだとわかった。"
+    }
+  ],
+  "notes": [
+    "first of all → 334, for the first time → 264 と混同しない。334 は『まず第一に』, 263 は『時の経過の順序』を, 264 は『初体験』を述べる表現。"
+  ]
+}

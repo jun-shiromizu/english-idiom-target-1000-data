@@ -1,0 +1,20 @@
+{
+  "number": "0206",
+  "idioms": [
+    "prior to ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜より前で",
+      "synonyms": [
+        "before"
+      ],
+      "example-sentence": "A sign by the poolside says: \"All users must shower prior to entering the pool.\"",
+      "sentence-jp": "プールサイドのそばの看板には『すべての利用者はプールに入る前にシャワーを浴びなければならない』と書いてある。"
+    }
+  ],
+  "notes": [
+    "prior は, senior, junior などとともにラテン語系の単語。これらの語では『〜より』は than ではなく to ~ で表す。",
+    "『深める』P.196。"
+  ]
+}

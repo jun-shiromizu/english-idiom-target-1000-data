@@ -1,0 +1,33 @@
+{
+  "number": "0299",
+  "idioms": [
+    "give in (~)"
+  ],
+  "means": [
+    {
+      "idiom-jp": "屈服する",
+      "synonyms": [
+        "surrender (to ~)",
+        "yield (to ~)",
+        "submit (to ~)"
+      ],
+      "example-sentence": "The prime minister stated at the meeting that the nation would never give in to terrorism.",
+      "sentence-jp": "首相はこの国は決してテロに屈服しないと会議で述べた。"
+    },
+    {
+      "idiom-jp": "(宅に要〜を)提出する",
+      "synonyms": [
+        "hand in ~",
+        "hand over ~",
+        "turn in ~"
+      ],
+      "example-sentence": "I think you should look over what you've written before giving it in next Monday.",
+      "sentence-jp": "あなたは来週の月曜日に自分の書いたものを提出する前に, それを見直すべきだと思う。"
+    }
+  ],
+  "notes": [
+    "『〜に屈服する』は, give in to ~。",
+    "hand in ~ → 190, hand over ~ → 309, turn in ~ → 404。",
+    "give ~ in の語順も可。"
+  ]
+}

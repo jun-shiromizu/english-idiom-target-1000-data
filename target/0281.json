@@ -1,0 +1,23 @@
+{
+  "number": "0281",
+  "idioms": [
+    "provide A with B"
+  ],
+  "means": [
+    {
+      "idiom-jp": "A に B を供給する",
+      "synonyms": [
+        "supply A with B",
+        "present A with B",
+        "furnish A with B",
+        "endow A with B",
+        "equip A with B"
+      ],
+      "example-sentence": "This book provides readers with information on how to grow various kinds of vegetables.",
+      "sentence-jp": "この本は読者にさまざまな種類の野菜の栽培に関する情報を提供してくれる。"
+    }
+  ],
+  "notes": [
+    "provide B for A の形もある。"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "number": "0293",
+  "idioms": [
+    "care for ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜の世話をする",
+      "synonyms": [
+        "take care of ~"
+      ],
+      "example-sentence": "Linda had to take a few days off last week to care for her elderly father.",
+      "sentence-jp": "リンダは先週, 年老いた父の世話をするために休みを数日とらなければならなかった。"
+    },
+    {
+      "idiom-jp": "(否定文・疑問文・条件文で)〜を好む ; 〜を望む",
+      "example-sentence": "Because Mary doesn't care for bright colors, she always wears dark-colored clothes.",
+      "sentence-jp": "メアリーは明るい色が好きではないので, いつも暗い色の服を着ている。"
+    }
+  ],
+  "notes": []
+}

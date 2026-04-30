@@ -1,0 +1,20 @@
+{
+  "number": "0245",
+  "idioms": [
+    "be concerned about ~",
+    "be concerned for ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜を心配している",
+      "synonyms": [
+        "be anxious about ~"
+      ],
+      "example-sentence": "If you are concerned about your health problem, you should arrange for a medical checkup.",
+      "sentence-jp": "健康上の問題について心配しているのなら, 健康診断の手配をすべきだ。"
+    }
+  ],
+  "notes": [
+    "medical checkup 『健康診断』。"
+  ]
+}

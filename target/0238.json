@@ -1,0 +1,22 @@
+{
+  "number": "0238",
+  "idioms": [
+    "hit on ~",
+    "hit upon ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜を思いつく ; 〜に出くわす",
+      "synonyms": [
+        "think of ~",
+        "come up with ~"
+      ],
+      "example-sentence": "Bill hit on a good answer to the question while he was taking a bath.",
+      "sentence-jp": "ビルはお風呂に入っている間にその問題に対するよい答えを思いついた。"
+    }
+  ],
+  "notes": [
+    "『思いつくもの』が目的語になる。次の 239 と受け身を比べてみよう。",
+    "I hit on a good idea. 『よい考えが浮かんだ』。"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "number": "0225",
+  "idioms": [
+    "agree to ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "(提案・計画・条件など)に同意する",
+      "synonyms": [
+        "consent to ~"
+      ],
+      "example-sentence": "Those who attended the meeting all agreed to the proposal that a new factory be built.",
+      "sentence-jp": "その会議に出席した人たちは皆, 新しい工場を建てるという提案に同意した。"
+    }
+  ],
+  "notes": [
+    "to の代わりに on, about, as to なども使う。",
+    "agree to do ...することに同意する と混同しない。"
+  ]
+}

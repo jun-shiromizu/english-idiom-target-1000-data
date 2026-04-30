@@ -1,0 +1,22 @@
+{
+  "number": "0220",
+  "idioms": [
+    "in particular"
+  ],
+  "means": [
+    {
+      "idiom-jp": "特に",
+      "synonyms": [
+        "especially",
+        "particularly",
+        "not least"
+      ],
+      "example-sentence": "Is there anything in particular you'd like me to mention in the recommendation letter?",
+      "sentence-jp": "推薦状の中であなたが私に触れてほしいことは特に何かありますか。"
+    }
+  ],
+  "notes": [
+    "限定する語句の直後に置かれる。",
+    "recommendation letter 『推薦状』。"
+  ]
+}

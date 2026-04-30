@@ -1,0 +1,20 @@
+{
+  "number": "0235",
+  "idioms": [
+    "let alone ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜は言うまでもなく",
+      "synonyms": [
+        "much [still] less ~"
+      ],
+      "example-sentence": "The old man can hardly remember what he had for breakfast this morning, let alone two days ago.",
+      "sentence-jp": "その老人は2日前は言うまでもなく, 今朝朝食に何を食べたのかもほとんど思い出せない。"
+    }
+  ],
+  "notes": [
+    "通例, 否定文の中で使われる。",
+    "let ~ alone 『〜をそのままにしておく』(= leave ~ alone = 234) と区別する。"
+  ]
+}
