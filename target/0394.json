@@ -1,0 +1,27 @@
+{
+  "number": "0394",
+  "idioms": [
+    "look up ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "(辞書などで)〜を調べる",
+      "example-sentence": "Sota always tries to look up new words in his dictionary whenever they come up.",
+      "sentence-jp": "ソウタは新しい単語が出てくるといつでも辞書でそれらを調べようとしている。"
+    },
+    {
+      "idiom-jp": "(人)を訪ねる",
+      "example-sentence": "Be sure to look us up when you’re in town.",
+      "sentence-jp": "町に来たときにはぜひ私たちを訪ねてください。"
+    },
+    {
+      "idiom-jp": "[通例 be looking up で](景気などが)上向く[好転する]",
+      "example-sentence": "According to the statistics, things seem to be finally looking up.",
+      "sentence-jp": "統計によれば、事態はようやく好転しつつあるように思われる。"
+    }
+  ],
+  "notes": [
+    "①②ともに look ~ up の語順も可。",
+    "look up「見上げる」の文字どおりの意味も。"
+  ]
+}

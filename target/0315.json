@@ -1,0 +1,26 @@
+{
+  "number": "0315",
+  "idioms": [
+    "sit up"
+  ],
+  "means": [
+    {
+      "idiom-jp": "(寝ないで)起きている",
+      "example-sentence": "The mother sat up all night waiting for her son to get home.",
+      "sentence-jp": "その母親は息子の帰宅を待って一晩中起きていた。"
+    },
+    {
+      "idiom-jp": "(寝た状態から)上半身を起こす",
+      "example-sentence": "Suddenly, Hayato stopped snoring, sat up, looked around and went back to sleep.",
+      "sentence-jp": "ハヤトは突然いびきを止め、上半身を起こし、周りを見回して、再び寝た。"
+    },
+    {
+      "idiom-jp": "きちんと座る",
+      "example-sentence": "Sitting up straight with hands joined in his lap, he remained silent for a long time thinking.",
+      "sentence-jp": "彼はひざの上で両手を重ね、背筋を伸ばしてきちんと座り、考え事をしながら長い間静かにしていた。"
+    }
+  ],
+  "notes": [
+    "sit ~ up は「(寝た状態から人の)上半身を起こさせる。この場合の sit は他動詞。」"
+  ]
+}

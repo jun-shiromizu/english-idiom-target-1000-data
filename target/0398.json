@@ -1,0 +1,31 @@
+{
+  "number": "0398",
+  "idioms": [
+    "stand for ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜を意味する、〜の略である",
+      "synonyms": [
+        "represent",
+        "mean",
+        "denote"
+      ],
+      "example-sentence": "WHO stands for the World Health Organization.",
+      "sentence-jp": "WHOは世界保健機関を意味する。"
+    },
+    {
+      "idiom-jp": "[否定文・疑問文で]〜を許容する、〜を我慢する",
+      "synonyms": [
+        "stand",
+        "bear",
+        "tolerate"
+      ],
+      "example-sentence": "The new English teacher told us that she wouldn’t stand for speaking Japanese in class.",
+      "sentence-jp": "新任の英語の先生は、授業中に日本語を話すことを許容するつもりはないと私たちに言った。"
+    }
+  ],
+  "notes": [
+    "①②の意味のほかに「〜を支持する」の意味もある。"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "number": "0392",
+  "idioms": [
+    "live on (~)"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜を常食にする",
+      "example-sentence": "In the world today, a great many people have to live on a very inadequate diet.",
+      "sentence-jp": "今日の世界では、非常に多くの人々が著しく不適切な食事を常食としなければならない。"
+    },
+    {
+      "idiom-jp": "(〜の収入・金額)で生活する",
+      "synonyms": [
+        "live off ~"
+      ],
+      "example-sentence": "Few couples can afford to live on one person’s earnings, especially if they have children.",
+      "sentence-jp": "ほとんどの夫婦は、特に子供がいるなら、1人分の収入で生活する余裕はない。"
+    },
+    {
+      "idiom-jp": "生き続ける",
+      "example-sentence": "The name of this Edo era’s great artist lives on today in many museums around the world.",
+      "sentence-jp": "この江戸時代の偉大な画家の名前は、今日も世界中の多くの美術館で生き続けている。"
+    }
+  ],
+  "notes": [
+    "「(動物が)〜を常食にする」なら feed on ~ → 433 がより一般的。",
+    "live off ~ では「〜から吸い取って生きる」といった非難のニュアンスが込められることがある。",
+    "①②の on は前置詞だが、③の on は「継続」を表す副詞。read on「読み続ける」、talk on「話し続ける」。",
+    "③のときのアクセントは live on。"
+  ]
+}

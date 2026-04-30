@@ -1,0 +1,22 @@
+{
+  "number": "0360",
+  "idioms": [
+    "as to ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜に関して(は)",
+      "synonyms": [
+        "in relation to ~",
+        "with [in] regard to ~",
+        "about",
+        "concerning"
+      ],
+      "example-sentence": "The committee had a heated debate as to whether the construction of the park should be delayed.",
+      "sentence-jp": "委員会は公園の建設を遅らせるべきかということに関して、激しい議論をした。"
+    }
+  ],
+  "notes": [
+    "in relation to ~ → 606、with [in] regard to ~ → 624。"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "number": "0359",
+  "idioms": [
+    "as for ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜について言えば、〜に関する限り",
+      "synonyms": [
+        "as [so] far as ~ be concerned",
+        "for one’s (own) part",
+        "on one’s part"
+      ],
+      "example-sentence": "As for architecture in the city, there are definitely quite a few must-see places.",
+      "sentence-jp": "その都市の中の建築について言えば、間違いなく相当数の必見の場所がある。"
+    }
+  ],
+  "notes": [
+    "as [so] far as ~ be concerned → 706、for one’s (own) part → 351、on one’s part → 352。",
+    "すでに話題になったことに関連した新しいことを持ち出すときに主に使うが、360 の as to ~ が使える場合も多い。"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "number": "0399",
+  "idioms": [
+    "take in ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜を取り入れる；〜を理解する",
+      "synonyms": [
+        "include",
+        "understand"
+      ],
+      "example-sentence": "I often hear Americans take in a third of their calories at restaurants.",
+      "sentence-jp": "アメリカ人はレストランでカロリーの3分の1を取るとよく聞く。"
+    },
+    {
+      "idiom-jp": "〜をだます",
+      "synonyms": [
+        "deceive"
+      ],
+      "example-sentence": "He had a hard time believing her this time because he’d been taken in by her before.",
+      "sentence-jp": "彼は以前彼女にだまされたことがあるので、今回彼女のことを信じるのに苦労した。"
+    },
+    {
+      "idiom-jp": "〜を見物する",
+      "example-sentence": "We decided to take in a few more sights while we were there.",
+      "sentence-jp": "私たちはそこにいる間、さらにいくつかの名所を見物することにした。"
+    }
+  ],
+  "notes": [
+    "この意味では受動態で使われることが多い。",
+    "「予定に取り入れる」の意味から発展した。",
+    "①②③ともに take ~ in の語順も可。"
+  ]
+}

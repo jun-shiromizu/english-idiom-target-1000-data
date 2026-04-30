@@ -1,0 +1,27 @@
+{
+  "number": "0393",
+  "idioms": [
+    "look to ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜のほうを見る；〜に気をつける",
+      "synonyms": [
+        "pay attention to ~",
+        "attend to ~"
+      ],
+      "example-sentence": "When I walked out to the road, I looked to the right and then the left before crossing it.",
+      "sentence-jp": "歩いて道路に出たとき、私は渡る前に右のほうを見てから左を見た。"
+    },
+    {
+      "idiom-jp": "〜に頼る、〜を当てにする",
+      "example-sentence": "In former days, when in doubt, people often looked to magicians for directions.",
+      "sentence-jp": "人々は昔、迷ったときには指示をあおぐために魔術師に頼ることがよくあった。"
+    }
+  ],
+  "notes": [
+    "pay attention to ~ → 100、attend to ~ → 855。",
+    "look to do は「…することを期待する」の意味。",
+    "look to A for B [to do]「A に B を […するように]頼る」の形が多い。"
+  ]
+}

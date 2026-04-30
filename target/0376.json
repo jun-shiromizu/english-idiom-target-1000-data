@@ -1,0 +1,22 @@
+{
+  "number": "0376",
+  "idioms": [
+    "break in (~)"
+  ],
+  "means": [
+    {
+      "idiom-jp": "押し入る；口を挟む",
+      "example-sentence": "From the footprints outside, it was clear the burglar had broken in through the window.",
+      "sentence-jp": "外の足跡から、強盗が窓から押し入ったことは明らかだった。"
+    },
+    {
+      "idiom-jp": "〜を慣らす",
+      "example-sentence": "It’ll take a few days to break in these shoes.",
+      "sentence-jp": "この靴を履き慣らすのに数日かかるだろう。"
+    }
+  ],
+  "notes": [
+    "他動詞として「〜に押し入る」は、break into ~ → 435①。",
+    "break ~ in の語順も可。"
+  ]
+}

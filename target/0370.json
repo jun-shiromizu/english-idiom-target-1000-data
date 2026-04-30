@@ -1,0 +1,21 @@
+{
+  "number": "0370",
+  "idioms": [
+    "do without (~)"
+  ],
+  "means": [
+    {
+      "idiom-jp": "(〜)なしですます",
+      "synonyms": [
+        "go without (~)",
+        "dispense with ~"
+      ],
+      "example-sentence": "It’s too late to go shopping, so let’s do without chicken tonight.",
+      "sentence-jp": "買い物に行くには遅すぎるので、今夜はチキンなしですませよう。"
+    }
+  ],
+  "notes": [
+    "dispense with ~ → 854。",
+    "do [go] without の後の目的語がなく、自動詞的に使われる場合もある。"
+  ]
+}

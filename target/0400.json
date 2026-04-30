@@ -1,0 +1,26 @@
+{
+  "number": "0400",
+  "idioms": [
+    "take on ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜を引き受ける；〜を雇う",
+      "synonyms": [
+        "undertake",
+        "employ"
+      ],
+      "example-sentence": "At the moment, his coworkers seem to be all too busy to take on extra work.",
+      "sentence-jp": "現在のところ、彼の同僚たちは全員忙しすぎて追加の仕事を引き受けることはできないように思われる。"
+    },
+    {
+      "idiom-jp": "(様相・色・性質など)を呈する[帯びる]",
+      "example-sentence": "Since 1936, the torch has taken on a different form for every Olympic relay.",
+      "sentence-jp": "1936年以来、トーチはオリンピックの聖火リレーごとに異なる形を呈している。"
+    }
+  ],
+  "notes": [
+    "take ~ on の語順も可。",
+    "「(競技などで)〜と対戦する」の意味もある。"
+  ]
+}

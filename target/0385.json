@@ -1,0 +1,26 @@
+{
+  "number": "0385",
+  "idioms": [
+    "go off"
+  ],
+  "means": [
+    {
+      "idiom-jp": "出かける、去る；(電灯などが)消える",
+      "example-sentence": "We had to go off to our grandparents’ house for our annual Christmas dinner.",
+      "sentence-jp": "私たちは毎年恒例のクリスマスディナーのために祖父母の家へ出かけなければならなかった。"
+    },
+    {
+      "idiom-jp": "(仕掛けが)作動する；(爆薬が)爆発する；(銃などが)発射される",
+      "synonyms": [
+        "explode",
+        "be fired"
+      ],
+      "example-sentence": "My alarm didn’t go off this morning, so I overslept and was late for school.",
+      "sentence-jp": "今朝、目覚まし時計が作動しなかったので、私は寝過ごして学校に遅刻した。"
+    }
+  ],
+  "notes": [
+    "explode「(〜が)爆発する」。",
+    "be fired「(〜が)発射される」。"
+  ]
+}

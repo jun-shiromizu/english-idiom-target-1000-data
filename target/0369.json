@@ -1,0 +1,30 @@
+{
+  "number": "0369",
+  "idioms": [
+    "do with ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "[通例 could を伴って](口語で)〜があればありがたい",
+      "synonyms": [
+        "could use ~"
+      ],
+      "example-sentence": "To love my neighbors the way the Bible says — that is something I could do with learning about.",
+      "sentence-jp": "聖書が教えるように隣人を愛すること。それは学べばありがたいことだ。"
+    },
+    {
+      "idiom-jp": "[be[have] done with ~ で]〜をすませた；〜と縁を切った",
+      "example-sentence": "As soon as I am done with the dishes, I will do the laundry.",
+      "sentence-jp": "私は皿洗いをすませたらすぐに洗濯をするつもりだ。"
+    },
+    {
+      "idiom-jp": "[what を使った疑問文・否定文で]〜を処理[処置]する",
+      "example-sentence": "When Stephen was in school, his teachers didn’t know what to do with him.",
+      "sentence-jp": "スティーブンの学校時代、彼の先生たちは彼のことをどう扱えばいいのかわからなかった。"
+    }
+  ],
+  "notes": [
+    "could use ~ → 811。",
+    "have A to do with B → 669 との混同を避けたい。"
+  ]
+}

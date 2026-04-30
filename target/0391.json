@@ -1,0 +1,33 @@
+{
+  "number": "0391",
+  "idioms": [
+    "hold up (~)"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜を持ち上げる；〜を支える；持ちこたえる",
+      "synonyms": [
+        "support"
+      ],
+      "example-sentence": "The guard at the parking lot held up his hands high to stop our car.",
+      "sentence-jp": "駐車場の警備員は私たちの車を止めるために高く両手を上げた。"
+    },
+    {
+      "idiom-jp": "〜を遅らせる",
+      "synonyms": [
+        "delay"
+      ],
+      "example-sentence": "We were held up by a traffic jam on the way and couldn’t make it to the meeting in time.",
+      "sentence-jp": "私たちは途中交通渋滞のために遅れ、その会議に間に合わなかった。"
+    },
+    {
+      "idiom-jp": "〜に強盗に入る",
+      "example-sentence": "The bank was held up last night.",
+      "sentence-jp": "昨夜、その銀行は強盗に入られた。"
+    }
+  ],
+  "notes": [
+    "「〜を支える」support。",
+    "①②③ともに hold ~ up の語順も可。①は他動詞の場合。"
+  ]
+}

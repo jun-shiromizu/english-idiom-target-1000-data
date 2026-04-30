@@ -1,0 +1,20 @@
+{
+  "number": "0346",
+  "idioms": [
+    "in theory"
+  ],
+  "means": [
+    {
+      "idiom-jp": "理論上は",
+      "synonyms": [
+        "as a matter of fact"
+      ],
+      "example-sentence": "In theory, it may be so, but in practice, it is not so simple.",
+      "sentence-jp": "理論上はそうかもしれないが、実際にはそれほど単純ではない。"
+    }
+  ],
+  "notes": [
+    "in practice → 628。",
+    "as a matter of fact → 276。"
+  ]
+}

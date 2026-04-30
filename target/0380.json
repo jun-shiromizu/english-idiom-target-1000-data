@@ -1,0 +1,24 @@
+{
+  "number": "0380",
+  "idioms": [
+    "call on ~",
+    "call upon ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "(人)を訪問する",
+      "example-sentence": "Professor Yoshida, could I call on you sometime next week at your office for some advice?",
+      "sentence-jp": "吉田教授、アドバイスをいただきたいので、来週のいつか研究室を訪ねてもよろしいですか。"
+    },
+    {
+      "idiom-jp": "〜に要求する",
+      "example-sentence": "The report calls on the government to consider setting numerical targets on this.",
+      "sentence-jp": "報告書は、これに対しての数値目標の設定を検討するように政府に要求している。"
+    }
+  ],
+  "notes": [
+    "「(場所)に立ち寄る[寄港する]」は、call at ~。",
+    "(call on + 人 + to do [for ~]) が一般的。",
+    "教師が生徒を指名して答えなどを求めるときにも使う。"
+  ]
+}

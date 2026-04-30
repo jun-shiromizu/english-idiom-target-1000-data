@@ -1,0 +1,22 @@
+{
+  "number": "0384",
+  "idioms": [
+    "go by (~)"
+  ],
+  "means": [
+    {
+      "idiom-jp": "(時などが)たつ；通り過ぎる",
+      "example-sentence": "As the day went by, more people came into town wondering what was happening there.",
+      "sentence-jp": "その日が過ぎるにつれ、より多くの人々がそこで何が起きているのかと思いながら町にやってきた。"
+    },
+    {
+      "idiom-jp": "〜の名で通る[知られる]；〜によって行動[判断]する",
+      "example-sentence": "Her real name was Yoshiko, but she usually went by the nickname, Chiko-chan.",
+      "sentence-jp": "彼女の本当の名前はヨシコだったが、彼女はたいていチコチャンというニックネームで知られていた。"
+    }
+  ],
+  "notes": [
+    "by は副詞。",
+    "②のときのアクセントは go by ~。"
+  ]
+}

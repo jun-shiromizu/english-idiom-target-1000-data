@@ -1,0 +1,28 @@
+{
+  "number": "0379",
+  "idioms": [
+    "call for ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜を必要とする、〜を求める",
+      "synonyms": [
+        "require",
+        "demand",
+        "need"
+      ],
+      "example-sentence": "The situation is extremely serious and calls for immediate action.",
+      "sentence-jp": "状況は極めて深刻で、迅速な行動を必要としている。"
+    },
+    {
+      "idiom-jp": "主に英 (人)を誘い[迎え]に行く；(物)を取りに行く",
+      "example-sentence": "I should have called for you at eight as I’d promised, but I overslept.",
+      "sentence-jp": "私は約束したとおり8時にあなたを迎えに行くべきだったが、寝過ごしてしまった。"
+    }
+  ],
+  "notes": [
+    "人以外が主語になることも多い。",
+    "call for + 人 + to do は「人に…するよう求める」(= call on [upon] ~ to do → 380②)。",
+    "英では「天気予報で〜を予報する」の意味でも使われる。"
+  ]
+}

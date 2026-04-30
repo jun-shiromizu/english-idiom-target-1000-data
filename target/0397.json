@@ -1,0 +1,29 @@
+{
+  "number": "0397",
+  "idioms": [
+    "stand by (~)"
+  ],
+  "means": [
+    {
+      "idiom-jp": "傍観する；待機する",
+      "example-sentence": "Tom just stood by without doing anything to help her pick out a gift.",
+      "sentence-jp": "トムは彼女が贈り物を選ぶ手助けは何もせず、ただ傍観していた。"
+    },
+    {
+      "idiom-jp": "〜を支持[擁護]する；(約束など)を守る",
+      "synonyms": [
+        "support",
+        "stand up for ~",
+        "stand for ~"
+      ],
+      "example-sentence": "My parents said that they would stand by me no matter what decision I made.",
+      "sentence-jp": "私の両親は私がどんな決定をしても私を擁護すると言った。"
+    }
+  ],
+  "notes": [
+    "stand up for ~、stand for ~ → 398。",
+    "「〜のそばに立つ」という文字どおりの意味にもなる。",
+    "by は前置詞。",
+    "②のときのアクセントは stand by ~。"
+  ]
+}

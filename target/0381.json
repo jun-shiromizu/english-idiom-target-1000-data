@@ -1,0 +1,30 @@
+{
+  "number": "0381",
+  "idioms": [
+    "come across (~)"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜を偶然見つける、〜に偶然出会う",
+      "synonyms": [
+        "run across ~",
+        "run into ~"
+      ],
+      "example-sentence": "Readers often remember where on the page they came across a particular passage.",
+      "sentence-jp": "読者はしばしば、ページのどこで特定の一節を見つけたのか覚えている。"
+    },
+    {
+      "idiom-jp": "(考えなどが)(相手に)伝わる[理解される]",
+      "synonyms": [
+        "get across"
+      ],
+      "example-sentence": "Her points came across very well as she spoke, so we really enjoyed her talk.",
+      "sentence-jp": "彼女が話をすると彼女の言いたいことがとてもよく伝わり、私たちは本当に彼女の話を楽しんだ。"
+    }
+  ],
+  "notes": [
+    "run across ~ → 449①、run into ~ → 434。",
+    "「〜を横切ってやって来る」という文字どおりの意味もある。",
+    "②のときのアクセントは come across。"
+  ]
+}

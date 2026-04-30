@@ -1,0 +1,23 @@
+{
+  "number": "0309",
+  "idioms": [
+    "hand over ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜を引き渡す；〜を手渡す",
+      "synonyms": [
+        "hand in ~",
+        "give in ~",
+        "turn in ~"
+      ],
+      "example-sentence": "He wants to hand over the command of the factory to his son as soon as possible.",
+      "sentence-jp": "彼はできるだけ早く息子に工場の指揮権を引き渡したいと思っている。"
+    }
+  ],
+  "notes": [
+    "hand ~ over の語順も可。",
+    "公的な譲渡などに使われることが多い。",
+    "hand in ~ → 190、give in ~ → 299②、turn in ~ → 404①。"
+  ]
+}

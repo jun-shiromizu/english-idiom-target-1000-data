@@ -1,0 +1,21 @@
+{
+  "number": "0327",
+  "idioms": [
+    "be indispensable to ~",
+    "be indispensable for ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜にとって不可欠である",
+      "synonyms": [
+        "dispense with ~"
+      ],
+      "example-sentence": "As a longtime worker, Jim was indispensable to a small company like my father’s.",
+      "sentence-jp": "長く勤めてきた人として、ジムは私の父の会社のような小さい会社にとっては不可欠な人物だった。"
+    }
+  ],
+  "notes": [
+    "to は基本的な「生存・維持」に不可欠、for は「目的」にとって不可欠な場合に使うとされる。",
+    "dispense with ~「〜なしですます」→ 854。"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "number": "0386",
+  "idioms": [
+    "go on (~)"
+  ],
+  "means": [
+    {
+      "idiom-jp": "(状況などが)続く；(時間が)過ぎる",
+      "example-sentence": "Colombia’s civil war has been going on for many decades.",
+      "sentence-jp": "コロンビアの内戦は何十年も続いている。"
+    },
+    {
+      "idiom-jp": "[通例 be going on で]起こる、行われる",
+      "example-sentence": "I knew something was going on under the surface but couldn’t tell for sure what it was.",
+      "sentence-jp": "私は水面下で何かが起こっているのは知っていたが、それが何であるのか正確にはわからなかった。"
+    },
+    {
+      "idiom-jp": "(旅行など)に出かける",
+      "example-sentence": "I’m going on my first trip abroad next month, and I need some advice.",
+      "sentence-jp": "私は来月初めての海外旅行に出かける予定なので、アドバイスを必要としています。"
+    }
+  ],
+  "notes": [
+    "「(〜を)続ける」の意味もあり、後に名詞が続けば go on with + 名詞、動詞が続けば go on + doing になる。",
+    "go on to do は「さらに続けて…(別のこと)をする」の意味。",
+    "journey, trip, errand など目的語となる名詞は限定されている。"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "number": "0388",
+  "idioms": [
+    "go over ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜に詳細に目を通す、〜を調べる",
+      "synonyms": [
+        "search",
+        "examine"
+      ],
+      "example-sentence": "My father’s going to go over the whole document to make sure it is perfect.",
+      "sentence-jp": "私の父は文書全体が完璧であることを確かめるためにそれに詳細に目を通すつもりだ。"
+    },
+    {
+      "idiom-jp": "〜を復習する；〜を繰り返す",
+      "synonyms": [
+        "review",
+        "repeat"
+      ],
+      "example-sentence": "Masato went over what he’d learned the night before the exam.",
+      "sentence-jp": "マサトは試験前夜に学習したことを復習した。"
+    }
+  ],
+  "notes": [
+    "look over ~ → 193 は「〜を(ざっと)調べる」。",
+    "「〜を越えていく」の文字どおりの意味もある。"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "number": "0395",
+  "idioms": [
+    "put out ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "(火・明かりなど)を消す",
+      "synonyms": [
+        "extinguish"
+      ],
+      "example-sentence": "It was some time before the firefighters put out the forest fire.",
+      "sentence-jp": "消防士たちが森林火災を消すまでにはしばらく時間がかかった。"
+    },
+    {
+      "idiom-jp": "〜を出す",
+      "example-sentence": "Car manufacturers around the world put out new models at least once a year.",
+      "sentence-jp": "世界中の自動車メーカーは少なくとも年に1回、新型車を出す。"
+    }
+  ],
+  "notes": [
+    "①②ともに put ~ out の語順も可。",
+    "「〜を外に出す」という文字どおりの意味もある。"
+  ]
+}
