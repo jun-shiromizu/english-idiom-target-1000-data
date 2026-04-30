@@ -1,0 +1,20 @@
+{
+  "number": "0761",
+  "idioms": [
+    "as long as ...",
+    "so long as ..."
+  ],
+  "means": [
+    {
+      "idiom-jp": "(条件・時間的限度)…である限り",
+      "synonyms": [
+        "insofar as ..."
+      ],
+      "example-sentence": "I don’t mind what time you come to the office as long as it is before 11 a.m.",
+      "sentence-jp": "午前11時前であれば、あなたは何時に会社に来てもかまいません。"
+    }
+  ],
+  "notes": [
+    "… に期間を表す語句がくる(for) as long as ~ は「〜もの長い間」と驚きを表す意味になり、(as many [much] as ~ と同じ)。また、「〜と同じ長さの」という文字どおりの意味にもなる。"
+  ]
+}

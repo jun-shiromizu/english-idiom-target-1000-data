@@ -1,0 +1,20 @@
+{
+  "number": "0741",
+  "idioms": [
+    "be forced to do"
+  ],
+  "means": [
+    {
+      "idiom-jp": "やむなく…する",
+      "synonyms": [
+        "be compelled to do",
+        "be obliged to do"
+      ],
+      "example-sentence": "Facing strong opposition from the public, the government was forced to rethink the bill.",
+      "sentence-jp": "国民からの激しい反対に直面して、政府はやむなくその法案を見直した。"
+    }
+  ],
+  "notes": [
+    "obliged < compelled < forced の順で強制の意味が強くなる。"
+  ]
+}

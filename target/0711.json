@@ -1,0 +1,21 @@
+{
+  "number": "0711",
+  "idioms": [
+    "if it were not for ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "もし〜がなければ",
+      "synonyms": [
+        "but for ~",
+        "except for ~",
+        "without"
+      ],
+      "example-sentence": "If it were not for music, our lives would be dull and boring.",
+      "sentence-jp": "もし音楽がなければ、私たちの生活は退屈でつまらないだろう。"
+    }
+  ],
+  "notes": [
+    "「もし〜がなかったならば」と過去について仮定する場合は、if it had not been for ~。やや文語調の形として、それぞれ were it not for ~, had it not been for ~ もある。"
+  ]
+}

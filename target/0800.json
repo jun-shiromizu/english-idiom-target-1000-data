@@ -1,0 +1,16 @@
+{
+  "number": "0800",
+  "idioms": [
+    "go to the polls"
+  ],
+  "means": [
+    {
+      "idiom-jp": "投票に行く",
+      "example-sentence": "The Japanese go to the polls to vote for the members of the Upper House every three years.",
+      "sentence-jp": "日本人は3年ごとに参議院議員を選ぶための投票に行く。"
+    }
+  ],
+  "notes": [
+    "the polls は「投票(所)」の意味。単数形の poll は「世論調査；投票数」。"
+  ]
+}

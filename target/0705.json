@@ -1,0 +1,21 @@
+{
+  "number": "0705",
+  "idioms": [
+    "as it is"
+  ],
+  "means": [
+    {
+      "idiom-jp": "(通例、仮定法的な表現の直後で)実際のところは",
+      "example-sentence": "Outwardly, Sam looked happy, but as it was, he was deeply concerned about his mother’s condition.",
+      "sentence-jp": "見たところサムは楽しそうに見えたが、実際は彼の母親の体調を非常に心配していた。"
+    },
+    {
+      "idiom-jp": "(事物が)あるがままの[に]",
+      "example-sentence": "The police told the family to leave the room as it was for the investigation.",
+      "sentence-jp": "警察はその家族に、捜査のために部屋をそのままにしておくように言った。"
+    }
+  ],
+  "notes": [
+    "主語と時制により、it と is は自在に変化する。as it was, as they are [were] など。"
+  ]
+}

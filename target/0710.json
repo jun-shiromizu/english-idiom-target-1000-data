@@ -1,0 +1,27 @@
+{
+  "number": "0710",
+  "idioms": [
+    "if only ..."
+  ],
+  "means": [
+    {
+      "idiom-jp": "…でありさえすれば",
+      "synonyms": [
+        "only if ..."
+      ],
+      "example-sentence": "Lily said that she would prefer a larger home if only her family could afford it.",
+      "sentence-jp": "リリーは家族に金銭的余裕がありさえすれば、より大きい家のほうがいいと言った。"
+    },
+    {
+      "idiom-jp": "(現在・未来の願望を表して)…でさえあればなあ",
+      "synonyms": [
+        "I wish ..."
+      ],
+      "example-sentence": "If only I could make them understand my viewpoint.",
+      "sentence-jp": "彼らに私の視点を理解させることができさえすればいいのに。"
+    }
+  ],
+  "notes": [
+    "if only because ... は「…だけが理由だとしても」の意味。if only の節だけで独立して用いることが多い。節の中は仮定法の動詞を用いる。"
+  ]
+}

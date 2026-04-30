@@ -1,0 +1,16 @@
+{
+  "number": "0729",
+  "idioms": [
+    "It is (high) time (that) ..."
+  ],
+  "means": [
+    {
+      "idiom-jp": "(とっくに)…してよいころだ。",
+      "example-sentence": "It is high time that I bought a pair of new shoes.",
+      "sentence-jp": "私はもういい加減に新しい靴を買ってもよいころだ。"
+    }
+  ],
+  "notes": [
+    "that 節の中は仮定法過去(単数 be 動詞では was が普通)を使うのが一般的。It is about time (that) ... は「そろそろ…してよいころだ」の意味。"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "number": "0724",
+  "idioms": [
+    "hardly ~ when ...",
+    "hardly ~ before ..."
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜するかしないうちに…",
+      "synonyms": [
+        "... as soon as ~",
+        "no sooner ~ than ..."
+      ],
+      "example-sentence": "Hardly had we reached the cottage when it began to rain.",
+      "sentence-jp": "私たちが山小屋に到着するかしないうちに雨が降り始めた。"
+    }
+  ],
+  "notes": [
+    "hardly のほかに scarcely, barely も使われる。hardly [scarcely / barely] が文頭に出れば、その後の語順は必ず倒置形(例文)。"
+  ]
+}

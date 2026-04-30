@@ -1,0 +1,21 @@
+{
+  "number": "0775",
+  "idioms": [
+    "inasmuch as ...",
+    "in as much as ..."
+  ],
+  "means": [
+    {
+      "idiom-jp": "…だから",
+      "synonyms": [
+        "because",
+        "since"
+      ],
+      "example-sentence": "Giving people gifts is a pleasure for me, inasmuch as it also makes me happy to see people smile.",
+      "sentence-jp": "人がにっこりするのを見ると私もうれしくなるので、人に贈り物をすることは私にとって喜びだ。"
+    }
+  ],
+  "notes": [
+    "古風な表現であるが、法律の文章などには頻出する。inasmuch as とつづることが圧倒的に多い。"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "number": "0767",
+  "idioms": [
+    "in case ..."
+  ],
+  "means": [
+    {
+      "idiom-jp": "主に米 もし…ならば",
+      "synonyms": [
+        "if"
+      ],
+      "example-sentence": "In case you have any questions, contact me anytime.",
+      "sentence-jp": "もし何か質問があるなら、いつでも私に連絡しなさい。"
+    },
+    {
+      "idiom-jp": "主に英 …するといけないから、…に備えて",
+      "example-sentence": "Father told us to take a map with us in case we got lost.",
+      "sentence-jp": "父は私たちに、迷うといけないから地図を持って行くように言った。"
+    }
+  ],
+  "notes": [
+    "in case of ~ は「〜の場合には」の意味。just in case (独立句) は「万一に備えて」の意味。"
+  ]
+}

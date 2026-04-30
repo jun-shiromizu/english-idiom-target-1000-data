@@ -1,0 +1,20 @@
+{
+  "number": "0723",
+  "idioms": [
+    "not so much A as B"
+  ],
+  "means": [
+    {
+      "idiom-jp": "A というより B",
+      "synonyms": [
+        "not so much A but B",
+        "B rather than A"
+      ],
+      "example-sentence": "He is not so much a scholar as a journalist.",
+      "sentence-jp": "彼は学者というよりジャーナリストだ。"
+    }
+  ],
+  "notes": [
+    "not A so much as B の語順も可。"
+  ]
+}

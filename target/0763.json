@@ -1,0 +1,16 @@
+{
+  "number": "0763",
+  "idioms": [
+    "so that ~ can do"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜が…できるように",
+      "example-sentence": "The students asked their teacher to speak more slowly so that they could understand her.",
+      "sentence-jp": "生徒たちは、彼らが先生の言うことを理解できるように、もっとゆっくり話してくれるよう先生に頼んだ。"
+    }
+  ],
+  "notes": [
+    "that はよく省略される。that 節内の助動詞は will も多く使われ、may は今はあまり使われない。否定では cannot, will not となるが、lest 〜 (should) do も使われる。"
+  ]
+}
