@@ -1,0 +1,17 @@
+{
+  "number": "0686",
+  "idioms": [
+    "would rather do (than ~)",
+    "had rather do (than ~)"
+  ],
+  "means": [
+    {
+      "idiom-jp": "(〜するよりも)むしろ…したい",
+      "example-sentence": "Twenty years on, John says he would rather eat Japanese food than any other kind.",
+      "sentence-jp": "あれから20年たって、ジョンはほかのどんなものよりもむしろ日本食を食べたいと言っている。"
+    }
+  ],
+  "notes": [
+    "had よりも would を使うのが普通。rather の後に節を続けることもできる。その場合、節の中は仮定法過去(過去時制では仮定法過去完了)を使う。"
+  ]
+}

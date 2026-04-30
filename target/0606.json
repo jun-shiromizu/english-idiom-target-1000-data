@@ -1,0 +1,23 @@
+{
+  "number": "0606",
+  "idioms": [
+    "in relation to ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜と比べて；〜に関連して",
+      "synonyms": [
+        "relative to ~",
+        "as to ~",
+        "with [in] regard to ~",
+        "as regards ~",
+        "with reference [respect] to ~"
+      ],
+      "example-sentence": "The population of Native Americans has declined in relation to immigrants.",
+      "sentence-jp": "アメリカ先住民の人口は移民と比べて減少している。"
+    }
+  ],
+  "notes": [
+    "やや大げさな表現。「〜に関連して」は about, concerning などでも代用できる。"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "number": "0692",
+  "idioms": [
+    "much less ~",
+    "still less ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "(否定文中で)まして〜はない",
+      "synonyms": [
+        "let alone ~"
+      ],
+      "example-sentence": "Most of my friends cannot read Spanish, much less speak it with fluency.",
+      "sentence-jp": "私の友人のほとんどはスペイン語を読めない。ましてや流ちょうに話すことなんてできない。"
+    }
+  ],
+  "notes": [
+    "肯定文中で「まして〜は(いっそう)そうだ」は、much [still] more ~ と言うが、こちらはあまり使われない。"
+  ]
+}

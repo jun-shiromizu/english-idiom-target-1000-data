@@ -1,0 +1,19 @@
+{
+  "number": "0625",
+  "idioms": [
+    "in part"
+  ],
+  "means": [
+    {
+      "idiom-jp": "一部には；幾分(かは)",
+      "synonyms": [
+        "partly"
+      ],
+      "example-sentence": "This new research of ours is special in part because of the large amount of data collected.",
+      "sentence-jp": "私たちのこの新しい研究は、1つには収集された大量のデータという点で特別だ。"
+    }
+  ],
+  "notes": [
+    "例文の in part は、because of 以下の句全体を修飾している。"
+  ]
+}

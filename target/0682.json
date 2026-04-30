@@ -1,0 +1,20 @@
+{
+  "number": "0682",
+  "idioms": [
+    "in itself"
+  ],
+  "means": [
+    {
+      "idiom-jp": "それ自体では、本来は",
+      "synonyms": [
+        "in and of itself",
+        "as such"
+      ],
+      "example-sentence": "Time has no value in itself; the value lies in how we make use of it.",
+      "sentence-jp": "時間はそれ自体では何の価値もない。私たちが時間をどのように活用するかということに価値がある。"
+    }
+  ],
+  "notes": [
+    "指すものが複数の場合には in themselves となる。"
+  ]
+}

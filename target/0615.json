@@ -1,0 +1,21 @@
+{
+  "number": "0615",
+  "idioms": [
+    "for lack of ~",
+    "for want of ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜がない[不足している]ために",
+      "synonyms": [
+        "through lack of ~",
+        "from (the) want of ~"
+      ],
+      "example-sentence": "Many millions of people worldwide tend to get sick for lack of access to clean drinking water.",
+      "sentence-jp": "世界中で何百万もの人々がきれいな飲み水の入手方法がないために病気になる傾向がある。"
+    }
+  ],
+  "notes": [
+    "lack のほうがより一般的。"
+  ]
+}
