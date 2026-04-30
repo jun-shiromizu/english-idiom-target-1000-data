@@ -1,0 +1,20 @@
+{
+  "number": "0497",
+  "idioms": [
+    "prohibit A from B"
+  ],
+  "means": [
+    {
+      "idiom-jp": "A(人)に B を禁止する",
+      "synonyms": [
+        "forbid A from B"
+      ],
+      "example-sentence": "The new rules at the museum prohibited visitors from smoking in the building.",
+      "sentence-jp": "その博物館の新たな規則は来館者に建物内での喫煙を禁止した。"
+    }
+  ],
+  "notes": [
+    "B は doing。『(人)が…するのを妨げる』の意味も。",
+    "法律・規則で公的に『禁止する』ときに主に使う。"
+  ]
+}

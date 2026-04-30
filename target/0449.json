@@ -1,0 +1,26 @@
+{
+  "number": "0449",
+  "idioms": [
+    "run across ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜を偶然見つける、〜に偶然出会う",
+      "synonyms": [
+        "run into ~",
+        "come across ~",
+        "stumble across [on/upon] ~"
+      ],
+      "example-sentence": "Helen happened to run across some old photos while cleaning her desk drawers.",
+      "sentence-jp": "ヘレンは机の引き出しを掃除しているときに何枚かの古い写真を偶然見つけた。"
+    },
+    {
+      "idiom-jp": "〜を走って横切る",
+      "example-sentence": "Yuka’s cat, which had been asleep on a bench, woke up suddenly and ran across the yard.",
+      "sentence-jp": "ユカの猫はベンチで寝ていたが、突然目を覚まして庭を走って横切った。"
+    }
+  ],
+  "notes": [
+    "run into ~ → 434、come across ~ → 381①。"
+  ]
+}

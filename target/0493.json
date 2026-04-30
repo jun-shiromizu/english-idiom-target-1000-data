@@ -1,0 +1,20 @@
+{
+  "number": "0493",
+  "idioms": [
+    "liken A to B"
+  ],
+  "means": [
+    {
+      "idiom-jp": "A を B にたとえる",
+      "synonyms": [
+        "compare A to [with] B"
+      ],
+      "example-sentence": "Plutarch had a gloomy image of old age, likening it to autumn.",
+      "sentence-jp": "プルタルコスは老齢に陰鬱なイメージを持っており、それを秋にたとえた。"
+    }
+  ],
+  "notes": [
+    "compare A to [with] B → 486。",
+    "Plutarch『プルタルコス(ローマ時代のギリシア人哲学者・著述家)』。"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "number": "0442",
+  "idioms": [
+    "derive from ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜に由来する、〜から出ている",
+      "example-sentence": "The English word “cent” derives from the Latin word centum.",
+      "sentence-jp": "英語の単語 cent はラテン語の centum に由来する。"
+    }
+  ],
+  "notes": [
+    "derive A from B は『B から A を得ている[推論する]』。この場合の derive は他動詞。"
+  ]
+}

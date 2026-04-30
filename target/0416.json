@@ -1,0 +1,26 @@
+{
+  "number": "0416",
+  "idioms": [
+    "all but ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜も同然、ほとんど〜",
+      "synonyms": [
+        "almost",
+        "just about ~"
+      ],
+      "example-sentence": "He was all but broke after shopping at the department store yesterday.",
+      "sentence-jp": "昨日デパートで買い物をした後、彼は一文無しも同然だった。"
+    },
+    {
+      "idiom-jp": "〜以外すべて",
+      "example-sentence": "All but Peter were unable to get to class on time because the bus was not running.",
+      "sentence-jp": "ピーター以外の全員はバスが動いていなかったので授業に時間どおりには着けなかった。"
+    }
+  ],
+  "notes": [
+    "副詞句として働き、形容詞や動詞が続く。",
+    "but は前置詞(= except)で、名詞や代名詞が続く。"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "number": "0494",
+  "idioms": [
+    "keep A from B"
+  ],
+  "means": [
+    {
+      "idiom-jp": "A に B をさせない、A を B から守る",
+      "synonyms": [
+        "prevent A from B"
+      ],
+      "example-sentence": "When she appeared at the door, I found it hard to keep my voice from rising in a happy shout.",
+      "sentence-jp": "彼女が戸口に現れたとき、私は自分の声がうれしい叫びで高くなるのを抑えるのが難しかった。"
+    }
+  ],
+  "notes": [
+    "prevent A from B → 11。",
+    "この from は『抑制・防止』を意味し、495・496・497 も同じ用法。"
+  ]
+}

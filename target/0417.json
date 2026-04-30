@@ -1,0 +1,25 @@
+{
+  "number": "0417",
+  "idioms": [
+    "at length"
+  ],
+  "means": [
+    {
+      "idiom-jp": "詳細に；長々と",
+      "example-sentence": "We discussed at length the plan for the coming school festival.",
+      "sentence-jp": "私たちは来る学園祭の計画を詳細に話し合った。"
+    },
+    {
+      "idiom-jp": "とうとう、ついに",
+      "synonyms": [
+        "at last",
+        "eventually"
+      ],
+      "example-sentence": "At length the door opened and a young woman came in.",
+      "sentence-jp": "とうとうドアが開き、若い女性が入ってきた。"
+    }
+  ],
+  "notes": [
+    "length に great, some などの形容詞が付くことも多い。lie at full length は『長々と寝そべる』。"
+  ]
+}

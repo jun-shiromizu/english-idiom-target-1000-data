@@ -1,0 +1,26 @@
+{
+  "number": "0407",
+  "idioms": [
+    "meet with ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜を受ける、〜を経験する",
+      "synonyms": [
+        "experience",
+        "undergo"
+      ],
+      "example-sentence": "The proposals met with a lot of criticism at the annual meeting of the stockholders.",
+      "sentence-jp": "その提案は年次株主総会で多くの批判を受けた。"
+    },
+    {
+      "idiom-jp": "主に米 〜と(約束して)会う、〜と会見する",
+      "synonyms": [
+        "meet"
+      ],
+      "example-sentence": "The researcher traveled to farming villages and met with groups of local mothers.",
+      "sentence-jp": "その研究者は農村へ行き、地元の母親たちのグループと会った。"
+    }
+  ],
+  "notes": []
+}

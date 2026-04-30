@@ -1,0 +1,24 @@
+{
+  "number": "0401",
+  "idioms": [
+    "take to ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "(習慣的に)〜を始める；〜にふける",
+      "example-sentence": "Tom took to running long distances in an attempt to lose some weight.",
+      "sentence-jp": "トムは体重を落とそうと長距離のランニングを始めた。"
+    },
+    {
+      "idiom-jp": "〜を好きになる",
+      "synonyms": [
+        "hit it off with ~"
+      ],
+      "example-sentence": "My sister took to her new teacher as soon as she met her.",
+      "sentence-jp": "私の妹は新任の先生に会うとすぐに彼女のことを好きになった。"
+    }
+  ],
+  "notes": [
+    "hit it off with ~ → 827。"
+  ]
+}

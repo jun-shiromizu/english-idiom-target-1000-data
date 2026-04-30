@@ -1,0 +1,26 @@
+{
+  "number": "0410",
+  "idioms": [
+    "run over (~)"
+  ],
+  "means": [
+    {
+      "idiom-jp": "(車が)〜をひく",
+      "example-sentence": "Our neighbor’s cat was nearly run over by a car yesterday.",
+      "sentence-jp": "私たちの隣人の猫は昨日、もう少しで車にひかれるところだった。"
+    },
+    {
+      "idiom-jp": "(〜から)あふれる",
+      "synonyms": [
+        "overflow"
+      ],
+      "example-sentence": "I was so absorbed in a book that I didn’t realize the bath was almost beginning to run over.",
+      "sentence-jp": "私は本に夢中になっていたので、風呂があふれそうになっていることに気がつかなかった。"
+    }
+  ],
+  "notes": [
+    "run ~ over の語順も可。",
+    "英では、代名詞の場合でも run over it の形が可能。",
+    "「〜を復習する；〜を繰り返す」の意味もある(= go over ~ → 388②)。"
+  ]
+}

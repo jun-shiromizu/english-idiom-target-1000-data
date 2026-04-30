@@ -1,0 +1,20 @@
+{
+  "number": "0424",
+  "idioms": [
+    "admit to ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜を認める[告白する]",
+      "synonyms": [
+        "confess"
+      ],
+      "example-sentence": "Wherever you are, it’s never fun to admit to having done something embarrassing.",
+      "sentence-jp": "どこにいようと、何か恥ずかしいことをしてしまったことを認めるのは決して楽しいことではない。"
+    }
+  ],
+  "notes": [
+    "同じ意味を表すのに、admit を単独で使うことも多い(その場合は他動詞)。",
+    "admit A to B は『A を B に収容する』の意味。"
+  ]
+}

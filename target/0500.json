@@ -1,0 +1,16 @@
+{
+  "number": "0500",
+  "idioms": [
+    "exchange A for B"
+  ],
+  "means": [
+    {
+      "idiom-jp": "A を B と交換する",
+      "example-sentence": "Everyone wants money because you can exchange money for whatever you want or need.",
+      "sentence-jp": "誰もがお金を欲しいものや必要なもの何とでも交換することができるので、お金を欲しがっている。"
+    }
+  ],
+  "notes": [
+    "物と物ではなく『A を B(人)と交換する』なら、exchange A (複数名詞) + with + B) となる。"
+  ]
+}

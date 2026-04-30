@@ -1,0 +1,26 @@
+{
+  "number": "0420",
+  "idioms": [
+    "by way of ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜経由で",
+      "synonyms": [
+        "via",
+        "through"
+      ],
+      "example-sentence": "There are pluses and minuses for us being connected by way of the worldwide internet.",
+      "sentence-jp": "私たちが世界規模のインターネット経由でつながっていることにはプラス面とマイナス面がある。"
+    },
+    {
+      "idiom-jp": "〜として、〜のつもりで(の)",
+      "synonyms": [
+        "as a means of ~"
+      ],
+      "example-sentence": "By way of apology for the rudeness, the shop owner offered me a dessert on the house.",
+      "sentence-jp": "失礼のおわびとして、その店のオーナーは店のおごりで私にデザートを提供してくれた。"
+    }
+  ],
+  "notes": []
+}

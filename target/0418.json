@@ -1,0 +1,22 @@
+{
+  "number": "0418",
+  "idioms": [
+    "next to ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "(場所・位置)〜の次の[に]",
+      "example-sentence": "The coffee shop was located just next to the railroad station.",
+      "sentence-jp": "喫茶店は鉄道駅のすぐ隣に位置していた。"
+    },
+    {
+      "idiom-jp": "[否定を表す語の前に置いて]ほとんど〜",
+      "synonyms": [
+        "almost"
+      ],
+      "example-sentence": "I’ve heard of Chad but know next to nothing about it.",
+      "sentence-jp": "私はチャドという国のことを聞いたことはあるが、その国についてはほとんど何も知らない。"
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,25 @@
+{
+  "number": "0435",
+  "idioms": [
+    "break into ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜に侵入する",
+      "example-sentence": "It looked like someone had broken into our office, so we called the police.",
+      "sentence-jp": "誰かが私たちの会社に侵入したようだったので、私たちは警察に電話した。"
+    },
+    {
+      "idiom-jp": "急に〜をしだす",
+      "synonyms": [
+        "burst into ~"
+      ],
+      "example-sentence": "He broke into a sprint when walking along the street.",
+      "sentence-jp": "彼は通りを歩いていたとき、急に全速力で走りだした。"
+    }
+  ],
+  "notes": [
+    "自動詞として『侵入する』は、break in → 376①。",
+    "burst into ~ → 437。"
+  ]
+}

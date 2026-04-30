@@ -1,0 +1,28 @@
+{
+  "number": "0404",
+  "idioms": [
+    "turn in ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜を提出する",
+      "synonyms": [
+        "submit",
+        "hand in ~",
+        "give in ~",
+        "hand over ~"
+      ],
+      "example-sentence": "Please don’t forget to turn in your report when you come back to the office tomorrow.",
+      "sentence-jp": "明日会社に戻ったら、忘れずに報告書を提出してください。"
+    },
+    {
+      "idiom-jp": "〜を引き渡す；〜を返却する",
+      "example-sentence": "If you find a wallet on the ground, you’re supposed to turn it in to the police.",
+      "sentence-jp": "もしあなたが地面に財布を見つけたら、警察にそれを届けなければならない。"
+    }
+  ],
+  "notes": [
+    "①②ともに turn ~ in の語順も可。",
+    "hand in ~ → 190、give in ~ → 299②、hand over ~ → 309。"
+  ]
+}

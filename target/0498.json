@@ -1,0 +1,16 @@
+{
+  "number": "0498",
+  "idioms": [
+    "order A from B"
+  ],
+  "means": [
+    {
+      "idiom-jp": "B に A を注文する",
+      "example-sentence": "After reading a comment on the book, I decided to order it from an online bookstore.",
+      "sentence-jp": "その本に関する批評を読んだ後、私はオンライン書店にそれを注文することに決めた。"
+    }
+  ],
+  "notes": [
+    "前置詞が to ではなく from である点に特に注目しよう。"
+  ]
+}

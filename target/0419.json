@@ -1,0 +1,26 @@
+{
+  "number": "0419",
+  "idioms": [
+    "on end"
+  ],
+  "means": [
+    {
+      "idiom-jp": "連続して",
+      "synonyms": [
+        "in a row",
+        "in succession"
+      ],
+      "example-sentence": "During the rainy season, it continues to rain for days on end.",
+      "sentence-jp": "梅雨の間は、連続して何日も雨が降り続く。"
+    },
+    {
+      "idiom-jp": "直立して、垂直にして",
+      "example-sentence": "When cats get angry, the hair on their neck stands on end.",
+      "sentence-jp": "猫が怒ると、首の辺りの毛が逆立つ。"
+    }
+  ],
+  "notes": [
+    "in a row → 986。",
+    "『(横の状態の物を)縦にする』ときの表現。"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "number": "0415",
+  "idioms": [
+    "in effect"
+  ],
+  "means": [
+    {
+      "idiom-jp": "事実上、実際は",
+      "synonyms": [
+        "in fact",
+        "in reality",
+        "in practice"
+      ],
+      "example-sentence": "When we describe what we see, we in effect describe ourselves.",
+      "sentence-jp": "私たちが見えるものを描写するときは、事実上自分自身を描写しているのだ。"
+    },
+    {
+      "idiom-jp": "(法律などが)実施されて",
+      "synonyms": [
+        "in force"
+      ],
+      "example-sentence": "This law has been in effect for the past ten years.",
+      "sentence-jp": "この法律は過去10年間施行されている。"
+    }
+  ],
+  "notes": [
+    "in fact → 148、in reality → 152、in practice → 628。",
+    "come [go] into effect は『実施される』。bring [put] ~ into effect は『〜を実施する』。"
+  ]
+}

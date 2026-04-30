@@ -1,0 +1,28 @@
+{
+  "number": "0480",
+  "idioms": [
+    "put in ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "(物・言葉など)を差し入れる[加える]；(設備など)を取り付ける",
+      "synonyms": [
+        "install"
+      ],
+      "example-sentence": "I’d like to put in a few sentences here to explain what I mean by this.",
+      "sentence-jp": "私はこれで何を言おうとしているかを説明するために、ここに少し文を付け加えたい。"
+    },
+    {
+      "idiom-jp": "(労力・時間・金など)を注ぎ込む[投入する]",
+      "synonyms": [
+        "devote",
+        "invest"
+      ],
+      "example-sentence": "The hard work the team put in led to their victory in the competition.",
+      "sentence-jp": "チームが注ぎ込んだ多大な努力が競技会での勝利につながった。"
+    }
+  ],
+  "notes": [
+    "①②ともに put ~ in の語順も可。"
+  ]
+}

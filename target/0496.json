@@ -1,0 +1,23 @@
+{
+  "number": "0496",
+  "idioms": [
+    "forbid A from B"
+  ],
+  "means": [
+    {
+      "idiom-jp": "A(人)に B を禁止する",
+      "synonyms": [
+        "prohibit A from B",
+        "ban A from B"
+      ],
+      "example-sentence": "Many parents forbid their children from using their smartphones for a certain number of hours a day.",
+      "sentence-jp": "1日のうち一定の時間、子供たちにスマートフォンを使うことを禁止する親は多い。"
+    }
+  ],
+  "notes": [
+    "B は doing。B が名詞の場合は、forbid A B。",
+    "forbid ~ to do は『(人)に…させない』。",
+    "『禁止』では最も一般的な表現。",
+    "prohibit A from B → 497。"
+  ]
+}

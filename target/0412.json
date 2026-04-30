@@ -1,0 +1,24 @@
+{
+  "number": "0412",
+  "idioms": [
+    "be due to ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜のため[結果]である",
+      "example-sentence": "Many people think this year’s potato crop failure was due to unusual weather.",
+      "sentence-jp": "多くの人が今年のジャガイモの不作は異常気象のためであったと考えている。"
+    },
+    {
+      "idiom-jp": "(be due to do で)…する予定である",
+      "synonyms": [
+        "be scheduled to do"
+      ],
+      "example-sentence": "According to this ad, a new book by the author is due to come out next month.",
+      "sentence-jp": "この広告によれば、その著者による新しい本が来月出版される予定だ。"
+    }
+  ],
+  "notes": [
+    "この due は形容詞。due to ~ で前置詞句となり、その場合は owing to ~, on account of ~, because of ~ などと同義。"
+  ]
+}

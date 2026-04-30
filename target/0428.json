@@ -1,0 +1,23 @@
+{
+  "number": "0428",
+  "idioms": [
+    "get to ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "[get to + (代)名詞で]〜に到着する",
+      "synonyms": [
+        "reach",
+        "arrive at ~"
+      ],
+      "example-sentence": "Our plane got to London about an hour ahead of schedule due to the tailwind.",
+      "sentence-jp": "私たちの飛行機は追い風のために予定より1時間ほど早くロンドンに到着した。"
+    },
+    {
+      "idiom-jp": "[get to do で]…できる；…するようになる",
+      "example-sentence": "It was in the summer of 2019 that I got to see firsthand how good he was at the game.",
+      "sentence-jp": "その試合で彼がどんなに優れていたのかを直接見ることができたのは、2019年の夏だった。"
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,20 @@
+{
+  "number": "0450",
+  "idioms": [
+    "end up"
+  ],
+  "means": [
+    {
+      "idiom-jp": "[後に副詞句や doing などを伴って]最後には〜になる",
+      "synonyms": [
+        "wind up"
+      ],
+      "example-sentence": "She spent hours looking for a present for her parents, but ended up buying nothing there.",
+      "sentence-jp": "彼女は両親へのプレゼントを探すのに何時間も費やしたが、結局そこで何も買わなかった。"
+    }
+  ],
+  "notes": [
+    "wind up → 873。",
+    "up の後には doing のほかに in ~, with ~ などが続く。"
+  ]
+}

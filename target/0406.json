@@ -1,0 +1,34 @@
+{
+  "number": "0406",
+  "idioms": [
+    "make out ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "[通例 can を伴い、否定文・疑問文で]〜を理解する",
+      "synonyms": [
+        "understand"
+      ],
+      "example-sentence": "John spoke English so fast that we couldn’t make out what he was saying.",
+      "sentence-jp": "ジョンが英語を速く話したので、私たちは彼の言っていることを理解することができなかった。"
+    },
+    {
+      "idiom-jp": "[通例 can を伴って]〜を見分ける",
+      "synonyms": [
+        "discern"
+      ],
+      "example-sentence": "Sam couldn’t make out her face in the twilight, but he thought she might be smiling.",
+      "sentence-jp": "たそがれ時にサムは彼女の顔を見分けることができなかったが、彼女はほほえんでいるかもしれないと思った。"
+    },
+    {
+      "idiom-jp": "(書類・小切手など)を作成する",
+      "example-sentence": "I made out a check for $25 and handed it to the salesperson.",
+      "sentence-jp": "私は25ドルの小切手を書き、それを店員に渡した。"
+    }
+  ],
+  "notes": [
+    "①②③ともに make ~ out の語順も可。",
+    "①②③のほかに自動詞の意味で、How で始まる疑問文で「結果・首尾」を尋ねる決まり文句もある。",
+    "How did you make out in the interview?「面接の結果はどうでしたか」。"
+  ]
+}

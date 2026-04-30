@@ -1,0 +1,22 @@
+{
+  "number": "0408",
+  "idioms": [
+    "provide for ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜を扶養する",
+      "example-sentence": "With her father in the hospital, she’s the only worker to provide for her family of four.",
+      "sentence-jp": "父親が入院しているので、彼女は4人家族を扶養するただ1人の働き手だ。"
+    },
+    {
+      "idiom-jp": "〜に備える；(法律が)〜を規定する",
+      "example-sentence": "In our rapidly graying society, we need more people who provide for the care of the elderly.",
+      "sentence-jp": "急速に高齢化する社会において、私たちには老人介護に備える人がもっと必要だ。"
+    }
+  ],
+  "notes": [
+    "目的語には「人」がくるのが普通。",
+    "「(将来の災害・攻撃・不足など)に備える」の意味では、provide against ~ もある。"
+  ]
+}

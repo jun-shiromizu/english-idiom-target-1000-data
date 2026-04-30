@@ -1,0 +1,25 @@
+{
+  "number": "0414",
+  "idioms": [
+    "at large"
+  ],
+  "means": [
+    {
+      "idiom-jp": "[名詞の後に置いて]一般の；全体としての",
+      "example-sentence": "I can’t imagine how this new idea of his will be accepted in society at large.",
+      "sentence-jp": "私は彼のこの新しい考えがどうやって社会一般に受け入れられるかが想像できない。"
+    },
+    {
+      "idiom-jp": "逃走中で、逮捕されないで",
+      "synonyms": [
+        "on the loose"
+      ],
+      "example-sentence": "The suspect of the murder case is still at large.",
+      "sentence-jp": "殺人事件の容疑者はまだ逃走中だ。"
+    }
+  ],
+  "notes": [
+    "『一般の』in general → 149②。",
+    "『全体としての』as a whole → 123。"
+  ]
+}

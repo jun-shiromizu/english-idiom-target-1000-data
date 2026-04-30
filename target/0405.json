@@ -1,0 +1,24 @@
+{
+  "number": "0405",
+  "idioms": [
+    "make for ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜のほうへ進む",
+      "example-sentence": "He made for the exit when he heard a knock on the back door.",
+      "sentence-jp": "彼は裏口のノックの音を聞くと、出口のほうへ進んだ。"
+    },
+    {
+      "idiom-jp": "〜に寄与する[役立つ]",
+      "synonyms": [
+        "contribute to ~"
+      ],
+      "example-sentence": "It is a proven fact that happier employees make for improved customer service.",
+      "sentence-jp": "満足度の高い従業員は顧客サービスの向上に寄与するというのは証明された事実だ。"
+    }
+  ],
+  "notes": [
+    "contribute to ~ → 34。"
+  ]
+}
