@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を利用する（≒ make use of）",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Local residents can utilize the school gym on the weekends.",
       "sentence-jp": "地元の住民たちは週末に学校の体育館を利用することができる。"
     }

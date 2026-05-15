@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "分子；微粒子",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Electron microscopes allow us to investigate organic molecules.",
       "sentence-jp": "電子顕微鏡は私たちが有機分子を調べるのを可能にする。"
     }

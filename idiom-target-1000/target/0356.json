@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(距離・時間的に)すぐ近くに",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "example-sentence": "I’m just wondering if he remembers my birthday is just around the corner.",
       "sentence-jp": "彼は私の誕生日がもうすぐだということを覚えているだろうか。"
     }

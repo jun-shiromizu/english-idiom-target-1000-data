@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を（～のことで）賞賛する（for）；賛美する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "His mother would often praise him for his good school performance.",
       "sentence-jp": "彼の母は学校の成績がいいことでよく彼を賞賛したものだ。"
     }

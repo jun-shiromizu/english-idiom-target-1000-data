@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を恐れて",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "In the English conversation class, most of the students kept silent for fear of making mistakes.",
       "sentence-jp": "英会話の授業では、ほとんどの生徒が間違えることを恐れて黙っていた。"
     }

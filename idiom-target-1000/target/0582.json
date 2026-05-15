@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "〜に適している；(目的など)に合っている",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "be fit for ~"
       ],

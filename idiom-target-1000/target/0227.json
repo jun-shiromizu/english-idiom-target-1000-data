@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(仕事・許可など)を申し込む[志願する]",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "I'm too busy to go to the bank, so I'm planning to apply for internet banking services.",
       "sentence-jp": "私は忙しくて銀行に行けないので, インターネットバンキングを申し込むつもりだ。"
     }

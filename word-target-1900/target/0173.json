@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "用地，場所；跡地；（ウェブ）サイト",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The mayor visited the site of the upcoming new airport.",
       "sentence-jp": "市長はまもなく開港する新空港の用地を視察した。"
     }

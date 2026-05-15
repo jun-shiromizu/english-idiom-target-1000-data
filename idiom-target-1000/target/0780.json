@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(電話)(を)切る；(衣服など)を掛ける；〜を中断する",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "No sooner had I hung up the phone than there came another call.",
       "sentence-jp": "私が電話を切るとすぐに、別の電話がかかってきた。"
     }

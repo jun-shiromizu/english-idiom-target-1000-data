@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "考え，思いつき；理解；見解；概念",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He came up with a good idea for the school party.",
       "sentence-jp": "彼は学校のパーティーに合ういい考えを思いついた。"
     }

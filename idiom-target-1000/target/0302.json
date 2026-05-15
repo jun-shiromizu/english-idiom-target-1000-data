@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "突き出る；目立つ",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "While walking along the beach, I found parts of a Buddhist statue sticking out of the sand.",
       "sentence-jp": "海辺を歩いている間に、私は砂から突き出ている仏像の一部を見つけた。"
     }

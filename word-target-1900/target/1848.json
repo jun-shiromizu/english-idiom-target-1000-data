@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "ひとりでいること；孤独",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "She has lived in solitude for a long time.",
       "sentence-jp": "彼女は長い間ずっとひとりで暮らしている。"
     }

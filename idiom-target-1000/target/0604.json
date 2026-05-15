@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜に直面して；〜にもかかわらず",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "despite",
         "notwithstanding"

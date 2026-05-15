@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "現在まで(のところ)",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "up to [till / until] now",
         "so far"

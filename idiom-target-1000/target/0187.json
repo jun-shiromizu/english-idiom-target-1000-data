@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を取り除く ; 〜を廃止する",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "eliminate",
         "abolish",

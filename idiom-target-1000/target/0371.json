@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "見えて、視界に入って",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "in view"
       ],

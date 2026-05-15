@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "A を B と診断する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "The doctor diagnosed my condition as the common cold.",
       "sentence-jp": "その医師は私の体調を普通の風邪と診断した。"
     }

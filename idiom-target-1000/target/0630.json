@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "その間(に)；一方で、話は変わって",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Just relax for a while; in the meantime, I’ll do the cooking.",
       "sentence-jp": "しばらくゆっくりしていてください。その間に、私は料理をしますから。"
     }

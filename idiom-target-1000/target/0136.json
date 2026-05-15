@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "手で",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "example-sentence": "Making things by hand has given way to mass production by machine.",
       "sentence-jp": "手での物作りは機械による大量生産に道を譲った。"
     }

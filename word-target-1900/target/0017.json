@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〔受身形で〕心配している；〔受身形で〕（～に）関係する（with）；に関連する",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "We are concerned about the negative effect of the new tax law.",
       "sentence-jp": "私たちは新しい税法のマイナス効果を心配している。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "前者は〜、後者は…",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "The group made two proposals in two years: the former was on air pollution, the latter on global warming.",
       "sentence-jp": "そのグループは2年間に2つの提言をした。前者は大気汚染、後者は地球温暖化に関することだ。"
     }

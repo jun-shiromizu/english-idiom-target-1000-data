@@ -1,26 +1,32 @@
-  {
-    "number": "0007",
-    "idioms": [
-      "at home"
-    ],
-    "means": [
-      {
-        "idiom-jp": "在宅して，家庭で",
-        "example-sentence": "What would it feel like to have to stay at home every day?",
-        "sentence-jp": "毎日在宅していなければならないというのは、どんなだろうか。"
-      },
-      {
-        "idiom-jp": "くつろいで",
-        "example-sentence": "Please make yourself at home during your stay with us.",
-        "sentence-jp": "わが家での滞在中はどうぞくつろいでください。"
-      },
-      {
-        "idiom-jp": "精通して",
-        "example-sentence": "Yoshito is completely at home in geometry.",
-        "sentence-jp": "ヨシトは幾何学に完璧に精通している。"
-      }
-    ],
-    "notes": [
-      "「〜に精通して」は、at home in [on / with] 〜（例文）。"
-    ]
-  }
+{
+  "number": "0007",
+  "idioms": [
+    "at home"
+  ],
+  "means": [
+    {
+      "idiom-jp": "在宅して，家庭で",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
+      "example-sentence": "What would it feel like to have to stay at home every day?",
+      "sentence-jp": "毎日在宅していなければならないというのは、どんなだろうか。"
+    },
+    {
+      "idiom-jp": "くつろいで",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
+      "example-sentence": "Please make yourself at home during your stay with us.",
+      "sentence-jp": "わが家での滞在中はどうぞくつろいでください。"
+    },
+    {
+      "idiom-jp": "精通して",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
+      "example-sentence": "Yoshito is completely at home in geometry.",
+      "sentence-jp": "ヨシトは幾何学に完璧に精通している。"
+    }
+  ],
+  "notes": [
+    "「〜に精通して」は、at home in [on / with] 〜（例文）。"
+  ]
+}

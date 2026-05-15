@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "誰も触れたがらない話題",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "When we met, the elephant in the room was the topic of their son having lost the election.",
       "sentence-jp": "私たちが会ったときに誰も触れたがらなかった話題は、落選した彼らの息子のことだった。"
     }

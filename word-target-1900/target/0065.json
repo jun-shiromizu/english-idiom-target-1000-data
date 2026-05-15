@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "記事；条項；品物",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Researchers often cite articles from this scientific journal.",
       "sentence-jp": "研究者たちはしばしばこの科学雑誌から記事を引用する。"
     }

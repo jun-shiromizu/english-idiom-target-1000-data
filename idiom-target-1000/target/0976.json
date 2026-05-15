@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜の都合のよいときに",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "example-sentence": "They suggested that he come to their firm at his convenience.",
       "sentence-jp": "彼らは、彼の都合のよいときに彼が来社することを提案した。"
     }

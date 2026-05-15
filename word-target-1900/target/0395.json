@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "便利な，都合のいい",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "Online shopping is convenient for buying things these days.",
       "sentence-jp": "今日，オンラインショッピングは物を買うのに便利である。"
     }

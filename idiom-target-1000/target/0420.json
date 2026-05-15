@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜経由で",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "synonyms": [
         "via",
         "through"
@@ -15,6 +17,8 @@
     },
     {
       "idiom-jp": "〜として、〜のつもりで(の)",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "as a means of ~"
       ],

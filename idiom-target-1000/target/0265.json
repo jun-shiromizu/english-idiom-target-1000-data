@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(〜の)邪魔になって",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "in one's way"
       ],

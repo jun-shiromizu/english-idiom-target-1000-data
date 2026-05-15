@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "A の B に対する関係は C の D に対する関係に等しい。",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Friendship is to people what sunshine is to flowers.",
       "sentence-jp": "友情の人に対する関係は日光の花に対する関係に等しい。"
     }

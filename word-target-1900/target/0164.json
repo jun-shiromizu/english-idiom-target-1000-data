@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "地域；領域；部位",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Auroras are visible in the polar regions.",
       "sentence-jp": "オーロラは極地で見られる。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を雇う（≒ give ～ a job）；を使う（≒ use）",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The research center now employs more than 100 scientists.",
       "sentence-jp": "その研究センターは現在100人以上の科学者を雇っている。"
     }

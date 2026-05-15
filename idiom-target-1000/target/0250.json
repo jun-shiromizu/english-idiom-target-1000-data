@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(物事)をよく知っている",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "be unfamiliar with ~"
       ],

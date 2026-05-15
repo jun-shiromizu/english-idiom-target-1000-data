@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "精通している；よく知られている",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Taxi drivers are generally familiar with local roads.",
       "sentence-jp": "タクシーの運転手はたいてい地元の道路に精通している。"
     }

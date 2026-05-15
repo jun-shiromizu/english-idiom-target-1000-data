@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を（取り）付ける；を付与する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "To apply for a passport, he attached his photo to the form.",
       "sentence-jp": "パスポートを申請するのに，彼は申請書に写真を貼り付けた。"
     }

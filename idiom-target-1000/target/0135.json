@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "ここだけの話だが, 内緒だが",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "between ourselves [us]"
       ],

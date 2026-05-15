@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(〜を)避ける[敬遠する]",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "avoid",
         "keep [stay] away (from ~)"

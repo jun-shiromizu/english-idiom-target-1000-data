@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(最上級)B ほど A なものはない。",
+      "partOfSpeech": "phrase",
+      "choiceType": "comparative-expression",
       "synonyms": [
         "There is nothing more A than B.",
         "Nothing is so [as] A as B."

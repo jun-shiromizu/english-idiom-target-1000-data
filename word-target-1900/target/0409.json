@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "をびっくりさせる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The soprano's beautiful voice amazed the audience.",
       "sentence-jp": "そのソプラノ歌手の美しい声は聴衆をびっくりさせた。"
     }

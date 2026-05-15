@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "大体は, 大部分は",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "mostly",
         "generally",

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（を）熟考する；を予想する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "She has been contemplating changing her career.",
       "sentence-jp": "彼女は転職をずっと熟考している。"
     }

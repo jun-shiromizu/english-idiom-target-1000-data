@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜に携わっている[関係している]；〜に熱中している",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "be concerned with [in] ~"
       ],

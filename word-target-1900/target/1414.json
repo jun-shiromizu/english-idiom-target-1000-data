@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を混乱させる；を分裂させる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Climate change could disrupt the agricultural economy.",
       "sentence-jp": "気候変動は農業経済を混乱させかねない。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "段階，局面；側面",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The discussions are currently entering a new phase.",
       "sentence-jp": "議論は現在新たな局面に入っている。"
     }

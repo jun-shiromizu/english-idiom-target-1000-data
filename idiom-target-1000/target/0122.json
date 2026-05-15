@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(〜の)結果として",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "as a consequence (of ~)"
       ],

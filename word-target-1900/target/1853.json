@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "浸食；衰退",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Deforestation will lead to soil erosion.",
       "sentence-jp": "森林破壊は土壌の浸食につながる。"
     }

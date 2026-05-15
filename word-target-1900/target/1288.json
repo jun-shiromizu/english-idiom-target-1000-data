@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "人口統計学の",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Japan has been going through big demographic changes over the past century.",
       "sentence-jp": "日本は過去1世紀の間に大きな人口統計学的変化を経験してきている。"
     }

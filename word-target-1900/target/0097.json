@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "空白の；無表情な；がらんとした",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Write your name in the blank space at the bottom of the paper.",
       "sentence-jp": "用紙下部の空欄に名前を記入しなさい。"
     }

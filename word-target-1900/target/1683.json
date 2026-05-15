@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "不都合な；逆の",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "The new medicine may have adverse effects on patients' skin.",
       "sentence-jp": "その新薬は患者の肌に悪影響があるかもしれない。"
     }

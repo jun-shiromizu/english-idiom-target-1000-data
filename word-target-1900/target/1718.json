@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を（ある状態に）する；（援助など）を与える",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The power failure rendered the laboratory useless.",
       "sentence-jp": "停電は実験室を使えなくした。"
     }

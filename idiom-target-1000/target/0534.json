@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を利用する",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "synonyms": [
         "take advantage of ~",
         "avail oneself of ~",

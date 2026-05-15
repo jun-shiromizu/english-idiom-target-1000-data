@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を分ける；分かれる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The researchers divided their subjects into two groups.",
       "sentence-jp": "研究者は被験者を2つのグループに分けた。"
     }

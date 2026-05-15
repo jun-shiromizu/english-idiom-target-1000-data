@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "と連絡を取る；接触する",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "If you need any help, please contact me anytime.",
       "sentence-jp": "助けが必要なら，いつでも私に連絡してください。"
     }

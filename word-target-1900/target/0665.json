@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "地区；行政区",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Thirty percent of driving in business districts is spent looking for parking.",
       "sentence-jp": "商業地区での車の運転の30%は駐車スペースを探すことに費やされる。"
     }

@@ -6,11 +6,15 @@
   "means": [
     {
       "idiom-jp": "(同一種類のもので)いろいろ[さまざま]な〜",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "The owner carefully displayed a variety of products in order to appeal to shoppers.",
       "sentence-jp": "オーナーは買い物客の興味を引くようにいろいろな製品を注意深く陳列した。"
     },
     {
       "idiom-jp": "〜の1種[1つの型]",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "“Golden rice” is a variety of rice produced through genetic engineering.",
       "sentence-jp": "「ゴールデンライス」は遺伝子組み換えによって作られた米の1種だ。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（左右）対称（⇔ asymmetry 非対称）；調和",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "In snow crystals, there is always a six-fold symmetry.",
       "sentence-jp": "雪の結晶には，常に6角形の対称が存在する。"
     }

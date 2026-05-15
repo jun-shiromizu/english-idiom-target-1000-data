@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（～に）適切な（for / to）",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "It is important to wear appropriate clothes for a job interview.",
       "sentence-jp": "就職の面接に適切な服を着ることが重要だ。"
     }

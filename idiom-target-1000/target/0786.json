@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "息を止める；(期待して)息をひそめて待つ",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Kosuke can hold his breath much longer than any other boy.",
       "sentence-jp": "コウスケはほかのどの男の子よりもずっと長く息を止めることができる。"
     }

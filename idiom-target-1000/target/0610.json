@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜から見て；〜を考慮して",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "in view of ~",
         "in consideration of ~"

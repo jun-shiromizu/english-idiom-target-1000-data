@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "衝突；対立；かち合うこと；ガチャンという音",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "There were violent clashes between police and demonstrators.",
       "sentence-jp": "警察とデモ隊との激しい衝突があった。"
     }

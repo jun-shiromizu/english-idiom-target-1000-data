@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "A を B に任せる；A を B に残す",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "She is lazy and leaves hard work to others.",
       "sentence-jp": "彼女は怠け者で、きつい仕事を他人に任せる。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（～の）補完物，補足（to）；（文法の）補語",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The newly married couple are complements to each other.",
       "sentence-jp": "その新婚の夫婦はお互いを補完する存在である。"
     }

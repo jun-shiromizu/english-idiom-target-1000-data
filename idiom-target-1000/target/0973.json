@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "とても、非常に",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "synonyms": [
         "only too"
       ],

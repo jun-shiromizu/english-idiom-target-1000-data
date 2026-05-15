@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "手足",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He stretched his long limbs just after he got out of bed.",
       "sentence-jp": "彼はベッドから出た直後にその長い手足を伸ばした。"
     }

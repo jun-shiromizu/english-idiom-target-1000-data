@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "…する傾向がある、…しがちである",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "be apt to do",
         "be inclined to do"

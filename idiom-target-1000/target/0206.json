@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜より前で",
+      "partOfSpeech": "phrase",
+      "choiceType": "comparative-expression",
       "synonyms": [
         "before"
       ],

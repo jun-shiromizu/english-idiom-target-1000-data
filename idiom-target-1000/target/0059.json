@@ -1,16 +1,18 @@
-  {
-    "number": "0059",
-    "idioms": [
-      "care about ~"
-    ],
-    "means": [
-      {
-        "idiom-jp": "〜を気にかける、〜に関心を持つ",
-        "example-sentence": "My father doesn't care about clothes much when he goes out.",
-        "sentence-jp": "私の父は出かけるときにあまり服装を気にしない。"
-      }
-    ],
-    "notes": [
-      "否定文・疑問文で使われることが多い。"
-    ]
-  }
+{
+  "number": "0059",
+  "idioms": [
+    "care about ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜を気にかける、〜に関心を持つ",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
+      "example-sentence": "My father doesn't care about clothes much when he goes out.",
+      "sentence-jp": "私の父は出かけるときにあまり服装を気にしない。"
+    }
+  ],
+  "notes": [
+    "否定文・疑問文で使われることが多い。"
+  ]
+}

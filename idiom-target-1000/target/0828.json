@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "足元[言動]に注意する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "Watch your step, everyone! It’s dark and very slippery in here.",
       "sentence-jp": "皆さん、足元に注意してください！ここは暗くてとても滑りやすいです。"
     }

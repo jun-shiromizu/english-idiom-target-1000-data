@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "前提；〔～s〕（建物を含めた）構内、敷地",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "All logical arguments have two premises and a conclusion.",
       "sentence-jp": "論理的な主張はすべて2つの前提と1つの結論を備えている。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "葬式",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "She went back to her hometown to attend her grandfather's funeral.",
       "sentence-jp": "彼女は祖父の葬儀に参列するために故郷に帰った。"
     }

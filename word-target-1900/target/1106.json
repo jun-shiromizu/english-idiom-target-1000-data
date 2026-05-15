@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（好ましくない手段に）訴える，頼る（to）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "If the criminals' demands are not accepted, they may resort to force.",
       "sentence-jp": "犯人たちの要求が受け入れられなければ，彼らは武力に訴えるかもしれない。"
     }

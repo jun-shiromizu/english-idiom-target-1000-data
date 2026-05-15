@@ -1,16 +1,18 @@
-  {
-    "number": "0064",
-    "idioms": [
-      "grow up"
-    ],
-    "means": [
-      {
-        "idiom-jp": "大人になる；（事態などが）生じる",
-        "example-sentence": "Bob said he grew up in a Los Angeles suburb, where three in ten people spoke Spanish.",
-        "sentence-jp": "ボブは、自分はロサンゼルス郊外で育ち、そこでは 10 人のうち 3 人がスペイン語を話していたと言った。"
-      }
-    ],
-    "notes": [
-      "精神的に「大人になる」の意味でも使う。"
-    ]
-  }
+{
+  "number": "0064",
+  "idioms": [
+    "grow up"
+  ],
+  "means": [
+    {
+      "idiom-jp": "大人になる；（事態などが）生じる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
+      "example-sentence": "Bob said he grew up in a Los Angeles suburb, where three in ten people spoke Spanish.",
+      "sentence-jp": "ボブは、自分はロサンゼルス郊外で育ち、そこでは 10 人のうち 3 人がスペイン語を話していたと言った。"
+    }
+  ],
+  "notes": [
+    "精神的に「大人になる」の意味でも使う。"
+  ]
+}

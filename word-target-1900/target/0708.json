@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "をささげる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "She has devoted a lot of her time to the team's project.",
       "sentence-jp": "彼女は自分の時間の多くをチームのプロジェクトにささげてきた。"
     }

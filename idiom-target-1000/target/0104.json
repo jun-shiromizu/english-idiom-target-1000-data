@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(厄介なもの)を取り除く",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "do away with ~",
         "dispose of ~",

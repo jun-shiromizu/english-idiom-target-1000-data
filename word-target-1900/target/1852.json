@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "流域；盆地，海盆；洗面器［台］",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The storm caused a flood in the river basin.",
       "sentence-jp": "暴風雨は河川流域に氾濫を引き起こした。"
     }

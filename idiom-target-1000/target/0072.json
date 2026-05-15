@@ -1,17 +1,19 @@
-  {
-    "number": "0072",
-    "idioms": [
-      "figure out ~"
-    ],
-    "means": [
-      {
-        "idiom-jp": "〜を理解する；〜を計算する；〜を解く",
-        "example-sentence": "Scientists are trying to figure out how the universe came into being.",
-        "sentence-jp": "科学者たちはどのように宇宙が出現したのかを理解しようとしている。"
-      }
-    ],
-    "notes": [
-      "figure 〜 out の語順も可。",
-      "come into being「出現する」→ 586"
-    ]
-  }
+{
+  "number": "0072",
+  "idioms": [
+    "figure out ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜を理解する；〜を計算する；〜を解く",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
+      "example-sentence": "Scientists are trying to figure out how the universe came into being.",
+      "sentence-jp": "科学者たちはどのように宇宙が出現したのかを理解しようとしている。"
+    }
+  ],
+  "notes": [
+    "figure 〜 out の語順も可。",
+    "come into being「出現する」→ 586"
+  ]
+}

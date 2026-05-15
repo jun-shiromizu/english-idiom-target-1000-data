@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を止める；止まる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The specialists were not able to halt the spread of this year's flu.",
       "sentence-jp": "専門家たちは今年のインフルエンザの蔓延を食い止めることができなかった。"
     }

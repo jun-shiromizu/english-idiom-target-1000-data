@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "やむなく…する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "synonyms": [
         "be compelled to do",
         "be obliged to do"

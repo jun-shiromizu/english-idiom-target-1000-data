@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を豊かにする；（物質）を濃縮化する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The goal of this treatment is to enrich the quality of your life.",
       "sentence-jp": "この治療の目的はあなたの生活の質を豊かにすることである。"
     }

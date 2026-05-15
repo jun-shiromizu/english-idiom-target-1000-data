@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "すぐに",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "synonyms": [
         "immediately",
         "right away",
@@ -17,6 +19,8 @@
     },
     {
       "idiom-jp": "同時に",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "synonyms": [
         "at the same time",
         "all at once"

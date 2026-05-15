@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜になって初めて…する。",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "It was not until mid-April that the snow disappeared completely from the ground.",
       "sentence-jp": "4月半ばになって初めて地面から雪が完全に消えた。"
     }

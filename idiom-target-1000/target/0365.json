@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "整頓されて；順調で；適切で",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "I think a brief explanation about how this historical event happened is in order here.",
       "sentence-jp": "この歴史的事件がどのように起きたのかということに関する簡潔な説明は、ここに整理されていると私は思う。"
     }

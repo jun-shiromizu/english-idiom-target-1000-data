@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（感情など）を引き起こす；を目覚めさせる",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Her speech about global warming aroused strong emotions among people.",
       "sentence-jp": "地球温暖化に関する彼女の演説は人々の間に強い感情を引き起こした。"
     }

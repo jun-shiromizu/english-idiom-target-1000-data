@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "鉱物；ミネラル",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Hot spring waters often contain minerals such as iron.",
       "sentence-jp": "温泉水は鉄のような鉱物を含むことが多い。"
     }

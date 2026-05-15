@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（本・製品などの）版；解釈",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "This is a cheap version of the famous brand.",
       "sentence-jp": "これはその有名ブランドの廉価版である。"
     }

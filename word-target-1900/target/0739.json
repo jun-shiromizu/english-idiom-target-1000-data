@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を割り当てる；を（～に）配属する（to）",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "University professors often assign their students group work activities.",
       "sentence-jp": "大学の教授はよく自分の学生に共同作業活動を割り当てる。"
     }

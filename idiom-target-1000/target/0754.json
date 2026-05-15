@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "必ず…するよう努力する、…することを重視する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "synonyms": [
         "make it a point to do"
       ],

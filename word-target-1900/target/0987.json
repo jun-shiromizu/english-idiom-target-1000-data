@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "極地の；電極の",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Penguins are well adapted to the environment in the polar regions.",
       "sentence-jp": "ペンギンは極地の環境にうまく順応している。"
     }

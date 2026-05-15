@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（気まぐれな）好み；空想；思いつき",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "I took a great fancy to my piano teacher.",
       "sentence-jp": "私はピアノの先生をとても好きになった。"
     }

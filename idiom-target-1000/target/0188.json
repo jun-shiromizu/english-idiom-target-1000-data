@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜にけちをつける, 〜を非難する",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "synonyms": [
         "criticize"
       ],

@@ -1,14 +1,16 @@
-  {
-    "number": "0092",
-    "idioms": [
-      "make a mistake"
-    ],
-    "means": [
-      {
-        "idiom-jp": "間違いをする",
-        "example-sentence": "It is really difficult to admit that we have made a mistake.",
-        "sentence-jp": "間違いをしたことを認めるのは本当に難しい。"
-      }
-    ],
-    "notes": []
-  }
+{
+  "number": "0092",
+  "idioms": [
+    "make a mistake"
+  ],
+  "means": [
+    {
+      "idiom-jp": "間違いをする",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
+      "example-sentence": "It is really difficult to admit that we have made a mistake.",
+      "sentence-jp": "間違いをしたことを認めるのは本当に難しい。"
+    }
+  ],
+  "notes": []
+}

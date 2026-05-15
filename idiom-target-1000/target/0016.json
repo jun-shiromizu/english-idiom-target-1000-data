@@ -1,16 +1,18 @@
-  {
-    "number": "0016",
-    "idioms": [
-      "be capable of ~"
-    ],
-    "means": [
-      {
-        "idiom-jp": "〜ができる；〜の可能性がある",
-        "example-sentence": "Tina is capable of speaking three foreign languages, including German.",
-        "sentence-jp": "ティーナはドイツ語を含む3つの外国語を話すことができる。"
-      }
-    ],
-    "notes": [
-      "「人」以外も主語になる。"
-    ]
-  }
+{
+  "number": "0016",
+  "idioms": [
+    "be capable of ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜ができる；〜の可能性がある",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
+      "example-sentence": "Tina is capable of speaking three foreign languages, including German.",
+      "sentence-jp": "ティーナはドイツ語を含む3つの外国語を話すことができる。"
+    }
+  ],
+  "notes": [
+    "「人」以外も主語になる。"
+  ]
+}

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を許容する，我慢する（≒ put up with）",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "I just cannot tolerate his selfishness.",
       "sentence-jp": "私はどうしても彼のわがままを我慢することができない。"
     }

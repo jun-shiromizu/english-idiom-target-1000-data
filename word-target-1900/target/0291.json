@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "以前の，前の",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "His new computer software is far better than any previous version.",
       "sentence-jp": "彼の新しいコンピューターソフトは以前のどのバージョンよりもはるかにすぐれている。"
     }

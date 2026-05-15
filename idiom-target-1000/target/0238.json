@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "〜を思いつく ; 〜に出くわす",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "think of ~",
         "come up with ~"

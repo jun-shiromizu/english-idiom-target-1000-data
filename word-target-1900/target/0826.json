@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を課す；を押しつける",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The country wants to impose greater control on immigration.",
       "sentence-jp": "その国は移民に対しより厳しい制限を課すことを望んでいる。"
     }

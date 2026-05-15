@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を削除する，消す",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "You should delete spam messages right away.",
       "sentence-jp": "すぐに迷惑メールを削除するべきだ。"
     }

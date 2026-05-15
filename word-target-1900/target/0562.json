@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（～に対する）障壁（against / to）；防壁",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "They finally overcame the language barrier against each other.",
       "sentence-jp": "彼らはついにお互いの言語の障壁を克服した。"
     }

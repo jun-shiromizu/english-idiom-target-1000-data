@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(口語で)ちょっと立ち寄る",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "drop by ~"
       ],

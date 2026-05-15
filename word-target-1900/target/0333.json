@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を取り巻く；にまつわる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Dubai imports sand even though it is surrounded by desert.",
       "sentence-jp": "ドバイは砂漠に囲まれているのに砂を輸入する。"
     }

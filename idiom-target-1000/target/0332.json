@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "ある意味では、ある点で",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "example-sentence": "In a sense, he is right: Rivalry is essential for us to make progress and survive.",
       "sentence-jp": "ある意味では、彼は正しい。競争心は私たちが進歩し、生き残るためには不可欠なものだ。"
     }

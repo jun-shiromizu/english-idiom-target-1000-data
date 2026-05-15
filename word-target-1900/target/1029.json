@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "をいじめる；を脅す",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The boy stopped some other boys from bullying a girl.",
       "sentence-jp": "その少年はほかの少年たちが少女をいじめることをやめさせた。"
     }

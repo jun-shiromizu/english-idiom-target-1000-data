@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(寝ないで)起きている",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "I stayed up all night watching the tennis matches on TV last night.",
       "sentence-jp": "私は昨夜テレビでテニスの試合を見ながら一晩中起きていた。"
     }

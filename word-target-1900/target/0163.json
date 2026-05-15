@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〔通例～s〕資源；〔通例～s〕資金；才覚",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Technology will make the efficient use of natural resources possible.",
       "sentence-jp": "科学技術は天然資源の効率的な利用を可能にするだろう。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜をしそうで、〜の瀬戸際で",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "synonyms": [
         "on the brink of ~"
       ],

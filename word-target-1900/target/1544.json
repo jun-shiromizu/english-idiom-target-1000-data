@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "インフレ（ーション）；（物価の）高騰",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Pension payments should be increased in line with inflation.",
       "sentence-jp": "年金の支払いはインフレに連動して増えるべきである。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "図，グラフ；海図；ヒットチャート",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "She uses charts and tables when explaining her projects.",
       "sentence-jp": "彼女は自分の研究課題を説明するとき図や表を使う。"
     }

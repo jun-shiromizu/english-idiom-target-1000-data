@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を意味する、〜の略である",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "represent",
         "mean",
@@ -16,6 +18,8 @@
     },
     {
       "idiom-jp": "[否定文・疑問文で]〜を許容する、〜を我慢する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "synonyms": [
         "stand",
         "bear",

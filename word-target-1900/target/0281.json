@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "効率的な；有能な",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "It is important to know the most efficient ways of studying.",
       "sentence-jp": "最も効率的な学習法を知ることは重要である。"
     }

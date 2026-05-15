@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "十分にありそうな",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "It is probable that she will be reelected as mayor.",
       "sentence-jp": "彼女が市長に再選されることは十分にありそうだ。"
     }

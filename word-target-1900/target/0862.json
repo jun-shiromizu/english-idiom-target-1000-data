@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "建築；建築様式；構造",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "In Prague, you can see various styles of architecture.",
       "sentence-jp": "プラハではさまざまな建築様式を見ることができる。"
     }

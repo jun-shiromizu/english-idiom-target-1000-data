@@ -6,11 +6,15 @@
   "means": [
     {
       "idiom-jp": "出かける、去る；(電灯などが)消える",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "We had to go off to our grandparents’ house for our annual Christmas dinner.",
       "sentence-jp": "私たちは毎年恒例のクリスマスディナーのために祖父母の家へ出かけなければならなかった。"
     },
     {
       "idiom-jp": "(仕掛けが)作動する；(爆薬が)爆発する；(銃などが)発射される",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "synonyms": [
         "explode",
         "be fired"

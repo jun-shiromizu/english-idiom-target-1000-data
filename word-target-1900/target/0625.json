@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "をかき乱す；を妨害する；を動揺させる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Humans should never disturb the balance of the natural world.",
       "sentence-jp": "人間は決して自然界のバランスをかき乱してはならない。"
     }

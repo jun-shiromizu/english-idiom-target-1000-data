@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を見落とす；を大目に見る；を見渡す",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "He overlooked some important facts during his research.",
       "sentence-jp": "彼は研究の中でいくつかの重要な事実を見落とした。"
     }

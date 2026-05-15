@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "法律の；合法の（⇔ illegal 違法の）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Most legal systems are based on a belief in human rights.",
       "sentence-jp": "たいていの法律制度は人権に対する信念に基づく。"
     }

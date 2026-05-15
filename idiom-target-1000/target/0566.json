@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜が豊富である",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "be rich in ~"
       ],

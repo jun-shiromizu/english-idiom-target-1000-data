@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "室内の；内部の（⇔ exterior 外部の）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The interior walls are made of natural materials.",
       "sentence-jp": "室内の壁は自然素材でできている。"
     }

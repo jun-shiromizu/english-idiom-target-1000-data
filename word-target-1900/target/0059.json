@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "記憶（力）；（～の）思い出（of）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "She has a good memory for people's faces.",
       "sentence-jp": "彼女は人の顔に関して記憶力がよい。"
     }

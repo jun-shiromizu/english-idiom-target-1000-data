@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "かすかな；めまいがする；弱々しい",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "He noticed that a faint light was shining behind the clouds.",
       "sentence-jp": "彼はかすかな光が雲の後ろで光っているのに気づいた。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "主要な；大きい（ほうの）；長調の",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "Economic growth is a major concern for the Japanese government.",
       "sentence-jp": "経済成長は日本政府にとって大きな関心事である。"
     }

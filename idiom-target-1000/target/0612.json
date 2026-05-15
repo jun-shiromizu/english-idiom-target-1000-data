@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜と交換に",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "synonyms": [
         "in return for ~"
       ],

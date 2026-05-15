@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〔通例the ～s〕最先端；〔the ～〕 【米】辺境地；国境",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Students can study at the frontiers of space engineering at this university.",
       "sentence-jp": "この大学では学生たちは宇宙工学の最先端で研究できる。"
     }

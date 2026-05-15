@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "民族の，人種の；民族特有の",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Britain is a society with a rich ethnic diversity.",
       "sentence-jp": "イギリスは豊かな民族的多様性を有する社会である。"
     }

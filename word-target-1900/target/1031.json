@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を驚かす",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "We were astonished at the surprise visit of the famous actor.",
       "sentence-jp": "私たちは有名な俳優の突然の訪問に驚いた。"
     }

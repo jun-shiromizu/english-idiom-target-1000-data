@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜の代わりに",
+      "partOfSpeech": "preposition",
+      "choiceType": "prepositional-phrase",
       "synonyms": [
         "instead of ~"
       ],

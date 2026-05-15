@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "全体的には、概して",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "in general",
         "for the most part",

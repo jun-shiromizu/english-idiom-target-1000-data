@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を試みる，企てる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The little girl attempted to convince her parents to buy her a toy.",
       "sentence-jp": "その小さな女の子は自分におもちゃを買ってくれるように両親を説得しようと試みた。"
     }

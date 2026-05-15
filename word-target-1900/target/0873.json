@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "儀式；（日常の）習慣的行為",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Some experts say ancient Egyptian sports were rituals that honored the dead.",
       "sentence-jp": "古代エジプトのスポーツは死者を敬う儀式であったと言う専門家もいる。"
     }

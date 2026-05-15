@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜もまた",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "too",
         "also"

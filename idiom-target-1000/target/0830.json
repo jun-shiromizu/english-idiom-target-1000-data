@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "冗談でしょう、まさか。",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "You must be kidding.",
         "Are you kidding?",

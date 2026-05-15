@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "それ自体では、本来は",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "in and of itself",
         "as such"

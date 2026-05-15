@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜に精通[熟達]している",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "be expert in [at] ~"
       ],

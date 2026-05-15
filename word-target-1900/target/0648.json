@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "口調；音色；雰囲気；色調",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "You need to use an appropriate tone of voice when you speak.",
       "sentence-jp": "話すときは適切な口調を用いる必要がある。"
     }

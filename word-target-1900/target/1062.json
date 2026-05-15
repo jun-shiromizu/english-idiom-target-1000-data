@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "世論調査；投票（数）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "An opinion poll asks people about their political preferences.",
       "sentence-jp": "世論調査は人々に政治的志向について尋ねる。"
     }

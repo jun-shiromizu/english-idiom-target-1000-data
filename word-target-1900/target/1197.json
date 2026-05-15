@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "感覚の",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Sensory information travels throughout the nervous system.",
       "sentence-jp": "感覚の情報は神経系のすみずみまで伝わる。"
     }

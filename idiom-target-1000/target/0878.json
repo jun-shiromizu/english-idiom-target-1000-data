@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(罰を受けずに)〜をうまくやる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "go unpunished for ~"
       ],
@@ -14,6 +16,8 @@
     },
     {
       "idiom-jp": "〜を持ち逃げする",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "synonyms": [
         "go [make / run / walk] away with ~"
       ],

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜に気をつけている、〜から目を離さない",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "synonyms": [
         "take care of ~",
         "look after ~"

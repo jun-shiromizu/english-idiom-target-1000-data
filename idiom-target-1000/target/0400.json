@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を引き受ける；〜を雇う",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "undertake",
         "employ"
@@ -15,6 +17,8 @@
     },
     {
       "idiom-jp": "(様相・色・性質など)を呈する[帯びる]",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Since 1936, the torch has taken on a different form for every Olympic relay.",
       "sentence-jp": "1936年以来、トーチはオリンピックの聖火リレーごとに異なる形を呈している。"
     }

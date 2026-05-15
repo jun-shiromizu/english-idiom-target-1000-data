@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜にくっつく；〜に固執[執着]する",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "adhere to ~",
         "hang on to ~"

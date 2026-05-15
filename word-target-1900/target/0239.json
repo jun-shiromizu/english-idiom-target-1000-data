@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を強く望む",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "People who love shopping often desire to buy the latest goods.",
       "sentence-jp": "買い物が大好きな人々はたいてい最新の商品を買いたいと強く望む。"
     }

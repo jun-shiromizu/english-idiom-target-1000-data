@@ -1,16 +1,18 @@
-  {
-    "number": "0078",
-    "idioms": [
-      "try on ~"
-    ],
-    "means": [
-      {
-        "idiom-jp": "〜を試着する",
-        "example-sentence": "Why don't you try it on to see if it suits you?",
-        "sentence-jp": "あなたに似合うか確かめるのにそれを試着してはどうですか。"
-      }
-    ],
-    "notes": [
-      "try 〜 on の語順も可。"
-    ]
-  }
+{
+  "number": "0078",
+  "idioms": [
+    "try on ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜を試着する",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
+      "example-sentence": "Why don't you try it on to see if it suits you?",
+      "sentence-jp": "あなたに似合うか確かめるのにそれを試着してはどうですか。"
+    }
+  ],
+  "notes": [
+    "try 〜 on の語順も可。"
+  ]
+}

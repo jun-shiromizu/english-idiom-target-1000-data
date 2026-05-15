@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "あらゆる種類の〜",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "all kinds [sorts] of ~"
       ],

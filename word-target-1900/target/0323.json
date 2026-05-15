@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（徐々に）発展する；進化する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "Early Indo-European languages evolved into ones such as Greek.",
       "sentence-jp": "初期のインド・ヨーロッパ語族はギリシャ語のような言語へと発展した。"
     }

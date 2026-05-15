@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を適用［応用］する；申し込む；（～に）適用される（to / in）",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The computer company applied a new theory to its product designs.",
       "sentence-jp": "そのコンピューター会社は自社の商品設計に新しい理論を適用した。"
     }

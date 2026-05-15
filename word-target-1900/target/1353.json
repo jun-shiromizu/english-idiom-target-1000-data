@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "悪夢（のような状況）；不安感",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "I had a horrible nightmare last night.",
       "sentence-jp": "私は昨夜恐ろしい悪夢を見た。"
     }

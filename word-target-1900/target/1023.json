@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "に従う；に服従する",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "We ought to obey traffic rules so we have fewer accidents.",
       "sentence-jp": "私たちは事故を少なくするために交通規則に従うべきである。"
     }

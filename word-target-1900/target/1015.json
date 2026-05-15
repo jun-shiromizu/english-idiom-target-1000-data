@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を減らす；減少する（≒decrease）",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The counselor taught me some ways to diminish anxiety.",
       "sentence-jp": "カウンセラーは私に不安を減らすためのいくつかの方法を教えてくれた。"
     }

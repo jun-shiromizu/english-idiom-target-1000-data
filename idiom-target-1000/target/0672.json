@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "…したい気がする",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "synonyms": [
         "be inclined to do"
       ],

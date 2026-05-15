@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(はっきりした)形をとる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "A new plan for the research has begun to take shape in my mind.",
       "sentence-jp": "その研究の新しい計画が頭の中で形になり始めた。"
     }

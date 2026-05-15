@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を成し遂げる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The robot accomplished the task without any help from humans.",
       "sentence-jp": "そのロボットは人間のいっさいの助けなしでその作業を成し遂げた。"
     }

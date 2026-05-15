@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "視覚の；目に見える",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "We process visual information in the back of our brains.",
       "sentence-jp": "私たちは脳の後部で視覚情報を処理する。"
     }

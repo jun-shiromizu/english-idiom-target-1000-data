@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を制限［規制］する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Tweets were originally limited to 140 characters.",
       "sentence-jp": "「ツイート」はもとは140文字までに限られていた。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（官庁の）局；事務局；案内所",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The Immigration Bureau is not in charge of granting work visas.",
       "sentence-jp": "移民局は労働ビザの発給を担当していない。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "と推定する；を見積もる；を評価する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "We estimated our arrival to be 20 minutes late.",
       "sentence-jp": "私たちは到着が20分遅れると推定した。"
     }

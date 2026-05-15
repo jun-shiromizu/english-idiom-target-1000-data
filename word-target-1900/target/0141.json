@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "機会（≒ chance）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Most Japanese do not have an opportunity to use English every day.",
       "sentence-jp": "たいていの日本人は毎日英語を使う機会がない。"
     }

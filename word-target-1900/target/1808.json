@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "出血する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "He was bleeding from a large cut on his shoulder.",
       "sentence-jp": "彼は肩の大きな切り傷から出血していた。"
     }

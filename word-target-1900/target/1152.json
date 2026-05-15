@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "論争",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "There has been controversy over revisions to the constitution.",
       "sentence-jp": "憲法の改正に関する論争が続いてきている。"
     }

@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "〜のために",
+      "partOfSpeech": "preposition",
+      "choiceType": "prepositional-phrase",
       "synonyms": [
         "on account of ~",
         "because of ~"

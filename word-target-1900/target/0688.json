@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "絶対的な（⇔ relative 相対的な）",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "A car is an absolute necessity for people living in the countryside.",
       "sentence-jp": "田舎に住んでいる人々にとって車は絶対に必要なものである。"
     }

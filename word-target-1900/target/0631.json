@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を動揺させる；をだめにする",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Don't upset yourself over such a tiny mistake.",
       "sentence-jp": "そんな小さなミスで動揺しないでください。"
     }

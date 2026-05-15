@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を浸す；をずぶぬれにする；浸る",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "She made pickles by soaking cucumbers in vinegar.",
       "sentence-jp": "彼女はキュウリを酢に浸すことによってピクルスを作った。"
     }

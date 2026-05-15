@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "無料で",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "synonyms": [
         "for free",
         "free of charge"
@@ -15,6 +17,8 @@
     },
     {
       "idiom-jp": "無駄に",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "synonyms": [
         "in vain"
       ],

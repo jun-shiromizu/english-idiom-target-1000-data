@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "息切れして",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "short of breath"
       ],

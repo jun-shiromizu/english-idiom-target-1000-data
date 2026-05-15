@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を利用する；〜につけ込む",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "synonyms": [
         "make use of ~",
         "avail oneself of ~",

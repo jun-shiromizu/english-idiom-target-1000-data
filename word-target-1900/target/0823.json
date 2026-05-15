@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を押し上げる；を増加させる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Sales of new cars helped boost the nation's economy.",
       "sentence-jp": "新車の販売はその国の経済を押し上げる助けとなった。"
     }

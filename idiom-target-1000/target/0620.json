@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を用いて、〜によって",
+      "partOfSpeech": "preposition",
+      "choiceType": "prepositional-phrase",
       "synonyms": [
         "with the help of ~",
         "by [in] virtue of ~"

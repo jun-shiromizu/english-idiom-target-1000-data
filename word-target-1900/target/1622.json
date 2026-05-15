@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "遅れる；徐々に弱まる",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "We lag far behind our competitors in productivity.",
       "sentence-jp": "我が社は生産性においてライバル会社よりはるかに遅れている。"
     }

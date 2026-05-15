@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "をなんとか成し遂げる；を管理する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The student managed to finish his report before the deadline.",
       "sentence-jp": "その学生は締め切り前になんとかレポートを仕上げることができた。"
     }

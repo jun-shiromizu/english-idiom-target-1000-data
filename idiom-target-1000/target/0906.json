@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "役に立つ",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "be [prove] useful [convenient]"
       ],

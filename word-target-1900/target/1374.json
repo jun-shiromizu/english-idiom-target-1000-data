@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "運命",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "She believed that it was her destiny to become a doctor.",
       "sentence-jp": "彼女は医者になることが自分の運命だと思っていた。"
     }

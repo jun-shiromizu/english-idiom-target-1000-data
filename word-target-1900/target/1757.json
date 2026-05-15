@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "独占（権）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The company maintains a virtual monopoly in the market.",
       "sentence-jp": "その会社はその市場で事実上の独占を維持している。"
     }

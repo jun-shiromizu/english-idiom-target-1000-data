@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "下水",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "In the past, sewage poured directly into rivers.",
       "sentence-jp": "昔は，下水は川に直接流れ込んでいた。"
     }

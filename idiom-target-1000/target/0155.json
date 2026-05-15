@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "長い目で見れば, 結局は",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "in the long term"
       ],

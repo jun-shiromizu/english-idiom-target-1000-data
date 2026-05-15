@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜としては、〜に関する限りは",
+      "partOfSpeech": "conjunction",
+      "choiceType": "conjunction-phrase",
       "synonyms": [
         "as for ~",
         "as [so] far as ~ be concerned"

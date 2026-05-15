@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "賛否両論",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "The panelists discussed the pros and cons of using English as the sole language for higher education.",
       "sentence-jp": "パネリストたちは高等教育において唯一の言語として英語を使うことの賛否を議論した。"
     }

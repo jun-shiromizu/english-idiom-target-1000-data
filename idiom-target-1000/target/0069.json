@@ -1,19 +1,21 @@
-  {
-    "number": "0069",
-    "idioms": [
-      "find out ~"
-    ],
-    "means": [
-      {
-        "idiom-jp": "（調査などの結果）を見つけ出す；（真相）を知る",
-        "synonyms": [
-          "discover"
-        ],
-        "example-sentence": "If you are not feeling well, you'd better see a doctor to find out what is wrong.",
-        "sentence-jp": "もし具合が悪いのなら、どこがおかしいのかを見つけるためにも医者に診てもらったほうがいい。"
-      }
-    ],
-    "notes": [
-      "find 〜 out の語順も可。"
-    ]
-  }
+{
+  "number": "0069",
+  "idioms": [
+    "find out ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "（調査などの結果）を見つけ出す；（真相）を知る",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
+      "synonyms": [
+        "discover"
+      ],
+      "example-sentence": "If you are not feeling well, you'd better see a doctor to find out what is wrong.",
+      "sentence-jp": "もし具合が悪いのなら、どこがおかしいのかを見つけるためにも医者に診てもらったほうがいい。"
+    }
+  ],
+  "notes": [
+    "find 〜 out の語順も可。"
+  ]
+}

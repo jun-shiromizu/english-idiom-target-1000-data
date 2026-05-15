@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "墓；〔通例the ～〕死",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Every time she returns home, she visits her grandmother's grave.",
       "sentence-jp": "故郷に戻るたびに彼女は祖母の墓にお参りする。"
     }

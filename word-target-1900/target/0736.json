@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（に）抗議する；を主張する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "He protested against the board's decision to close the Osaka office.",
       "sentence-jp": "彼は大阪支社をたたむという役員会の決定に抗議した。"
     }

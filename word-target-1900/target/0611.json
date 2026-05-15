@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を移す；を伝える；移る；乗り換える",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The gallery will transfer one item of its collection to a Tokyo art museum.",
       "sentence-jp": "その美術館は収蔵品の1点を東京の美術館に移す予定である。"
     }

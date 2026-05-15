@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "それほど〜ではない",
+      "partOfSpeech": "phrase",
+      "choiceType": "comparative-expression",
       "synonyms": [
         "not so [very] ~"
       ],

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜の埋め合わせをする, 〜を補償する",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "synonyms": [
         "make up for ~"
       ],

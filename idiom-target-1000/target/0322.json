@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を誇り[自慢]に思う",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "be proud of ~",
         "boast of [about] ~"

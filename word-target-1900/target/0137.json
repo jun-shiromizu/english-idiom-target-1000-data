@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を妨げる；を防ぐ",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Strict laws may prevent people from committing violent crimes.",
       "sentence-jp": "厳しい法律は人々が凶悪犯罪を犯すのを妨げるかもしれない。"
     }

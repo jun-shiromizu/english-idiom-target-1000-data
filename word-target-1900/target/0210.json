@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（調査・実験など）を実施する；を導く",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "The doctor conducted a quick test to measure my blood-sugar level.",
       "sentence-jp": "医師は私の血糖値を測るために簡単な検査を行った。"
     }

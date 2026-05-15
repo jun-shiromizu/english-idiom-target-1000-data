@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "集団の，共同の",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Collective and individual thinking are influenced by language.",
       "sentence-jp": "集団の思考や個人の思考は言語に影響される。"
     }

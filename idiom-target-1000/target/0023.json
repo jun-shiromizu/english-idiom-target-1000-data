@@ -1,18 +1,20 @@
-  {
-    "number": "0023",
-    "idioms": [
-      "be engaged in ~"
-    ],
-    "means": [
-      {
-        "idiom-jp": "〜に従事している；忙しく〜をしている",
-        "example-sentence": "Millions of Americans are engaged in volunteer work for charities.",
-        "sentence-jp": "何百万人ものアメリカ人が慈善団体のボランティア活動に従事している。"
-      }
-    ],
-    "notes": [
-      "be engaged in 〜 は「状態」を表すが、engage in 〜 は「〜に従事する」と「動作」を表す。",
-      "be engaged to 〜 は「〜と婚約中である」。",
-      "charity「慈善団体」"
-    ]
-  }
+{
+  "number": "0023",
+  "idioms": [
+    "be engaged in ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜に従事している；忙しく〜をしている",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
+      "example-sentence": "Millions of Americans are engaged in volunteer work for charities.",
+      "sentence-jp": "何百万人ものアメリカ人が慈善団体のボランティア活動に従事している。"
+    }
+  ],
+  "notes": [
+    "be engaged in 〜 は「状態」を表すが、engage in 〜 は「〜に従事する」と「動作」を表す。",
+    "be engaged to 〜 は「〜と婚約中である」。",
+    "charity「慈善団体」"
+  ]
+}

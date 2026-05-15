@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(人は)ただ…すればよい。",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "To operate this machine, all you have to do is press this button.",
       "sentence-jp": "この機械を操作するには、ただこのボタンを押しさえすればよい。"
     }

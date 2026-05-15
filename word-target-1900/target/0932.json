@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を折り畳む；（両腕）を組む；（折り）畳める",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "She is very good at folding clothes.",
       "sentence-jp": "彼女は衣服を畳むのがとてもうまい。"
     }

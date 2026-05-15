@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を気の毒に思う、〜に同情する",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "synonyms": [
         "feel for ~"
       ],

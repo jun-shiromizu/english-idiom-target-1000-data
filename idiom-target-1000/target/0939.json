@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "1つおきの〜、〜おきに",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "synonyms": [
         "every second ~"
       ],
@@ -14,6 +16,8 @@
     },
     {
       "idiom-jp": "残りのすべての〜",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "I noticed then that every other adult on the train was staring at his or her own smartphone.",
       "sentence-jp": "私はその時、電車内のほかの大人全員が各々のスマートフォンを見ているのに気づいた。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "全然〜ない",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "The coach said he was by no means satisfied with the way his baseball team played.",
       "sentence-jp": "コーチは, 彼の野球チームのプレーには全然満足していないと言った。"
     }

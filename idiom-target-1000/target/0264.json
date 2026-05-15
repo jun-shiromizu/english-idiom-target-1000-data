@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "初めて",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "It was almost a decade ago that I saw this movie for the first time with my father.",
       "sentence-jp": "私が父と初めてこの映画を見たのは10年近く前のことだった。"
     }

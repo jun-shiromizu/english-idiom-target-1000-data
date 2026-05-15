@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(結果を表して)非常に〜なので...",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "She resembles her mother so much that they are often mistaken for each other.",
       "sentence-jp": "彼女は母親に非常に似ているので, しばしば互いに間違われる。"
     }

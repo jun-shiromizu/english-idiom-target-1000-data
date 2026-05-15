@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "教義；【米】（政策上の）主義",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "She found truth in the doctrines of the religion.",
       "sentence-jp": "彼女はその宗教の教義に真理を見いだした。"
     }

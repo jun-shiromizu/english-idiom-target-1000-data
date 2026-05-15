@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "に気づく；を知覚する；を理解する",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He perceived a slight change in her attitude.",
       "sentence-jp": "彼は彼女の態度の微妙な変化に気づいた。"
     }

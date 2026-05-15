@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（～に）等しい（to）；匹敵する；平等な",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "$ 1 is almost equal to 100 yen.",
       "sentence-jp": "1ドルはほぼ100円に等しい。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "A を B のせい[結果]と考える",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "ascribe A to B"
       ],

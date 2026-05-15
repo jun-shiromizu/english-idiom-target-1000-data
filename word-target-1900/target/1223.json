@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "をいらいらさせる；をひりひりさせる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Jason's loud voice irritates her.",
       "sentence-jp": "ジェイソンの大声は彼女をいらいらさせる。"
     }

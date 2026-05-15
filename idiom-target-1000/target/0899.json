@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を手放す",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "release"
       ],

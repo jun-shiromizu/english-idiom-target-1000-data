@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（ねじなど）を巻く；（道などが）曲がりくねる；巻きつく",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "I learned from my father how to wind this mechanical watch.",
       "sentence-jp": "私はこの機械式腕時計のねじを巻く方法を父から学んだ。"
     }

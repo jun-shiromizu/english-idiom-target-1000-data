@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を全焼させる；(建物が)全焼する",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "burn (~) to the ground",
         "reduce ~ to ashes"

@@ -1,16 +1,18 @@
-  {
-    "number": "0041",
-    "idioms": [
-      "concentrate on ~"
-    ],
-    "means": [
-      {
-        "idiom-jp": "〜に集中する",
-        "example-sentence": "Right now he is concentrating on the last part of his paper.",
-        "sentence-jp": "今、彼はレポートの最後の部分に集中しているところだ。"
-      }
-    ],
-    "notes": [
-      "concentrate A on B は「A を B に集中する」。この場合の concentrate は他動詞。"
-    ]
-  }
+{
+  "number": "0041",
+  "idioms": [
+    "concentrate on ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜に集中する",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
+      "example-sentence": "Right now he is concentrating on the last part of his paper.",
+      "sentence-jp": "今、彼はレポートの最後の部分に集中しているところだ。"
+    }
+  ],
+  "notes": [
+    "concentrate A on B は「A を B に集中する」。この場合の concentrate は他動詞。"
+  ]
+}

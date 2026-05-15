@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を含む（⇔ exclude ⇒ 1009）",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Jane's work includes typing letters and making appointments.",
       "sentence-jp": "ジェーンの仕事は手紙をタイプしたり，アポを取ったりすることを含む。"
     }

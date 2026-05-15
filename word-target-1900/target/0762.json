@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（試合・論争などの）相手；反対者",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "She came up against a strong opponent in the final match.",
       "sentence-jp": "彼女は決勝戦で手ごわい相手と対戦した。"
     }

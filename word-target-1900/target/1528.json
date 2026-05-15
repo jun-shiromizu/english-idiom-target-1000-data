@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "腐敗する（≒ rot）；（徐々に）衰える",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "Fresh food easily decays in the summer.",
       "sentence-jp": "夏の間は生鮮食品はすぐに腐敗する。"
     }

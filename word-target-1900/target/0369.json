@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "心理学；心理（状態）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "She entered the university to study child psychology.",
       "sentence-jp": "彼女は児童心理学を研究するために大学に入った。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "利用，入手；接近（の機会・方法・権利）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "People can easily have access to the Internet these days.",
       "sentence-jp": "最近では人々は簡単にインターネットを利用することができる。"
     }

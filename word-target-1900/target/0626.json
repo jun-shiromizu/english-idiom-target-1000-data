@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "衝突する，墜落する；をぶつけて壊す",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "He drove off the road and crashed into a tree.",
       "sentence-jp": "彼の車は道路をはずれて，木に衝突した。"
     }

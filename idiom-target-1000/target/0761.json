@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "(条件・時間的限度)…である限り",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "insofar as ..."
       ],

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "それにもかかわらず，それでもなお（≒ nevertheless）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "She is over sixty but sings beautifully nonetheless.",
       "sentence-jp": "彼女は60歳を超えているが，それでもなお見事に歌う。"
     }

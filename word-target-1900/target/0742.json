@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "読み書きの能力；（特定分野の）知識",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Literacy rates vary considerably from country to country.",
       "sentence-jp": "識字率は国によってかなり異なる。"
     }

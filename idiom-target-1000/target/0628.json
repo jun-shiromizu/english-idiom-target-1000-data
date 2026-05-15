@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "実際には",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "in fact",
         "in reality",

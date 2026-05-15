@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を処分する；〜を平らげる",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "synonyms": [
         "get rid of ~"
       ],

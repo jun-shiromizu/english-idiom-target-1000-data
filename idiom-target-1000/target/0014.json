@@ -1,17 +1,19 @@
-  {
-    "number": "0014",
-    "idioms": [
-      "be aware of ~"
-    ],
-    "means": [
-      {
-        "idiom-jp": "〜に気がついている，〜を知っている",
-        "example-sentence": "From the beginning I was aware of this misunderstanding between us.",
-        "sentence-jp": "私は最初から私たちの間でのこの誤解に気がついていた。"
-      }
-    ],
-    "notes": [
-      "「〜に気づく」なら、become aware of 〜。",
-      "be [become] aware that ... と節も続く。"
-    ]
-  }
+{
+  "number": "0014",
+  "idioms": [
+    "be aware of ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜に気がついている，〜を知っている",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
+      "example-sentence": "From the beginning I was aware of this misunderstanding between us.",
+      "sentence-jp": "私は最初から私たちの間でのこの誤解に気がついていた。"
+    }
+  ],
+  "notes": [
+    "「〜に気づく」なら、become aware of 〜。",
+    "be [become] aware that ... と節も続く。"
+  ]
+}

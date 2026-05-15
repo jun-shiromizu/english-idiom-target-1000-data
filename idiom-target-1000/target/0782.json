@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜に手を貸す",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "lend ~ a hand"
       ],

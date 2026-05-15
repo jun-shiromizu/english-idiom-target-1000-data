@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "…でありさえすれば",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "only if ..."
       ],
@@ -14,6 +16,8 @@
     },
     {
       "idiom-jp": "(現在・未来の願望を表して)…でさえあればなあ",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "I wish ..."
       ],

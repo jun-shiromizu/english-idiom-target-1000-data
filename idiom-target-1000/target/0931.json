@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "多くの〜、あまたの〜",
+      "partOfSpeech": "phrase",
+      "choiceType": "quantity-expression",
       "example-sentence": "I’m glad to hear many a student wants to study abroad nowadays.",
       "sentence-jp": "最近では多くの学生が海外留学したがっていると聞いて私はうれしい。"
     }

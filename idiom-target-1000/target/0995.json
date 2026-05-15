@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "昔々",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Once upon a time, there lived even in this area various kinds of dinosaurs.",
       "sentence-jp": "昔々、この辺りにもさまざまな種類の恐竜が住んでいた。"
     }

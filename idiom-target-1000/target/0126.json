@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "少なくとも",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "at (the) most"
       ],

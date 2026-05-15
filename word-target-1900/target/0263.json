@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "状況，背景；文脈",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The use of proper manners is effective in various business contexts.",
       "sentence-jp": "適切な作法を用いることは，さまざまなビジネスの状況において効果的である。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "ばかげた物［話，考え］；無意味な言葉",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "John should have known better than to say such nonsense.",
       "sentence-jp": "ジョンはそのようなばかなことを言わないだけの分別があるべきだった。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "1人当たりの[で]",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "per person [head]"
       ],

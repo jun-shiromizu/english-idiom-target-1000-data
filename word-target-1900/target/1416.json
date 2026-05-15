@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（を）誘導する；（を）操縦する；（を）航行する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "She always navigates for her husband when they go for a drive.",
       "sentence-jp": "ドライブに行くときは彼女がいつも夫を誘導する。"
     }

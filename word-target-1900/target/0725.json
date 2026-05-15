@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を埋める；を埋葬する；を隠す",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The students buried time capsules in a corner of the school grounds.",
       "sentence-jp": "生徒たちは校庭の一角にタイムカプセルを埋めた。"
     }

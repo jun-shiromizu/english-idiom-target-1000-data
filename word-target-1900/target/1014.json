@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "をインストールする；を設置する；を就任させる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Yesterday, I installed some new apps on my smartphone.",
       "sentence-jp": "昨日私はスマートフォンに新しいアプリをいくつかインストールした。"
     }

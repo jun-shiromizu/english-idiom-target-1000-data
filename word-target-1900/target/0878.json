@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "教育課程，カリキュラム",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Under the new elementary school curriculum, students must study English.",
       "sentence-jp": "新しい小学校の教育課程では，生徒は英語を勉強しなければならない。"
     }

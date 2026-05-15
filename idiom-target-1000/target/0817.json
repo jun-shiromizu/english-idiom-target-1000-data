@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜によく会う",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "see a lot [great deal] of ~"
       ],

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "A(人)を説得して B をさせる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "persuade ~ to do"
       ],

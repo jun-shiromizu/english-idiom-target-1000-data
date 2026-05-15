@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "どちらかと言えば；もしあるとしても",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "At first, I didn’t think it would be difficult; if anything, I took it to be simple.",
       "sentence-jp": "最初、私はそれが難しいとは思わなかった。どちらかと言えば、それは簡単だと思った。"
     }

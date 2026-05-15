@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "第一級の；典型的な；定番の",
+      "partOfSpeech": "phrase",
+      "choiceType": "quantity-expression",
       "example-sentence": "Emily owns a large collection of classic films and novels.",
       "sentence-jp": "エミリーは第一級の映画と小説の大規模なコレクションを有している。"
     }

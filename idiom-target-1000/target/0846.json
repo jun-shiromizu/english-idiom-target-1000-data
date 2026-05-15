@@ -6,11 +6,15 @@
   "means": [
     {
       "idiom-jp": "〜の説明となる、〜の理由を説明する",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "example-sentence": "The study was unable to account for the effects of stressful events on emotion.",
       "sentence-jp": "その調査はストレスのかかる出来事が感情に与える影響の説明にはならなかった。"
     },
     {
       "idiom-jp": "(割合など)を占める",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "make up ~"
       ],

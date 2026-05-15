@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(法など)に従う、(約束など)を守る",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "stick to ~",
         "stand by ~",

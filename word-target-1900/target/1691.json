@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（～より）下位の（to）；副次的な",
+      "partOfSpeech": "phrase",
+      "choiceType": "comparative-expression",
       "example-sentence": "He did not like being in a subordinate position to his younger colleagues.",
       "sentence-jp": "彼は年下の同僚たちより下位の立場であることを好まなかった。"
     }

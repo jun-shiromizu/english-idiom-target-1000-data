@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "賛成する；を承認する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "Jane's parents approved of her studying abroad.",
       "sentence-jp": "ジェーンの両親は彼女の海外留学に賛成した。"
     }

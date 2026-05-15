@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "いくぶん，多少",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "I'll be somewhat late for your birthday party on Friday.",
       "sentence-jp": "私は金曜日のあなたの誕生パーティーに少し遅れます。"
     }

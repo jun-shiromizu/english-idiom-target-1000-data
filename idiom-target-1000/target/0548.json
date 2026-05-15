@@ -9,6 +9,8 @@
   "means": [
     {
       "idiom-jp": "〜を強調[重視]する",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "synonyms": [
         "place [lay] stress on [upon] ~"
       ],

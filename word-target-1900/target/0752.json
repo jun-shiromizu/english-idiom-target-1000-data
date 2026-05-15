@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "仲介者，代理人；薬剤",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The travel agent asked whether I wanted to go by air or by sea.",
       "sentence-jp": "その旅行業者は私が飛行機で行きたいのか船で行きたいのか尋ねた。"
     }

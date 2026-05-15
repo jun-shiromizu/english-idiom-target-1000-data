@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を尊敬する",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "synonyms": [
         "respect"
       ],

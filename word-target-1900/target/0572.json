@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "植民地；集団居住地；（動植物の）コロニー",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "In former British colonies such as Australia, they drive on the left.",
       "sentence-jp": "オーストラリアなどのかつてのイギリス植民地では，車は左側を走行する。"
     }

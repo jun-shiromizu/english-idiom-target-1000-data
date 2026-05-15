@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（薬の1回分の）服用量；放射線の1回の照射量",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Mary takes a dose of vitamin C every morning.",
       "sentence-jp": "メアリーは毎朝ビタミンCを一服服用している。"
     }

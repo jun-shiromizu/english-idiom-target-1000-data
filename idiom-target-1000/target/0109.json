@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "B より A を好む",
+      "partOfSpeech": "phrase",
+      "choiceType": "comparative-expression",
       "synonyms": [
         "like A better than B"
       ],

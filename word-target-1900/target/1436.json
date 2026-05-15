@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を投棄する；をどさっと落とす",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "It is illegal to dump waste into the river.",
       "sentence-jp": "川にごみを投棄するのは違法である。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "期限が切れる",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "She found that her passport was about to expire.",
       "sentence-jp": "彼女は自分のパスポートの期限が切れかかっていることに気づいた。"
     }

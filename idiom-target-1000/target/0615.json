@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "〜がない[不足している]ために",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "synonyms": [
         "through lack of ~",
         "from (the) want of ~"

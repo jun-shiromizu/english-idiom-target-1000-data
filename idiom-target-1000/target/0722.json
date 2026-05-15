@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "…することはできない。",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "It is impossible to do.",
         "We cannot do."

@@ -6,16 +6,22 @@
   "means": [
     {
       "idiom-jp": "〜まで",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "example-sentence": "Those little ants can carry up to 5,000 times their body weight.",
       "sentence-jp": "あの小さなアリたちは自分の体重の5000倍まで運ぶことができる。"
     },
     {
       "idiom-jp": "(主に It is up to ~ で)〜しだいである；〜の責任である",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "It is all up to the parents to decide which schools to choose for their young children.",
       "sentence-jp": "小さな子供たちのためにどの学校を選ぶかを決めるのはすべて親しだいである。"
     },
     {
       "idiom-jp": "(be up to ~ で)(悪いこと)をしようとしている",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "I knew the boy was up to something, but I couldn’t tell what it might be.",
       "sentence-jp": "その少年が何かをしようとしていることはわかったが、それが何なのかはわからなかった。"
     }

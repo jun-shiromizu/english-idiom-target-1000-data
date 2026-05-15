@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "明白な；一見～らしい",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "You should not refuse the invitation for no apparent reason.",
       "sentence-jp": "明白な理由なしで招待を断るべきではない。"
     }

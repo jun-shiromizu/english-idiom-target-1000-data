@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜も同然、ほとんど〜",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "almost"
       ],

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "液体",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Ice turns into liquid when it melts.",
       "sentence-jp": "氷は溶けると液体に変化する。"
     }

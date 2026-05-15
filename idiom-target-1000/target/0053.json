@@ -1,17 +1,19 @@
-  {
-    "number": "0053",
-    "idioms": [
-      "recover from ~"
-    ],
-    "means": [
-      {
-        "idiom-jp": "〜から立ち直る［回復する］",
-        "synonyms": [
-          "get over ~"
-        ],
-        "example-sentence": "The company will surely recover from the recent financial crisis.",
-        "sentence-jp": "その会社はきっと最近の財政危機から立ち直るだろう。"
-      }
-    ],
-    "notes": []
-  }
+{
+  "number": "0053",
+  "idioms": [
+    "recover from ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜から立ち直る［回復する］",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
+      "synonyms": [
+        "get over ~"
+      ],
+      "example-sentence": "The company will surely recover from the recent financial crisis.",
+      "sentence-jp": "その会社はきっと最近の財政危機から立ち直るだろう。"
+    }
+  ],
+  "notes": []
+}

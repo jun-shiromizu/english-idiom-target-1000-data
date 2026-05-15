@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "まさかと思うような話だが",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Believe it or not, obesity also occurs even among those living in poverty.",
       "sentence-jp": "まさかと思うような話だが、肥満は貧しい生活をしている人々の間でさえも起きる。"
     }

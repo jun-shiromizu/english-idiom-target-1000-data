@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を受け入れる；（を）抱擁する；を包含する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Freedom of expression will lead people to embrace diversity.",
       "sentence-jp": "表現の自由は人々を多様性を受け入れる方向に導く。"
     }

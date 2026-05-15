@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "生態学；生態系；環境保護",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He is going to study natural science and become an expert on ecology.",
       "sentence-jp": "彼は自然科学を研究し，生態学の専門家になるつもりである。"
     }

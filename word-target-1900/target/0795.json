@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "王の",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Each member of the royal family has official duties to do.",
       "sentence-jp": "王室の各人が行うべき公務を抱えている。"
     }

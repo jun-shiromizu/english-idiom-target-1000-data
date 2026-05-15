@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "ファイル；（書類の）とじ込み",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Please refer to the attached file for the details.",
       "sentence-jp": "詳細については添付のファイルを参照してください。"
     }

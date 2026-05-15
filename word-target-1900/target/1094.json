@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "肥満した",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "A survey shows that 30 percent of men are obese.",
       "sentence-jp": "ある調査は男性の30パーセントが肥満であることを示している。"
     }

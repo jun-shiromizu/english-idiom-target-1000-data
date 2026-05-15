@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜も同然、ほとんど〜",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "almost",
         "just about ~"
@@ -15,6 +17,8 @@
     },
     {
       "idiom-jp": "〜以外すべて",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "All but Peter were unable to get to class on time because the bus was not running.",
       "sentence-jp": "ピーター以外の全員はバスが動いていなかったので授業に時間どおりには着けなかった。"
     }

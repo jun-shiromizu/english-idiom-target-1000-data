@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "最初から",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "from the (very) beginning"
       ],

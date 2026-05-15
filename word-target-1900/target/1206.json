@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（人）を慣れさせる",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "I am accustomed to hearing criticism from the media.",
       "sentence-jp": "私はマスコミからの批判を聞くのに慣れている。"
     }

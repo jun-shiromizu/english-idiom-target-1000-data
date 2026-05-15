@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜へたどり着く、〜まで道を探しながら進む",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "I didn’t have any trouble finding my way to the hotel.",
       "sentence-jp": "私はホテルへたどり着くのにまったく苦労しなかった。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を蓄積する，集める；積もる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The couple accumulated $ 20, 000 to buy a new car.",
       "sentence-jp": "その夫婦は新車を購入するために20,000ドルを貯めた。"
     }

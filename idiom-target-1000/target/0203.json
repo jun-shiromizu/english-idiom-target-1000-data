@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜と一緒に, 〜に加えて",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "in addition to ~",
         "together with ~"

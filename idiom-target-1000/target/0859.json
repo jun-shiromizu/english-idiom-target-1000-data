@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(商品)を扱う；(仕事など)に従事する",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Today many ordinary people deal in stocks via the internet.",
       "sentence-jp": "今日では多くの普通の人がインターネット経由で株を扱っている。"
     }

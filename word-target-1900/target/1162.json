@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "微生物；細菌",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Soil full of microbes can help plants grow strong.",
       "sentence-jp": "微生物をたくさん含む土壌は植物が丈夫に育つのを助ける。"
     }

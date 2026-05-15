@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "概念，観念；見解；意向",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He considers the notion of peace as the absence of war.",
       "sentence-jp": "彼は平和の概念を戦争のない状態としてとらえている。"
     }

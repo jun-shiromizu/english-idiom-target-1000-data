@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "技能；熟練",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "She needs to improve her cooking skills to become a chef.",
       "sentence-jp": "彼女は料理長になるために調理の技能を向上させる必要がある。"
     }

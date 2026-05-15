@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "結果（≒ result）；成果",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Many people watched the news for the outcome of the trial.",
       "sentence-jp": "多くの人がその裁判の結果のニュースを見た。"
     }

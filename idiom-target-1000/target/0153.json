@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "結局は, ついには",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "finally",
         "at last",

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を抑圧［迫害］する；を悩ませる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The military entered the area and oppressed the local people.",
       "sentence-jp": "軍はその地域に入り，現地の住民を迫害した。"
     }

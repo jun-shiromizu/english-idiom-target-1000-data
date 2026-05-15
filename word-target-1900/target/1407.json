@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を吹きかける，に吹きつける",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The man sprayed all the plants with an insecticide.",
       "sentence-jp": "その男性はすべての植物に殺虫剤を吹きかけた。"
     }

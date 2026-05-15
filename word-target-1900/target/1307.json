@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（法律・規則など）に違反する；を侵害する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "Using your smartphone on a flight may violate safety regulations.",
       "sentence-jp": "フライト中にスマートフォンを使うことは安全規則に違反する可能性がある。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜に屈する",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "synonyms": [
         "give in to ~",
         "give way to ~",

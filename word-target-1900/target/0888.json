@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "本物の（≒ authentic ⇒ 1580, real）；偽りのない",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "This bag is made from genuine leather.",
       "sentence-jp": "このかばんは本物の革でできている。"
     }

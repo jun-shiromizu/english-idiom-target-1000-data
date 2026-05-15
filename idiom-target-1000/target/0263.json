@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "最初は",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "at the start",
         "at the outset"

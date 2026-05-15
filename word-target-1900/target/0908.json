@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "漂う，浮かぶ；を浮かべる",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "She saw a few clouds floating across the sky.",
       "sentence-jp": "彼女にはいくつかの雲が空に浮かんで流れていくのが見えた。"
     }

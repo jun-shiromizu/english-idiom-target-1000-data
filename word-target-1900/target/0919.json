@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を楽しませる；をもてなす",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Hollywood movies have entertained audiences around the world for years.",
       "sentence-jp": "ハリウッド映画は長年にわたって世界中の観客を楽しませてきた。"
     }

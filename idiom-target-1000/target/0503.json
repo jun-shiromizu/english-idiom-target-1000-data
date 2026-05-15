@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "B のことで A を許す",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "I hope you will forgive me for having kept you waiting for such a long time.",
       "sentence-jp": "あなたをこんなに長い時間待たせたことについて私を許していただけるとよいのですが。"
     }

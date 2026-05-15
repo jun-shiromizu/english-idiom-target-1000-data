@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "おじぎする；屈服する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "The actors bowed to the audience after the musical was over.",
       "sentence-jp": "ミュージカルが終わった後，俳優たちは観客に向かっておじぎした。"
     }

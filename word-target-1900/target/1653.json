@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "話し合い，会話；講演；論説",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "I hope for lively discourse at the meeting.",
       "sentence-jp": "私は会合での活発な話し合いを願っている。"
     }

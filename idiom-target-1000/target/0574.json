@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜に値する[ふさわしい]",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Yuta got first prize in the contest, but later wondered if he was worthy of the prize.",
       "sentence-jp": "ユウタはコンテストで1位になったが、後になって自分はその賞にふさわしいだろうかと思った。"
     }

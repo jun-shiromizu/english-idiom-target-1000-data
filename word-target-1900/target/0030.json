@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を奨励する；を励ます（⇔ discourage ⇒ 706）",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Many companies encourage their employees not to work overtime.",
       "sentence-jp": "多くの会社は従業員に残業をしないように奨励している。"
     }

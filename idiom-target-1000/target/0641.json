@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "陳列中で[の]、展示して",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "on exhibit",
         "on exhibition",

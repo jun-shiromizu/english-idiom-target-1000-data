@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を楽しみに待つ",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "We're all really looking forward to hearing from you soon.",
       "sentence-jp": "私たちは皆、あなたから近々便りがあることを本当に楽しみにしています。"
     }

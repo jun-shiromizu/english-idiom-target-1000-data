@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を回復させる；を修復する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The government promised to restore the economy to a healthy state.",
       "sentence-jp": "政府は経済を健全な状態に回復させると約束した。"
     }

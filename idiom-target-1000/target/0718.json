@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(ちょうど)〜であるように、…だ。",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Just as some people are born artists, so some are born athletes.",
       "sentence-jp": "生まれながらの芸術家がいるように、生まれながらのスポーツマンもいる。"
     }

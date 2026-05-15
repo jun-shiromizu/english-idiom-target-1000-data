@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（～にとって）無関係の（to）；見当違いの",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He asked the teacher a question irrelevant to the topic.",
       "sentence-jp": "彼は先生にその話題に無関係の質問をした。"
     }

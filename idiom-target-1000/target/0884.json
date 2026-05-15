@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "(〜を)やり遂げる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Yui followed through on the promise to return home by ten.",
       "sentence-jp": "ユイは10時までに帰宅するという約束を最後まで守った。"
     }

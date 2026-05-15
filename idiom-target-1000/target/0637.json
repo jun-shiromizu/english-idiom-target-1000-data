@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "時折；あちこちに",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "She broke off her conversation at intervals and smiled at me.",
       "sentence-jp": "彼女は時折会話をやめ、私にほほえみかけた。"
     }

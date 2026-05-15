@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を禁止する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The new law prohibits smoking in all restaurants.",
       "sentence-jp": "新しい法律はすべてのレストランでの喫煙を禁止している。"
     }

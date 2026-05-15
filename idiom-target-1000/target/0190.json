@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(手渡しで)〜を提出する[届ける]",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "submit",
         "turn in ~"

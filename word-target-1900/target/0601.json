@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〔commit oneselfまたは受身形で〕献身する；（罪など）を犯す；を投入する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "She is committed to managing her company.",
       "sentence-jp": "彼女は自分の会社の経営に専念している。"
     }

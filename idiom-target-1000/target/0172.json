@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を求めて[探して]",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "in pursuit of ~"
       ],

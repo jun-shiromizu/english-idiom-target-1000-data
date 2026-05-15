@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜の目を正視する",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "example-sentence": "He couldn’t have looked her straight in the eye if he’d had any evil intent on her.",
       "sentence-jp": "彼がもし彼女に対して悪意を持っていたなら、彼は彼女の目を正視することができなかっただろう。"
     }

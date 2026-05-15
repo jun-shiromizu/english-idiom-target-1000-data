@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "をまき散らす；分散する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "There is litter scattered on the beach.",
       "sentence-jp": "海岸にごみがまき散らされている。"
     }

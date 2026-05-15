@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を引きずる；ぐずぐずする",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "I saw people dragging big bags at the airport.",
       "sentence-jp": "私は空港で人々が大きなバッグを引きずっているのを見た。"
     }

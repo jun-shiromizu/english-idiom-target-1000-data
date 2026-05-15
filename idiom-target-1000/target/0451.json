@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を使い果たす",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "exhaust"
       ],

@@ -1,16 +1,18 @@
-  {
-    "number": "0087",
-    "idioms": [
-      "take place"
-    ],
-    "means": [
-      {
-        "idiom-jp": "催される；起こる",
-        "example-sentence": "Unless it rains, the athletic meet will take place on the playground as scheduled.",
-        "sentence-jp": "雨が降らない限り、予定どおりグラウンドで運動会が開催されるだろう。"
-      }
-    ],
-    "notes": [
-      "「(計画されたことが) 催される」の意味で使われるが、「(自然に) 起こる」(= happen) の意味でも広く使う。"
-    ]
-  }
+{
+  "number": "0087",
+  "idioms": [
+    "take place"
+  ],
+  "means": [
+    {
+      "idiom-jp": "催される；起こる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
+      "example-sentence": "Unless it rains, the athletic meet will take place on the playground as scheduled.",
+      "sentence-jp": "雨が降らない限り、予定どおりグラウンドで運動会が開催されるだろう。"
+    }
+  ],
+  "notes": [
+    "「(計画されたことが) 催される」の意味で使われるが、「(自然に) 起こる」(= happen) の意味でも広く使う。"
+  ]
+}

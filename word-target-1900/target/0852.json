@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "感染（症）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The area of infection spread all over the patient's body.",
       "sentence-jp": "感染の範囲がその患者の体中に広まった。"
     }

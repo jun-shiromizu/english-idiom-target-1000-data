@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "象徴，シンボル；記号；標章",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "People believe that the four-leaf clover is a symbol of good luck.",
       "sentence-jp": "人々は四つ葉のクローバーが幸運の象徴であると信じている。"
     }

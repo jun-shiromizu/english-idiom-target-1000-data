@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（～に対する）差別（against）；区別",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "It is necessary to deal with discrimination against women.",
       "sentence-jp": "女性に対する差別に取り組むことが必要である。"
     }

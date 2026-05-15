@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(〜)なしですます",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "go without (~)",
         "dispense with ~"

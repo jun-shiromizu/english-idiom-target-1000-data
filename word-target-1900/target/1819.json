@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を堕落させる；を買収する；堕落する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Illegal money may corrupt politicians.",
       "sentence-jp": "違法な金は政治家を堕落させることもある。"
     }

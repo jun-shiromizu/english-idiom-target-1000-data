@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "〜についてやかましい[気難しい]",
+      "partOfSpeech": "preposition",
+      "choiceType": "prepositional-phrase",
       "example-sentence": "The artist was not particular about the kind of food he ate when working.",
       "sentence-jp": "その芸術家は、作業中は食べ物の種類についてやかましくなかった。"
     }

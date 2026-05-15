@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "減少する；衰退する；を断る",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "The crime rate in the U.S. has declined steadily.",
       "sentence-jp": "アメリカにおける犯罪率は着実に減少してきている。"
     }

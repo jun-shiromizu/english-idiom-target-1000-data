@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "賄賂",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "It was found out that the politician received a bribe.",
       "sentence-jp": "その政治家が賄賂を受け取ったことが発覚した。"
     }

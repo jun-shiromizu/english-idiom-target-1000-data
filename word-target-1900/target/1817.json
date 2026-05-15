@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（～を）ののしる（at）；（を）誓う（≒ vow）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The man swore at the TV when the player missed a shot.",
       "sentence-jp": "その男性は選手がミスショットをしたときテレビに向かってののしった。"
     }

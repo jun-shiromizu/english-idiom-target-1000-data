@@ -6,11 +6,15 @@
   "means": [
     {
       "idiom-jp": "[名詞の後に置いて]一般の；全体としての",
+      "partOfSpeech": "phrase",
+      "choiceType": "quantity-expression",
       "example-sentence": "I can’t imagine how this new idea of his will be accepted in society at large.",
       "sentence-jp": "私は彼のこの新しい考えがどうやって社会一般に受け入れられるかが想像できない。"
     },
     {
       "idiom-jp": "逃走中で、逮捕されないで",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "synonyms": [
         "on the loose"
       ],

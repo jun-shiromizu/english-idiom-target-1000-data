@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〔～s〕経費；費用；犠牲",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The manager aims to cut down personnel expenses.",
       "sentence-jp": "その経営者は人件費を削減しようとしている。"
     }

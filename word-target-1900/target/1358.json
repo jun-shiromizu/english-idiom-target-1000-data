@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "灌漑",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Today, Japan mainly uses river water for irrigation.",
       "sentence-jp": "今日，日本は主に灌漑のために川の水を使っている。"
     }

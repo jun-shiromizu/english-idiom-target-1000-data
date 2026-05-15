@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "有史以前の；旧式な",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "People may have cooked food in hot water in prehistoric times.",
       "sentence-jp": "有史以前，人々は熱湯で食べ物を料理していたかもしれない。"
     }

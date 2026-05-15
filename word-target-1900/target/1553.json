@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "大草原",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "A herd of buffalo inhabits the nearby prairie.",
       "sentence-jp": "バッファローの群れが近くの大草原に生息している。"
     }

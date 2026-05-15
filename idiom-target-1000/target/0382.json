@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜に達する；〜に来る",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "synonyms": [
         "amount to ~"
       ],
@@ -14,11 +16,15 @@
     },
     {
       "idiom-jp": "(come to do で)…するようになる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "A friend of mine says he’s come to realize he doesn’t have the talent to become a writer.",
       "sentence-jp": "私の友人は、自分が作家になる才能はないとわかるようになったと言っている。"
     },
     {
       "idiom-jp": "意識を回復する、正気に戻る",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "When he came to, he looked up and saw a spreading mushroom-shaped cloud.",
       "sentence-jp": "彼が意識を回復したとき、見上げるとキノコの形をした雲が広がっているのが見えた。"
     }

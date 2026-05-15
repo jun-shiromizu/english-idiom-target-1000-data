@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "不利（な点）；障害；（信用などの）損失",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Poor children tend to suffer educational and social disadvantages.",
       "sentence-jp": "貧しい子供たちは教育的・社会的不利を被る傾向がある。"
     }

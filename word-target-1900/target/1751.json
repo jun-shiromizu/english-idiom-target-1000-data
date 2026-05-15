@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "麻痺；〔比喩的に〕麻痺（状態）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "A stroke caused paralysis of the left side of his body.",
       "sentence-jp": "脳卒中の発作は彼の左半身の麻痺を引き起こした。"
     }

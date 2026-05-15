@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "はう；ゆっくり進む",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The baby crawled across the floor to his mother.",
       "sentence-jp": "その赤ん坊は床をはって母親の所に行った。"
     }

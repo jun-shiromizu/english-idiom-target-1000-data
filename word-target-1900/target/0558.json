@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "障害，（心身の）不調；混乱",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Normal human emotions like temporary sadness are sometimes treated as mental disorders.",
       "sentence-jp": "一時的な悲しみのような通常の人間的感情が，ときに精神障害と見なされる。"
     }

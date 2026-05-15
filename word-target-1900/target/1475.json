@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "買い得品；取引；契約",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "She found a good bargain at the market.",
       "sentence-jp": "彼女は市場でお買い得品を見つけた。"
     }

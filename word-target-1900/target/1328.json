@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "あえて［思い切って］...する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "He did not dare to tell the truth to anyone.",
       "sentence-jp": "彼はあえてだれにも真実を言わなかった。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "織物、布（地）；構造",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Using organic cotton as fabric for clothes has become widespread.",
       "sentence-jp": "洋服の生地としてオーガニックコットンを使うことが広まってきている。"
     }

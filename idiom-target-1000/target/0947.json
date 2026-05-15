@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(人)が…した",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "He seems to be in trouble again, but all those problems are of his own making.",
       "sentence-jp": "彼はまたトラブルになっているようだが、そうした問題はすべて彼自身が引き起こしたものだ。"
     }

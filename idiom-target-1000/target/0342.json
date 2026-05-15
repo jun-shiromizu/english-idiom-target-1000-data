@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "一般的に言えば",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Generally speaking, Japanese women live longer than Japanese men by about six years.",
       "sentence-jp": "一般的に言えば、日本人女性は日本人男性より6年ほど長生きだ。"
     }

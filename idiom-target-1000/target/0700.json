@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "はるかに、ずっと",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "That new building in front of the station is by far the tallest in the city.",
       "sentence-jp": "駅の正面にあるその新しい建物は、市内では飛び抜けて高い。"
     }

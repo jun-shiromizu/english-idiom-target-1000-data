@@ -1,20 +1,22 @@
-  {
-    "number": "0098",
-    "idioms": [
-      "enjoy oneself"
-    ],
-    "means": [
-      {
-        "idiom-jp": "楽しい時を過ごす",
-        "synonyms": [
-          "have a good [great] time",
-          "have fun"
-        ],
-        "example-sentence": "My brother usually enjoys himself working out at a gym after work.",
-        "sentence-jp": "兄はふだん、仕事の後にジムでトレーニングをして楽しい時を過ごしている。"
-      }
-    ],
-    "notes": [
-      "get a (big) kick out of 〜 という口語表現もある。"
-    ]
-  }
+{
+  "number": "0098",
+  "idioms": [
+    "enjoy oneself"
+  ],
+  "means": [
+    {
+      "idiom-jp": "楽しい時を過ごす",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
+      "synonyms": [
+        "have a good [great] time",
+        "have fun"
+      ],
+      "example-sentence": "My brother usually enjoys himself working out at a gym after work.",
+      "sentence-jp": "兄はふだん、仕事の後にジムでトレーニングをして楽しい時を過ごしている。"
+    }
+  ],
+  "notes": [
+    "get a (big) kick out of 〜 という口語表現もある。"
+  ]
+}

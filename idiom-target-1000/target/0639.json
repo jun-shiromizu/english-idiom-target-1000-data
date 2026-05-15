@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜の基準[原則]で",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "example-sentence": "We are emotional beings and experience a wide range of feelings on a daily basis.",
       "sentence-jp": "私たちは情緒的な生き物で、日常的に幅広い感情を経験する。"
     }

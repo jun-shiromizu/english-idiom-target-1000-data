@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "最近の",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Research shows that reading habits have declined in recent years.",
       "sentence-jp": "近年，読書の習慣が衰退してきていることを研究は示している。"
     }

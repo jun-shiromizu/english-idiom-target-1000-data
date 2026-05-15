@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（草木の）茎，幹",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Water moves through the stems and leaves of the plants.",
       "sentence-jp": "水分は植物の茎や葉の中を通って移動する。"
     }

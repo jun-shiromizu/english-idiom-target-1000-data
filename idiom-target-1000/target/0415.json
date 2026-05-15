@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "事実上、実際は",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "in fact",
         "in reality",
@@ -16,6 +18,8 @@
     },
     {
       "idiom-jp": "(法律などが)実施されて",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "in force"
       ],

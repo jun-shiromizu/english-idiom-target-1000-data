@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜に(悪意のない)いたずらをする",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "example-sentence": "When we were in junior high, we often played jokes on our history teacher.",
       "sentence-jp": "私たちが中学生だったとき、よく歴史の先生にいたずらをした。"
     }

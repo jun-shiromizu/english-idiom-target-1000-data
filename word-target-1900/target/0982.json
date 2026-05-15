@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "形式ばらない，略式の（⇔ formal 正式の）；（言葉が）くだけた",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "At the party, he spoke in a friendly, informal way.",
       "sentence-jp": "パーティーで，彼は友好的で形式ばらない話し方をした。"
     }

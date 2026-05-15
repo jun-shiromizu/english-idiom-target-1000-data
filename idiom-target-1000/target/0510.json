@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "A を B に変える[変質させる]",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "turn A into B",
         "change A into B"

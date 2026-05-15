@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "急に〜をしだす；突然〜に入る",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "break into ~"
       ],

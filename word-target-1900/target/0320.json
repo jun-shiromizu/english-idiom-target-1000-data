@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を消費する；を食べる，飲む",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Eco-friendly cars consume less fuel than traditional gas-based cars.",
       "sentence-jp": "エコカーは従来のガソリン車に比べてより少ない燃料を消費する。"
     }

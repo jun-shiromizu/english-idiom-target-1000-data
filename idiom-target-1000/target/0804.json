@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜の顔を(見て)知っている",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "The woman I am to meet today does not know me by sight.",
       "sentence-jp": "今日会う予定の女性は私の顔も知らない。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "をうっかり表す；を裏切る",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Our tone often betrays our thoughts and feelings.",
       "sentence-jp": "私たちの口調は私たちの考えや気持ちをうっかり表すことがよくある。"
     }

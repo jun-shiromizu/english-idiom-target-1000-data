@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "重力，引力；重量；重大さ",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Newton's theory of gravity was greatly influenced by Kepler's ideas.",
       "sentence-jp": "ニュートンの重力理論はケプラーの考えに大きな影響を受けた。"
     }

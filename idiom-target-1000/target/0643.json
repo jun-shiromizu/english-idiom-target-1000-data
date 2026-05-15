@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "警戒して",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Criminal activities using the internet are widespread, so it is best to be on our guard.",
       "sentence-jp": "インターネットを使った犯罪活動が広まっているので、警戒しておくのに越したことはない。"
     }

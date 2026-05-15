@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "B のことで A を罰する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "Nancy punished herself for having been too strict with her students the previous day.",
       "sentence-jp": "ナンシーは、前日生徒たちに厳しくしすぎたことで自分を責めた。"
     }

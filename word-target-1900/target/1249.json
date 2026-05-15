@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "症候群；～現象",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Inborn heart defects are associated with many genetic syndromes.",
       "sentence-jp": "生まれつきの心臓欠陥は多くの遺伝的症候群と関連づけられる。"
     }

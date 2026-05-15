@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "出発する；（～から）それる（from）",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "In Japan, trains almost always depart on time.",
       "sentence-jp": "日本では，列車はほとんどいつも時間どおりに出発する。"
     }

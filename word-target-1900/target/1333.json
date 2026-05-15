@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を集める；を組み立てる；集まる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "He assembled a team of experts to review the plan.",
       "sentence-jp": "彼はその計画を見直すために専門家チームを集めた。"
     }

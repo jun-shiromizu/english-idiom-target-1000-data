@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "いつも, 常に",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "example-sentence": "When I was a child, my parents took me to the zoo all the time.",
       "sentence-jp": "子供のころ, 私の両親は私をいつもその動物園に連れて行ってくれた。"
     }

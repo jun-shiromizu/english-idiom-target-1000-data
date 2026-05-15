@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（と）不平［苦情］を言う；訴える",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "People often complain about the government's reaction to natural disasters.",
       "sentence-jp": "人々はよく自然災害に対する政府の反応について不平を言う。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "に詰め込む；詰め込み勉強をする",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The boy crammed his mouth with a piece of bread.",
       "sentence-jp": "その少年は口に1切れのパンを詰め込んだ。"
     }

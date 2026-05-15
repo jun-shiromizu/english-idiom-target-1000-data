@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "〜を心配している",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "be anxious about ~"
       ],

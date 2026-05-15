@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を主張する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The lawsuit alleged that the company concealed important information.",
       "sentence-jp": "訴訟はその会社が重要情報を隠していたと主張した。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(お礼の言葉に対して)どういたしまして。",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "You’re (very [most]) welcome."
       ],

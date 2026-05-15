@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "道（筋）；路線，ルート；（～の）手段（to）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The GPS can plan the best route for the driver.",
       "sentence-jp": "GPSは運転者にとっての最善の道筋を計画することができる。"
     }

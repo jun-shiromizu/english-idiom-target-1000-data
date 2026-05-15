@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "知人；面識；知識",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "She is just a casual acquaintance.",
       "sentence-jp": "彼女はただのちょっとした知り合いだ。"
     }

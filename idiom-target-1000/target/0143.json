@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "1つには",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "For one thing, the seats are too soft; for another, they are too small for us.",
       "sentence-jp": "1つには, 座席が柔らかすぎる。もう1つには, それらは私たちには小さすぎる。"
     }

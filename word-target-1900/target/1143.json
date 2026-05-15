@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "企業，事業；企画；進取の気性",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "I work for a global enterprise selling cosmetics around the world.",
       "sentence-jp": "私は世界中で化粧品を販売している世界的企業に勤めている。"
     }

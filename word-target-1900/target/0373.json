@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "砂漠；不毛の地",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Some plants can store water and survive in the desert.",
       "sentence-jp": "植物の中には水を貯え，砂漠で生き残ることができるものもある。"
     }

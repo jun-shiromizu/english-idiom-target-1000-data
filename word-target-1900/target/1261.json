@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "刑務所，拘置所（≒ prison）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The criminal was charged with burglary and taken to jail.",
       "sentence-jp": "犯人は住居侵入罪で告発され，刑務所に送られた。"
     }

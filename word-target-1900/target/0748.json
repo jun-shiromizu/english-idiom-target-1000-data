@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "モーター；原動力",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The automobile industry is developing a new electric motor.",
       "sentence-jp": "その自動車産業は新しい電気モーターを開発中である。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "うまく処理する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "I have no idea how to cope with this problem.",
       "sentence-jp": "この問題にどう対処すればよいか私にはまったくわからない。"
     }

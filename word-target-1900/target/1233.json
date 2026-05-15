@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "をねじる，ひねる；を歪曲する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "While playing tennis, I twisted my ankle.",
       "sentence-jp": "テニスをしていて，私は足首をひねった。"
     }

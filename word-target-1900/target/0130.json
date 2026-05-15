@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を含む；を収容する；（感情など）を抑える",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Junk food usually contains a lot of salt, sugar and fat.",
       "sentence-jp": "ジャンクフードはたいていたくさんの塩分，糖分，脂肪を含む。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を追い抜く；に追いつく（≒ catch up with）；（災難・強い感情などが）を襲う",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "It is dangerous to overtake a car on an inside lane.",
       "sentence-jp": "内側車線で車を追い抜くのは危険である。"
     }

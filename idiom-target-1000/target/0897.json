@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(人)と一緒にいる、(人)の相手をする；(話など)に付き合う",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "She asked me to keep her company until her parents came home.",
       "sentence-jp": "彼女は私に両親が帰宅するまで彼女と一緒にいてほしいと頼んだ。"
     }

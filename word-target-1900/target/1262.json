@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "商品；有用なもの",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Coffee is one of the most valuable commodities in the world.",
       "sentence-jp": "コーヒーは世界で最も貴重な商品の1つである。"
     }

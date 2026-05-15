@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（～を対象とする）実験（on）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The scientist carried out various experiments on plants.",
       "sentence-jp": "その科学者は植物についてさまざまな実験を行った。"
     }

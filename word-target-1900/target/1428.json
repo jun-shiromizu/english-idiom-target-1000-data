@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "急上昇する；空高く飛ぶ",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "The stock price of the company has soared.",
       "sentence-jp": "その会社の株価が急上昇した。"
     }

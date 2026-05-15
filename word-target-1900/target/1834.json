@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "に憤慨する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "She suspects that her friend resents her remarks.",
       "sentence-jp": "彼女は友人が自分の発言に憤慨しているのではないかと思っている。"
     }

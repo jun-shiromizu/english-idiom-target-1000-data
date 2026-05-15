@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "〜で疲れる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "I'm very tired from working all day and want to take a good rest now.",
       "sentence-jp": "私は一日中働きすぎてとても疲れていて, 今は十分な休息をとりたい。"
     }

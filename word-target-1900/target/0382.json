@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "正確な；精密な",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "Accurate weather forecasts are likely to produce huge economic benefits.",
       "sentence-jp": "正確な天気予報は莫大な経済的利益を生む可能性がある。"
     }

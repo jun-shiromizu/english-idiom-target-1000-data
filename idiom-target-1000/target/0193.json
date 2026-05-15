@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を(ざっと)調べる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "examine"
       ],

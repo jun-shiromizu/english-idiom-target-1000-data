@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜以上(の)",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "more than ~"
       ],

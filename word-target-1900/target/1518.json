@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を浸す；（手など）を（～に）突っ込む（into / in）；下がる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "She dips biscuits in tea before eating them.",
       "sentence-jp": "彼女は食べる前に紅茶にビスケットを浸す。"
     }

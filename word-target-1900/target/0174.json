@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（物事の）側面；観点；様相",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Some aspects of language learning become more difficult with age.",
       "sentence-jp": "言語学習のいくつかの側面は年齢とともにより難しくなる。"
     }

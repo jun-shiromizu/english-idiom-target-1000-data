@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を引き渡す；〜を手渡す",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "hand in ~",
         "give in ~",

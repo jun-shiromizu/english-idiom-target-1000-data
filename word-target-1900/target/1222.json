@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "をこぼす；こぼれる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "She accidentally spilled red wine on her white dress.",
       "sentence-jp": "彼女は誤って自分の白いドレスに赤ワインをこぼした。"
     }

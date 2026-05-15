@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "相当する物［人］",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The Japanese emperor is the counterpart to the British queen.",
       "sentence-jp": "日本の天皇はイギリスの女王に相当する存在である。"
     }

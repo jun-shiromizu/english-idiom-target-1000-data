@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "手に負えない",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "synonyms": [
         "out of control"
       ],
@@ -14,6 +16,8 @@
     },
     {
       "idiom-jp": "即座に",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "synonyms": [
         "at once",
         "right away"

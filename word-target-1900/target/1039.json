@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "をささげる；を献呈する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "He dedicates his life to the study of insects.",
       "sentence-jp": "彼は人生を昆虫の研究にささげている。"
     }

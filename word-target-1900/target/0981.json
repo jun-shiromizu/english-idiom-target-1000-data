@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "即座の，迅速な",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "She surprised us with her prompt response.",
       "sentence-jp": "彼女は迅速な応答で私たちを驚かせた。"
     }

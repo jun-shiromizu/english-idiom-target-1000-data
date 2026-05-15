@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "思いがけない，不意の",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "There was an unexpected delay in the arrival of my train.",
       "sentence-jp": "私が乗る列車の到着に思いがけない遅れがあった。"
     }

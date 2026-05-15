@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "【米】 郡；【英】州",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "A county has its own government to deal with local matters.",
       "sentence-jp": "郡は地元の問題に対処するための独自の政府を持つ。"
     }

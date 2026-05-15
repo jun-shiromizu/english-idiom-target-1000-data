@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "十中八九、おおかた",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "most likely",
         "nine times out of ten",

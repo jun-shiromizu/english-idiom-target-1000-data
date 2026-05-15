@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(伝言・手紙などで)〜によろしくと伝える",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Please don’t forget to give my best regards to your father.",
       "sentence-jp": "忘れずにあなたのお父さんにくれぐれもよろしくとお伝えください。"
     }

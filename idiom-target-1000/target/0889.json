@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(…という)ふりをする",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "synonyms": [
         "pretend"
       ],

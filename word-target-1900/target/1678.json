@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "感情；感想；感傷",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Public sentiment against terrorism has increased in the country.",
       "sentence-jp": "反テロリズムの国民感情がその国で高まった。"
     }

@@ -1,19 +1,21 @@
-  {
-    "number": "0043",
-    "idioms": [
-      "search for ~"
-    ],
-    "means": [
-      {
-        "idiom-jp": "〜を探す[捜す]",
-        "synonyms": [
-          "look for ~"
-        ],
-        "example-sentence": "Drones were used to search for missing people after the flood.",
-        "sentence-jp": "洪水の後、行方不明者を捜すためにドローンが使われた。"
-      }
-    ],
-    "notes": [
-      "search for a house「家はどこかと探す」、search a house「家の中を捜す」の違いに注意。"
-    ]
-  }
+{
+  "number": "0043",
+  "idioms": [
+    "search for ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜を探す[捜す]",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
+      "synonyms": [
+        "look for ~"
+      ],
+      "example-sentence": "Drones were used to search for missing people after the flood.",
+      "sentence-jp": "洪水の後、行方不明者を捜すためにドローンが使われた。"
+    }
+  ],
+  "notes": [
+    "search for a house「家はどこかと探す」、search a house「家の中を捜す」の違いに注意。"
+  ]
+}

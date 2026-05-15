@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "空いている",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "I stood on the train because there were no vacant seats.",
       "sentence-jp": "空いた席がなかったので私は列車内で立っていた。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "可動［移動］式の；流動性のある",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Gaming on mobile devices is becoming more popular than ever before.",
       "sentence-jp": "移動式機器でゲームをすることはこれまで以上に人気が高まってきている。"
     }

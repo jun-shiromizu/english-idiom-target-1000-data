@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "匿名の",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The company posted anonymous reviews of their own products.",
       "sentence-jp": "その会社は自社製品についての匿名のレビューを投稿した。"
     }

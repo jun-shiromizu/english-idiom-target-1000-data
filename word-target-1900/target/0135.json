@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "をつなぐ；を関連づける",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Nowadays, many people are connecting their TVs to the Internet.",
       "sentence-jp": "今日では，多くの人がテレビをインターネットにつないでいる。"
     }

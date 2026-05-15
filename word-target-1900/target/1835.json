@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を（～と）一致させる（with）；を和解させる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "My father told me to reconcile my statements with my conduct.",
       "sentence-jp": "父は私に自分の発言を行動と一致させるように言った。"
     }

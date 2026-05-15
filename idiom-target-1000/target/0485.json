@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(A を)B に合わせて調節する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "synonyms": [
         "adapt A to [for] B",
         "accommodate A to B"

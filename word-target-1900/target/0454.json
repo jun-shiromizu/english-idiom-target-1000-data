@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（書物などの）論評；再調査；【米】復習",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "I read his review of the newly published book.",
       "sentence-jp": "私はその新刊書についての彼の論評を読んだ。"
     }

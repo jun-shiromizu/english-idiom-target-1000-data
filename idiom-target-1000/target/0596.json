@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(受講など)の届け出をする；〜に加わる",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "More people are beginning to sign up for universities’ online programs these days.",
       "sentence-jp": "最近では、より多くの人々が大学のオンライン講座に登録し始めている。"
     }

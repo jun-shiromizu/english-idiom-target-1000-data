@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "に挨拶する；を迎える",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "He always greets his neighbors in a friendly way.",
       "sentence-jp": "彼はいつも親しげに隣人たちに挨拶する。"
     }

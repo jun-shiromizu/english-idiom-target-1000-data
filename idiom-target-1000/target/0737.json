@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "A と B とは別のものである",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "To know is one thing, and to teach is another.",
       "sentence-jp": "知っていることと教えることは別のものだ。"
     }

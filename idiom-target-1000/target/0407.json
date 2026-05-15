@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を受ける、〜を経験する",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "synonyms": [
         "experience",
         "undergo"
@@ -15,6 +17,8 @@
     },
     {
       "idiom-jp": "主に米 〜と(約束して)会う、〜と会見する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "synonyms": [
         "meet"
       ],

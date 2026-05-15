@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "のほうを好む",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Some people prefer e-books to printed books.",
       "sentence-jp": "印刷された本より電子書籍のほうを好む人がいる。"
     }

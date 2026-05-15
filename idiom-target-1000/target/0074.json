@@ -1,18 +1,20 @@
-  {
-    "number": "0074",
-    "idioms": [
-      "fill out ~"
-    ],
-    "means": [
-      {
-        "idiom-jp": "（書類など）に書き込む",
-        "example-sentence": "You should always be careful when you fill out an application form.",
-        "sentence-jp": "申込書に書き込むときは常に注意深くすべきだ。"
-      }
-    ],
-    "notes": [
-      "fill 〜 out の語順も可。",
-      "fill in 〜 もほぼ同じ意味だが、括弧のような短い空欄を埋めるときに主に使う。",
-      "fill in the blanks「空欄を埋める」"
-    ]
-  }
+{
+  "number": "0074",
+  "idioms": [
+    "fill out ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "（書類など）に書き込む",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
+      "example-sentence": "You should always be careful when you fill out an application form.",
+      "sentence-jp": "申込書に書き込むときは常に注意深くすべきだ。"
+    }
+  ],
+  "notes": [
+    "fill 〜 out の語順も可。",
+    "fill in 〜 もほぼ同じ意味だが、括弧のような短い空欄を埋めるときに主に使う。",
+    "fill in the blanks「空欄を埋める」"
+  ]
+}

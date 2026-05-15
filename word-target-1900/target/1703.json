@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を慰める",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "I consoled her on the loss of her cat.",
       "sentence-jp": "私は彼女が飼い猫を亡くしたことについて彼女を慰めた。"
     }

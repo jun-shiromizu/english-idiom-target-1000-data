@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "(口語で)(帰らずに)そこらで待つ",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "hang around [about]"
       ],

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を確信している",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "be sure of [about] ~",
         "be confident of [about] ~"

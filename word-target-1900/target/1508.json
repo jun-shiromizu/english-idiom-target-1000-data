@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を侵略する；を侵害する；（場所）に殺到する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Animals usually do not invade the territories of other animals.",
       "sentence-jp": "動物はたいていほかの動物の縄張りを侵略しない。"
     }

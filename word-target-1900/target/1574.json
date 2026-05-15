@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "司書，図書館員",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The librarian recommended this book as a reference on English grammar.",
       "sentence-jp": "その司書は英文法に関する参考図書としてこの本を薦めてくれた。"
     }

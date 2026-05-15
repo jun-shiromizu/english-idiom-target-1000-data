@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "産業；勤勉（≒ diligence）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The Japanese auto industry is making big changes in car manufacturing.",
       "sentence-jp": "日本の自動車産業は自動車製造における大きな変化を起こしつつある。"
     }

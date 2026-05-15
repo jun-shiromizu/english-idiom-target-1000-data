@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "思い切って[あえて]…する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "I’m glad my mother never knew how high I dared to climb.",
       "sentence-jp": "私がどんなに高い所に登ろうとしたのかを母がまったく知らなくてよかったと思う。"
     }

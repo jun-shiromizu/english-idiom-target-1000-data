@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "総計の；甚だしい；粗野な",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Investments showed a gross profit of $ 2 million.",
       "sentence-jp": "投資は200万ドルの総利益を生んだ。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜にもかかわらず",
+      "partOfSpeech": "conjunction",
+      "choiceType": "conjunction-phrase",
       "synonyms": [
         "in spite of ~",
         "despite",

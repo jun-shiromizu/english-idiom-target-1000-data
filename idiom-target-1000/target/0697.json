@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(人)の知る限り(では)",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "as far as one knows",
         "to the best of one’s belief"

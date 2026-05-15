@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "徐々の，緩やかな",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "There has been a gradual increase in the number of whales in the water.",
       "sentence-jp": "その水域のクジラの数は緩やかな増加をしてきている。"
     }

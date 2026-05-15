@@ -1,16 +1,18 @@
-  {
-    "number": "0065",
-    "idioms": [
-      "pick up ~"
-    ],
-    "means": [
-      {
-        "idiom-jp": "〜を（車などに）乗せる；〜を拾う",
-        "example-sentence": "Miki was kind enough to come with the car to pick me up at the airport.",
-        "sentence-jp": "ミキは親切にも、空港で私を乗せるために車で来てくれた。"
-      }
-    ],
-    "notes": [
-      "pick 〜 up の語順も可。"
-    ]
-  }
+{
+  "number": "0065",
+  "idioms": [
+    "pick up ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜を（車などに）乗せる；〜を拾う",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
+      "example-sentence": "Miki was kind enough to come with the car to pick me up at the airport.",
+      "sentence-jp": "ミキは親切にも、空港で私を乗せるために車で来てくれた。"
+    }
+  ],
+  "notes": [
+    "pick 〜 up の語順も可。"
+  ]
+}

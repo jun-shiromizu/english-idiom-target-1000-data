@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "きっと...する ; ...する責任がある",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "synonyms": [
         "be sure to do"
       ],

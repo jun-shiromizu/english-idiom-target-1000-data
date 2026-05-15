@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "まばたきする；点滅する；（目）をまたたく",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "He has a habit of blinking whenever he gives a speech.",
       "sentence-jp": "彼は演説をするときはいつもまばたきをする癖がある。"
     }

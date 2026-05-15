@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "…までに(は)",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "By the time we arrived at the party, there was nothing left to eat or drink.",
       "sentence-jp": "私たちがパーティーに到着するまでには、食べ物や飲み物はなくなっていた。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "多数の〜",
+      "partOfSpeech": "phrase",
+      "choiceType": "quantity-expression",
       "synonyms": [
         "a lot of ~"
       ],

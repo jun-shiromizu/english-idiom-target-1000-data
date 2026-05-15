@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を設計する；を計画する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Airbags are designed to protect average-sized adult males.",
       "sentence-jp": "エアバッグは平均的な体格の成人男性を保護するように設計されている。"
     }

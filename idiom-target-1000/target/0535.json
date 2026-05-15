@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜をからかう",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "ridicule",
         "make sport of ~"

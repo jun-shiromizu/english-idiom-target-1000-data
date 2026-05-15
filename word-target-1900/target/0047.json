@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "理由；（...する）根拠（to do）；理性；分別",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He explained the reason for his absence from school today.",
       "sentence-jp": "彼は今日学校を欠席した理由を説明した。"
     }

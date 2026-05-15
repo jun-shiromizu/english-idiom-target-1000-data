@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "に借りがある；のおかげである",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "I know I owe you $30 in total.",
       "sentence-jp": "私はあなたに全部で30ドルの借りがあることはわかっている。"
     }

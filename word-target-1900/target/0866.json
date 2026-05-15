@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "恥；残念なこと",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Shame is a negative feeling towards oneself.",
       "sentence-jp": "恥は自分自身に対する否定的な感情である。"
     }

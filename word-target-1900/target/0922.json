@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "の根底にある",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Economic issues underlie negotiations between the two countries.",
       "sentence-jp": "経済問題が両国間の交渉の根底にある。"
     }

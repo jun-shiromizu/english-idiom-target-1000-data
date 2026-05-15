@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を除いては ; 〜のほかに",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "apart from ~",
         "except for ~"

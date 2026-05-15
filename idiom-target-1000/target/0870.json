@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を(1つだけ)選び出す",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "select",
         "choose"

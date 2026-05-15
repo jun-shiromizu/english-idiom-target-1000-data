@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "をだます（≒ take in）",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "He is the last man to deceive other people.",
       "sentence-jp": "彼は一番他人をだましそうにない人だ。"
     }

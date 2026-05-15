@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を引き出す；を撤回する；撤退する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "She withdrew 20, 000 yen from the ATM at a convenience store.",
       "sentence-jp": "彼女はコンビニのATMから20,000円を引き出した。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "をひどく恐れる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "I used to dread going to the dentist as a child.",
       "sentence-jp": "私は子供のころ歯医者に行くのをひどく恐れていた。"
     }

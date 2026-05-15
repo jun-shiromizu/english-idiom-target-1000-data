@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "正しい；適切な",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "You should always look for correct information before starting a report.",
       "sentence-jp": "報告書を書く前にはいつも正しい情報を探すべきだ。"
     }

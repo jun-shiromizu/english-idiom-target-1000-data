@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "鋳型；鋳物；性格；かび",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Pour the clay into a mold, and you will get a figure.",
       "sentence-jp": "粘土を鋳型に流し込めば，像ができ上がる。"
     }

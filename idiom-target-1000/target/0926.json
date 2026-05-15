@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "A(ある事柄)を B(人)に痛感させる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "A comes home to B"
       ],

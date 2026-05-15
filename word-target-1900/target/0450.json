@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "部類，区分；範疇",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "People in the over-70 age category pay less at the hospital.",
       "sentence-jp": "70歳以上の年齢区分に入る人は，病院での支払いが少ない。"
     }

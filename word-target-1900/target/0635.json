@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を調査する；を究明する；（～を）調査する（into）",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Many scientists have investigated various types of strange phenomena.",
       "sentence-jp": "多くの科学者がさまざまなタイプの奇妙な現象を調査してきた。"
     }

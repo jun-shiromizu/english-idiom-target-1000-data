@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "間もなく",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "soon"
       ],

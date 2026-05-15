@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "無用の長物",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "a useless [an unwanted] item"
       ],

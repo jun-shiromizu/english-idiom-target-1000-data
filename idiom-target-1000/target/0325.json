@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜に屈する；〜に道を譲る",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "example-sentence": "Misa’s parents finally yielded to her strong desire to study abroad.",
       "sentence-jp": "ミサの両親はついに、海外留学したいという彼女の強い願いに屈した。"
     }

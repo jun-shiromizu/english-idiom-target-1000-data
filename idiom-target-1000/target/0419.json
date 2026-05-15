@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "連続して",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "in a row",
         "in succession"
@@ -15,6 +17,8 @@
     },
     {
       "idiom-jp": "直立して、垂直にして",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "When cats get angry, the hair on their neck stands on end.",
       "sentence-jp": "猫が怒ると、首の辺りの毛が逆立つ。"
     }

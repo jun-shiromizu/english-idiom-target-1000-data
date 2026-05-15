@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "…するのも同じだ；(気は進まないが)…してもよい；(どうせなら)…するほうがいい",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "It seems she has completely made up her mind; you might just as well talk to a brick wall.",
       "sentence-jp": "彼女は完全に決心がついているように見える。レンガの壁に話しかけるようなものだ。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "をだめにする；を破滅させる；破滅する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The long heavy rain completely ruined our holiday.",
       "sentence-jp": "激しい長雨が私たちの休日を完全に台無しにした。"
     }

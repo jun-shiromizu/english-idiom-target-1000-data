@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を編む；を結合する；編み物をする",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Mary is knitting a sweater for her baby.",
       "sentence-jp": "メアリーは自分の赤ん坊のためにセーターを編んでいる。"
     }

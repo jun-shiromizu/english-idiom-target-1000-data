@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "に取り組む；と（～のことで）話をつける（about / on）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "We must find an effective way to tackle this task.",
       "sentence-jp": "私たちはこの任務に取り組むための効果的な方法を見つけなければならない。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を宣言する；を申告する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The corporation declared that they will enter the space industry.",
       "sentence-jp": "その企業は宇宙産業へ参入することを宣言した。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜の世話をする",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "example-sentence": "We're going to look after our friend's dog while she's on vacation.",
       "sentence-jp": "私たちは友人の休暇中, 彼女の犬の世話をするつもりだ。"
     }

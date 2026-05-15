@@ -8,6 +8,8 @@
   "means": [
     {
       "idiom-jp": "〜を回顧[回想]する",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "example-sentence": "We can’t look back on our childhood without feeling how happy we were in those days.",
       "sentence-jp": "子供時代を回想するときは必ず、当時いかに幸せだったかを思わずにはいられない。"
     }

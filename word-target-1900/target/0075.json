@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（～の）源，根源（of）；出所，情報源",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Solar power is considered to be a clean source of energy.",
       "sentence-jp": "太陽光熱はクリーンなエネルギー源であると見なされている。"
     }

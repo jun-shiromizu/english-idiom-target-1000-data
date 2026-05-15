@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "脳卒中；（ボールを）打つこと；（雷などの）一撃",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He cannot move his left arm due to a stroke.",
       "sentence-jp": "彼は脳卒中のせいで左腕を動かすことができない。"
     }

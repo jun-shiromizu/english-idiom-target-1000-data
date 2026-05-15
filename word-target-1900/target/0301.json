@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を予言［予測］する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The professor predicted that the economy would recover.",
       "sentence-jp": "教授は経済が回復するであろうと予測した。"
     }

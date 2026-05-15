@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "をぼかす；を曇らせる；をあいまいにする",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "You may blur your vision if you gaze at a bright light too much.",
       "sentence-jp": "明るい光を見つめすぎると，視界がぼやけるかもしれない。"
     }

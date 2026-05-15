@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(疑問文で)もしかして",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Do you know their names by any chance?",
       "sentence-jp": "もしかしてあなたは彼らの名前をご存じですか。"
     }

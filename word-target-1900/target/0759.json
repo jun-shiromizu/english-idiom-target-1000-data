@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（競技）連盟；同盟",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He joined the major league at the age of 22.",
       "sentence-jp": "彼は22歳でメジャーリーグに入った。"
     }

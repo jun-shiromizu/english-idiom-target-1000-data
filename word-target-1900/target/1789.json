@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "硬直した，凝った；堅い",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "My shoulder is stiff because I used a computer for a long time.",
       "sentence-jp": "私は長時間コンピューターを使ったので肩が凝っている。"
     }

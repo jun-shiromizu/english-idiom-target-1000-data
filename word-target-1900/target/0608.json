@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を捨てる；を放棄する，断念する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Some of the population is likely to abandon the polluted city.",
       "sentence-jp": "住民の一部は汚染された都市を見捨てる可能性がある。"
     }

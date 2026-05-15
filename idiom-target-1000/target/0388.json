@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜に詳細に目を通す、〜を調べる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "search",
         "examine"
@@ -15,6 +17,8 @@
     },
     {
       "idiom-jp": "〜を復習する；〜を繰り返す",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "synonyms": [
         "review",
         "repeat"

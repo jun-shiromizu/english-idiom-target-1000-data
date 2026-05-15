@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜に一致する ; 〜に相当する",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "example-sentence": "His explanation about the incident does not correspond to what actually happened.",
       "sentence-jp": "その事故に関する彼の説明は実際に起きたことと一致しない。"
     }

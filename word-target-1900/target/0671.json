@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〔通例one's ～〕責任；欠点；誤り",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "It is my fault that we are late for the concert.",
       "sentence-jp": "私たちがコンサートに遅れたのは私の責任です。"
     }

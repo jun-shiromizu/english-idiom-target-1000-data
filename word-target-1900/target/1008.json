@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を予想［予測］する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The weather for tomorrow is forecasted to be cloudy.",
       "sentence-jp": "明日の天気は曇りと予想されている。"
     }

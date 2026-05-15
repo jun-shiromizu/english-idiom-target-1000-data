@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "かなりの数の〜",
+      "partOfSpeech": "phrase",
+      "choiceType": "quantity-expression",
       "synonyms": [
         "a fairly large number of ~",
         "quite a lot of ~"

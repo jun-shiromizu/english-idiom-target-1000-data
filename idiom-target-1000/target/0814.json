@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "のんびり構える",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "take things easy"
       ],

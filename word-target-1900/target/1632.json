@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（都市などが）不規則に広がる；だらしなく手足を伸ばす",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "As towns and cities sprawl, fields and forests shrink.",
       "sentence-jp": "町や市が不規則に広がるにつれ，野原や森は縮小する。"
     }

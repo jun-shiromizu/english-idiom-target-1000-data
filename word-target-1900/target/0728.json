@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "をおびえさせる；を脅す",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The nightmares that she has been having lately scared her.",
       "sentence-jp": "彼女が最近見ている悪夢が彼女をおびえさせた。"
     }

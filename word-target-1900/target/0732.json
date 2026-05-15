@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（～から）引退する，退職する（from）；退く",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "He retired from his company at the age of 70.",
       "sentence-jp": "彼は70歳で会社を退職した。"
     }

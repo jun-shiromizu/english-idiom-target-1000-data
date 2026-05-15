@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "穀物；粒；きめ",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Dr. Willett recommends eating whole grains for breakfast.",
       "sentence-jp": "ウィレット博士は全粒穀物を朝食に食べることを勧める。"
     }

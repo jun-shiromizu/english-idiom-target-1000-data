@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜に賛成して；〜のほうを選んで",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "for ~"
       ],

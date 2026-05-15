@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "墓",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "They buried him in the family tomb.",
       "sentence-jp": "彼らは彼を一家の墓に埋葬した。"
     }

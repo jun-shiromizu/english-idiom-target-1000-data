@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "余白；差；利ざや",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "She wrote some notes in the margin of the page.",
       "sentence-jp": "彼女はそのページの余白にメモを書いた。"
     }

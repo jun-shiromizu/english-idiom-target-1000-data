@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "ひょっとしたら[たぶん]…だろう。",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "The odds are (that) ..."
       ],

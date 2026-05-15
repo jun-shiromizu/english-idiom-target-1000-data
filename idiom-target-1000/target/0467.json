@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "使い果たす；尽きる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "When driving on an expressway, we must see to it that we don’t run out of gas.",
       "sentence-jp": "私たちは高速道路を運転しているときにガソリンを切らさないように注意しなければならない。"
     }

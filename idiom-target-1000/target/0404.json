@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を提出する",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "synonyms": [
         "submit",
         "hand in ~",
@@ -17,6 +19,8 @@
     },
     {
       "idiom-jp": "〜を引き渡す；〜を返却する",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "If you find a wallet on the ground, you’re supposed to turn it in to the police.",
       "sentence-jp": "もしあなたが地面に財布を見つけたら、警察にそれを届けなければならない。"
     }

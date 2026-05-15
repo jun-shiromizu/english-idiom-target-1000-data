@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "船舶；容器；（体液が通る）脈管",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "A Portuguese trading vessel is headed for the coast of India.",
       "sentence-jp": "ポルトガル船籍の商船がインド沿岸に向かっている。"
     }

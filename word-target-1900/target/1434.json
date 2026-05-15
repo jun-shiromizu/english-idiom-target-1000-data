@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を［から］取り去る；を裸にする",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "First, we need to strip the tape from the package.",
       "sentence-jp": "まず包みからテープをはがす必要がある。"
     }

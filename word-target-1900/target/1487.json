@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "障害のある；障害者用の",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "There are parking spaces prepared for physically disabled people.",
       "sentence-jp": "身体障害者のために駐車スペースが用意されている。"
     }

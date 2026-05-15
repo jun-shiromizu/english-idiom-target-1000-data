@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "固有の，本質的な（⇔ extrinsic 非本質的な）",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "The teacher emphasizes the intrinsic value of education.",
       "sentence-jp": "その先生は教育の本質的な価値を強調する。"
     }

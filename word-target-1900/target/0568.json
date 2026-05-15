@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "作り話；神話",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "It is a total myth that men are better drivers than women.",
       "sentence-jp": "男性が女性より車の運転が上手であるというのはまったくの作り話である。"
     }

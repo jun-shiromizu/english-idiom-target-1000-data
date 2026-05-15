@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "アレルギー",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "No one knows why food allergies are on the increase.",
       "sentence-jp": "なぜ食物アレルギーが増えているのか，だれにもわからない。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（を）合併する；を融合させる；溶け込む",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "The three banks merged into a single organization.",
       "sentence-jp": "その3つの銀行は合併し単一の組織になった。"
     }

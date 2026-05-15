@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を逮捕する；を止める；（注意）を引く",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The police arrested the suspect on charges of supplying drugs.",
       "sentence-jp": "警察は麻薬を供給した罪でその容疑者を逮捕した。"
     }

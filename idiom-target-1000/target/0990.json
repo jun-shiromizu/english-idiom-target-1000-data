@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "考え直してみて",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "At first I thought I liked the plan, but on second thought, I decided to oppose it.",
       "sentence-jp": "最初は私はその計画が気に入ったと思ったが、考え直してそれに反対することにした。"
     }

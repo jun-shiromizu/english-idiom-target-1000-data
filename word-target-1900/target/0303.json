@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を信頼する；を（信頼して）託す",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "I have decided to ignore any advice from others and trust my judgment.",
       "sentence-jp": "私は他人からのどんな忠告も無視して自分の判断を信頼することに決めた。"
     }

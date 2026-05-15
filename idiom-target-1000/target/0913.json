@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "行間を読む；真意をつかむ",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Her letter doesn’t communicate much, but reading between the lines, I can tell she is sad.",
       "sentence-jp": "彼女の手紙からはあまり多くのことが伝わってこないが、行間を読むと彼女は悲しいのだとわかる。"
     }

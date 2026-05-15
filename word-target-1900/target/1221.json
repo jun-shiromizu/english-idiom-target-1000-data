@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を染める；染まる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The woman decided to dye her hair brown.",
       "sentence-jp": "その女性は髪を茶色に染めることにした。"
     }

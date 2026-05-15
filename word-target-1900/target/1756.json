@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "政権，政体；体制",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The dictator punished anyone who criticized the regime.",
       "sentence-jp": "その独裁者は政権を批判する者はだれでも処罰した。"
     }

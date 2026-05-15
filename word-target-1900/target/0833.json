@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を構成する；を創作する；を鎮静する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The committee is composed of six experts in different fields.",
       "sentence-jp": "委員会は異なる分野の6人の専門家から成る。"
     }

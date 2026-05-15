@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "財産；幸運（≒ luck）；運命",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He succeeded in making a fortune by investing in oil production.",
       "sentence-jp": "彼は石油採取に投資することで一財産を作ることに成功した。"
     }

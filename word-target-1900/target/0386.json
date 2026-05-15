@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "総合的な；全体的な",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "The overall cost of the project was more than we expected.",
       "sentence-jp": "プロジェクトの総費用は私たちの予想以上であった。"
     }

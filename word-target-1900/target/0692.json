@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "意味のある",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He started doing volunteer activities to make his life more meaningful.",
       "sentence-jp": "彼は人生をより意味のあるものにするためにボランティア活動をし始めた。"
     }

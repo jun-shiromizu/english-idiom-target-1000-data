@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "結局(は)；やっぱり",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "After all, you are saying you are not coming with me, aren't you?",
       "sentence-jp": "結局, あなたは私とは一緒に行かないと言っているんですよね。"
     }

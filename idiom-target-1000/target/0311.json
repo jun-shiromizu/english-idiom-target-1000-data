@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜にさかのぼる、〜に始まる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "go back to ~"
       ],

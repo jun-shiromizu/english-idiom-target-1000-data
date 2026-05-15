@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を感知する；を見つけ出す；に気づく",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "A smoke alarm is used to detect a fire.",
       "sentence-jp": "煙探知器は火事を感知するのに使われる。"
     }

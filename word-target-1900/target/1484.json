@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "不十分な；不適当な",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "His salary is an insufficient amount for supporting his family.",
       "sentence-jp": "彼の給料は彼の家族を養うには不十分な金額である。"
     }

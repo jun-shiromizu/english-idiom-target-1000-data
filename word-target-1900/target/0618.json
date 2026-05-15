@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（足跡・起源など）をたどる；を捜し出す",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The history of Western theater can be traced back to ancient Greece.",
       "sentence-jp": "西洋演劇の歴史は古代ギリシャにまでさかのぼることができる。"
     }

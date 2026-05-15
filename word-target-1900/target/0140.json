@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を出版する；を公表する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "She published a novel about a professional gamer.",
       "sentence-jp": "彼女はプロのゲーマーを描いた小説を出版した。"
     }

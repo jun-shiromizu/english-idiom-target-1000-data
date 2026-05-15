@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "現在は、目下",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "now"
       ],

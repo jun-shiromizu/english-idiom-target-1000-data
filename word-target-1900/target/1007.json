@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を分割する；を分担する；分裂する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The Sudan was split into two republics in 2011.",
       "sentence-jp": "スーダンは2011年に2つの共和国に分割された。"
     }

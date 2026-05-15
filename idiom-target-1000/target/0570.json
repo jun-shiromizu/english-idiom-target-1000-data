@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "〜に満足している",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "They loved each other and were content with what little they had.",
       "sentence-jp": "彼らは互いに愛し合っており、少ないながらもあるもので満足していた。"
     }

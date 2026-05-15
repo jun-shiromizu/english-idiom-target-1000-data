@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "漂う；さまよう；を押し流す",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The sailboat slowly drifted in the sea.",
       "sentence-jp": "帆船はゆっくりと海の上を漂った。"
     }

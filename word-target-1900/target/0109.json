@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "と主張する（≒ claim ⇒ 110, maintain ⇒ 206）；議論する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "He argues that the country needs new energy policies.",
       "sentence-jp": "彼はその国は新しいエネルギー政策を必要としていると主張する。"
     }

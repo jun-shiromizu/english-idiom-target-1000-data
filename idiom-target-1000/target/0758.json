@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "申し分ない",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "His performance left nothing to be desired.",
       "sentence-jp": "彼の演技は申し分なかった。"
     }

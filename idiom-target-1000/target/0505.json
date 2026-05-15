@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(暴力・脅迫などで)A から B を奪う",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Worry and stress rob us of our youthful energy and vitality.",
       "sentence-jp": "心配とストレスは私たちから若々しいエネルギーと活力を奪う。"
     }

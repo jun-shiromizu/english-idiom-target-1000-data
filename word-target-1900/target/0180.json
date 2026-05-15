@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "否定的な；消極的な；（検査結果が）陰性の",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "Loud noises may have a negative effect on studying.",
       "sentence-jp": "大きな騒音は勉強に悪影響を与えるかもしれない。"
     }

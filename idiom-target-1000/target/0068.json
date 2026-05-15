@@ -1,16 +1,18 @@
-  {
-    "number": "0068",
-    "idioms": [
-      "brush up (on) ~"
-    ],
-    "means": [
-      {
-        "idiom-jp": "（語学など）をやり直して磨きをかける",
-        "example-sentence": "My kid sister has been spending a lot of time brushing up on her English lately.",
-        "sentence-jp": "私の妹は最近多くの時間を英語をやり直すことに費やしている。"
-      }
-    ],
-    "notes": [
-      "kid sister = younger sister"
-    ]
-  }
+{
+  "number": "0068",
+  "idioms": [
+    "brush up (on) ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "（語学など）をやり直して磨きをかける",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
+      "example-sentence": "My kid sister has been spending a lot of time brushing up on her English lately.",
+      "sentence-jp": "私の妹は最近多くの時間を英語をやり直すことに費やしている。"
+    }
+  ],
+  "notes": [
+    "kid sister = younger sister"
+  ]
+}

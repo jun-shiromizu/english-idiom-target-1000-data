@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(〜に関して)よくあることだが",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "As is often the case with Davis, he overslept by half an hour and was late for class today.",
       "sentence-jp": "デイビスにはよくあることだが、彼は今日30分寝過ごし、授業に遅れた。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "B の代わりに A を使う",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "We can substitute a group of easier words for one difficult word whenever necessary.",
       "sentence-jp": "私たちは必要なときはいつでも難しい1語の代わりにより易しい言葉のかたまりを使うことができる。"
     }

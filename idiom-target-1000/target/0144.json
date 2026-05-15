@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "急いで, あせって",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "in haste"
       ],

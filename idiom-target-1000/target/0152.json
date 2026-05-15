@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(ところが)実際には ; (想像などではなく)現実に",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "in fact",
         "in effect"

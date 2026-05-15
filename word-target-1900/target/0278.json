@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "進歩；前進",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Medicine has made significant progress in treating serious diseases.",
       "sentence-jp": "医学は重病の治療において重要な進歩を遂げてきている。"
     }

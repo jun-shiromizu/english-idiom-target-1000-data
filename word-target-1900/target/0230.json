@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を示す；を発揮する；を展示［陳列］する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "She sometimes displayed strong emotions while talking about her past.",
       "sentence-jp": "彼女は自分の過去について話していたとき，ときどき強い感情を示した。"
     }

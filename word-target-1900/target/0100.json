@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "～にもかかわらず（≒ in spite of）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "They went hiking despite the fact that a storm was coming.",
       "sentence-jp": "嵐がやってきているという事実にもかかわらず，彼らはハイキングに出かけた。"
     }

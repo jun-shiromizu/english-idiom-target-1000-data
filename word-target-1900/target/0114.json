@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を進歩させる；を進める；進歩する；進む",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "All citizens should advance their knowledge of global ecology.",
       "sentence-jp": "すべての市民は地球生態学の知識を深めるべきだ。"
     }

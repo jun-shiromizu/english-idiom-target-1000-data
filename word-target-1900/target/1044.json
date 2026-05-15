@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "同情；（～に対する）共感（with/for）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "I had sympathy for my injured friend.",
       "sentence-jp": "私はけがをした友人に同情した。"
     }

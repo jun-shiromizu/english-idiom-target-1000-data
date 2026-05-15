@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "叫ぶ，どなる",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The driver yelled at me to stay on the sidewalk.",
       "sentence-jp": "運転手が私に歩道に留まるようにどなった。"
     }

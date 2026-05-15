@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "代わりの（≒ alternative）；交互の",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The hikers took an alternate route to the top of the mountain.",
       "sentence-jp": "ハイカーたちは山頂まで代わりのルートを取った。"
     }

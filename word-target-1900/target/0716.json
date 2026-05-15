@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を危険にさらす",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Water pollution can endanger people's health.",
       "sentence-jp": "水質汚染は人々の健康を危険にさらす可能性がある。"
     }

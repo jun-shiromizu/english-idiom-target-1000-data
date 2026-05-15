@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "〜に関する限り",
+      "partOfSpeech": "conjunction",
+      "choiceType": "conjunction-phrase",
       "synonyms": [
         "as for ~",
         "for one’s (own) part",

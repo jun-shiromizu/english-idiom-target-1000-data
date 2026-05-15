@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜に比例して",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "As an incentive, the winners were paid in proportion to their number of victories.",
       "sentence-jp": "報奨金として、勝者は勝利の数に比例してお金をもらった。"
     }

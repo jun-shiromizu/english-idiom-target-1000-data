@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "…なのは言うまでもない。",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "needless to say"
       ],

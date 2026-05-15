@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "受動的な；消極的な",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "Young children are generally passive receivers of knowledge.",
       "sentence-jp": "幼児はたいてい知識の受動的な受け手である。"
     }

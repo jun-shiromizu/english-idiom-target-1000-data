@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "締め切り",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Be sure to submit your report before the deadline.",
       "sentence-jp": "必ず締め切り前に報告書を提出するように。"
     }

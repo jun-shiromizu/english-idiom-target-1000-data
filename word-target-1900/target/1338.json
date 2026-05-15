@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "補償する（≒ make up）；に償う",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "Her passion compensates for her lack of knowledge.",
       "sentence-jp": "彼女の情熱は知識不足を補う。"
     }

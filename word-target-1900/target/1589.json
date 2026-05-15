@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "素早い",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "The rescue of victims requires swift action.",
       "sentence-jp": "被害者の救出は素早い行動を必要とする。"
     }

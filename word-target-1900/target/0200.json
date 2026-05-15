@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "結局（は）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "She eventually earned a Ph.D. in mathematics from Yale University.",
       "sentence-jp": "彼女は結局エール大学から数学の博士号を取得した。"
     }

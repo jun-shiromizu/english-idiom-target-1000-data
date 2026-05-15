@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "その場で、即座に",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "synonyms": [
         "at once",
         "immediately"
@@ -15,6 +17,8 @@
     },
     {
       "idiom-jp": "(口語で)窮地に立って、困って",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "in trouble",
         "in a jam [bind]"

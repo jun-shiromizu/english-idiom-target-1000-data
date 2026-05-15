@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(部品など)を組み立てる ; (考えなど)をまとめる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "assemble",
         "build"

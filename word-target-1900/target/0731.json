@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "に似ている",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "She resembles her mother in appearance.",
       "sentence-jp": "彼女は外見が母親に似ている。"
     }

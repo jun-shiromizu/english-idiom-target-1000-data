@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(目標・基準など)に達しない",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "We did our best to succeed, but the project fell short of our goal.",
       "sentence-jp": "私たちは成功するために全力を尽くしたが、プロジェクトは目標に達しなかった。"
     }

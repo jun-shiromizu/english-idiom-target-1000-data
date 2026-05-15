@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "借金，負債；恩義",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "I am 500, 000 yen in debt to my parents.",
       "sentence-jp": "私は両親に50万円の借金がある。"
     }

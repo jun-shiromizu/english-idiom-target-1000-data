@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "AだけではなくBも",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Recycling things is not only environmentally friendly but also economically sound.",
       "sentence-jp": "物をリサイクルすることは, 環境に優しいだけでなく経済的にも健全である。"
     }

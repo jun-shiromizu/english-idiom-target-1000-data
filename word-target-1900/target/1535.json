@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（を）告白する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "He confessed to the judge that he did the crime.",
       "sentence-jp": "彼は裁判官に自分がその罪を犯したと白状した。"
     }

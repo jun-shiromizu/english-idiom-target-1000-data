@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "〜に無関心[無頓着]である",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Historians say Michelangelo was indifferent to food and ate more out of necessity than joy.",
       "sentence-jp": "ミケランジェロは食べ物に無関心で、楽しみよりもむしろ必要のために食事をしたと歴史家は言う。"
     }

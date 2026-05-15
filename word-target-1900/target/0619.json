@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を説明する；に挿絵を入れる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The professor illustrated his theory with diagrams.",
       "sentence-jp": "教授は図を使って自身の理論を説明した。"
     }

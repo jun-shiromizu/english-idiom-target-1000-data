@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "憂うつ；うつ病；不況；低気圧",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Experts say that aerobic exercise reduces stress and depression.",
       "sentence-jp": "専門家は有酸素運動がストレスや憂うつを軽減すると言う。"
     }

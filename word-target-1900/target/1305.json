@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "花が咲く（≒ bloom）；発展する",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Most cherry trees blossom in the spring.",
       "sentence-jp": "たいていのサクラは春に花が咲く。"
     }

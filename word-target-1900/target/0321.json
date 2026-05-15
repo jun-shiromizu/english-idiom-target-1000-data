@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を混同する；を当惑させる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "People sometimes confuse influenza with the common cold.",
       "sentence-jp": "人はときにインフルエンザを普通の風邪と混同する。"
     }

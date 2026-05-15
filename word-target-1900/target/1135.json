@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "をやめる；終わる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The small village ceased to exist after the last resident moved away.",
       "sentence-jp": "その小さな村は最後の住民が退去した後なくなった。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜が驚いたことには",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "To my surprise, when I reached the top, three people were already there chatting.",
       "sentence-jp": "私が驚いたことに、私が頂上に着いたときには、3人の人がすでにそこでおしゃべりをしていた。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（記憶・考えなどが）につきまとう；（幽霊などが）に出る；によく行く",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The suspicion that Steven has been lying for a year haunts her.",
       "sentence-jp": "スティーブンは1年間うそをついていたのではないかという疑念が彼女につきまとっている。"
     }

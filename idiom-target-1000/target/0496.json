@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "A(人)に B を禁止する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "synonyms": [
         "prohibit A from B",
         "ban A from B"

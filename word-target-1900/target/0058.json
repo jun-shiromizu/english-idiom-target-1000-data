@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "知識；知っていること；認識",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Most young adults these days have a good knowledge of computers.",
       "sentence-jp": "最近の若者の大半はコンピューターに関する豊富な知識を持っている。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "見えなくて、視界から消えて",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "For your security, I advise you to keep your valuables out of sight.",
       "sentence-jp": "あなたの安全のために貴重品は見えない所に保管しておくことを勧めます。"
     }

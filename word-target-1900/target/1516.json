@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（を）操縦する；を（～へ）向ける（to）",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "As an experienced navigator, he steered the boat into the harbor.",
       "sentence-jp": "経験豊かな航海士として，彼は船を操縦して入港させた。"
     }

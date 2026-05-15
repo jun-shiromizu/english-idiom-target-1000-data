@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "〜に頼る、〜を当てにする",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "synonyms": [
         "depend on [upon] ~",
         "rely on [upon] ~"

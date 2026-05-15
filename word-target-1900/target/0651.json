@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "優先（事項）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The newspaper gives priority to providing accurate information.",
       "sentence-jp": "その新聞は正確な情報を提供することを優先させる。"
     }

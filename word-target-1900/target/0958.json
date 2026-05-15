@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（銃弾・刃物などによる）傷；痛手",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "His old wounds still ache in cold weather.",
       "sentence-jp": "彼の古傷は今でも寒い天候のときに痛む。"
     }

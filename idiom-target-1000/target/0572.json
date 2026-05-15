@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜に精通している；〜と知り合いである",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Count on him; he is acquainted with all the local customs.",
       "sentence-jp": "彼を頼りにしなさい。彼は地元のあらゆる慣習に精通しているから。"
     }

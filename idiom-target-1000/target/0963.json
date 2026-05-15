@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "…と〜の関係[間柄]で",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "example-sentence": "Jimmy has been on friendly terms with me for many years.",
       "sentence-jp": "ジミーは長年にわたって私と親しい間柄である。"
     }

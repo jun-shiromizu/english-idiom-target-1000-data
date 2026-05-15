@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "必ずしも〜ではない",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "synonyms": [
         "not necessarily ~"
       ],

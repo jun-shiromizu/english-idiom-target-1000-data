@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "苦い，つらい；辛辣な；怒りっぽい",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "He had the bitter experience of fighting in the war.",
       "sentence-jp": "彼は戦争で戦うというつらい経験をした。"
     }

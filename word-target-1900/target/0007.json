@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を見なす；について考える",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "She considers herself to be lucky.",
       "sentence-jp": "彼女は自分自身を幸運だと見なしている。"
     }

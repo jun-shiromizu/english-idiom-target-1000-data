@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "韻文（⇔ prose 散文）；詩",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Shakespeare's plays are written mostly in verse.",
       "sentence-jp": "シェークスピアの戯曲は大部分が韻文で書かれている。"
     }

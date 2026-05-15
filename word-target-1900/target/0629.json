@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を感動させる；に印象を与える",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "I was impressed by the beautiful view from the top of the mountain.",
       "sentence-jp": "私は山頂からの美しい景色に感動した。"
     }

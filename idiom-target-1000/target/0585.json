@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(病気)にかかる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "get [become / fall / be taken] sick [ill] with ~"
       ],

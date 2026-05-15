@@ -1,20 +1,22 @@
-  {
-    "number": "0009",
-    "idioms": [
-      "in fashion"
-    ],
-    "means": [
-      {
-        "idiom-jp": "流行して",
-        "synonyms": [
-          "in vogue",
-          "(all) the rage"
-        ],
-        "example-sentence": "Our car was red because the color was in fashion in those days.",
-        "sentence-jp": "当時その色がはやっていたので、私たちの車は赤だった。"
-      }
-    ],
-    "notes": [
-      "out of fashion「すたれて」"
-    ]
-  }
+{
+  "number": "0009",
+  "idioms": [
+    "in fashion"
+  ],
+  "means": [
+    {
+      "idiom-jp": "流行して",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
+      "synonyms": [
+        "in vogue",
+        "(all) the rage"
+      ],
+      "example-sentence": "Our car was red because the color was in fashion in those days.",
+      "sentence-jp": "当時その色がはやっていたので、私たちの車は赤だった。"
+    }
+  ],
+  "notes": [
+    "out of fashion「すたれて」"
+  ]
+}

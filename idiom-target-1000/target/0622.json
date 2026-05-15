@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "〜を代表して；〜のために",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "On behalf of everyone on the team, I would like to express our thanks to you, Kate.",
       "sentence-jp": "チーム全員を代表して、ケイト、あなたにお礼を申し上げたいと思います。"
     }

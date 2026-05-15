@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "大臣；（プロテスタント系の）聖職者",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The Prime Minister's explanations were sometimes inconsistent.",
       "sentence-jp": "総理大臣の説明はときに首尾一貫していなかった。"
     }

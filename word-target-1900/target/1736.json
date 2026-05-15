@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を待つ（≒ wait for）",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The students are anxiously awaiting their new teacher.",
       "sentence-jp": "学生たちは新任の教師を心待ちにしている。"
     }

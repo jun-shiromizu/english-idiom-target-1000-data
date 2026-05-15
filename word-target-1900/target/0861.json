@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（～に対する）障害（物）（to）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Tradition is often an obstacle to development.",
       "sentence-jp": "伝統はしばしば進歩に対する障害となる。"
     }

@@ -8,6 +8,8 @@
   "means": [
     {
       "idiom-jp": "逆に、あべこべに",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "example-sentence": "To screw a lid on a bottle, we turn it clockwise, but to unscrew it, the other way around.",
       "sentence-jp": "びんのふたを閉めるには時計回りに回すが、開けるには逆に回す。"
     }

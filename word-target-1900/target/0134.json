@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "捜す；を捜索する；を詳しく調べる",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The police searched for the missing person all night.",
       "sentence-jp": "警察は一晩中行方不明者を捜した。"
     }

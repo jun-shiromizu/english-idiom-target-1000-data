@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "殺虫剤；除草剤（≒herbicide）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Organic foods are produced without chemical pesticides.",
       "sentence-jp": "有機食品は化学殺虫剤を使わずに作られる。"
     }

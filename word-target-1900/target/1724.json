@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（を）からかう；をいじめる",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He often teased his younger brother for being shorter than him.",
       "sentence-jp": "彼は自分より背が低いことでよく弟をからかった。"
     }

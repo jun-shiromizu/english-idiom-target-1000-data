@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（を）クリックする；をカチッと鳴らす；カチッと音がする",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "To download the file, you need to click on the filename on the screen.",
       "sentence-jp": "ファイルをダウンロードするには，画面上のファイル名をクリックする必要がある。"
     }

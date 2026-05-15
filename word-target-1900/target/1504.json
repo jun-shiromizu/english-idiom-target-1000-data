@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "登録する，入会する；を登録させる",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "He enrolled in a local gym to learn Latin dance.",
       "sentence-jp": "彼はラテンダンスを習うために地元のジムに入会した。"
     }

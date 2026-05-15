@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "会社；〔集合的に〕仲間；（仲間と）一緒にいること；一座",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He started to work for an insurance company three years ago.",
       "sentence-jp": "彼は3年前に保険会社で働き始めた。"
     }

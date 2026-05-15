@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "熱の，熱による；保温用の",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Most electricity in Japan is generated at thermal power stations.",
       "sentence-jp": "日本のほとんどの電力は火力発電所で生み出される。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を製造する；をでっち上げる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The electronics company manufactures large quantities of smartphones.",
       "sentence-jp": "その電子機器会社は大量のスマートフォンを製造している。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（痛み・感情などが）激しい；（知覚などが）鋭い；急性の（⇔ chronic ⇒ 1198）",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "Soon after eating oysters, she had an acute pain in her stomach.",
       "sentence-jp": "カキを食べて間もなく，彼女は胃に激しい痛みを覚えた。"
     }

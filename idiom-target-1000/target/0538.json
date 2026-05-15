@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "…するのが困難である、苦労しながら…する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "synonyms": [
         "have a hard time (in) doing",
         "have trouble (in) doing"

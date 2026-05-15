@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "実際の，現実の",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Students can learn scientific theories through actual experiences.",
       "sentence-jp": "学生は実際の経験を通して科学的理論を学ぶことができる。"
     }

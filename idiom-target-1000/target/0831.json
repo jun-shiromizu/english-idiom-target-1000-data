@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜の影響を受けやすい；〜に感染しやすい",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "synonyms": [
         "be vulnerable to ~",
         "be liable to ~"

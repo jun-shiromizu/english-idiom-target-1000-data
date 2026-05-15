@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "歩き回る；それる；はぐれる",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "She wandered around the city all day.",
       "sentence-jp": "彼女は一日中市内を歩き回った。"
     }

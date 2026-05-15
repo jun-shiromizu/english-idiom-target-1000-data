@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を犠牲にして",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "at the cost of ~"
       ],

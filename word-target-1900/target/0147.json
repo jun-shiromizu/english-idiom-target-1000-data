@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "説明；勘定；口座",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The patient's family was given a detailed account of the operation.",
       "sentence-jp": "患者の家族は手術についての詳しい説明を受けた。"
     }

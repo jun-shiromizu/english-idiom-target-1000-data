@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "理論的に(は)；原則的に(は)",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "This proved that the idea worked, at least in principle.",
       "sentence-jp": "このことは、その考えが少なくとも理論的には機能していると証明した。"
     }

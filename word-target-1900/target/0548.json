@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "義務；〔しばしば～ties〕職務；関税",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He was blamed for not doing his duty as a parent.",
       "sentence-jp": "彼は親としての義務を果たさないことで責められた。"
     }

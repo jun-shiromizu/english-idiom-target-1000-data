@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（を）集中する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "In a quiet library I can concentrate on studying.",
       "sentence-jp": "静かな図書館で私は勉強に集中することができる。"
     }

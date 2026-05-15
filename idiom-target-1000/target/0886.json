@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(代用品などで)間に合わせる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Every chef dreams of great produce, but most make do with what is available on the market.",
       "sentence-jp": "すべての料理人はすばらしい農産物を夢見ているが、ほとんどの人は市場で手に入るもので間に合わせている。"
     }

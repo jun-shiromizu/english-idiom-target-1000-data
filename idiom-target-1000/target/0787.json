@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "(車・船などを)運転して",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Ken was beginning to feel tired after having been behind the wheel for almost two hours.",
       "sentence-jp": "ケンは2時間近く運転してきて、疲労を感じ始めていた。"
     }

@@ -1,17 +1,19 @@
-  {
-    "number": "0052",
-    "idioms": [
-      "differ from ~"
-    ],
-    "means": [
-      {
-        "idiom-jp": "〜と異なる",
-        "example-sentence": "Humans differ from other animals in that they can use language.",
-        "sentence-jp": "言語を使えるという点で人間はほかの動物とは異なる。"
-      }
-    ],
-    "notes": [
-      "形容詞を使った be different from 〜 → 21 よりやや堅い表現。",
-      "in that ...「…の点で」→ 760"
-    ]
-  }
+{
+  "number": "0052",
+  "idioms": [
+    "differ from ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜と異なる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
+      "example-sentence": "Humans differ from other animals in that they can use language.",
+      "sentence-jp": "言語を使えるという点で人間はほかの動物とは異なる。"
+    }
+  ],
+  "notes": [
+    "形容詞を使った be different from 〜 → 21 よりやや堅い表現。",
+    "in that ...「…の点で」→ 760"
+  ]
+}

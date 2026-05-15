@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（を）思いつく；と想像する；（を）妊娠する",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He conceived a new business plan while taking a bath.",
       "sentence-jp": "彼は入浴中に新しい事業計画を思いついた。"
     }

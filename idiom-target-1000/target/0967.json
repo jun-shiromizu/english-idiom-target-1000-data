@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "適例",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "a typical example"
       ],

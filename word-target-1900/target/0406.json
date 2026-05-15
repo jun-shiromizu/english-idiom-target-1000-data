@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（を）（しぶしぶ）認める；に（～への）入場［入学など］を認める（to / into）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "I admitted that I lost my father's favorite watch.",
       "sentence-jp": "私は父のお気に入りの時計をなくしたことを認めた。"
     }

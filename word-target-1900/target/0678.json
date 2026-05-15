@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "評判；名声",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "British food has a reputation for not being tasty.",
       "sentence-jp": "イギリスの食べ物はおいしくないという評判がある。"
     }

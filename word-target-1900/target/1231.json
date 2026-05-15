@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を修正する；を改訂する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "I need to revise my essay draft by next Monday.",
       "sentence-jp": "私は次の月曜日までに小論文の草稿を修正する必要がある。"
     }

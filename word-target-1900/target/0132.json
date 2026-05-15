@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を見なす；を見る；を評価する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Today, many people regard English language ability as necessary.",
       "sentence-jp": "今日，多くの人々は英語の能力を必要なものだと見なしている。"
     }

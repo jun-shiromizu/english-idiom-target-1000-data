@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を織る；（計画・物語など）を作り上げる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "This beautiful scarf is woven from silk thread.",
       "sentence-jp": "この美しいスカーフは絹糸で織られている。"
     }

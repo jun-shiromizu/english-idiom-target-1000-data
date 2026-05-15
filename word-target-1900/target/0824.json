@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "に耐える（≒ put up with）；（に）持ちこたえる",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "This submarine can endure very high pressure.",
       "sentence-jp": "この潜水艦はかなりの高圧に耐えることができる。"
     }

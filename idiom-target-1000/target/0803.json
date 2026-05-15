@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "最後になったが",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Last but not least, salt has many other uses such as melting ice on roads in snowy regions.",
       "sentence-jp": "最後になったが、雪の多い地方では路上の氷を溶かすなど、塩にはほかのたくさんの用途がある。"
     }

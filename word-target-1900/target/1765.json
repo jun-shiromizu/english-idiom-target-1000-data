@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "肝臓",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Drinking alcohol can damage the liver.",
       "sentence-jp": "飲酒は肝臓に損傷を与える可能性がある。"
     }

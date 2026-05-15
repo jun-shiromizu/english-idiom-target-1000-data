@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を伸ばす；を広げる；伸びる；及ぶ",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "She stood up and stretched her arms forward.",
       "sentence-jp": "彼女は立ち上がり両腕を前に伸ばした。"
     }

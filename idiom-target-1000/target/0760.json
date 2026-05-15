@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "…の点で、…のゆえに",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "synonyms": [
         "because",
         "since"

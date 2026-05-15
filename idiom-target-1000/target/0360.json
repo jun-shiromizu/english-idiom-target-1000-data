@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜に関して(は)",
+      "partOfSpeech": "preposition",
+      "choiceType": "prepositional-phrase",
       "synonyms": [
         "in relation to ~",
         "with [in] regard to ~",

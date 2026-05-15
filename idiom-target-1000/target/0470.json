@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を整理する；〜を処理する",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "synonyms": [
         "iron out ~"
       ],

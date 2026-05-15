@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "統計；統計学",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Statistics show that school uniforms have positive effects on students' behavior.",
       "sentence-jp": "学校の制服が生徒の行動にプラスの効果を及ぼすことを統計は示す。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "真空；空虚",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "A rocket engine can operate in the vacuum of space.",
       "sentence-jp": "ロケットエンジンは宇宙空間の真空の中で作動することができる。"
     }

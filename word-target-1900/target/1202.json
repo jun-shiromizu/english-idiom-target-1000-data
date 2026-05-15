@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を尊敬する；を見なす",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "He is highly esteemed as a genius in mathematics.",
       "sentence-jp": "彼は数学の天才として大いに尊敬されている。"
     }

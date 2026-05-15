@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "原因（⇔ effect ⇒ 48）；理由；大義",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Air pollution is a major cause of health problems.",
       "sentence-jp": "大気汚染は健康問題の主要な原因である。"
     }

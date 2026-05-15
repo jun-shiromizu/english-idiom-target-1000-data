@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "ありそうな（⇔ unlikely ありそうもない）",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "Some people believe that AI robots are likely to replace most workers.",
       "sentence-jp": "AIロボットが大半の労働者に取って代わりそうだと思っている人がいる。"
     }

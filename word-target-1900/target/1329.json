@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を誇る；（を）自慢する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Her Twitter account boasts more than 100, 000 followers.",
       "sentence-jp": "彼女のツイッターのアカウントは10万人以上のフォロワーを誇る。"
     }

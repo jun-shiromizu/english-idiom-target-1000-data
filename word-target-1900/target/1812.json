@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〔通例受身形で〕運命にある",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "All living creatures are doomed to die in the end.",
       "sentence-jp": "すべての生き物は最後には死ぬ運命にある。"
     }

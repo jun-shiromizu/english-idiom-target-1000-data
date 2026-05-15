@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を改革する；を改心させる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Japan reformed its educational system after World War II.",
       "sentence-jp": "日本は第二次世界大戦後に教育制度を改革した。"
     }

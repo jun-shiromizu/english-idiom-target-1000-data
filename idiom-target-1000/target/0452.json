@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(〜を)要約する；〜を合計する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "synonyms": [
         "summarize"
       ],

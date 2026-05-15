@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を位置づける，評価する；（ある地位に）位置する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "A magazine ranked the hotel as the city's best.",
       "sentence-jp": "ある雑誌はそのホテルを市の最高のものと位置づけた。"
     }

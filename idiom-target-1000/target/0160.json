@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "他方では ; これに反して",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "My big brother, on the other hand, prefers spending his free time alone reading books.",
       "sentence-jp": "他方では, 私の兄は本を読んで自由時間を1人で過ごすことを好む。"
     }

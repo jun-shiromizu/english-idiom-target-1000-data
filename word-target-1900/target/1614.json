@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を指図する；を書き取らせる；を規定する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "He dictated to his secretary how to do her job.",
       "sentence-jp": "彼は自分の秘書に仕事の仕方を指図した。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "今すぐ, 直ちに",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "synonyms": [
         "immediately",
         "at once",

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜のおかげで",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "example-sentence": "Thanks to this book, I finally understood what had happened all those years ago.",
       "sentence-jp": "この本のおかげで, 私は過ぎ去りし日々に起きたことをついに理解した。"
     }

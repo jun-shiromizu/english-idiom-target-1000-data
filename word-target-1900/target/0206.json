@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を維持する；と主張する；を養う",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Today, Kyoto still maintains a lot of its ancient culture.",
       "sentence-jp": "今日，京都はなお昔の文化を多く維持している。"
     }

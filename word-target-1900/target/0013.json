@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を要求する；を必要とする",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The Road Traffic Law requires you to wear a seat belt.",
       "sentence-jp": "道路交通法はあなたがシートベルトを着用することを要求する。"
     }

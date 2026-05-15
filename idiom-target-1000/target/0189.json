@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を克服する ; (病気など)から回復する",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "synonyms": [
         "overcome"
       ],

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜に対する眼識[鑑識力]がある",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "You need to have an eye for color and style if you want to be a fashion designer.",
       "sentence-jp": "ファッションデザイナーになりたければ、色とスタイルに対する眼識を持っている必要がある。"
     }

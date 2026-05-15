@@ -1,16 +1,18 @@
-  {
-    "number": "0066",
-    "idioms": [
-      "set up ~"
-    ],
-    "means": [
-      {
-        "idiom-jp": "〜を立てる［建てる］；〜を創設する［始める］",
-        "example-sentence": "I'm a music lover, and my dream is to set up a small recording studio at my house.",
-        "sentence-jp": "私は音楽が大好きで、夢は自分の家に小さなレコーディングスタジオを作ることだ。"
-      }
-    ],
-    "notes": [
-      "set 〜 up の語順も可。"
-    ]
-  }
+{
+  "number": "0066",
+  "idioms": [
+    "set up ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜を立てる［建てる］；〜を創設する［始める］",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
+      "example-sentence": "I'm a music lover, and my dream is to set up a small recording studio at my house.",
+      "sentence-jp": "私は音楽が大好きで、夢は自分の家に小さなレコーディングスタジオを作ることだ。"
+    }
+  ],
+  "notes": [
+    "set 〜 up の語順も可。"
+  ]
+}

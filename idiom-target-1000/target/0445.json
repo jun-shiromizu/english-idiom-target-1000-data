@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(物)を(しぶしぶ)手放す",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Doris knew she had to part with the dog sooner or later.",
       "sentence-jp": "ドリスは遅かれ早かれその犬を手放さなければならないとわかっていた。"
     }

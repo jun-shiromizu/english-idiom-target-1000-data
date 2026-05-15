@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "自分自身の〜",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Jack is staying with his friend for the time being until he finds a place of his own.",
       "sentence-jp": "ジャックは自分自身の住居が見つかるまで、当分の間友人の家に泊まっている。"
     }

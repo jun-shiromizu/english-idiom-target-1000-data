@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（の）料理をまかなう；（要望などに）応える",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "A famous restaurant will be catering their wedding.",
       "sentence-jp": "有名レストランが彼らの結婚式の料理をまかなうことになっている。"
     }

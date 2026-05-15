@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜なしですます",
+      "partOfSpeech": "preposition",
+      "choiceType": "prepositional-phrase",
       "synonyms": [
         "do without ~",
         "go without ~"

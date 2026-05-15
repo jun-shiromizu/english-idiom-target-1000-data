@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "断片",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Our solar system is only a fragment of the whole universe.",
       "sentence-jp": "私たちの太陽系は宇宙全体の断片にすぎない。"
     }

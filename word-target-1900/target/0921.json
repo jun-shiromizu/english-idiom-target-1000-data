@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を養う；を耕す；を栽培する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Her doctor advised her to cultivate healthier lifestyle habits.",
       "sentence-jp": "主治医は彼女にもっと健康的な生活習慣を養うように忠告した。"
     }

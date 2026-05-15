@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を配達する；（演説・講義）をする；子を産む",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "He delivers packages every day regardless of the weather.",
       "sentence-jp": "天気にかかわらず，彼は毎日小包を配達する。"
     }

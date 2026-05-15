@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "〜を実行[実施]する",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "example-sentence": "The manager suggested that they put the new project into practice right away.",
       "sentence-jp": "部長は、彼らがすぐにその新しいプロジェクトを実行することを提案した。"
     }

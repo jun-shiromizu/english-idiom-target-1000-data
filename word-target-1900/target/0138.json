@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "苦しむ；患う；（苦痛など）を経験する",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Many countries around the world suffer from natural disasters.",
       "sentence-jp": "世界中の多くの国々が自然災害に苦しんでいる。"
     }

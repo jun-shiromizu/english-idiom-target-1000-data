@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "爆発する；かっとなる；〜を爆破する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "Fortunately, no one was inside the factory when it blew up.",
       "sentence-jp": "幸運なことに、その工場が爆発したときには中に誰もいなかった。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "生物学（上）の",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Generally speaking, every organism has a biological clock.",
       "sentence-jp": "一般的に言えば，あらゆる生き物は生物時計を有している。"
     }

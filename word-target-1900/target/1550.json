@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "領域；領土",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The writer decided to write about the realms of fantasy.",
       "sentence-jp": "著者は空想の世界について書くことに決めた。"
     }

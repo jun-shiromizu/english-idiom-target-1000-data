@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜の神経にさわる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "irritate",
         "drive ~ crazy [nuts]"

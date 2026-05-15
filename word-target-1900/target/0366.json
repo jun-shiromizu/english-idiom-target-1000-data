@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "危機",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Governments must always be prepared for a national crisis.",
       "sentence-jp": "政府はいつも国家的危機に備えているべきだ。"
     }

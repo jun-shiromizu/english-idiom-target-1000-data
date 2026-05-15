@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "特権，特典",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Intelligence is not the privilege of the human species alone.",
       "sentence-jp": "知能は人類だけの特権ではない。"
     }

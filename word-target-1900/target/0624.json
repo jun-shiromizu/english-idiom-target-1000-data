@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を当惑させる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Her strange behavior at the party puzzled us.",
       "sentence-jp": "パーティーでの彼女の奇妙な行動は私たちを当惑させた。"
     }

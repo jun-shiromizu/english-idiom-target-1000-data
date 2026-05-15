@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を消す",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "We sometimes wish we could erase some of our memories.",
       "sentence-jp": "私たちはときどき自分の記憶のいくつかを消すことができればいいのにと思う。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "耳が聞こえない（≒ hard of hearing）",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "She is learning sign language to communicate with deaf people.",
       "sentence-jp": "彼女は耳が聞こえない人と意思疎通を図るために手話を学んでいる。"
     }

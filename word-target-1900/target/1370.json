@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "腎臓",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Some people have decided to donate their kidneys after their death.",
       "sentence-jp": "死後に腎臓を提供することを決めている人もいる。"
     }

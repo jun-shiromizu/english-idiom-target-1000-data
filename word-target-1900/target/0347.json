@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "個性，性格",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "According to a philosopher, one's house reflects one's personality.",
       "sentence-jp": "ある哲学者によると，人の家はその人の個性を反映するとのことである。"
     }

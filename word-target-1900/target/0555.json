@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（大）企業；法人",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Giant corporations control the worldwide industry of computer services.",
       "sentence-jp": "巨大企業が世界中のコンピューターサービス産業を支配している。"
     }

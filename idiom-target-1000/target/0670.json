@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "実を言えば",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "truth to tell"
       ],

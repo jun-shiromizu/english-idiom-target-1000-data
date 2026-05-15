@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "考え；思考",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Bob gave some thought to applying for the big contest.",
       "sentence-jp": "ボブはその大きなコンテストに応募することについて一考した。"
     }

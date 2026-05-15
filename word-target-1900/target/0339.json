@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を伸［延］ばす；伸びる；及ぶ",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Stores often extend their business hours for the convenience of customers.",
       "sentence-jp": "商店はよく客の利便性のために営業時間を延ばす。"
     }

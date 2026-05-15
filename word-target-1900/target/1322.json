@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（光・熱など）を出す，排出する；（信号）を送る",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "Food production emits carbon dioxide.",
       "sentence-jp": "食料生産は二酸化炭素を排出する。"
     }

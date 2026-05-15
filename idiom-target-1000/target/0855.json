@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を処理する；〜に注意を払う；〜の世話をする",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "synonyms": [
         "take care of ~",
         "pay attention to ~"

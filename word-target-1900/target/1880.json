@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "しがちな；（～を）受けやすい（to）；責任がある",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "People are liable to make mistakes when they are in a hurry.",
       "sentence-jp": "人は急いでいるときミスをしがちである。"
     }

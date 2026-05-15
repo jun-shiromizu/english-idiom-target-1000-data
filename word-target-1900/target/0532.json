@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を（法的に）禁止する；を締め出す",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Today, many restaurants ban smoking inside.",
       "sentence-jp": "今日，多くのレストランが店内での喫煙を禁止している。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を手に入れる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "get",
         "obtain"

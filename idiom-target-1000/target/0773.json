@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "A やら B やらで",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "example-sentence": "What with overwork and exhaustion, nearly half the members fell ill.",
       "sentence-jp": "過労やら疲労やらで、ほぼ半数のメンバーが病気になった。"
     }

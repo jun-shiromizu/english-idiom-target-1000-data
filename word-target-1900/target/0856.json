@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "本能；勘，直感；（自然に起こる）衝動",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Pigeons know by instinct how to return to their places of birth.",
       "sentence-jp": "ハトは本能的に生まれた場所への帰り方を知っている。"
     }

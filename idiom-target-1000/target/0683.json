@@ -6,11 +6,15 @@
   "means": [
     {
       "idiom-jp": "自分だけ(が使う)のに",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "example-sentence": "On weekends nobody else is up before ten, so Ken has the living room all to himself.",
       "sentence-jp": "週末は10時前にはほかの誰も起きていないので、ケンは自分だけで居間を使うことができる。"
     },
     {
       "idiom-jp": "自分自身に、心の中に[で]",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "With the deadline just a few days away, I said to myself, “How are you going to make it?”",
       "sentence-jp": "締め切りがわずか数日後に迫っていて、「どうやって終わらせるつもり？」と私は自分自身に言い聞かせた。"
     }

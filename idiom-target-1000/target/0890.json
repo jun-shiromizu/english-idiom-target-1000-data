@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を当然のことと思う",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Patients tend to take it for granted that a doctor knows everything, but does he?",
       "sentence-jp": "患者は、医師が何でも知っているのを当然だと思いがちだが、そうだろうか。"
     }

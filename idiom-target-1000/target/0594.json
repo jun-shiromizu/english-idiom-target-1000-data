@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "成功する、うまくやる；間に合う；出席する",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Although I’d never skied before, I made it all the way down the mountain.",
       "sentence-jp": "私はそれまでスキーをしたことはなかったが、山をずっと下まで降りるのに成功した。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（～に）の値をつける（for ⇒ on）；（挨拶）を述べる",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He bid $ 1, 000 for the painting at the auction.",
       "sentence-jp": "彼は競売でその絵に1,000ドルの値をつけた。"
     }

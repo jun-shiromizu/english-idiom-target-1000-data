@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "1度に",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "example-sentence": "We were told to enter the room one at a time for the interview.",
       "sentence-jp": "私たちは, 面接には1度に1人ずつ入室するように言われた。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "A を B に取り付ける[付与する]",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "I attached a postage stamp to the envelope and mailed it.",
       "sentence-jp": "私は切手を封筒に貼って投函した。"
     }

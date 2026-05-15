@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を追求する；に従事する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "I hope to pursue my own interests at a university.",
       "sentence-jp": "私は大学で自分自身の興味を追求することを望んでいる。"
     }

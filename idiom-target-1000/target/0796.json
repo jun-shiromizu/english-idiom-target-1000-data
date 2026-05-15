@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(外国語など)を自由に使いこなす力がある",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "There is no doubt that anyone who has a good command of English has a bright future.",
       "sentence-jp": "英語を自由に使いこなす力がある人は誰にも明るい未来があることは間違いない。"
     }

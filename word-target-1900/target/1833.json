@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を派遣する；を発送する；を処理する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The police dispatched police cars to the crime scene.",
       "sentence-jp": "警察は犯行現場にパトカーを派遣した。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（を）過小評価する（⇔ overestimate （を）過大評価する）；（を）軽く見る；を少なく見積もる",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "We should not underestimate our own talents.",
       "sentence-jp": "私たちは自分自身の才能を過小評価するべきでない。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜と調和[一致]して",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "We should aspire to live in harmony with people of all religions, races and nations.",
       "sentence-jp": "私たちはあらゆる宗教、人種、国家の人々と調和して暮らすことを求めるべきだ。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "A というより B",
+      "partOfSpeech": "phrase",
+      "choiceType": "comparative-expression",
       "synonyms": [
         "not so much A but B",
         "B rather than A"

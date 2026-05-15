@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "B のことで A を非難する；B を A のせいにする",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "The mass media blamed the politician for not listening to the voices of the people.",
       "sentence-jp": "マスメディアは、国民の声に耳を傾けないことでその政治家を非難した。"
     }

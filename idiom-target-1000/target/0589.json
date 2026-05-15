@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(〜と)連絡を取る",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "get in contact (with ~)",
         "make contact (with ~)"

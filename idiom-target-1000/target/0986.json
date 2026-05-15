@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "連続して",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "on end",
         "in succession"

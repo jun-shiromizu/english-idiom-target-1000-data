@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（～を）じっと見る（at / into）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Christine stood on the hilltop and peered into the distance.",
       "sentence-jp": "クリスティーンは丘の頂上に立ち遠くをじっと見た。"
     }

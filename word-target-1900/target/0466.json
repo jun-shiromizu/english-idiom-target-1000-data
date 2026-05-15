@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "弁護士",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He consulted a lawyer to discuss filing a lawsuit.",
       "sentence-jp": "彼は訴訟を起こすことを検討するために弁護士に相談した。"
     }

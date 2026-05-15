@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "ひょいと動く；不意に現れる；ポンとはじける",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He popped into a convenience store to buy a cup of coffee.",
       "sentence-jp": "彼はコーヒーを1杯買うためにコンビニにひょいと入った。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜の危険があって",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "in peril of ~"
       ],

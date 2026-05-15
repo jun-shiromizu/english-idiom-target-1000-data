@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "地雷",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The landmine was one of the weapons used in the Vietnam War.",
       "sentence-jp": "地雷はベトナム戦争で使われた武器の一種だった。"
     }

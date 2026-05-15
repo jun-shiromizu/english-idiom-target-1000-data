@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "近ごろは, このごろは",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "These days I get up early in the morning and enjoy jogging around the park.",
       "sentence-jp": "近ごろ私は朝早く起きて, 公園の周りをジョギングして楽しんでいる。"
     }

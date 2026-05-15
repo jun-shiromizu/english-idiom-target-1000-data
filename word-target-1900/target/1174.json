@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "コラム；（新聞などの）欄；円柱；（縦）列",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "She writes a newspaper column once a week.",
       "sentence-jp": "彼女は週に1回新聞のコラムを書いている。"
     }

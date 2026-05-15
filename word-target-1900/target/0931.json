@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "ぶつかる；をぶつける",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "She nearly bumped into a man who was walking using a smartphone.",
       "sentence-jp": "彼女はスマートフォンを使いながら歩いていた男性にあやうくぶつかりそうになった。"
     }

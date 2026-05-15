@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を拒む；を断る；拒絶する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The journalist refused to answer the questions about the source of the information.",
       "sentence-jp": "そのジャーナリストは情報の出所についての質問に答えるのを拒んだ。"
     }

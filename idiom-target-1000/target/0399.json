@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を取り入れる；〜を理解する",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "include",
         "understand"
@@ -15,6 +17,8 @@
     },
     {
       "idiom-jp": "〜をだます",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "deceive"
       ],
@@ -23,6 +27,8 @@
     },
     {
       "idiom-jp": "〜を見物する",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "example-sentence": "We decided to take in a few more sights while we were there.",
       "sentence-jp": "私たちはそこにいる間、さらにいくつかの名所を見物することにした。"
     }

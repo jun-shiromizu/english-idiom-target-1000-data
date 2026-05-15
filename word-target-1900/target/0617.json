@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を予約する；を取っておく；（判断など）を保留する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "She reserved a flight for New York three months ahead of time.",
       "sentence-jp": "彼女は出発日の3か月前にニューヨーク行きの航空便を予約した。"
     }

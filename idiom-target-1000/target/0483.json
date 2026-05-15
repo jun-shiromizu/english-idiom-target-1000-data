@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(物・情報など)を次に回す[伝える]",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "hand down ~"
       ],

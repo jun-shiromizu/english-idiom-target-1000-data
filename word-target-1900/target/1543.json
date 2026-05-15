@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "余剰（⇔ shortage 不足），過剰；黒字",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "A surplus of apartment buildings has lowered the cost of rent.",
       "sentence-jp": "アパート・マンションの過剰は家賃を低下させた。"
     }

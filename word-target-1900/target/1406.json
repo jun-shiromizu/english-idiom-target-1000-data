@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を獲得する，達成する；に達する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "He attained most of his knowledge at university.",
       "sentence-jp": "彼は大学で自身の知識の大半を得た。"
     }

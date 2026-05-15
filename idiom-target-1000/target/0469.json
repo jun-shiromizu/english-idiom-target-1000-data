@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "脱落する、中途退学する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "Running out of money is the most common reason people drop out of anything.",
       "sentence-jp": "資金が尽きるということが、人々が何事からも脱落する最も一般的な理由だ。"
     }

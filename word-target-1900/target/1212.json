@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "回転する；を回転させる；（糸）を紡ぐ",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "The earth is spinning around on its axis.",
       "sentence-jp": "地球は地軸を中心に回転している。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜に等しい",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "synonyms": [
         "on a par with ~"
       ],

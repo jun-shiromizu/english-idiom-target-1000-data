@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "さあ着いた。",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Here we are at the end of the line. This is where I’ve wanted to be for a long time.",
       "sentence-jp": "終点に着きました。ここは私が長いこと来たいと思っていた場所です。"
     }

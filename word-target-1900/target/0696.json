@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "生の；未加工の",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "She has never eaten raw fish.",
       "sentence-jp": "彼女は一度も生魚を食べたことがない。"
     }

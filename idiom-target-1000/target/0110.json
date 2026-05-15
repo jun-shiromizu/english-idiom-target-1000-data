@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "A を B に(質的に)変える",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "transform A into [to] B",
         "change A into B"

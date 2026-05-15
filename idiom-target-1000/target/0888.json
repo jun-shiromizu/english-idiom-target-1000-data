@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "収入内でやりくりする",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "With prices rising, it is becoming harder for anyone to make ends meet these days.",
       "sentence-jp": "物価が上昇しているので、最近では誰でも収入内でやりくりするのがより難しくなってきている。"
     }

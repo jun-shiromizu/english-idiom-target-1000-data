@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "から成る；を構成する",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "My apartment comprises three bedrooms, a kitchen, and a living room.",
       "sentence-jp": "私のマンションは3つの寝室と台所と居間から成る。"
     }

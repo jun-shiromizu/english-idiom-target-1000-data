@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（価値など）を高める，増す",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Some say that traveling abroad will enhance your job opportunities.",
       "sentence-jp": "海外旅行が仕事の機会を増やすことになると言う人がいる。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜に向いている[適している]",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "I’m not good at math, so probably I’m not cut out to be a scientist.",
       "sentence-jp": "私は数学が得意ではないので、おそらく科学者には向いていない。"
     }

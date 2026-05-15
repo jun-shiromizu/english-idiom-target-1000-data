@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（を）強く主張する；要求する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "He insisted on walking to school by himself.",
       "sentence-jp": "彼はひとりで学校に歩いて行くと主張した。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(仕事・目的など)に打ち込んでいる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "be committed to ~",
         "be involved in ~"

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "アンケート",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "If you have time, please answer the questionnaire.",
       "sentence-jp": "お時間があるようでしたら，アンケートに答えてください。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を修正する；を緩和する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The man modified the car's engine to make it go faster.",
       "sentence-jp": "その男性はもっと速く走らせるためにその車のエンジンを改造した。"
     }

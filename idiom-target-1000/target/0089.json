@@ -1,19 +1,21 @@
-  {
-    "number": "0089",
-    "idioms": [
-      "make sure (~)"
-    ],
-    "means": [
-      {
-        "idiom-jp": "(〜を)確かめる；確実に〜をする",
-        "synonyms": [
-          "make certain (~)"
-        ],
-        "example-sentence": "When you leave the room, make sure you've turned off the light.",
-        "sentence-jp": "部屋を出るときは電灯を消したことを確かめてください。"
-      }
-    ],
-    "notes": [
-      "sure [certain] の後には that 節、to do、of 〜 のいずれも続けることが可能。"
-    ]
-  }
+{
+  "number": "0089",
+  "idioms": [
+    "make sure (~)"
+  ],
+  "means": [
+    {
+      "idiom-jp": "(〜を)確かめる；確実に〜をする",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
+      "synonyms": [
+        "make certain (~)"
+      ],
+      "example-sentence": "When you leave the room, make sure you've turned off the light.",
+      "sentence-jp": "部屋を出るときは電灯を消したことを確かめてください。"
+    }
+  ],
+  "notes": [
+    "sure [certain] の後には that 節、to do、of 〜 のいずれも続けることが可能。"
+  ]
+}

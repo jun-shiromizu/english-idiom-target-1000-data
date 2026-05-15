@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "[前置詞句](乗り物)に乗って ; [形容詞句・副詞句] 乗って[た]",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "aboard"
       ],

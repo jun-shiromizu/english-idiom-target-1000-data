@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を隠す（≒ conceal ⇒ 1116）；隠れる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "He hides his true feelings behind his smiles.",
       "sentence-jp": "彼はほほえみの裏に自分の本当の感情を隠す。"
     }

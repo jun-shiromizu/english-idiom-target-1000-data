@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(〜に)電話をかける；(記憶・勇気など)を呼び起こす",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "If I had known your telephone number, I would have called you up.",
       "sentence-jp": "もしあなたの電話番号を知っていたら、あなたに電話をかけただろうに。"
     }

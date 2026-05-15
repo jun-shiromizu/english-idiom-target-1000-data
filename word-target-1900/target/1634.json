@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を暗唱する；を詳述する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "He can recite famous lines from Shakespeare from memory.",
       "sentence-jp": "彼は記憶を頼りにシェークスピアの有名なせりふを暗唱することができる。"
     }

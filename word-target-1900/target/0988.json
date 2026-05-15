@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "流ちょうな",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "Ken is fluent both in English and Japanese.",
       "sentence-jp": "ケンは英語と日本語の両方が流ちょうである。"
     }

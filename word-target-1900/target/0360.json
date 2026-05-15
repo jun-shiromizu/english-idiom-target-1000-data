@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〔しばしば～s〕基金，資金",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The Internet was used to raise huge funds for the development of spacecraft.",
       "sentence-jp": "宇宙船の開発のための巨額の資金を集めるためにインターネットが使われた。"
     }

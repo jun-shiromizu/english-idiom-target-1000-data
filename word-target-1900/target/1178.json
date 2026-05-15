@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "タブレット（型情報端末）；錠剤；平板",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Some think that it is more convenient to read novels on a tablet.",
       "sentence-jp": "タブレットで小説を読むほうが便利だと考える人がいる。"
     }

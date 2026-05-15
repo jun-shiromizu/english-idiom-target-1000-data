@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を積む，積み重ねる；〔～ upで〕（車が）渋滞する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The chairs in the room are stacked in three neat piles.",
       "sentence-jp": "その部屋の椅子は3つの山にきちんと積み重ねられている。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "正確な（≒ exact）；精密な；まさにその",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "The precise height of the tower is 634 meters.",
       "sentence-jp": "そのタワーの正確な高さは634メートルである。"
     }

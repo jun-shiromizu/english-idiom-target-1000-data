@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を許す；を与える；（～を）考慮に入れる（for）",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The company allows its employees to take long winter vacations.",
       "sentence-jp": "その会社は従業員が長い冬期休暇をとるのを許している。"
     }

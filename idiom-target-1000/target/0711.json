@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "もし〜がなければ",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "but for ~",
         "except for ~",

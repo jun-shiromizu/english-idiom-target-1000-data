@@ -1,16 +1,18 @@
-  {
-    "number": "0055",
-    "idioms": [
-      "believe in ~"
-    ],
-    "means": [
-      {
-        "idiom-jp": "〜の価値［存在］を信じる；〜を信用する",
-        "example-sentence": "Melinda believed in Santa Claus until she became ten years old.",
-        "sentence-jp": "メリンダは 10 歳になるまでサンタクロースの存在を信じていた。"
-      }
-    ],
-    "notes": [
-      "I believe in him. は「人格的に彼を信頼している」ことを表し、I believe him.「彼の言葉を信じる」とは質的に異なる。"
-    ]
-  }
+{
+  "number": "0055",
+  "idioms": [
+    "believe in ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜の価値［存在］を信じる；〜を信用する",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
+      "example-sentence": "Melinda believed in Santa Claus until she became ten years old.",
+      "sentence-jp": "メリンダは 10 歳になるまでサンタクロースの存在を信じていた。"
+    }
+  ],
+  "notes": [
+    "I believe in him. は「人格的に彼を信頼している」ことを表し、I believe him.「彼の言葉を信じる」とは質的に異なる。"
+  ]
+}

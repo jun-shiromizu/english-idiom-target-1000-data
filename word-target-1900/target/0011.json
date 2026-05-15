@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を決める；に決着をつける",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "She has decided to memorize ten English words a day.",
       "sentence-jp": "彼女は1日に10個の英単語を覚えることに決めた。"
     }

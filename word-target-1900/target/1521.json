@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を移植する；を移住させる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The surgeon successfully transplanted a heart into the child.",
       "sentence-jp": "外科医は首尾よくその子供に心臓を移植した。"
     }

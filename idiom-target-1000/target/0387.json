@@ -6,11 +6,15 @@
   "means": [
     {
       "idiom-jp": "出かける",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "After she had switched off the TV, Mary went out for a walk.",
       "sentence-jp": "メアリーはテレビの電源を切ると、散歩に出かけた。"
     },
     {
       "idiom-jp": "(灯火などが)消える；気絶する；死ぬ",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "The moment a severe earthquake struck our area, all the lights went out.",
       "sentence-jp": "強烈な地震が私たちの地域を襲った瞬間、すべての明かりが消えた。"
     }

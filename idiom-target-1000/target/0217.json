@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "ときどき",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "sometimes",
         "occasionally",

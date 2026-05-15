@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(名詞の後に置いて)将来の〜, 来るべき〜",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "It is feared that the impact of the economic depression will be felt for many years to come.",
       "sentence-jp": "経済不況の影響は今後何年にもわたって感じられるだろうと懸念されている。"
     }

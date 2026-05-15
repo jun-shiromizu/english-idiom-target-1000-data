@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（専門家の）一団；討論者一同；羽目板",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "A panel of computer experts has discussed the government's proposal.",
       "sentence-jp": "コンピュータ専門家からなる委員会が政府の提案について議論した。"
     }

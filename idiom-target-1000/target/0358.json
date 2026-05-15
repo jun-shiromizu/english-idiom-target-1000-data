@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜にもかかわらず",
+      "partOfSpeech": "conjunction",
+      "choiceType": "conjunction-phrase",
       "example-sentence": "With all the evidence, the man continued to deny committing the crime.",
       "sentence-jp": "証拠があるにもかかわらず、その男は犯罪を犯したことを否定し続けた。"
     }

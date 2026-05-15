@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "見たところは、表面上は",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "on the surface"
       ],

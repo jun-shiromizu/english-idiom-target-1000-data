@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "軍の，軍事（用）の",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "One important military use of parachutes is for dropping cargo.",
       "sentence-jp": "パラシュートの重要な軍事的使用法の1つは荷を投下することである。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "つまり、手短に言えば",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "In short, Shakespeare was proposing the process we now call “the scientific method.”",
       "sentence-jp": "つまり、シェークスピアは私たちが現在「科学的方法」と呼ぶ方法を提案していたのだ。"
     }

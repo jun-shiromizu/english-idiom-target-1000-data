@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "(〜の)観光をする",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "I’m really looking forward to seeing the sights of your country on my trip next month.",
       "sentence-jp": "私は来月の旅行であなたの国の観光をするのを本当に楽しみにしています。"
     }

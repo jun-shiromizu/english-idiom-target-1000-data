@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "〜もの数[量]の；〜と同数[量]の",
+      "partOfSpeech": "phrase",
+      "choiceType": "quantity-expression",
       "example-sentence": "There were as many as 100 people at the lecture yesterday.",
       "sentence-jp": "昨日の講義には100人もの数の人がいた。"
     }

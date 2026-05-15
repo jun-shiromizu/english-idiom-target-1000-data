@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(〜に)加えて ; さらに",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "besides (~)",
         "on top (of ~)",

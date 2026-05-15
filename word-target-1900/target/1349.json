@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〔～s〕軍隊；集団",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The country sent the peacekeeping troops into the conflict area.",
       "sentence-jp": "その国は紛争地帯に平和維持軍を派遣した。"
     }

@@ -1,17 +1,19 @@
-  {
-    "number": "0031",
-    "idioms": [
-      "be about to do"
-    ],
-    "means": [
-      {
-        "idiom-jp": "今にも…しようとしている",
-        "synonyms": [
-          "be on the point of doing"
-        ],
-        "example-sentence": "He was just about to go out when she called.",
-        "sentence-jp": "彼女が電話をかけてきたとき、彼は今にも出かけようとしていた。"
-      }
-    ],
-    "notes": []
-  }
+{
+  "number": "0031",
+  "idioms": [
+    "be about to do"
+  ],
+  "means": [
+    {
+      "idiom-jp": "今にも…しようとしている",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
+      "synonyms": [
+        "be on the point of doing"
+      ],
+      "example-sentence": "He was just about to go out when she called.",
+      "sentence-jp": "彼女が電話をかけてきたとき、彼は今にも出かけようとしていた。"
+    }
+  ],
+  "notes": []
+}

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を自由に取る",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Please make yourself at home and help yourself to anything in the fridge.",
       "sentence-jp": "どうぞくつろいで、冷蔵庫の中のものは何でも自由に取ってください。"
     }

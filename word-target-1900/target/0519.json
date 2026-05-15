@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を変える；変わる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Solar panels transform the sun's energy into electricity.",
       "sentence-jp": "太陽電池パネルは太陽エネルギーを電力に変える。"
     }

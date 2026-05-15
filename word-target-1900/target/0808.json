@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を命じる；を指揮する；（景色）を見渡せる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The opera conductor commanded the chorus to sing more in harmony.",
       "sentence-jp": "オペラの指揮者は合唱隊にもっと音を合わせて歌うように命じた。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "枠，（額）縁；骨組み；体格",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He put his most recent photo in a frame.",
       "sentence-jp": "彼は自分のごく最近の写真を額縁に入れた。"
     }

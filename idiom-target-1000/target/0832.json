@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(〜と)食い違っている；(〜と)反目し合っている",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "be inconsistent with ~"
       ],

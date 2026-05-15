@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "生来の，本来的に備わっている",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The Russian language is difficult to learn due to its inherent properties.",
       "sentence-jp": "ロシア語はその本来的に備わった特性のせいで習得するのが難しい。"
     }

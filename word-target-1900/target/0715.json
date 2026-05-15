@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を悩ます；〔受身形で〕腹が立つ",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Linda annoys me by telling me her frequent complaints.",
       "sentence-jp": "リンダは頻繁に不平を言って私を悩ます。"
     }

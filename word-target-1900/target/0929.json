@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（一時的に）中止する；（一瞬）立ち止まる",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "The speaker paused to drink from a glass of water.",
       "sentence-jp": "その演説者はコップの水を飲むために話を中断した。"
     }

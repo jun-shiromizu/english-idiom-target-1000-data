@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "起源；源",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "There are several theories about the origins of language.",
       "sentence-jp": "言語の起源についてはいくつかの説がある。"
     }

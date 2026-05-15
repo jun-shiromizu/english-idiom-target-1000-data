@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "海外へ［に，で］（≒ abroad）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Japanese people can easily travel overseas if the yen is strong.",
       "sentence-jp": "円高であれば，日本人は容易に海外へ旅行することができる。"
     }

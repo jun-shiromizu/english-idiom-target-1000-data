@@ -6,11 +6,15 @@
   "means": [
     {
       "idiom-jp": "詳細に；長々と",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "example-sentence": "We discussed at length the plan for the coming school festival.",
       "sentence-jp": "私たちは来る学園祭の計画を詳細に話し合った。"
     },
     {
       "idiom-jp": "とうとう、ついに",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "synonyms": [
         "at last",
         "eventually"

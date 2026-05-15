@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "あいまいな；多義的な",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "His answer to the question was highly ambiguous.",
       "sentence-jp": "その質問に対する彼の答えは非常にあいまいであった。"
     }

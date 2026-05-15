@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "に（...するように）頼む（to do）；を要請する",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The flight attendant requested all the passengers to remain seated.",
       "sentence-jp": "客室乗務員は乗客全員に座ったままでいるように求めた。"
     }

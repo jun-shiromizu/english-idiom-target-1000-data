@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "時間を守る",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "John is always punctual for appointments.",
       "sentence-jp": "ジョンはいつも約束の時間を守る。"
     }

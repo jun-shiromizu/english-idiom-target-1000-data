@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(不十分ながら)〜で我慢する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "We wanted at least 100,000 yen for the project, but had to settle for 80,000 yen.",
       "sentence-jp": "私たちはその企画のために最低10万円欲しかったが、8万円で我慢しなければならなかった。"
     }

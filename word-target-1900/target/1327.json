@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "努力する；争う",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "The police are striving to solve the problem of street crime.",
       "sentence-jp": "警察は路上犯罪の問題を解決しようと努力している。"
     }

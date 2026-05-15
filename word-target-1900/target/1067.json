@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "【英】（順番を待つ）列",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He joined the queue of people waiting for the bus.",
       "sentence-jp": "彼はバスを待つ人々の列に加わった。"
     }

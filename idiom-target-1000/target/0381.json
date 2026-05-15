@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を偶然見つける、〜に偶然出会う",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "run across ~",
         "run into ~"
@@ -15,6 +17,8 @@
     },
     {
       "idiom-jp": "(考えなどが)(相手に)伝わる[理解される]",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "get across"
       ],

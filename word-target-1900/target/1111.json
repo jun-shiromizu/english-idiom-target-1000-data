@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を構成する；になる，に等しい",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "At our university, women constitute the majority of the psychology majors.",
       "sentence-jp": "私たちの大学では，女性が心理学専攻学生の大多数を構成する。"
     }

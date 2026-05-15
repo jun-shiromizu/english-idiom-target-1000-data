@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜のほかに",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "synonyms": [
         "besides",
         "in addition to ~",
@@ -16,6 +18,8 @@
     },
     {
       "idiom-jp": "〜を除いては",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "except for ~",
         "aside from ~"

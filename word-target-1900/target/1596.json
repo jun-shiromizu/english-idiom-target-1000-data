@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "食用の，食べられる",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "My grandfather is good at picking out edible mushrooms in the forest.",
       "sentence-jp": "私の祖父は森で食用キノコを選び出すことが得意である。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を取り戻す",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "She fainted, but soon regained consciousness.",
       "sentence-jp": "彼女は失神したが，すぐに意識を取り戻した。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を保持する；を覚えている",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "My father has retained the same body strength since his twenties.",
       "sentence-jp": "私の父は20代のころから同じ体力を保持している。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "と述べる；（～について）意見を述べる（on / upon）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "My friend remarked that she was amazed by the fireworks.",
       "sentence-jp": "私の友人は花火に驚嘆したと言った。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "に有罪を宣告する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "There is not enough evidence to convict him.",
       "sentence-jp": "彼に有罪を宣告するに足る十分な証拠がない。"
     }

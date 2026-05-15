@@ -6,11 +6,15 @@
   "means": [
     {
       "idiom-jp": "(ファッション・考えなどが)人気が出る[流行する]",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "This detective story caught on probably because its ending is really surprising.",
       "sentence-jp": "この探偵小説はおそらく結末が本当に意外なので人気が出た。"
     },
     {
       "idiom-jp": "理解する、気づく",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "It took a minute before I caught on to what he meant by his joke.",
       "sentence-jp": "彼が冗談で言おうとしたことを理解するのにちょっと時間がかかった。"
     }

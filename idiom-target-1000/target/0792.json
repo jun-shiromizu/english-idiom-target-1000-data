@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "面目を失う",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "He thought he lost face by asking a silly question in public.",
       "sentence-jp": "彼は人前でばかな質問をして面目を失ったと思った。"
     }

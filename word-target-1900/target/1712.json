@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "くしゃみをする",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "He sneezed after breathing the cold wind when he opened the front door.",
       "sentence-jp": "彼は玄関を開けたとき，冷たい風を吸ってくしゃみをした。"
     }

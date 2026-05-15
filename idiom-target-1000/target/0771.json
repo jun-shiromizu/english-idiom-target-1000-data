@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "…という条件で、…ならば",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "He was allowed to participate in the meeting on the condition that he remain silent.",
       "sentence-jp": "彼は黙っているという条件で会議への参加を許可された。"
     }

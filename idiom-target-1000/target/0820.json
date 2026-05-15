@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "残念ながらそうではないようです。",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "“Do you think you’ll be finished with this by the early evening?” “No, I’m afraid not.”",
       "sentence-jp": "「あなたは夕方までにこれを終えてしまっていると思いますか」「いいえ、残念ながらそうは思いません」"
     }

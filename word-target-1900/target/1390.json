@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "静的な（⇔ dynamic ⇒ 1083）；動きのない",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "The shock you feel when touching the doorknob is discharged static electricity.",
       "sentence-jp": "ドアの取っ手を触ったときに感じるショックは放電した静電気である。"
     }

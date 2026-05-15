@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "をばかにする（≒ make fun of）；のまねをしてからかう",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "He felt bad when someone mocked his repeated mistakes.",
       "sentence-jp": "彼はだれかが自分の度重なる失敗をばかにしたとき，嫌な気分になった。"
     }

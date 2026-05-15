@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を魅了する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Picasso's paintings have long fascinated people in the world.",
       "sentence-jp": "ピカソの絵画は長い間世界中の人々を魅了してきた。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "動機",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Her motive for studying English is to watch American movies.",
       "sentence-jp": "彼女が英語を勉強する動機はアメリカ映画を見ることである。"
     }

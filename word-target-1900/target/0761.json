@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "警備員；警備隊；監視，警戒",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He learned how to work as a security guard.",
       "sentence-jp": "彼は警備員として働く方法を学んだ。"
     }

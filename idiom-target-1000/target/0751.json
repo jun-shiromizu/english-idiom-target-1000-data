@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "…しさえする",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "Some colleges have gone so far as to make studying abroad mandatory for graduation.",
       "sentence-jp": "卒業に当たって海外留学を必須にさえしている大学もある。"
     }

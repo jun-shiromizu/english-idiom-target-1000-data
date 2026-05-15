@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(夢・予言などが)実現する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "I know he’s made tremendous efforts to make his dream come true.",
       "sentence-jp": "私は彼が夢を実現させるためにものすごい努力をしてきたことを知っている。"
     }

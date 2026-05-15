@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "…するよりほかに仕方がない",
+      "partOfSpeech": "phrase",
+      "choiceType": "comparative-expression",
       "synonyms": [
         "There is nothing (else) for it but to do"
       ],

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜の資格がある",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Any customer who comes in the store today is eligible for the discount.",
       "sentence-jp": "本日ご来店のお客様はどなたでも割引される資格があります。"
     }

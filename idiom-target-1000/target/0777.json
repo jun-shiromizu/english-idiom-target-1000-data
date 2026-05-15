@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "先に行く；(ためらわず)進む",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "The manager told us to go ahead and make a reservation at the restaurant.",
       "sentence-jp": "部長は私たちに、先に行ってレストランの予約をするように言った。"
     }

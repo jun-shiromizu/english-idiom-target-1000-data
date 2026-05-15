@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "目立つ",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "She was conspicuous in wearing a red dress at the party last night.",
       "sentence-jp": "彼女は昨夜パーティーで赤いドレスを着ていて目立っていた。"
     }

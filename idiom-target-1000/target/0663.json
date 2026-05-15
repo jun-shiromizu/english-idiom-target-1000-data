@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "現在の〜",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "So many things have happened to him over the years that he is no longer what he used to be.",
       "sentence-jp": "非常に多くのことが長年にわたって彼に起きてきたので、彼はもはや以前の彼ではない。"
     }

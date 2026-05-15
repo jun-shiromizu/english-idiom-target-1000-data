@@ -1,16 +1,18 @@
-  {
-    "number": "0056",
-    "idioms": [
-      "succeed in ~"
-    ],
-    "means": [
-      {
-        "idiom-jp": "〜に成功する",
-        "example-sentence": "We appreciate your support; without it, we couldn't have succeeded in our new project.",
-        "sentence-jp": "私たちはあなたの支援に感謝しています。それがなければ、私たちは新プロジェクトを成功させられなかったでしょう。"
-      }
-    ],
-    "notes": [
-      "fail in 〜「〜に失敗する」；fail to do ...「…し損なう」"
-    ]
-  }
+{
+  "number": "0056",
+  "idioms": [
+    "succeed in ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜に成功する",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
+      "example-sentence": "We appreciate your support; without it, we couldn't have succeeded in our new project.",
+      "sentence-jp": "私たちはあなたの支援に感謝しています。それがなければ、私たちは新プロジェクトを成功させられなかったでしょう。"
+    }
+  ],
+  "notes": [
+    "fail in 〜「〜に失敗する」；fail to do ...「…し損なう」"
+  ]
+}

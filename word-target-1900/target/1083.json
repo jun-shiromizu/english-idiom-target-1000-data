@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "活動的な、精力的な；動的な（⇔static 静的な）",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "All the audience was touched by the dynamic performance of the actor.",
       "sentence-jp": "観客は皆その役者の精力的な演技に感動した。"
     }

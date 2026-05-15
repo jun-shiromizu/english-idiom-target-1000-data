@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "おおよその",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The kids guessed the approximate weight of the item on the table.",
       "sentence-jp": "子供たちは机の上にある物のおおよその重さを推測した。"
     }

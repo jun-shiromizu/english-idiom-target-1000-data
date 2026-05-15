@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "哺乳動物",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Most mammals including human beings can maintain their body temperature naturally.",
       "sentence-jp": "人間を含むたいていの哺乳動物は自然に体温を保つことができる。"
     }

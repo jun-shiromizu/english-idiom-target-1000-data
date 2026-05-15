@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を必要とする、〜を求める",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "require",
         "demand",
@@ -16,6 +18,8 @@
     },
     {
       "idiom-jp": "主に英 (人)を誘い[迎え]に行く；(物)を取りに行く",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "I should have called for you at eight as I’d promised, but I overslept.",
       "sentence-jp": "私は約束したとおり8時にあなたを迎えに行くべきだったが、寝過ごしてしまった。"
     }

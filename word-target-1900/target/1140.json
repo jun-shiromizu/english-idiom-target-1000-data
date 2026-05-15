@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（人・動物・植物）を育てる（≒ raise）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "This is a good place to rear young children.",
       "sentence-jp": "ここは幼い子供を育てるのによい所である。"
     }

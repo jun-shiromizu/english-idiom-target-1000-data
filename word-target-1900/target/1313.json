@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（を）ささやく",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "I whispered in her ear to keep silent.",
       "sentence-jp": "私は彼女の耳に黙っているようにささやいた。"
     }

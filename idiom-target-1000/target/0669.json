@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "B と A の関係がある",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "What you eat daily has a lot to do with your health in years to come.",
       "sentence-jp": "あなたが毎日食べるものはあなたの将来の健康と大いに関係がある。"
     }

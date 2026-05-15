@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を複製する；を繁殖させる；繁殖する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The museum reproduced some of its famous paintings on postcards for sale.",
       "sentence-jp": "その美術館は有名な絵画のいくつかを販売用のはがきに複製した。"
     }

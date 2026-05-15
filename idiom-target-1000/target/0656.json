@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "必ず、間違いなく",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "On Friday evenings, there is a ceremony which is held every week without fail.",
       "sentence-jp": "金曜日の夜に、毎週必ず開かれる儀式がある。"
     }

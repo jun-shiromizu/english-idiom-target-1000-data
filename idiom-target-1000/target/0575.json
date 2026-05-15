@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を知らない",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "He was completely ignorant of her good intention until the last moment.",
       "sentence-jp": "彼は最後の瞬間までまったく彼女の善意を知らなかった。"
     }

@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "ぜひとも",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "at any price"
       ],

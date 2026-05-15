@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を模擬実験する；を装う；をまねる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "They simulated an economic crisis that would arise in Japan.",
       "sentence-jp": "彼らは日本で起こるであろう経済危機をシミュレーションした。"
     }

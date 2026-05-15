@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "天文学",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The professor became famous for his discoveries in astronomy.",
       "sentence-jp": "その教授は天文学上の発見で有名になった。"
     }

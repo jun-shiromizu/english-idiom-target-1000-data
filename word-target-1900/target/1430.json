@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を（～に）変装させる（as）；を偽る",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "She disguised herself as a man, so nobody could recognize her.",
       "sentence-jp": "彼女は男性に変装したので，だれも彼女だと気づかなかった。"
     }

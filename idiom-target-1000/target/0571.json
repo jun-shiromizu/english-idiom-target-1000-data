@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "(困難・問題など)に直面している",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "be faced with ~"
       ],

@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "〜と一致する；〜に従う[合わせる]",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "example-sentence": "Today, fewer and fewer families conform to the one-income model we used to have.",
       "sentence-jp": "今日は、以前私たちが有していた単一収入モデルに一致する家族はますます減りつつある。"
     }

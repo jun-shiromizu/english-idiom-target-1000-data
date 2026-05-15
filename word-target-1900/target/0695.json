@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "無作為の；手当たり次第の",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The research team collects their samples using random selection.",
       "sentence-jp": "その研究チームは無作為抽出を使ってサンプルを集める。"
     }

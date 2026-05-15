@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜の通過後[跡]に；〜の結果として",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "example-sentence": "There was heavy damage in this area in the wake of the typhoon.",
       "sentence-jp": "台風が通った後にこの地域ではひどい被害があった。"
     }

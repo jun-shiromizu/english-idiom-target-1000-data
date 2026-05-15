@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "おそらく, たぶん",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "without (a) doubt",
         "undoubtedly"

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "対話，会話；意見の交換",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The dialogue between two characters in the play was very funny.",
       "sentence-jp": "その劇の中での2人の登場人物の会話はとてもおかしかった。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "重要な",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "It is crucial that you are very careful when checking documents.",
       "sentence-jp": "書類を確認する際は非常に注意することが重要である。"
     }

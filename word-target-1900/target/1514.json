@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "に住む，の住民である；に人を住まわせる",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Some scholars think the Ainu populated Hokkaido by the 13 th century.",
       "sentence-jp": "アイヌ民族は13世紀までには北海道に住みついたと考える学者もいる。"
     }

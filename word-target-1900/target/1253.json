@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（牛などの）群れ；群衆",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "A large herd of elephants have moved into the fields.",
       "sentence-jp": "ゾウの大きな群れが野原に移動した。"
     }

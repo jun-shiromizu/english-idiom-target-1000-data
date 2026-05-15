@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "信じられない；すばらしい",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "It is incredible that he refused the bank's financial support.",
       "sentence-jp": "彼が銀行からの資金援助を断ったとは信じられない。"
     }

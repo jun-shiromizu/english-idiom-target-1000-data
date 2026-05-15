@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "から（～を）取り除く，除去する（of）",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "The dentist got rid of the pain in my tooth.",
       "sentence-jp": "歯科医が私の歯の痛みを取り除いた。"
     }

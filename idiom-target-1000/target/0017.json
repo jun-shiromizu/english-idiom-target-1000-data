@@ -1,16 +1,18 @@
-  {
-    "number": "0017",
-    "idioms": [
-      "be afraid of ~"
-    ],
-    "means": [
-      {
-        "idiom-jp": "〜を恐れる[怖がる]；〜を心配している",
-        "example-sentence": "Don't be afraid of making mistakes when you are learning a second language.",
-        "sentence-jp": "第2言語を学習しているときは間違えることを恐れるな。"
-      }
-    ],
-    "notes": [
-      "be afraid to do「怖くて…することができない」と同じ意味で使われることもある。"
-    ]
-  }
+{
+  "number": "0017",
+  "idioms": [
+    "be afraid of ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜を恐れる[怖がる]；〜を心配している",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
+      "example-sentence": "Don't be afraid of making mistakes when you are learning a second language.",
+      "sentence-jp": "第2言語を学習しているときは間違えることを恐れるな。"
+    }
+  ],
+  "notes": [
+    "be afraid to do「怖くて…することができない」と同じ意味で使われることもある。"
+  ]
+}

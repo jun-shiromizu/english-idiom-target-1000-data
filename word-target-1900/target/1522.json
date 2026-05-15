@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を安心させる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "My mother reassured me that everything should go well.",
       "sentence-jp": "私の母は万事うまくいくと私を安心させた。"
     }

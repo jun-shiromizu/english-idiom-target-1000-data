@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "さまざまな；いくつかの",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "There are various ways to achieve your goals.",
       "sentence-jp": "あなたの目標を達成するさまざまな方法がある。"
     }

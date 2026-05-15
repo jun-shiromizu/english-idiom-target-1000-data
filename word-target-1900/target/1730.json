@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を損なう",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Frequent use of smartphones may impair normal brain function.",
       "sentence-jp": "スマートフォンの頻繁な使用は正常な脳の働きを損なうかもしれない。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "妊娠した；（～で）満ちている（with）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Pregnant women are advised not to take any medicine.",
       "sentence-jp": "妊娠している女性はいかなる薬も服用しないように勧められる。"
     }

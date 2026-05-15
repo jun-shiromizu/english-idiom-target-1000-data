@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "自殺；自殺的行為",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The old man attempted suicide because of his debts.",
       "sentence-jp": "その老人は自分の借金のせいで自殺を図った。"
     }

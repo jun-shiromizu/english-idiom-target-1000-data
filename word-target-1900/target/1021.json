@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "をだます；不正をする",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The salesperson cheated his customers out of their money.",
       "sentence-jp": "その販売員は顧客から金をだまし取った。"
     }

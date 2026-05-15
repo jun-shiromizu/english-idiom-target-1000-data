@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を悩ます；（～を）気にかける（about / with）",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The high humidity in this country sometimes bothers foreign visitors.",
       "sentence-jp": "この国の高い湿度は外国人観光客を悩ませることがある。"
     }

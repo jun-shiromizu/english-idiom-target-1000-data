@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "屈服する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "synonyms": [
         "surrender (to ~)",
         "yield (to ~)",
@@ -16,6 +18,8 @@
     },
     {
       "idiom-jp": "(宅に要〜を)提出する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "synonyms": [
         "hand in ~",
         "hand over ~",

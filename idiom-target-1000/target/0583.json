@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "B のことで(A に)感謝している",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "be appreciative of B",
         "be (greatly) indebted (to A) for B"

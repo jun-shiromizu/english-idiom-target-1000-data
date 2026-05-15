@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "A(恩・義務など)を B に負っている；A(金)を B に借りている",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "This research owes much to the thoughtful comments from my colleagues at work.",
       "sentence-jp": "この研究は多くを職場の同僚からの思慮深い意見に負っている。"
     }

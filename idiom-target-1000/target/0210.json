@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "それでもやはり",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "nevertheless"
       ],

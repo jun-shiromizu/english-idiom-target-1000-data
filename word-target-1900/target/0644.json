@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "出来事，事件；紛争",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Many strange incidents have happened to me recently.",
       "sentence-jp": "最近私に多くの奇妙な出来事が起こっている。"
     }

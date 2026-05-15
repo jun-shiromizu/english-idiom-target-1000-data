@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を常食[餌]にする",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "example-sentence": "The animals that feed on plants have teeth with flattened ends.",
       "sentence-jp": "植物を餌にする動物は先端が平らな歯を持つ。"
     }

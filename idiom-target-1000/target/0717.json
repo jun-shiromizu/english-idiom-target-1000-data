@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜であればあるほど、いっそう…",
+      "partOfSpeech": "phrase",
+      "choiceType": "comparative-expression",
       "example-sentence": "Generally speaking, the longer you practice, the better you’ll get at anything.",
       "sentence-jp": "一般的に、何でも長く練習すればするほど、いっそう上手になる。"
     }

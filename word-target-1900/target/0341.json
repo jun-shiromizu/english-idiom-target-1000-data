@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（到達・攻撃）目標；的",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "I have set myself a target of walking 10, 000 steps a day.",
       "sentence-jp": "私は1日に1万歩歩くという目標を自分に課した。"
     }

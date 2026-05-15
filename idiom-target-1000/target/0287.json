@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "A を B と区別する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "synonyms": [
         "distinguish between A and B",
         "tell [see] the difference between A and B"

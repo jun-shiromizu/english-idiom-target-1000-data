@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を避ける",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Some teenagers shun their parents in front of their friends.",
       "sentence-jp": "ティーンエージャーの中には友人の前では自分の親を避ける者もいる。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（の）ふりをする",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "She closed her eyes and pretended to be asleep.",
       "sentence-jp": "彼女は目を閉じて眠っているふりをした。"
     }

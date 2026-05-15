@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を拒否する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "She rejected the job offer due to its low pay.",
       "sentence-jp": "彼女は低い賃金のためにその仕事の申し出を拒否した。"
     }

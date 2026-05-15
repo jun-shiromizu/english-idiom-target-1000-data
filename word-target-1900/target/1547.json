@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "社会学",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "She wants to major in sociology at college.",
       "sentence-jp": "彼女は大学で社会学を専攻したいと思っている。"
     }

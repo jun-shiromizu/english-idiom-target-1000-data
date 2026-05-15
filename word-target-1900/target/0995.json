@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（攻撃などに）弱い，もろい；傷つきやすい",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "Some power plants are vulnerable to hacking.",
       "sentence-jp": "コンピューターへの不法侵入に弱い発電所もある。"
     }

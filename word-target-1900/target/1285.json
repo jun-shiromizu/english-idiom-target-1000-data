@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "透明な；明快な",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "He fixed the split document with transparent tape.",
       "sentence-jp": "彼は透明なテープで裂けた書類を修復した。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "動き，動作；運動；動議",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Exercise may improve your body's range of motion.",
       "sentence-jp": "運動は身体の可動域を改善し得る。"
     }

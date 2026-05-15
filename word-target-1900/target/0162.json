@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "方法；体系；秩序",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Some methods of dieting face a lot of criticism.",
       "sentence-jp": "いくつかのダイエット法は多くの批判に直面している。"
     }

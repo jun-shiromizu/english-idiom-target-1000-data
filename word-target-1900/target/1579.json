@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "合法的な；妥当な",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "He has three offshore companies for legitimate tax avoidance purposes.",
       "sentence-jp": "彼は合法的な租税回避の目的で海外の会社を3つ持っている。"
     }

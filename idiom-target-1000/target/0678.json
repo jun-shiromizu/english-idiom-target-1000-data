@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(人)が…しているところを見つける[捕らえる]",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "in the act of doing"
       ],

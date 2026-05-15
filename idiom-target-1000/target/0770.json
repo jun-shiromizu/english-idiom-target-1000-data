@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "もしあるとしても；もしあれば",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "I’m sure few, if any, team members doubted the truthfulness of the captain’s explanation.",
       "sentence-jp": "キャプテンの説明の誠実さを疑ったチームのメンバーは、もしいてもごく少数だと確信している。"
     }

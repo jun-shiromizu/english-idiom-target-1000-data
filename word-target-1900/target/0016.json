@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "傾向がある；を世話する",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "My town tends to get windy.",
       "sentence-jp": "私の町は風がよく吹く傾向がある。"
     }

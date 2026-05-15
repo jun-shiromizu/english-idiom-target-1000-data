@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "うわさ",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "I heard a rumor that he is living in Boston now.",
       "sentence-jp": "私は彼が今ボストンに住んでいるといううわさを聞いた。"
     }

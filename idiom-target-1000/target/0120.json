@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "それにもかかわらず",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "nevertheless"
       ],

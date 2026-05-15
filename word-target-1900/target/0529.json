@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "急いで行く；性急に行動する；をせき立てる",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The ambulance rushed to the scene of the accident to help the man.",
       "sentence-jp": "救急車はその男性を助けるために事故現場に急行した。"
     }

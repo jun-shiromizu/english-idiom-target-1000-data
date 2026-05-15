@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "ひびが入る；にひびを入れる",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The glass door cracked when the man bumped into it.",
       "sentence-jp": "そのガラスのドアは男がそれにぶつかったときにひびが入った。"
     }

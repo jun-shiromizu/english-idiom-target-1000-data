@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "どんなに[何が・いつなど]…でも",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "however",
         "whatever",

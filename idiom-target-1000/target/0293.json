@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜の世話をする",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "synonyms": [
         "take care of ~"
       ],
@@ -14,6 +16,8 @@
     },
     {
       "idiom-jp": "(否定文・疑問文・条件文で)〜を好む ; 〜を望む",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Because Mary doesn't care for bright colors, she always wears dark-colored clothes.",
       "sentence-jp": "メアリーは明るい色が好きではないので, いつも暗い色の服を着ている。"
     }

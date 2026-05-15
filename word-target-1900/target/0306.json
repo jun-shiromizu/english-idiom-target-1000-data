@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "さまざまである；変わる；を変える",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Communication styles vary from culture to culture.",
       "sentence-jp": "コミュニケーションの方法は文化によりさまざまである。"
     }

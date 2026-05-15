@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "方言",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The man learned a new regional dialect after moving into the countryside.",
       "sentence-jp": "その男性は地方に引っ越した後，新しい地域方言を学んだ。"
     }

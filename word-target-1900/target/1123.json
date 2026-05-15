@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "消える（≒ disappear）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "During the show, the magician vanished from sight on the stage.",
       "sentence-jp": "ショーの途中，手品師は舞台上で視界から消えた。"
     }

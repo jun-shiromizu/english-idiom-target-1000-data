@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜に気をつける；〜の世話をする",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "care for ~",
         "look after ~",

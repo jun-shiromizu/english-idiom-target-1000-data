@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "〜に懸命[熱心]である",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "be keen on ~"
       ],

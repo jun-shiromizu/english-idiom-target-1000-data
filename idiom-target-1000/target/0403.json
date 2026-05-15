@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を却下[拒絶]する",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "synonyms": [
         "reject",
         "refuse"
@@ -15,6 +17,8 @@
     },
     {
       "idiom-jp": "(音量・火力など)を小さくする",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "Mayu turned her car radio down so she could hear the announcement better.",
       "sentence-jp": "マユはアナウンスがよく聞こえるようにカーラジオの音を小さくした。"
     }

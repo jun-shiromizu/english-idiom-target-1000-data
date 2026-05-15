@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "間違って",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "The other day I took someone's umbrella by mistake since it looked very similar to mine.",
       "sentence-jp": "先日, 誰かの傘を間違って持っていってしまった。というのもそれは私のとよく似ていたからだ。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "絶望",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "She quit her job and left in despair.",
       "sentence-jp": "彼女は絶望して，仕事を辞め去っていった。"
     }

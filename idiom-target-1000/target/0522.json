@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "交代でする",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "My mother and I took turns looking after my father when he was in hospital.",
       "sentence-jp": "母と私は、父が入院中、父の世話を交代でした。"
     }

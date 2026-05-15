@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を失望させる；（希望など）をくじく",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "They were disappointed with the poor service of the restaurant.",
       "sentence-jp": "彼らはそのレストランのお粗末なサービスに失望した。"
     }

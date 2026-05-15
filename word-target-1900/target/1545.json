@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "搾取工場",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Workers in sweatshops earn less than the minimum wage set by law.",
       "sentence-jp": "搾取工場の労働者は法律に定められた最低賃金より稼ぎが少ない。"
     }

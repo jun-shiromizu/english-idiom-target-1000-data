@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "反応する；答える",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "Babies quickly respond to any sound similar to their mother's heartbeat.",
       "sentence-jp": "赤ん坊は母親の心臓の鼓動に似たどんな音にもすぐに反応する。"
     }

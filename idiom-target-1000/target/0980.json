@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(口語で)やがては、将来は",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "in time",
         "in the future",

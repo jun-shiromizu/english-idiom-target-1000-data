@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（注意など）をそらす；を迂回させる；（資金など）を転用する",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "His speech was intended to divert attention from the current problems.",
       "sentence-jp": "彼の演説は，今起きている問題から注意をそらすように意図されていた。"
     }

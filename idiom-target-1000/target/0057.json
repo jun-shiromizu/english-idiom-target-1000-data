@@ -1,16 +1,18 @@
-  {
-    "number": "0057",
-    "idioms": [
-      "major in ~"
-    ],
-    "means": [
-      {
-        "idiom-jp": "主に米（大学生が）〜を専攻する",
-        "example-sentence": "Zuri is an exchange student from Kenya who majors in Japanese Studies.",
-        "sentence-jp": "ズリは日本学を専攻するケニアからの交換留学生だ。"
-      }
-    ],
-    "notes": [
-      "英では specialize in 〜 や study を用いる。大学院や上級研究所の場合は、specialize in 〜。"
-    ]
-  }
+{
+  "number": "0057",
+  "idioms": [
+    "major in ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "主に米（大学生が）〜を専攻する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
+      "example-sentence": "Zuri is an exchange student from Kenya who majors in Japanese Studies.",
+      "sentence-jp": "ズリは日本学を専攻するケニアからの交換留学生だ。"
+    }
+  ],
+  "notes": [
+    "英では specialize in 〜 や study を用いる。大学院や上級研究所の場合は、specialize in 〜。"
+  ]
+}

@@ -1,16 +1,18 @@
-  {
-    "number": "0025",
-    "idioms": [
-      "be married (to ~)"
-    ],
-    "means": [
-      {
-        "idiom-jp": "（〜と）結婚している",
-        "example-sentence": "Yui is married to Hiroki, a dentist.",
-        "sentence-jp": "ユイは歯科医師のヒロキと結婚している。"
-      }
-    ],
-    "notes": [
-      "「A は B と結婚した」は A married B、または A got [was] married to B. という。"
-    ]
-  }
+{
+  "number": "0025",
+  "idioms": [
+    "be married (to ~)"
+  ],
+  "means": [
+    {
+      "idiom-jp": "（〜と）結婚している",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
+      "example-sentence": "Yui is married to Hiroki, a dentist.",
+      "sentence-jp": "ユイは歯科医師のヒロキと結婚している。"
+    }
+  ],
+  "notes": [
+    "「A は B と結婚した」は A married B、または A got [was] married to B. という。"
+  ]
+}

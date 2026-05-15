@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（外科）手術；外科，外科医学",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "One's eyesight might be improved with laser surgery.",
       "sentence-jp": "レーザー手術により視力が改善されることもある。"
     }

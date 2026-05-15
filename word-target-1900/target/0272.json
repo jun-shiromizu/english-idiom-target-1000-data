@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〔通例～s〕結果；重大性",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The man often gets worried about the consequences of his actions.",
       "sentence-jp": "その男性は自分の行動の結果についてよく心配している。"
     }

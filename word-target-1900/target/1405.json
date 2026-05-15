@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を引き起こす；を説得する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The medicine may induce sleep, so don't take it before driving.",
       "sentence-jp": "その薬は眠気を引き起こすこともあるので，運転する前には飲まないように。"
     }

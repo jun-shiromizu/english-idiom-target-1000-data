@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を避ける",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "She somehow avoided getting involved in the quarrel.",
       "sentence-jp": "彼女はどうにかその口論に巻き込まれるのを避けた。"
     }

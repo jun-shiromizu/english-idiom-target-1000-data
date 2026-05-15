@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を汚す；に着色する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "I stained my sweater with spilled tomato juice.",
       "sentence-jp": "私はトマトジュースをこぼしてセーターを汚した。"
     }

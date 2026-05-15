@@ -6,11 +6,15 @@
   "means": [
     {
       "idiom-jp": "現れる ; 起こる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Bob has not come to the party yet, but he will turn up eventually.",
       "sentence-jp": "ボブはまだパーティーに来ていないが, 最終的には現れるだろう。"
     },
     {
       "idiom-jp": "(ガス・音量など)を大きくする ; 〜を探し出す",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "My kid brother asked me to show him how to turn up the volume on his smartphone.",
       "sentence-jp": "弟はスマートフォンの音量を大きくする方法を教えてくれと私に頼んできた。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "に賛成する；を好む；をひいきする",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "More than half of the residents favor the plan to rebuild their apartment.",
       "sentence-jp": "住民の半数以上が彼らのアパートを改築する計画に賛成している。"
     }

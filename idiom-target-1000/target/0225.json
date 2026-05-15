@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(提案・計画・条件など)に同意する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "synonyms": [
         "consent to ~"
       ],

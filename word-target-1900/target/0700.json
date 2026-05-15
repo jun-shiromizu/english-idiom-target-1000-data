@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "前へ，先へ；それ以降",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "When you read, your eyes move back and forth across a sentence.",
       "sentence-jp": "本を読むとき，目はセンテンスの上を前後に動く。"
     }

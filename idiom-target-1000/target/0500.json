@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "A を B と交換する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "Everyone wants money because you can exchange money for whatever you want or need.",
       "sentence-jp": "誰もがお金を欲しいものや必要なもの何とでも交換することができるので、お金を欲しがっている。"
     }

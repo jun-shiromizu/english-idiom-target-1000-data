@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を(子孫[後世]に)伝える",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "pass down ~",
         "pass on ~"

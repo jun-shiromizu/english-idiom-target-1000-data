@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "ますます〜、それだけいっそう〜",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "that much + 比較級"
       ],

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を廃止する（≒ do away with）",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "We should abolish the outdated practice as it is no longer useful.",
       "sentence-jp": "もはや役に立たないので，その時代遅れの慣例を廃止するべきである。"
     }

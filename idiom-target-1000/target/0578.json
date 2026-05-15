@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜について有罪である、〜を犯している",
+      "partOfSpeech": "preposition",
+      "choiceType": "prepositional-phrase",
       "example-sentence": "The evidence was not enough to prove that the suspect was guilty of the crime.",
       "sentence-jp": "その証拠は容疑者がその犯罪について有罪であると証明するには十分ではなかった。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "機能；関数",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Voice recognition is one of the most useful functions of smartphones.",
       "sentence-jp": "音声認識はスマートフォンの最も便利な機能の1つである。"
     }

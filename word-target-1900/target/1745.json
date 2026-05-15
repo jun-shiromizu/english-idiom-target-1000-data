@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "良心；分別",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "It goes against my conscience to accept dishonest money.",
       "sentence-jp": "不正な金を受け取ることは私の良心に反する。"
     }

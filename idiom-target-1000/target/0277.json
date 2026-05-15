@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "ある距離を置いて",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "The couple sat down on a lawn at a distance from each other.",
       "sentence-jp": "そのカップルは互いに距離を置いて芝生に座った。"
     }

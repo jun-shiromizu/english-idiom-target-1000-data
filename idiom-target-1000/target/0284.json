@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "A を B だと(誤って)思う[間違える]",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Those who saw us in the woods may have taken us for ghosts or something.",
       "sentence-jp": "森で私たちを見た人々は, 私たちのことを幽霊か何かだと思ったかもしれない。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "全体の，全部の（≒ whole）；完全な",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He devoted his entire life to helping people in need.",
       "sentence-jp": "彼は困っている人々を助けるために全人生をささげた。"
     }

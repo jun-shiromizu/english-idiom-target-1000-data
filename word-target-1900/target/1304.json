@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "に強いる",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The athlete's injury compelled him to quit professional sports.",
       "sentence-jp": "その運動選手のけがは彼にプロスポーツをやめることを強いた。"
     }

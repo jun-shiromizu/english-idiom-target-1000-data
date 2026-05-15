@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(結果などは)未定である",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "It remains to be seen whether our efforts to stop climate change are really sufficient.",
       "sentence-jp": "気候変動を阻止するための我々の努力が本当に十分かどうかはまだわからない。"
     }

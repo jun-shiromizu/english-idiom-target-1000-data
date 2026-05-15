@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を購入する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "You can purchase airline tickets online.",
       "sentence-jp": "オンラインで航空券を購入することができる。"
     }

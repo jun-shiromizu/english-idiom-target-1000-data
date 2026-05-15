@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "〜がない",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "Needless to say, water good to drink must be clean and free of harmful substances.",
       "sentence-jp": "言うまでもなく, 飲料に適した水はきれいで有害物質を含まないものでなければならない。"
     }

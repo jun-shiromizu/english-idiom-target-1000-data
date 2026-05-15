@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を挿入する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "He inserted an IC card into the ticket machine.",
       "sentence-jp": "彼は券売機にICカードを挿入した。"
     }

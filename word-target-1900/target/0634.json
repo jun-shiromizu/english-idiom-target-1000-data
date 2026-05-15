@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（を）輸出する（⇔ import を輸入する）",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "Japan mainly exports cars and electronic components to the world.",
       "sentence-jp": "日本は主に自動車と電子部品を世界に輸出している。"
     }

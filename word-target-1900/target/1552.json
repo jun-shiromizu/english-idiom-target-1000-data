@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "アルゴリズム；問題解決の手順",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Computers are getting faster at processing algorithms these days.",
       "sentence-jp": "最近，コンピューターはアルゴリズムの処理がより速くなりつつある。"
     }

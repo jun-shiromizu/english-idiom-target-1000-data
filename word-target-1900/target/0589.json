@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "安定した（⇔ unstable 不安定な）；動じない",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Fair-trade helps workers in coffee farms live more stable lives.",
       "sentence-jp": "フェアトレードはコーヒー農園の労働者がより安定した生活を送るのを助ける。"
     }

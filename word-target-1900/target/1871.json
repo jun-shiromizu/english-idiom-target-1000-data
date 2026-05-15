@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "強欲",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He has caused trouble by his greed for money.",
       "sentence-jp": "彼は自分の金銭欲によってもめ事を起こしてきた。"
     }

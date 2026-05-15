@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "に耐える",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Most modern architecture withstands natural disasters well.",
       "sentence-jp": "たいていの現代建築は自然災害によく耐える。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を寄付する；（臓器・血液）を提供する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "People from many countries donate money to UNICEF.",
       "sentence-jp": "多くの国の人がユニセフにお金を寄付する。"
     }

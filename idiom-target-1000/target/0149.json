@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "一般に",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "synonyms": [
         "as a (general) rule",
         "generally"
@@ -15,6 +17,8 @@
     },
     {
       "idiom-jp": "(名詞の後に置いて) 一般の",
+      "partOfSpeech": "phrase",
+      "choiceType": "quantity-expression",
       "synonyms": [
         "at large"
       ],

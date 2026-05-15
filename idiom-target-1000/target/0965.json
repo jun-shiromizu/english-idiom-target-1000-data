@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜から歩いて行けるところに",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "example-sentence": "Do you know if there is a post office within walking distance of the station?",
       "sentence-jp": "駅から歩いて行けるところに郵便局があるかご存じですか。"
     }

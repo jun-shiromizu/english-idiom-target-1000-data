@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を理解する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "She could not comprehend what he was saying.",
       "sentence-jp": "彼女は彼の言っていることを理解することができなかった。"
     }

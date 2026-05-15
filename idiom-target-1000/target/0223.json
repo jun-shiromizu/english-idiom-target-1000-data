@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "何度も繰り返し",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "repeatedly"
       ],

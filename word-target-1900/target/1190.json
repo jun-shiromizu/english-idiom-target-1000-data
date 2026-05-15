@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〔通例A～〕アボリジニの；原生の，先住の",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Aboriginal art varies across the regions of Australia.",
       "sentence-jp": "アボリジニの芸術はオーストラリア国内の地域によりさまざまである。"
     }

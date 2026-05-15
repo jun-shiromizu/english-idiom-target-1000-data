@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "構成要素；部品",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Carbon is an essential component of all living cells.",
       "sentence-jp": "炭素はすべての生細胞に不可欠な構成要素である。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "語彙",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "People with a large vocabulary may experience more success in the workplace.",
       "sentence-jp": "語彙の豊富な人は職場でより大きな成功を収めるかもしれない。"
     }

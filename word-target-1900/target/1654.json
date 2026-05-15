@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "迷信",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "It is not worth believing such a childish superstition.",
       "sentence-jp": "そのような子供じみた迷信を信じる価値はない。"
     }

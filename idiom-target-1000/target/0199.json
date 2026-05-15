@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を始める",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "begin",
         "start"

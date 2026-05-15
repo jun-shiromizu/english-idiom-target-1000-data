@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "目的，目標；狙い",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The aim of the meeting is to make a budget for next year.",
       "sentence-jp": "その会合の目的は翌年の予算を立てることである。"
     }

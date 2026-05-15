@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(物・言葉など)を差し入れる[加える]；(設備など)を取り付ける",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "install"
       ],
@@ -14,6 +16,8 @@
     },
     {
       "idiom-jp": "(労力・時間・金など)を注ぎ込む[投入する]",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "devote",
         "invest"

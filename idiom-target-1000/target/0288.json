@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "A を B と区別する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "The boy is ten, so he should be old enough to tell right from wrong.",
       "sentence-jp": "その少年は10歳だから, 正しいことと間違ったことを区別してもいい歳だ。"
     }

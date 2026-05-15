@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "(あえて)危険を冒す；賭ける",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "take a chance [chances]"
       ],

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "A に B を供給する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "synonyms": [
         "supply A with B",
         "present A with B",

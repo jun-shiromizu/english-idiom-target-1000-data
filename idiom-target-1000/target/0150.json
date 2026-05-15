@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "言い換えれば, つまり",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "namely",
         "that is (to say)",

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "意識して，気づいて（≒ aware）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "They say that more women than men are conscious of their health.",
       "sentence-jp": "自分の健康を意識している女性は男性より多いと言われている。"
     }

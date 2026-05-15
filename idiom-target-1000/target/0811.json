@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(口語で)〜があればありがたい、〜が欲しい",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "synonyms": [
         "could do with ~"
       ],

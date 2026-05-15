@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "いとわない，かまわないと思う",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "My friend was willing to help me move into a new apartment.",
       "sentence-jp": "私の友人は私が新しいアパートに引っ越すのを手伝うことをいとわなかった。"
     }

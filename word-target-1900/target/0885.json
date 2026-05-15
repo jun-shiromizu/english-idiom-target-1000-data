@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "北極の（⇔ Antarctic 南極の）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Arctic ice may disappear in the future due to global warming.",
       "sentence-jp": "北極の氷は地球温暖化のせいで将来消滅するかもしれない。"
     }

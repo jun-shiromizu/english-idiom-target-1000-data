@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜に反している",
+      "partOfSpeech": "preposition",
+      "choiceType": "prepositional-phrase",
       "example-sentence": "Contrary to what most people think, the bicycle was actually invented after the train.",
       "sentence-jp": "たいていの人が思っていることと反して、実際には自転車は汽車より後に発明された。"
     }

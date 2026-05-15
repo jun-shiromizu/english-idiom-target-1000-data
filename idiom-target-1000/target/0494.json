@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "A に B をさせない、A を B から守る",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "prevent A from B"
       ],

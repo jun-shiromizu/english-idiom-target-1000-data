@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（人の）使い，使い走り；用件",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He had to run an errand for his mother.",
       "sentence-jp": "彼は母親のためにお使いに行かなければならなかった。"
     }

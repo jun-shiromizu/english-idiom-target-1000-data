@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を認める[告白する]",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "confess"
       ],

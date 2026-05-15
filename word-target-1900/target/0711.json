@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を制限する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The Netherlands restricted the use of drugs on farm animals.",
       "sentence-jp": "オランダは家畜に対する薬品の使用を制限した。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を歪める；歪む",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "He negatively distorted his friend's message by mistake.",
       "sentence-jp": "彼は誤って友人の伝言を否定的に歪めた。"
     }

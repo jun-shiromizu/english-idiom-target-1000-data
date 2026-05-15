@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（目に）見える（⇔ invisible 見えない）；明白な",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The shampoo had a clearly visible effect on her hair.",
       "sentence-jp": "そのシャンプーは彼女の髪の毛にはっきりと目に見える効果があった。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "計画；事業；研究計画",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The mayor set up a project to clean up the city.",
       "sentence-jp": "市長はその市を美化する計画を立てた。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を引っかく；を取り消す，削除する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The cat scratched me on the arm.",
       "sentence-jp": "その猫は私の腕を引っかいた。"
     }

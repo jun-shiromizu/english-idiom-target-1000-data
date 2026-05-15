@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "普通は ; 概して",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "generally",
         "usually",

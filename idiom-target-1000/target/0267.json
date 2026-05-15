@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "今はもう, 今ごろは",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "It's a little past ten; the guests should have arrived by now, shouldn't they?",
       "sentence-jp": "10時少し過ぎです。お客さまは今はもう到着しているはずですよね。"
     }

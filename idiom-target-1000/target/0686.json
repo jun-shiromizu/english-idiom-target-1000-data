@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "(〜するよりも)むしろ…したい",
+      "partOfSpeech": "phrase",
+      "choiceType": "comparative-expression",
       "example-sentence": "Twenty years on, John says he would rather eat Japanese food than any other kind.",
       "sentence-jp": "あれから20年たって、ジョンはほかのどんなものよりもむしろ日本食を食べたいと言っている。"
     }

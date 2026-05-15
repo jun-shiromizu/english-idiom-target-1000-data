@@ -6,11 +6,15 @@
   "means": [
     {
       "idiom-jp": "(習慣的に)〜を始める；〜にふける",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Tom took to running long distances in an attempt to lose some weight.",
       "sentence-jp": "トムは体重を落とそうと長距離のランニングを始めた。"
     },
     {
       "idiom-jp": "〜を好きになる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "hit it off with ~"
       ],

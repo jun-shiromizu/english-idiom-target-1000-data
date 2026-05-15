@@ -1,17 +1,19 @@
-  {
-    "number": "0070",
-    "idioms": [
-      "carry out ~"
-    ],
-    "means": [
-      {
-        "idiom-jp": "〜を実行する",
-        "example-sentence": "The biologist has been carrying out long-term research into the behavior of belugas.",
-        "sentence-jp": "その生物学者はベルーガの生態について長期的調査を行ってきた。"
-      }
-    ],
-    "notes": [
-      "carry 〜 out の語順も可。",
-      "beluga [bəlúːgə]「ベルーガ(大型のチョウザメ)」"
-    ]
-  }
+{
+  "number": "0070",
+  "idioms": [
+    "carry out ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜を実行する",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
+      "example-sentence": "The biologist has been carrying out long-term research into the behavior of belugas.",
+      "sentence-jp": "その生物学者はベルーガの生態について長期的調査を行ってきた。"
+    }
+  ],
+  "notes": [
+    "carry 〜 out の語順も可。",
+    "beluga [bəlúːgə]「ベルーガ(大型のチョウザメ)」"
+  ]
+}

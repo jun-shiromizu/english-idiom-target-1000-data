@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "聖職者",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He became a Christian priest and a professor at Cambridge University.",
       "sentence-jp": "彼はキリスト教の聖職者になり，ケンブリッジ大学の教授になった。"
     }

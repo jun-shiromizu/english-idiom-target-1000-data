@@ -1,19 +1,21 @@
-  {
-    "number": "0060",
-    "idioms": [
-      "bring about ~"
-    ],
-    "means": [
-      {
-        "idiom-jp": "〜を引き起こす",
-        "synonyms": [
-          "cause"
-        ],
-        "example-sentence": "Climate change has brought about rainfall shortages even in areas which used to be wet.",
-        "sentence-jp": "気候変動は以前に雨の多かった地域においてさえ降雨不足を引き起こしている。"
-      }
-    ],
-    "notes": [
-      "bring 〜 about の語順も可。"
-    ]
-  }
+{
+  "number": "0060",
+  "idioms": [
+    "bring about ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜を引き起こす",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
+      "synonyms": [
+        "cause"
+      ],
+      "example-sentence": "Climate change has brought about rainfall shortages even in areas which used to be wet.",
+      "sentence-jp": "気候変動は以前に雨の多かった地域においてさえ降雨不足を引き起こしている。"
+    }
+  ],
+  "notes": [
+    "bring 〜 about の語順も可。"
+  ]
+}

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を創り出す；を引き起こす",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Technological change will create new ways of living.",
       "sentence-jp": "技術の変化は新たな生活様式を創り出す。"
     }

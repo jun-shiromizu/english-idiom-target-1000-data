@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（破壊された後の）残骸，瓦礫；がらくた",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "They are cleaning up the debris of the collapsed building.",
       "sentence-jp": "彼らは倒壊したビルの残骸を片づけている。"
     }

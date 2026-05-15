@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を汚染する；を堕落させる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The oil spill from the ship contaminated the sea.",
       "sentence-jp": "船からの石油流出が海を汚染した。"
     }

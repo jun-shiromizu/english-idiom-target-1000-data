@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "最近、近ごろ",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "lately",
         "recently"

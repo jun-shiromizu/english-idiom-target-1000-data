@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "頻繁な",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "Human brains seem to be changing due to frequent use of the Internet.",
       "sentence-jp": "人間の脳はインターネットの頻繁な使用のせいで変化しているように思える。"
     }

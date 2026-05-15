@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（～の）部分，斑点；継ぎ；貼り薬",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Giant pandas have black patches around their eyes.",
       "sentence-jp": "ジャイアントパンダには目の周りに黒い部分がある。"
     }

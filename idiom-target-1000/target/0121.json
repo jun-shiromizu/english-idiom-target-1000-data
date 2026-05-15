@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "できる限り〜",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "as best one can",
         "to the best of one's ability"

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "当分の間(は)、差し当たり",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "for now",
         "for the moment"

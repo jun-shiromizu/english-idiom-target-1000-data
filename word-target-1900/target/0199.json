@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "必要な（≒ essential ⇒ 186）",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "It is necessary to review English words regularly to remember them.",
       "sentence-jp": "英単語を覚えるためには定期的に復習することが必要である。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を持つ［する］余裕がある；を与える",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "I cannot afford to buy luxurious goods.",
       "sentence-jp": "私はぜいたく品を買う余裕がない。"
     }

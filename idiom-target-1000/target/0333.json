@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "ある意味では、ある点で",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "example-sentence": "You keep advising him every step of the way, so in a way, you’re kind of planning his life.",
       "sentence-jp": "あなたは彼にあらゆる局面で助言を与え続けているから、ある意味では彼の人生を設計しているようなものだ。"
     }

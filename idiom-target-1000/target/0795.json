@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "その日の仕事を終える",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "call it quits"
       ],

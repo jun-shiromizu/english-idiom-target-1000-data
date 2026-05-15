@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を押しつける；を突き刺す；押し進む",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "He thrust the documents into his bag.",
       "sentence-jp": "彼はかばんの中に書類を押し込んだ。"
     }

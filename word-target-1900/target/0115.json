@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を広める；広がる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "He spread rumors about Mike on social media.",
       "sentence-jp": "彼はソーシャルメディアでマイクについてのうわさを広めた。"
     }

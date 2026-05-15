@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "参加する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "Robots with AI might one day be able to participate in childcare.",
       "sentence-jp": "AIロボットはいつの日か育児に参加することができるようになるかもしれない。"
     }

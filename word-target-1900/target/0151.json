@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "細胞；独房；電池",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "They discovered a virus that destroys cancer cells.",
       "sentence-jp": "彼らは癌細胞を破壊するウイルスを発見した。"
     }

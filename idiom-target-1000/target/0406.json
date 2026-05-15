@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "[通例 can を伴い、否定文・疑問文で]〜を理解する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "synonyms": [
         "understand"
       ],
@@ -14,6 +16,8 @@
     },
     {
       "idiom-jp": "[通例 can を伴って]〜を見分ける",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "discern"
       ],
@@ -22,6 +26,8 @@
     },
     {
       "idiom-jp": "(書類・小切手など)を作成する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "I made out a check for $25 and handed it to the salesperson.",
       "sentence-jp": "私は25ドルの小切手を書き、それを店員に渡した。"
     }

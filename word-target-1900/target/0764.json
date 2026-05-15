@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "離婚；分離",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He got a divorce from his wife.",
       "sentence-jp": "彼は妻と離婚した。"
     }

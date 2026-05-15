@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を治す；を取り除く；（病気が）治る",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Advanced medical techniques may cure certain types of cancer.",
       "sentence-jp": "先進医療技術はある種の癌を治すことがある。"
     }

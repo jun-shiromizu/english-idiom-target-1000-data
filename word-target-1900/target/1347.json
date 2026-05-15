@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "協議事項（リスト）；議事日程（表）；（政治上の）課題",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The chairperson briefly mentioned the agenda for tomorrow's meeting.",
       "sentence-jp": "議長は明日の会議のための協議事項について手短に言及した。"
     }

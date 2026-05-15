@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜で忙しい",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "My father had always been too busy with his work until this year.",
       "sentence-jp": "私の父は今年まではずっと仕事で忙しすぎた。"
     }

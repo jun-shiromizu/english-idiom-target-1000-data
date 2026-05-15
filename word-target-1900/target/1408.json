@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（情報）を検索する；を取り戻す；を回復する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "She successfully retrieved necessary information from the database.",
       "sentence-jp": "彼女はデータベースから首尾よく必要な情報を検索した。"
     }

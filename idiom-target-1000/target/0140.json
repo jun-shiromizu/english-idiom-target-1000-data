@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜からほど遠い, 〜どころではない",
+      "partOfSpeech": "phrase",
+      "choiceType": "comparative-expression",
       "synonyms": [
         "anything but ~"
       ],

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "イデオロギー，思想傾向",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Ideologies such as religious beliefs or political concepts can lead to war.",
       "sentence-jp": "宗教的信条や政治的概念のようなイデオロギーは戦争につながりかねない。"
     }

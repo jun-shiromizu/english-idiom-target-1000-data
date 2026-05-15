@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(口語で)それだけいっそう〜",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "all the + 比較級"
       ],

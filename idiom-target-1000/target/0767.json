@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "主に米 もし…ならば",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "if"
       ],
@@ -14,6 +16,8 @@
     },
     {
       "idiom-jp": "主に英 …するといけないから、…に備えて",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Father told us to take a map with us in case we got lost.",
       "sentence-jp": "父は私たちに、迷うといけないから地図を持って行くように言った。"
     }

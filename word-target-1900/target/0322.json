@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を選ぶ，えり抜く",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "To select your seat, some airlines require an additional fee.",
       "sentence-jp": "自分の座席を選ぶのに，追加料金を要求する航空会社もある。"
     }

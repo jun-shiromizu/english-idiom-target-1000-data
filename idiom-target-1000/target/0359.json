@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜について言えば、〜に関する限り",
+      "partOfSpeech": "preposition",
+      "choiceType": "prepositional-phrase",
       "synonyms": [
         "as [so] far as ~ be concerned",
         "for one’s (own) part",

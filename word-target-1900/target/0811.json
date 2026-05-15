@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を積み重ねる；積み重なる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "She piled up the plates and put them on the shelf.",
       "sentence-jp": "彼女は皿を積み重ねてそれらを棚に置いた。"
     }

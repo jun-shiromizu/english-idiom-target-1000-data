@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "より劣った（⇔superior よりすぐれた）",
+      "partOfSpeech": "phrase",
+      "choiceType": "comparative-expression",
       "example-sentence": "I think this wine is inferior to that wine in flavor.",
       "sentence-jp": "このワインはあのワインより風味が劣っていると私は思う。"
     }

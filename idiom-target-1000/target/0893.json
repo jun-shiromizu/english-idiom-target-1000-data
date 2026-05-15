@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(〜に)注目する、(〜に)気づく",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "take note (of ~)"
       ],

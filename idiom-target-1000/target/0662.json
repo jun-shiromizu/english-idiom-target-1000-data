@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "いわゆる〜",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "what is called ~"
       ],

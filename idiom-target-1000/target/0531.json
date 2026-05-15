@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "冷静さを保つ",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "control [contain / restrain] oneself"
       ],

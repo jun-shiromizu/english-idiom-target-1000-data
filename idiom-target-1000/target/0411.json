@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "出発する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "synonyms": [
         "set off"
       ],
@@ -14,6 +16,8 @@
     },
     {
       "idiom-jp": "(set out to do で)…し始める",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "start",
         "begin"
@@ -23,6 +27,8 @@
     },
     {
       "idiom-jp": "〜を並べる；〜を設計する",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "lay out ~"
       ],

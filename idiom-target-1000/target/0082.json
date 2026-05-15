@@ -1,22 +1,26 @@
-  {
-    "number": "0082",
-    "idioms": [
-      "get along"
-    ],
-    "means": [
-      {
-        "idiom-jp": "暮らす，(なんとか)やっていく",
-        "example-sentence": "Since my grandparents live in a rural area, they can't get along without a car.",
-        "sentence-jp": "私の祖父母は田舎に住んでいるので、車なしでは暮らすことができない。"
-      },
-      {
-        "idiom-jp": "仲良くやっていく；進む",
-        "example-sentence": "I've always gotten along well with all my friends.",
-        "sentence-jp": "私は常に友人たち皆と仲良くやってきた。"
-      }
-    ],
-    "notes": [
-      "「〜と仲良くやっていく；〜が進む」は、get along with 〜（例文）。",
-      "①②ともに欧では get on → 39 とも言う。"
-    ]
-  }
+{
+  "number": "0082",
+  "idioms": [
+    "get along"
+  ],
+  "means": [
+    {
+      "idiom-jp": "暮らす，(なんとか)やっていく",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
+      "example-sentence": "Since my grandparents live in a rural area, they can't get along without a car.",
+      "sentence-jp": "私の祖父母は田舎に住んでいるので、車なしでは暮らすことができない。"
+    },
+    {
+      "idiom-jp": "仲良くやっていく；進む",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
+      "example-sentence": "I've always gotten along well with all my friends.",
+      "sentence-jp": "私は常に友人たち皆と仲良くやってきた。"
+    }
+  ],
+  "notes": [
+    "「〜と仲良くやっていく；〜が進む」は、get along with 〜（例文）。",
+    "①②ともに欧では get on → 39 とも言う。"
+  ]
+}

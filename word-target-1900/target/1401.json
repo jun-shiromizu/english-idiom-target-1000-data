@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を最新のものにする；をアップデートする",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The store manager updates the sales data once a week.",
       "sentence-jp": "店長は1週間に1回，売り上げデータを最新のものにする。"
     }

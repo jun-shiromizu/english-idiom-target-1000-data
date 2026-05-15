@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "…しがちである",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "tend to do"
       ],

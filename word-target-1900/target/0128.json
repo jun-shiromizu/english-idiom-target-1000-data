@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "に言及する；と言う",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "The salesperson mentioned the features of his company's products.",
       "sentence-jp": "その販売員は自社製品の特徴に言及した。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を責める；の責任を負わせる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "We often blame a politician for having made a careless remark.",
       "sentence-jp": "私たちは不注意な発言をしたことでよく政治家を責める。"
     }

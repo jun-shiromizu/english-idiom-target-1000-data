@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "〜を自慢する、〜を誇らしげに話す",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "be proud of ~",
         "take pride in ~",

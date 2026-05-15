@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(B と)共通に A を持っている",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "The two women are good friends though they have very little in common with each other.",
       "sentence-jp": "その2人の女性は互いに共通している点はほとんどないが、親友だ。"
     }

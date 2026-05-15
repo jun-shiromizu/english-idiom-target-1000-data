@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "〜に依存している",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Japan has so little oil that we are almost entirely dependent on imports.",
       "sentence-jp": "日本にはほとんど石油がないので、私たちはほぼ全面的に輸入品に依存している。"
     }

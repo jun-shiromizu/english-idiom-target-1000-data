@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "に負担をかける；を緊張させる；を漉す",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Increased interest rates will strain our company's finances.",
       "sentence-jp": "金利の上昇は我が社の財政に負担をかけるだろう。"
     }

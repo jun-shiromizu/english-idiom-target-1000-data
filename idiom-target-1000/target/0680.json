@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "〜から判断すると",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Judging from the short speech he has just made, I think he is a very intelligent person.",
       "sentence-jp": "彼が今した短いスピーチから判断すると、彼はとても知的な人物だと思う。"
     }

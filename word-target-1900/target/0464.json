@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "割合；部分；釣り合い",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "A high proportion of the younger population reads no newspapers at all.",
       "sentence-jp": "若い世代の高い割合が新聞をまったく読まない。"
     }

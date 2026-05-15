@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(〜に)発言権[発言力]を持つ",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "More stockholders want to have a say in the running of their companies these days.",
       "sentence-jp": "最近では会社の運営について発言権を持ちたいと思う株主が増えている。"
     }

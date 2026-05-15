@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "民主主義，民主政治；民主国家",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Majority rule is the basic principle of democracy.",
       "sentence-jp": "多数決原理は民主主義の基本原則である。"
     }

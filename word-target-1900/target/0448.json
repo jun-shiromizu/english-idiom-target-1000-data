@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "害，損害",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The dry weather has caused serious harm to the crops.",
       "sentence-jp": "乾燥した天気は作物に深刻な害を引き起こした。"
     }

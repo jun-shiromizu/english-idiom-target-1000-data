@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "多様な；種々雑多な",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "The student searched multiple information sources for his project.",
       "sentence-jp": "その学生は自分の研究課題のために多様な情報源を検索した。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "無線（電信）の，ラジオの",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "A wireless router receives and sends signals.",
       "sentence-jp": "無線ルーターは信号を送受信する。"
     }

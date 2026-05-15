@@ -1,19 +1,21 @@
-  {
-    "number": "0035",
-    "idioms": [
-      "amount to ~"
-    ],
-    "means": [
-      {
-        "idiom-jp": "総計〜になる",
-        "synonyms": [
-          "come to ~"
-        ],
-        "example-sentence": "The damage from the recent typhoon is estimated to amount to billions of yen.",
-        "sentence-jp": "先ごろの台風の被害は総額数十億円になると推計されている。"
-      }
-    ],
-    "notes": [
-      "意味が転じて、「結果として〜となる、〜に等しい」ともなる。"
-    ]
-  }
+{
+  "number": "0035",
+  "idioms": [
+    "amount to ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "総計〜になる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
+      "synonyms": [
+        "come to ~"
+      ],
+      "example-sentence": "The damage from the recent typhoon is estimated to amount to billions of yen.",
+      "sentence-jp": "先ごろの台風の被害は総額数十億円になると推計されている。"
+    }
+  ],
+  "notes": [
+    "意味が転じて、「結果として〜となる、〜に等しい」ともなる。"
+  ]
+}

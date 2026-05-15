@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を代わりに使う；（～の）代理をする（for）",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "He substituted honey for sugar in the recipe.",
       "sentence-jp": "彼はそのレシピでハチミツを砂糖の代わりに使った。"
     }

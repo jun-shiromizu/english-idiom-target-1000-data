@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を（～と）結び付ける（with）；（～と）結び付く（with）",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The book combines facts with fictions.",
       "sentence-jp": "その本は事実をフィクションと結び付けている。"
     }

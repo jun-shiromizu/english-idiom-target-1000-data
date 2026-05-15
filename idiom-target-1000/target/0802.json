@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を見て見ぬふりをする",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "synonyms": [
         "look the other way on ~"
       ],

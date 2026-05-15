@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（～についての）見解（on / about）；（～に対する）（特定の）見方（of）；眺め",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "She often expresses her view on welfare for the elderly.",
       "sentence-jp": "彼女は高齢者のための福祉に関してよく自分の見解を述べる。"
     }

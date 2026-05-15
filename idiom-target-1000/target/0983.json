@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "よくは知らないが、たぶん",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "I saw him playing here a couple of hours ago. He may have gone home for all I know.",
       "sentence-jp": "私は2、3時間前に彼がここで遊んでいるのを見た。よくは知らないが、彼は家に帰ってしまったかもしれない。"
     }

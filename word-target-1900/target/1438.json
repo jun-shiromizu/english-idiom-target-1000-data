@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を洗練する；を精製する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "He greatly refined his manners as he became an adult.",
       "sentence-jp": "彼は大人になって大いに行儀作法を洗練した。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を驚かす；〜の不意を打つ",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "The news that a boy had successfully swum across the bay took us all by surprise.",
       "sentence-jp": "少年がその湾を見事に泳いで渡ったというニュースは私たち全員を驚かせた。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "…はどんなものか。",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "I want you to just imagine what it would feel like to live in extreme poverty as he did.",
       "sentence-jp": "彼がそうしてきた極貧の中で暮らすことがどんなものか、あなたにちょっと想像してもらいたい。"
     }

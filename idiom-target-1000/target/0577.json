@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "〜に対して思いやりのある",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "I believe we should all try to be considerate of others’ happiness and comfort.",
       "sentence-jp": "私たちは皆、他人の幸福と安心を思いやる努力をするべきだと思う。"
     }

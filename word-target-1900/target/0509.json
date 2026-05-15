@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を確実にする（≒ make sure）；を守る",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Please ensure that your safety belts are fastened.",
       "sentence-jp": "確実に安全ベルトが締まっているようにしてください。"
     }

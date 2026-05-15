@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を変える，移す；変わる；移動する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The company shifted its manufacturing base to India.",
       "sentence-jp": "その会社は製造拠点をインドに移した。"
     }

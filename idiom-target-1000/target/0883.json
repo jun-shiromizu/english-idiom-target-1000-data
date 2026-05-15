@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(口語で)(困難なこと)をやってのける",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "make it"
       ],

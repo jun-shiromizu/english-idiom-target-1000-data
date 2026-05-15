@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜に特有である",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "be unique to ~",
         "be native to ~",

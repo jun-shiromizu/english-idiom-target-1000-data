@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "等しい，相当する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "The price of this painting is equivalent to his month's salary.",
       "sentence-jp": "この絵画の値段は彼の月収に相当する。"
     }

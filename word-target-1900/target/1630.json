@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を粉砕する；を強打する；粉々に壊れる；激突する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Someone smashed the window of his car and stole the audio equipment.",
       "sentence-jp": "だれかが彼の車の窓を粉砕し，オーディオ装置を盗んだ。"
     }

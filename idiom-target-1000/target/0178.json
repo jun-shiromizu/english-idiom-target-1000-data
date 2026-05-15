@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "まるで...のように",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "example-sentence": "I got back just yesterday, although I'm feeling as if I'm still in a different time zone.",
       "sentence-jp": "私は昨日戻ったばかりだが, まるでまだ別の時間帯にいるような気分だ。"
     }

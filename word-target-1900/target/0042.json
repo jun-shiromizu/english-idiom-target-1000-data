@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "一致；合意，協定",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The research results were in accord with the expectations of the team.",
       "sentence-jp": "研究結果はチームの予想と一致していた。"
     }

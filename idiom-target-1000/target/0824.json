@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "〜を高く評価する、〜を尊敬[尊重]する",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "synonyms": [
         "respect",
         "think a lot of ~",

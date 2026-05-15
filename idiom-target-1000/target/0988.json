@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(過去を)振り返って(みて)",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "looking back [backward]",
         "reflecting on the past"

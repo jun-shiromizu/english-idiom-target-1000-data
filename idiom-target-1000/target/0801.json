@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(公職に)就任する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "synonyms": [
         "assume office"
       ],

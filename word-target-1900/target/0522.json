@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を打ち負かす；（を）打つ，たたく",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Tim hopes to beat last year's champion in the next game.",
       "sentence-jp": "ティムは次の試合で昨年の優勝者を打ち負かしたいと思っている。"
     }

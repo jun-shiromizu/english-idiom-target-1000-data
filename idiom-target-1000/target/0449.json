@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を偶然見つける、〜に偶然出会う",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "run into ~",
         "come across ~",
@@ -16,6 +18,8 @@
     },
     {
       "idiom-jp": "〜を走って横切る",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Yuka’s cat, which had been asleep on a bench, woke up suddenly and ran across the yard.",
       "sentence-jp": "ユカの猫はベンチで寝ていたが、突然目を覚まして庭を走って横切った。"
     }

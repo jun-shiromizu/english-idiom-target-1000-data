@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "方法，解決策；公式",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "There is no sure formula for a good life.",
       "sentence-jp": "いい人生を送るための確実な方法はない。"
     }

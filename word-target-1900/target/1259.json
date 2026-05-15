@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "飢饉；（食糧・物資の）ひどい不足",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "People in the past suffered from famine due to crop failure.",
       "sentence-jp": "昔の人々は穀物の不作のせいで飢饉に苦しんだ。"
     }

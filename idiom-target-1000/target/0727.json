@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(譲歩構文)確かに〜だが、…だ。",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "It is true his grandmother is in her mid-90s, but she is still going very strong.",
       "sentence-jp": "確かに彼の祖母は90代半ばだが、今なお非常に元気だ。"
     }

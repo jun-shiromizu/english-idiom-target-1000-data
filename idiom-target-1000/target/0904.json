@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "明るみに出る、現れる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "come out"
       ],

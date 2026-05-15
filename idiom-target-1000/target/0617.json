@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を見て",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "My younger sister screamed loudly at the sight of a big cockroach in her room.",
       "sentence-jp": "私の妹は自分の部屋で大きなゴキブリを見て、大きく悲鳴を上げた。"
     }

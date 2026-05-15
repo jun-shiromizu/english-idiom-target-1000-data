@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "とても〜にはかなわない",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "I was no match for Makoto at Japanese chess, and he beat me in three games in a row.",
       "sentence-jp": "私は将棋ではとてもマコトにはかなわず、彼は3局連続して私を打ち負かした。"
     }

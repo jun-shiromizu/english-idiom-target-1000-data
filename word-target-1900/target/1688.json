@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "骨董の，アンティークの；古風な",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "It is hard to tell good things from junk at antique shops.",
       "sentence-jp": "骨董店ではよいものをがらくたから見分けるのが難しい。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を制御[管理・支配]する",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "example-sentence": "The city gradually began to take control of the situation after the damage by the flood.",
       "sentence-jp": "市は次第に洪水の被害後の状況を制御し始めた。"
     }

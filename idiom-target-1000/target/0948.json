@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(忙しく)移動中の[で]；活躍中の[で]",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "on the go"
       ],

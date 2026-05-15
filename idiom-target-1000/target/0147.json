@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "詳細に",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "example-sentence": "I gave her the document, in which the proposal was explained in detail.",
       "sentence-jp": "私は彼女に資料を提供したが, それには詳細に提案が説明されていた。"
     }

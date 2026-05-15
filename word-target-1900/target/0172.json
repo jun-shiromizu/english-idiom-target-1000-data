@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "態度；考え方，心構え",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Her positive attitude toward the job led to her success.",
       "sentence-jp": "彼女の仕事に対する積極的な態度は彼女の成功につながった。"
     }

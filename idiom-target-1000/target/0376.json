@@ -6,11 +6,15 @@
   "means": [
     {
       "idiom-jp": "押し入る；口を挟む",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "From the footprints outside, it was clear the burglar had broken in through the window.",
       "sentence-jp": "外の足跡から、強盗が窓から押し入ったことは明らかだった。"
     },
     {
       "idiom-jp": "〜を慣らす",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "It’ll take a few days to break in these shoes.",
       "sentence-jp": "この靴を履き慣らすのに数日かかるだろう。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "言葉では表現できないほどの[に]",
+      "partOfSpeech": "phrase",
+      "choiceType": "comparative-expression",
       "synonyms": [
         "beyond recognition",
         "beyond (a) doubt [question]"

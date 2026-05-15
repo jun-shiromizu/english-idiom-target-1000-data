@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "焦点；関心の的",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Reducing poverty is the main focus of the book.",
       "sentence-jp": "貧困を減らすことがその本の主な焦点である。"
     }

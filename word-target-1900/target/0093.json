@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "手に入る；利用できる；手が空いている",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Tickets for the concert are available on the Internet.",
       "sentence-jp": "そのコンサートのチケットはインターネットで手に入る。"
     }

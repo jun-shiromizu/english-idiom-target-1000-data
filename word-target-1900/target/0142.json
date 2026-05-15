@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（課せられた）仕事，作業；課題；タスク",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "She completed the task of making a sales presentation.",
       "sentence-jp": "彼女は販売企画の説明を行うという仕事をやり遂げた。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "合成；総合（⇔ analysis ⇒ 363）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Plastic is made by the synthesis of various chemicals.",
       "sentence-jp": "プラスチックは種々の化学物質の合成により作られる。"
     }

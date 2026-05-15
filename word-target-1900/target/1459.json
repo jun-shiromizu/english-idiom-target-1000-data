@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "【英】 ごみ（≒ 【米】garbage）；つまらないもの",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "In this city, most of household rubbish is burned up at a high temperature.",
       "sentence-jp": "この市では，家庭ごみの大半は高温で焼却される。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（座席間などの）通路",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Flight attendants walk up and down the aisle, serving passengers.",
       "sentence-jp": "客室乗務員は通路を行き来し，乗客に応対する。"
     }

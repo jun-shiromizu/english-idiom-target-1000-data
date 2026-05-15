@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "書式，形式；（本などの）型",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Many school textbooks are appearing in digital format these days.",
       "sentence-jp": "今日では多くの学校の教科書がデジタル形式で出てきている。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "偉業，功績；妙技",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "She accomplished a feat of winning three championships in a row.",
       "sentence-jp": "彼女は3回連続して優勝するという偉業を成し遂げた。"
     }

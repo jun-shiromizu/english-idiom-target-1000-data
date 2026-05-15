@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "適応する；を（～に）適合させる（to）",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "She can adapt to various situations thanks to her positive attitude.",
       "sentence-jp": "彼女はその前向きな態度のおかげで，さまざまな状況に適応することができる。"
     }

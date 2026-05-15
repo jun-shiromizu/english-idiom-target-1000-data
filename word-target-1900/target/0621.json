@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を伝える；を運ぶ，運搬する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "It is said that smiles convey many different emotions.",
       "sentence-jp": "ほほえみは多くの異なる感情を伝えると言われる。"
     }

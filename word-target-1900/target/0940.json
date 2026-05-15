@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を実現させる；を果たす；を満たす",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "She was given a chance to fulfill her dream.",
       "sentence-jp": "彼女は自分の夢を実現させる機会を与えられた。"
     }

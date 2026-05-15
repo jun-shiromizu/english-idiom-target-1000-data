@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "わざわざ…する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "Busy with her work, the lady at the desk didn’t even bother to look up.",
       "sentence-jp": "机に向かっている女性は、仕事が忙しくてわざわざ顔を上げることもしなかった。"
     }

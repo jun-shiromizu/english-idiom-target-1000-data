@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を拷問にかける；を苦しめる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "These devices were used to torture enemy spies.",
       "sentence-jp": "これらの装置は敵のスパイを拷問するのに使われた。"
     }

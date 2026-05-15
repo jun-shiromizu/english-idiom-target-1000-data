@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "富；資源；富裕",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Some say happiness lies in wealth.",
       "sentence-jp": "幸福は富にあると言う人もいる。"
     }

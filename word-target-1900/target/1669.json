@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "戦士",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "In the story, the woman was the most brave warrior in the land.",
       "sentence-jp": "物語では，その女性がその国で最も勇敢な戦士だった。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜気味で[の]",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Her husband is a nice-looking man who is a little on the lean side.",
       "sentence-jp": "彼女の夫は少しやせ気味のハンサムな男性だ。"
     }

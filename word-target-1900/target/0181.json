@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "複雑な；複合（体）の",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "There are many complex theories in physics.",
       "sentence-jp": "物理学には多くの複雑な理論がある。"
     }

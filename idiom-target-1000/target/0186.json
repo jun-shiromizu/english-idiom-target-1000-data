@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(解決策など)を思いつく",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "devise",
         "invent",

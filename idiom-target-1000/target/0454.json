@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(人)を拘束する；〜を固く縛る；提携する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "I’m tied up at the moment but will be free by five.",
       "sentence-jp": "私は今忙しくて動けないが、5時までには手が空くだろう。"
     }

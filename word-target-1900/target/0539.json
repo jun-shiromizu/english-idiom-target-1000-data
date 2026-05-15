@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を調整する；を適合させる；順応する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The chef adjusted the seasoning just before serving the soup.",
       "sentence-jp": "シェフはスープを出す直前に味つけを調整した。"
     }

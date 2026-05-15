@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を目覚めさせる；（～から）覚める（from）",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "He is often awakened by nightmares.",
       "sentence-jp": "彼は悪夢で目覚めることが多い。"
     }

@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "A を B と見なす",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "regard A as B",
         "see A as B",

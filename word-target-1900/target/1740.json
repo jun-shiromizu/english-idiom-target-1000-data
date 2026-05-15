@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を伴う，引き起こす；（...すること）を含む（doing）",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The strategy entails great risk, but it is worth trying.",
       "sentence-jp": "その戦略は大きなリスクを伴うが，やってみる価値がある。"
     }

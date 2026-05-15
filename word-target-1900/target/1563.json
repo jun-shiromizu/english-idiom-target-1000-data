@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "ミイラ；【英】ママ，お母さん（＝ 【米】mommy）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The mummy found in the tomb was buried with a lot of gold.",
       "sentence-jp": "その墓で見つかったミイラは多くの金製品とともに埋葬されていた。"
     }

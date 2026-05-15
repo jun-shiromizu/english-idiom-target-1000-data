@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜行きである",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "This train is bound for San Francisco.",
       "sentence-jp": "この列車はサンフランシスコ行きだ。"
     }

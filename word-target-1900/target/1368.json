@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "摂取量；受け入れ数；取り入れること",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "To protect your heart, cut back on your fat intake.",
       "sentence-jp": "あなたの心臓を守るために，脂肪の摂取量を減らしなさい。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜は言うまでもなく",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "much [still] less ~"
       ],

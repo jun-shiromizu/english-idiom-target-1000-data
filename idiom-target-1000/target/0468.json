@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "はっきり[思い切って]話す",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "When you want to speak out for or against something, what you need most is the courage.",
       "sentence-jp": "何かに対して賛成または反対をはっきり言いたいときに最も必要なものは勇気だ。"
     }

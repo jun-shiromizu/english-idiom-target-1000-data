@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "指針，ガイドライン；指導基準",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Users of this Internet service must follow certain guidelines.",
       "sentence-jp": "このインターネットサービスのユーザーは一定の指針に従わねばならない。"
     }

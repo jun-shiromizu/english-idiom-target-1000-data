@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(人)を呼ぶ、(物)を取り寄せる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Would you send for a security guard who has the keys?",
       "sentence-jp": "かぎを持っている警備員を呼びにやってもらえますか。"
     }

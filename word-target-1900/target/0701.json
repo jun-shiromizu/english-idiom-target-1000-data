@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を所有している；の心をとらえる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "He possesses the ability to distinguish good wine from bad wine.",
       "sentence-jp": "彼はいいワインと悪いワインを見分ける能力を持っている。"
     }

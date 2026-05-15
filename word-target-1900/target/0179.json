@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "肯定的な；積極的な；確信して；（検査結果が）陽性の",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "The English word \"cool\" has a positive meaning.",
       "sentence-jp": "英語の\"cool\"は肯定的な意味を持つ。"
     }

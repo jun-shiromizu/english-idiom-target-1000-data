@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を配る；〜を発する",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "distribute",
         "emit",
@@ -16,6 +18,8 @@
     },
     {
       "idiom-jp": "(供給物・力などが)尽きる[なくなる]",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "be exhausted",
         "be used up"

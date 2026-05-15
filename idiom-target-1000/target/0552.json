@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜より優れている",
+      "partOfSpeech": "phrase",
+      "choiceType": "comparative-expression",
       "example-sentence": "Mr. Kato is superior to anyone in the company in his English ability.",
       "sentence-jp": "加藤さんは英語の能力においては会社の誰よりも優れている。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "痛い；腹が立って",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "I have a sore throat due to a cold.",
       "sentence-jp": "私は風邪のせいでのどが痛い。"
     }

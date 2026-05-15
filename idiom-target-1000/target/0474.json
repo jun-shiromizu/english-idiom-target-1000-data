@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "出発する；〜を引き起こす",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "synonyms": [
         "set out"
       ],

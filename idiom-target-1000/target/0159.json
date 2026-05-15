@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(疑問詞を強めて)一体全体",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "in the world"
       ],
@@ -14,6 +16,8 @@
     },
     {
       "idiom-jp": "(最上級を強めて)世界中で",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "synonyms": [
         "in the world"
       ],

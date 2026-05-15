@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（情報伝達の）媒体；手段",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "People nowadays use social media to share information and ideas.",
       "sentence-jp": "今日，人々は情報や考えを共有するためにソーシャルメディアを使う。"
     }

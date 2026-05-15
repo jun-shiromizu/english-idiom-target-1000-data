@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を正当化する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "In the hearing, the politician justified her actions.",
       "sentence-jp": "聴聞会でその政治家は自分の行動を正当化した。"
     }

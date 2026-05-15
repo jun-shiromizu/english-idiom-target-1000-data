@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "証拠",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "There is clear evidence that the man did not commit the crime.",
       "sentence-jp": "その男性は罪を犯していなかったという明白な証拠がある。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "記念碑，遺跡；金字塔",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The stone monument honors the people who died in the war.",
       "sentence-jp": "その石碑は戦争で亡くなった人々に敬意を表している。"
     }

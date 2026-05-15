@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "〜するかしないうちに…",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "... as soon as ~",
         "no sooner ~ than ..."

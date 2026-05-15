@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を引き起こす；のきっかけとなる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Heavy rain triggered a sudden flood in the village.",
       "sentence-jp": "大雨がその村で突然の洪水を引き起こした。"
     }

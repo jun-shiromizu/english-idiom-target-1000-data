@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "をつかむ；を奪い取る；を没収する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "I failed to seize the opportunity to meet the mayor of our city.",
       "sentence-jp": "私は市長に会うチャンスをつかみ損ねた。"
     }

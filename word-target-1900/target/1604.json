@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "栄える，成功する；繁殖する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "Jack prospered in business in his hometown.",
       "sentence-jp": "ジャックは故郷で事業に成功した。"
     }

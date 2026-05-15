@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "動機（づけ）；報奨金",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Students need a clear incentive to study.",
       "sentence-jp": "生徒たちは勉強するための明らかな動機づけを必要とする。"
     }

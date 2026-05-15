@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "～するのに（対し），～する一方",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He prefers British English, whereas she prefers American English.",
       "sentence-jp": "彼がイギリス英語を好むのに対し，彼女はアメリカ英語を好む。"
     }

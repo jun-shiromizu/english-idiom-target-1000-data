@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を最大限に利用する",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "example-sentence": "To make the most of the warm weather, we went to the beach.",
       "sentence-jp": "暖かい天候を最大限に利用するために私たちは海辺へ行った。"
     }

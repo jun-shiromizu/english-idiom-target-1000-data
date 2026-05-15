@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "訓練；（反復）練習；ドリル，錐",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Factory workers should hold regular fire drills.",
       "sentence-jp": "工場労働者は定期的な消防訓練を行うべきである。"
     }

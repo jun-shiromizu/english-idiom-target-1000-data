@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "特定の；特別の；（～について）やかましい（about）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "She cannot eat a particular type of nut.",
       "sentence-jp": "彼女はある特定の種類のナッツが食べられない。"
     }

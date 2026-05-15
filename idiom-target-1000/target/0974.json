@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "そういうものとして；それ自体では",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "in that capacity",
         "in itself"

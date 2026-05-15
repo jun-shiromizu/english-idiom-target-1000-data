@@ -6,11 +6,15 @@
   "means": [
     {
       "idiom-jp": "(予定の所に)現れる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "It was almost half an hour after the appointed time when he finally showed up.",
       "sentence-jp": "彼がついに現れたのは約束した時間を30分近く過ぎてからだった。"
     },
     {
       "idiom-jp": "目立つ ; 〜を目立たせる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "The difference between the two designs clearly showed up against the bright background.",
       "sentence-jp": "2つのデザインの差は明るい背景のもとではっきりと目立った。"
     }

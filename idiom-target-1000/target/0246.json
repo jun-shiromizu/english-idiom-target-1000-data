@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "〜に関係している",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "be involved in ~"
       ],

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を備えている",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "All of our rooms are equipped with an air conditioner, a small refrigerator, and free Wi-Fi.",
       "sentence-jp": "私どもの部屋はすべて、エアコンと小さな冷蔵庫、無料Wi-Fiを備えています。"
     }

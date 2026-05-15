@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を暴く（⇔ conceal ⇒ 1116）；を 発掘する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The magazine uncovered the actor's secret.",
       "sentence-jp": "雑誌はその俳優の秘密を暴いた。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を上回る",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Computers have surpassed the human mind in some aspects.",
       "sentence-jp": "コンピューターはいくつかの点で人間の知力を上回った。"
     }

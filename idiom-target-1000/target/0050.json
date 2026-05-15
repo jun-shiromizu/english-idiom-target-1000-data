@@ -1,16 +1,18 @@
-  {
-    "number": "0050",
-    "idioms": [
-      "result from ~"
-    ],
-    "means": [
-      {
-        "idiom-jp": "〜から起こる",
-        "example-sentence": "Japan will face many problems that result from the declining population.",
-        "sentence-jp": "日本は人口減少から生じる多くの問題に直面するだろう。"
-      }
-    ],
-    "notes": [
-      "result in 〜「〜の結果に終わる」と区別する。"
-    ]
-  }
+{
+  "number": "0050",
+  "idioms": [
+    "result from ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜から起こる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
+      "example-sentence": "Japan will face many problems that result from the declining population.",
+      "sentence-jp": "日本は人口減少から生じる多くの問題に直面するだろう。"
+    }
+  ],
+  "notes": [
+    "result in 〜「〜の結果に終わる」と区別する。"
+  ]
+}

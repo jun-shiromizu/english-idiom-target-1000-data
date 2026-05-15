@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "【主に米】 医師（≒ doctor）；内科医",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The physician at the hospital has special knowledge of food allergies.",
       "sentence-jp": "その病院のその医師は食物アレルギーについて特別な知識を持っている。"
     }

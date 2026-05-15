@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を試してみる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "My sister had taught me how to cook the dish, so I gave it a try for myself this morning.",
       "sentence-jp": "姉が私にその料理の仕方を教えてくれていたので、今朝自分でそれを試してみた。"
     }

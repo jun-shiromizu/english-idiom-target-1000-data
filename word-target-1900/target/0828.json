@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を解決する；を決意する；を議決する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The two countries found ways to resolve the political conflict.",
       "sentence-jp": "両国は政治的対立を解決する方法を見つけた。"
     }

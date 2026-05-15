@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "をびっくりさせる（≒ surprise）",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "A sudden loud noise of thunder startled us.",
       "sentence-jp": "突然の大きな雷の音は私たちをびっくりさせた。"
     }

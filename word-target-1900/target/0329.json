@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（人）に（～を）警告［注意］する（of / against）",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "She warned her little brother not to touch her PC.",
       "sentence-jp": "彼女は自分のパソコンに触らないように弟に注意した。"
     }

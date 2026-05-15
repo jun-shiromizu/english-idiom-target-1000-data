@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "法律；立法",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The city adopted new legislation to lower the crime rate.",
       "sentence-jp": "市は犯罪率を下げるために新しい法律を採用した。"
     }

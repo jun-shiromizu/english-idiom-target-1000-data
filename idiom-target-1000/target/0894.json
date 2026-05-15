@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(法律などが)施行[実施]される",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "come [go] into effect",
         "come into force"
@@ -15,6 +17,8 @@
     },
     {
       "idiom-jp": "(薬などが)効く",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "In half an hour, the medicine he took began to take effect.",
       "sentence-jp": "30分後、彼が飲んだ薬が効き始めた。"
     }

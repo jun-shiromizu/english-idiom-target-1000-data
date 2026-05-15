@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜に従って；〜に応じて",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "according to ~"
       ],

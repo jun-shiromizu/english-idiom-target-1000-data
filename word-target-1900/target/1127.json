@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を誤解させる，欺く；（人）を間違った方向に導く",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The salesperson misled the customer into buying an expensive product.",
       "sentence-jp": "その販売員は客を欺いて高価な製品を買わせた。"
     }

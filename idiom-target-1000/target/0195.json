@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を延期する",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "synonyms": [
         "postpone"
       ],

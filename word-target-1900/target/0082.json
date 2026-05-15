@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "個々の；個人の",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "A group is not just a collection of individual talents.",
       "sentence-jp": "集団は単なる個々の才能の集まりではない。"
     }

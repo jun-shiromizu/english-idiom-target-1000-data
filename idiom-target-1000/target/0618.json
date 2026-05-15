@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜のなすがままになって",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "We seem to be at the mercy of the worsening effect of climate change.",
       "sentence-jp": "私たちは気候変動の影響悪化に翻弄されているように思える。"
     }

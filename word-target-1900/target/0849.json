@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "核心；芯",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "His speech mentioned the core of the problem.",
       "sentence-jp": "彼の演説は問題の核心に触れた。"
     }

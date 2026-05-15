@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "花粉",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Hay fever is mainly caused by the pollen from trees and flowers.",
       "sentence-jp": "花粉症は主に木や花の花粉によって引き起こされる。"
     }

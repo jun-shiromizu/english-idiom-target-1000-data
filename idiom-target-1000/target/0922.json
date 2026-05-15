@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "まだ…していない、これから…しなければならない",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "synonyms": [
         "have still to do"
       ],

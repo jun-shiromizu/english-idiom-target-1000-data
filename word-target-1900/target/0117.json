@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を獲得する；（を）増す",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "She gained a lot of experience in the music business.",
       "sentence-jp": "彼女は音楽業界で多くの経験を得た。"
     }

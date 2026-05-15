@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(法律的に)成人になる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "In most countries of the world, people legally come of age at 18.",
       "sentence-jp": "世界のほとんどの国では、18歳で法的に成人になる。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を当然のことと思う，と仮定する；（権力など）を手に入れる；（責任など）を引き受ける",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "We tend to assume that Japanese trains always run on schedule.",
       "sentence-jp": "私たちは日本の列車がいつも定刻どおりに運行することを当然と思う傾向がある。"
     }

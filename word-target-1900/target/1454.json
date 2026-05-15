@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "国勢調査；交通調査",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "According to the recent national census, the population is decreasing.",
       "sentence-jp": "最近の国勢調査によると，人口は減少している。"
     }

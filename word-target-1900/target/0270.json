@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "戦略",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The government created a long-term strategy for dealing with the economy.",
       "sentence-jp": "政府は経済に対処するための長期的戦略を創り出した。"
     }

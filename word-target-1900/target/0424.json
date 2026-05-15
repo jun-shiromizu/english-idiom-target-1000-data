@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を処理する，扱う；を論じる；を商う",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The lawyer has handled his difficult court cases properly.",
       "sentence-jp": "その弁護士は難しい訴訟を適切に処理してきた。"
     }

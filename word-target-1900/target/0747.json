@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "層",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "She made the dessert by adding layers of cake and cream.",
       "sentence-jp": "彼女はケーキとクリームの層を重ねることでデザートを作った。"
     }

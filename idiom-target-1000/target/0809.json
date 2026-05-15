@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "どうして…か。何の目的で…か。",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "What do you go on a diet for, if you end up losing your health?",
       "sentence-jp": "結局健康を害することになるのなら、どうしてダイエットをするのですか。"
     }

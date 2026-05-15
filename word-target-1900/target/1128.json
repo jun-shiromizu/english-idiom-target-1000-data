@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を台無しにする；を甘やかす；だめになる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "He feels the London Eye spoils the view of London.",
       "sentence-jp": "彼はロンドンアイがロンドンの景色を台無しにしていると感じている。"
     }

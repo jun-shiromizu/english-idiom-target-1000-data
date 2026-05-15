@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（新陳）代謝，代謝作用",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Lack of sleep is not good for the body's metabolism.",
       "sentence-jp": "睡眠不足は体の新陳代謝にとってよくない。"
     }

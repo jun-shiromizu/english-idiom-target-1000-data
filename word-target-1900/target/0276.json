@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "跡；軌道；【米】（鉄道の）番線；走路",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The website is now keeping track of its number of visitors.",
       "sentence-jp": "そのウェブサイトは現在，訪問者数の経過を追っている。"
     }

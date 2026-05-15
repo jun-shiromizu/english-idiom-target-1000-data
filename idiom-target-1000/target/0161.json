@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "今までのところ",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "thus far",
         "up to this point",

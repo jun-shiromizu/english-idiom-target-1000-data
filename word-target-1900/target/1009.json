@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を除外する（⇔include を含む）",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Tax was excluded from the price.",
       "sentence-jp": "税金は価格から除外されていた。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "栄養補助剤，サプリメント；補足",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He takes many supplements every day.",
       "sentence-jp": "彼は毎日多くのサプリメントを服用する。"
     }

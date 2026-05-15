@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "人物の紹介；横顔；輪郭",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The reporter was told to write a profile of the new mayor.",
       "sentence-jp": "記者は新市長の人物紹介を書くように言われた。"
     }

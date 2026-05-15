@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "ではないかと思う；（人）を疑う",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "I suspect that she told a lie.",
       "sentence-jp": "私は彼女がうそをついたのではないかと思う。"
     }

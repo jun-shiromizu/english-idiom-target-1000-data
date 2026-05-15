@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "職業；専門職；同業者仲間",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "She decided to make her hobby into her profession.",
       "sentence-jp": "彼女は趣味を職業にすることに決めた。"
     }

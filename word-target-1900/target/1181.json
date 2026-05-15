@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "酸性の；酸っぱい；辛辣な",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "It is not certain that acid rain is caused by air pollution.",
       "sentence-jp": "酸性雨が大気汚染によって引き起こされるのかはっきりしない。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "助言，秘訣；チップ；先端",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "I will give you a useful tip: be honest to yourself.",
       "sentence-jp": "君に役立つアドバイスをあげるよ。自分に正直であれということだ。"
     }

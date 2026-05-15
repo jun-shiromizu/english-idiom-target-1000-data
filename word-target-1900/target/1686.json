@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "恣意的な；独断的な",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "He did not know what food to order, so he just made an arbitrary selection.",
       "sentence-jp": "彼はどの食べ物を注文していいかわからなかったので，単に恣意的な選択をした。"
     }

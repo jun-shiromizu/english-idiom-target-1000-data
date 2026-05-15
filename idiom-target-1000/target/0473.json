@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(問題など)を解決[調整]する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "synonyms": [
         "sort out ~"
       ],

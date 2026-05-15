@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を誇り[自慢]に思う",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Naoki’s new wife prides herself on being a good cook.",
       "sentence-jp": "ナオキの新妻は料理が上手なことを誇りに思っている。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "能力がある；有能な",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Human brains are capable of processing information faster than computers.",
       "sentence-jp": "人間の脳はコンピューターより速く情報を処理することができる。"
     }

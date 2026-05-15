@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜のいるところ[面前]で",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "example-sentence": "In the presence of many strangers, I felt very tense and acted as if I was an idiot.",
       "sentence-jp": "大勢の知らない人たちの面前で、私はひどく緊張してばかみたいに振る舞った。"
     }

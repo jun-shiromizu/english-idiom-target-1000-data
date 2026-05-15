@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "たまたま…だ。；折よく[運悪く]…だ。",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Yesterday, it happened that an old friend of mine and I were riding in the same train car.",
       "sentence-jp": "昨日、たまたま旧友と私は列車の同じ車両に乗っていた。"
     }

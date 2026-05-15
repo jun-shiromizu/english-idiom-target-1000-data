@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "仮説；憶測",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The scientist developed a logical hypothesis for his next experiment.",
       "sentence-jp": "その科学者は彼の次の実験のために論理的な仮説を立てた。"
     }

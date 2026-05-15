@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "全体的には、概して",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "She made some small mistakes, but all in all, I think she’s done a good job.",
       "sentence-jp": "彼女はいくつかの小さな間違いをしたが、全体的にはうまくこなしたと私は思う。"
     }

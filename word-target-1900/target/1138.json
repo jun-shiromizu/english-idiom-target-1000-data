@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を取り［搾り］出す；を抜粋する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "A juicer is used to extract juice from fruit and vegetables.",
       "sentence-jp": "ジューサーは果物や野菜から汁を搾り出すのに使われる。"
     }

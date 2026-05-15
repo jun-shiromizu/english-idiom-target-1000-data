@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜は言うまでもなく",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "She speaks French, to say nothing of English.",
       "sentence-jp": "彼女は英語は言うまでもなく、フランス語も話す。"
     }

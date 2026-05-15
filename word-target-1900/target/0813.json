@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（～に；～のことで）謝る（to；for）；弁明する",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "example-sentence": "You should apologize to him for what you have done.",
       "sentence-jp": "あなたは自分のしたことを彼に謝るべきだ。"
     }

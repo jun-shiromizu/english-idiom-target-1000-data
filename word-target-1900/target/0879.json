@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "貴重な；高価な（≒ valuable）",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "Nothing is more precious than life.",
       "sentence-jp": "命より貴重なものはない。"
     }

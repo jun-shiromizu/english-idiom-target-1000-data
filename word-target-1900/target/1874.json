@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "感触，手触り；本質；質感",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The texture of silk feels smooth.",
       "sentence-jp": "絹の感触は滑らかな感じである。"
     }

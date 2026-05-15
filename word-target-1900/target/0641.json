@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "連続；一連（のもの）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Identical twins have the same gene sequence.",
       "sentence-jp": "一卵性の双子は同じ遺伝子配列を持っている。"
     }

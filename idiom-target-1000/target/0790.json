@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(人)にお願いをする[頼む]",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Could I ask you a favor? Please post this letter for me.",
       "sentence-jp": "あなたにお願いがあるのですか。この手紙を投函してください。"
     }

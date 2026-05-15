@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "いわば",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "He often acts so selfishly; he is, as it were, a grown-up baby.",
       "sentence-jp": "彼はしばしばとてもわがままに振る舞う。彼はいわば成人した赤ん坊だ。"
     }

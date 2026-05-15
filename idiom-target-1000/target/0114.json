@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "A を B と結び付けて考える",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "connect A with B"
       ],

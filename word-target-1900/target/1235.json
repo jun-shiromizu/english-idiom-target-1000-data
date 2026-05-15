@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "をピンで留める；を突き刺す",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "She pinned a note onto the bulletin board.",
       "sentence-jp": "彼女は掲示板にメモをピンで留めた。"
     }

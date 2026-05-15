@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "並はずれた；異常な，驚くべき",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He has extraordinary knowledge in the area of organic chemistry.",
       "sentence-jp": "彼は有機化学の分野において並はずれた知識を持っている。"
     }

@@ -1,16 +1,18 @@
-  {
-    "number": "0058",
-    "idioms": [
-      "abound [in/with] ~"
-    ],
-    "means": [
-      {
-        "idiom-jp": "（場所が）〜に富む",
-        "example-sentence": "The beautiful forests surrounding those houses abound in mushrooms and berries.",
-        "sentence-jp": "あの家々を囲んでいる美しい森はキノコとベリーが豊富だ。"
-      }
-    ],
-    "notes": [
-      "形容詞を使えば、be abundant in 〜 → 566。"
-    ]
-  }
+{
+  "number": "0058",
+  "idioms": [
+    "abound [in/with] ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "（場所が）〜に富む",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
+      "example-sentence": "The beautiful forests surrounding those houses abound in mushrooms and berries.",
+      "sentence-jp": "あの家々を囲んでいる美しい森はキノコとベリーが豊富だ。"
+    }
+  ],
+  "notes": [
+    "形容詞を使えば、be abundant in 〜 → 566。"
+  ]
+}

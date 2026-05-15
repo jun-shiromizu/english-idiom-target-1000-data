@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(幸運[成功])を祈る",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "have one’s fingers crossed",
         "cross one’s fingers"

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "飢える；（～を）渇望する（for）；を飢えさせる",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The man did not starve to death while walking through desert to the city.",
       "sentence-jp": "その男性は砂漠を通って町へ歩いて行く間，餓死しなかった。"
     }

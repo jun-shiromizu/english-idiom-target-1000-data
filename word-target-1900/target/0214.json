@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を稼ぐ；を得る；をもたらす",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "She earns enough money to pay for her costs of living.",
       "sentence-jp": "彼女は生活費をまかなうのに十分なお金を稼ぐ。"
     }

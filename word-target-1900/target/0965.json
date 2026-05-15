@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "最大限（⇔ minimum ⇒ 653）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The maximum I can afford for rent is $ 500 per month.",
       "sentence-jp": "私が家賃に支払える最大限は月に500ドルだ。"
     }

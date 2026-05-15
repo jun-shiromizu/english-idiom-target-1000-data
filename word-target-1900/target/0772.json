@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（社会・経済などの）部門，セクター；（都市内の）地域",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The high-tech sector leads the national economy.",
       "sentence-jp": "ハイテク部門は国家経済を牽引する。"
     }

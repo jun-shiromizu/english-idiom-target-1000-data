@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "一部には；幾分(かは)",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "partly"
       ],

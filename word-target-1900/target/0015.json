@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を保存する；を蓄える",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "You should store backups of data on the Internet regularly.",
       "sentence-jp": "定期的にインターネット上にデータのバックアップを保存するべきだ。"
     }

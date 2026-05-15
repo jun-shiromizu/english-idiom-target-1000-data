@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "水分；湿気",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Leaves absorb moisture from the damp air.",
       "sentence-jp": "葉は湿った空気から水分を吸収する。"
     }

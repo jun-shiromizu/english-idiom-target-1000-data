@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "光線；ひらめき、一筋の光明",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The sun's rays are strongest in the summer.",
       "sentence-jp": "太陽光線は夏に最も強くなる。"
     }

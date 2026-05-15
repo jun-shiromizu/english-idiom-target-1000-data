@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を公表する，暴く",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Ken disclosed the company secret to his friends and got fired.",
       "sentence-jp": "ケンは友人たちに会社の秘密を暴露して首になった。"
     }

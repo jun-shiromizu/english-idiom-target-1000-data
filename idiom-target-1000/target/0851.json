@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜をうまく処理する、〜に対処する",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "synonyms": [
         "deal with ~"
       ],

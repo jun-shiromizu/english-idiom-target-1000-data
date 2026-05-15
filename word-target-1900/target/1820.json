@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "の心を奪う，を夢中にさせる",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "She is preoccupied with taking care of her father.",
       "sentence-jp": "彼女は父親の介護に心を奪われている。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を測る；を（比較して）評価する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "She measures her temperature every morning.",
       "sentence-jp": "彼女は毎朝体温を測る。"
     }

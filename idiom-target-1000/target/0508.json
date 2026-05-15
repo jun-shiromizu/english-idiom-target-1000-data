@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "B について A を疑う",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "We suspected the boy of having hidden his classmate’s book on purpose.",
       "sentence-jp": "私たちはわざと級友の本を隠したことについてその少年を疑った。"
     }

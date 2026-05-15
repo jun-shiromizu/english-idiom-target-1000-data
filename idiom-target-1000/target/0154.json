@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "将来は ; 今後は",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "You have to get ready for whatever will happen in the future.",
       "sentence-jp": "あなたは, 将来起こるどんなことに対しても準備をしておかなければならない。"
     }

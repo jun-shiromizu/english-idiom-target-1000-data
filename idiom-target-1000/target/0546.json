@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜の犠牲[餌食]になる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "become a victim of ~"
       ],

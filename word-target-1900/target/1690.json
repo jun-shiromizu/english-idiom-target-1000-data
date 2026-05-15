@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "中級の；中間の",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "This book is aimed at students at the intermediate level.",
       "sentence-jp": "この本は中級レベルの学生に向けたものである。"
     }

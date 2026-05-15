@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜のために",
+      "partOfSpeech": "preposition",
+      "choiceType": "prepositional-phrase",
       "synonyms": [
         "for the benefit of ~"
       ],

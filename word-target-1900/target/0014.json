@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を共有する；を分担する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "I share my office space with other people.",
       "sentence-jp": "私はほかの人々と事務所スペースを共用している。"
     }

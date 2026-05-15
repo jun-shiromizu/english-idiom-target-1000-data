@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（～を）ちらっと見ること（at）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "A quick glance at the map showed that we were on the right road.",
       "sentence-jp": "地図を素早くちらっと見ることで私たちが正しい道にいることがわかった。"
     }

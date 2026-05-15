@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜になりやすい",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "synonyms": [
         "be liable to ~"
       ],

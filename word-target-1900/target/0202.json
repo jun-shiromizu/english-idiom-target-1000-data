@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を表す；を代表する；に相当する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "His music represents a new form of rock music.",
       "sentence-jp": "彼の音楽はロックミュージックの新しい形式を表している。"
     }

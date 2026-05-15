@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を変える；変わる（≒ change）",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "An increase in foreigners may alter a country's traditional identity.",
       "sentence-jp": "外国人の増加は国の伝統的な独自性を変えるかもしれない。"
     }

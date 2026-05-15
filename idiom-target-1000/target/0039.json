@@ -1,25 +1,29 @@
-  {
-    "number": "0039",
-    "idioms": [
-      "get on (~)"
-    ],
-    "means": [
-      {
-        "idiom-jp": "（公共の乗り物など）に乗る",
-        "example-sentence": "I arrived at the airport just ten minutes before it was time to get on the plane.",
-        "sentence-jp": "私は飛行機に乗る時刻のほんの10分前に空港へ到着した。"
-      },
-      {
-        "idiom-jp": "主に英 仲良くやっていく；(なんとか)やっていく",
-        "synonyms": [
-          "get along"
-        ],
-        "example-sentence": "It is important that students get on with their classmates at school.",
-        "sentence-jp": "生徒たちが学校でクラスメートと仲良くやっていくことは重要なことだ。"
-      }
-    ],
-    "notes": [
-      "「(乗用車)に乗り込む」なら、get into 〜。",
-      "「〜と仲よくやっていく」は、get on with 〜（例文）。"
-    ]
-  }
+{
+  "number": "0039",
+  "idioms": [
+    "get on (~)"
+  ],
+  "means": [
+    {
+      "idiom-jp": "（公共の乗り物など）に乗る",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
+      "example-sentence": "I arrived at the airport just ten minutes before it was time to get on the plane.",
+      "sentence-jp": "私は飛行機に乗る時刻のほんの10分前に空港へ到着した。"
+    },
+    {
+      "idiom-jp": "主に英 仲良くやっていく；(なんとか)やっていく",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
+      "synonyms": [
+        "get along"
+      ],
+      "example-sentence": "It is important that students get on with their classmates at school.",
+      "sentence-jp": "生徒たちが学校でクラスメートと仲良くやっていくことは重要なことだ。"
+    }
+  ],
+  "notes": [
+    "「(乗用車)に乗り込む」なら、get into 〜。",
+    "「〜と仲よくやっていく」は、get on with 〜（例文）。"
+  ]
+}

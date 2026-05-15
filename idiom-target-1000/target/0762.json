@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "…するように取り計らう[気をつける]",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Since this is very complicated, I myself will see to it that there is no mistake.",
       "sentence-jp": "これは非常に複雑なので、私自身が間違いがないように気をつけます。"
     }

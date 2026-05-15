@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を制止する；を規制する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "When spectators are excited, they often cannot restrain themselves.",
       "sentence-jp": "観衆は興奮しているとき，たいてい自制することができない。"
     }

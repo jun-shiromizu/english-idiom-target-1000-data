@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "化石；時代遅れの人［物］",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Some kinds of scientists are focused on researching the marine fossils.",
       "sentence-jp": "いくつかの分野の科学者は海洋化石の研究に集中している。"
     }

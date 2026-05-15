@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〔通例～s〕抗生物質",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Bacteria may sometimes develop resistance to antibiotics.",
       "sentence-jp": "細菌はときには抗生物質に対する耐性を発達させることがある。"
     }

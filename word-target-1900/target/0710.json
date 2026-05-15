@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を貸す（⇔ borrow を借りる）；（人）に（助言・援助など）を与える",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "He was kind enough to lend me some money.",
       "sentence-jp": "彼は親切にも私にいくらかのお金を貸してくれた。"
     }

@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "〜の容疑[罪]で",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "example-sentence": "Johann Fichte was fired from the University of Jena in 1799 on a charge of atheism.",
       "sentence-jp": "ヨハン・フィヒテは1799年に無神論の罪でイエナ大学を解雇された。"
     }

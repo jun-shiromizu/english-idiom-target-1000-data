@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を可能にする；〜を考慮に入れる",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "synonyms": [
         "make allowance(s) for ~"
       ],

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "ウイルス；（感染症の）病原体",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "She might have been infected with the influenza virus.",
       "sentence-jp": "彼女はインフルエンザウイルスに感染したかもしれない。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "をなだめる；を和らげる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Her words helped a lot to soothe the crying child.",
       "sentence-jp": "彼女の言葉は泣いている子供をなだめるのに大いに役立った。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "そうは言ったものの",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "that said"
       ],

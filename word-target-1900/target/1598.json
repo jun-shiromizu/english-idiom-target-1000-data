@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "明白な（⇔ implicit ⇒ 1795）；率直な",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "He always gives us explicit instructions.",
       "sentence-jp": "彼はいつも私たちに明白な指示をくれる。"
     }

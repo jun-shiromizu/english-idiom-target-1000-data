@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "麻痺した，無感覚な；ぼう然とした",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "While walking in the snow, his toes became numb with the cold.",
       "sentence-jp": "雪の中を歩いている間に，彼のつま先は寒さで麻痺した。"
     }

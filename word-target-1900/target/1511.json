@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を消化する；を理解する；を要約する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "It takes three to four hours to digest meat and fish.",
       "sentence-jp": "肉や魚を消化するには3，4時間かかる。"
     }

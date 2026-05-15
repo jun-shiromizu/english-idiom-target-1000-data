@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "前もって",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "beforehand"
       ],

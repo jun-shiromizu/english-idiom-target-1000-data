@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を掲げる ; 〜を上げる ; 〜を建てる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "raise",
         "lift",
@@ -17,6 +19,8 @@
     },
     {
       "idiom-jp": "〜を泊める",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "accommodate"
       ],

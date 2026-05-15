@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "義務的な，強制的な（⇔ voluntary ⇒ 1199）",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "In a country, children finish compulsory education at 16.",
       "sentence-jp": "ある国では，子供たちは16歳で義務教育を終える。"
     }

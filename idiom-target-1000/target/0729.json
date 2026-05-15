@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(とっくに)…してよいころだ。",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "It is high time that I bought a pair of new shoes.",
       "sentence-jp": "私はもういい加減に新しい靴を買ってもよいころだ。"
     }

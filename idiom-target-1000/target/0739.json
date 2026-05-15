@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "…と言えば十分である。",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Suffice it to say that she didn’t do her duty as she was supposed to have done.",
       "sentence-jp": "彼女は果たすべきだった義務を果たさなかったと言えば十分であろう。"
     }

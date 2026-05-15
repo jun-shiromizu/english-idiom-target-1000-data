@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を隠す（≒ hide）；を秘密にする（⇔uncover ⇒ 1236）",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "You cannot conceal your true feelings when you speak.",
       "sentence-jp": "人は話すとき自分の真情を隠すことができない。"
     }

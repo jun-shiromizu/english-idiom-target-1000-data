@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "指標；索引；指数",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "It is said that one's home is an index of one's personality.",
       "sentence-jp": "人の家はその人の個性の指標であると言われている。"
     }

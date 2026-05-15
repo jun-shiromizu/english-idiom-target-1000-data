@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "成功する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "synonyms": [
         "succeed"
       ],
@@ -14,6 +16,8 @@
     },
     {
       "idiom-jp": "(約束など)を果たす；(損害など)を償う",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "In a year, his landlady made good her warning and evicted him from his room.",
       "sentence-jp": "1年後に、彼の大家の女性は自らの警告を遂行し、彼を部屋から立ち退かせた。"
     }

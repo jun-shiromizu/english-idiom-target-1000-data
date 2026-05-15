@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（～に）必要不可欠な（to / for）；本質的な",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "Friends are essential for our lives.",
       "sentence-jp": "友人は私たちの人生に不可欠である。"
     }

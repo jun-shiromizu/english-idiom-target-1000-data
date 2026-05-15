@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "食欲；欲求",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "People tend to have a bigger appetite when they feel a lot of stress.",
       "sentence-jp": "大きなストレスを感じると，人は食欲が増す傾向にある。"
     }

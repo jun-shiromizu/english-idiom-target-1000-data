@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "A を B に限定する；A を B に閉じ込める",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "synonyms": [
         "limit A to B"
       ],

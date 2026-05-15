@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（特定の目的の）部屋；議場；〔the ～〕議院",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The guide took me through the chambers of the castle.",
       "sentence-jp": "ガイドは私を連れて城の部屋を案内した。"
     }

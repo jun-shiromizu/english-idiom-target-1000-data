@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "崩壊する；（人が）倒れる；を折り畳む",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "If selfishness were seen everywhere, public order would collapse.",
       "sentence-jp": "わがままが至る所で見られるようになったら，社会秩序は崩壊するだろう。"
     }

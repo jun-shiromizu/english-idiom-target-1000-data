@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "全体論の；（医療が）ホリスティックの",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "I am learning the holistic approach in my philosophy course.",
       "sentence-jp": "私は哲学の授業で全体論的方法を学んでいる。"
     }

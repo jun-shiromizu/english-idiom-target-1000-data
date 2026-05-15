@@ -1,17 +1,19 @@
-  {
-    "number": "0063",
-    "idioms": [
-      "give up ~"
-    ],
-    "means": [
-      {
-        "idiom-jp": "〜をあきらめる；〜を捨てる［やめる］",
-        "example-sentence": "Maggie is known for her strong will; she would not easily give up her dreams.",
-        "sentence-jp": "マギーは強い意志で知られている。彼女は簡単に自分の夢をあきらめようとはしないだろう。"
-      }
-    ],
-    "notes": [
-      "give 〜 up の語順も可。",
-      "give up on 〜 の形もある。"
-    ]
-  }
+{
+  "number": "0063",
+  "idioms": [
+    "give up ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜をあきらめる；〜を捨てる［やめる］",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
+      "example-sentence": "Maggie is known for her strong will; she would not easily give up her dreams.",
+      "sentence-jp": "マギーは強い意志で知られている。彼女は簡単に自分の夢をあきらめようとはしないだろう。"
+    }
+  ],
+  "notes": [
+    "give 〜 up の語順も可。",
+    "give up on 〜 の形もある。"
+  ]
+}

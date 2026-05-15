@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(人)に都合がよい[よく]、(人)に有利な[に]",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "in one’s favor"
       ],

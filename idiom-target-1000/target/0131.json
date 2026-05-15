@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "とにかく, いずれにしても",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "anyway",
         "in any case [event]",

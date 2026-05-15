@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜の資格がある",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "be authorized to do",
         "have a [the] right to do"

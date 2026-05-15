@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜に飽きる[うんざりしている]",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "be fed up with ~",
         "be bored with [of] ~"

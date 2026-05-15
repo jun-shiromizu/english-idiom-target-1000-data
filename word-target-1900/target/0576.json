@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "宝物，財宝；財産",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The painting of Christ in the museum is a national treasure.",
       "sentence-jp": "その美術館にあるキリストの絵画は国宝である。"
     }

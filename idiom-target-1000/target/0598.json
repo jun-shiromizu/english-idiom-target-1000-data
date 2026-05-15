@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜の観点から；〜に換算して",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "In terms of population, our prefecture is the fourth largest in the country.",
       "sentence-jp": "人口の観点では、私たちの県は全国で4番目の多さだ。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "単純な；率直な",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "There is no straightforward answer to the philosophical question.",
       "sentence-jp": "その哲学的な問いに対する単純な答えはない。"
     }

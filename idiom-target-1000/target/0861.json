@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "思う存分〜をする、(快楽など)にふける",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Alex is now able to indulge in her favorite hobby, knitting, because she retired last month.",
       "sentence-jp": "アレックスは先月退職したので、今は大好きな趣味である編み物を思う存分することができる。"
     }

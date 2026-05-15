@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（～に対して）免疫を持つ（to）；（～を）免れた（from）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The immune system uses a variety of white blood cells to fight disease.",
       "sentence-jp": "免疫系は病気と闘うのに種々の白血球を使う。"
     }

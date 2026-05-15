@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（インターネット上の情報など）を見て回る；サーフィンをする",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He surfs the Internet constantly, collecting information about political scandals.",
       "sentence-jp": "彼は絶えずネットのサイトを見て回り，政治的スキャンダルに関する情報を集めている。"
     }

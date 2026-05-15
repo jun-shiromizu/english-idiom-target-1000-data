@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "芸術的な",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "I envy him for his artistic gift.",
       "sentence-jp": "私は彼の芸術的な才能をうらやましいと思う。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を輸送する；を運ぶ",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Ships are used to transport most of the world's commercial goods.",
       "sentence-jp": "船は世界の商品の大半を輸送するのに用いられる。"
     }

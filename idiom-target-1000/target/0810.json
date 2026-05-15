@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "見当がつかない",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "I have no idea what to buy Mary for her birthday.",
       "sentence-jp": "メアリーの誕生日に彼女に何を買ってあげるべきか見当がつかない。"
     }

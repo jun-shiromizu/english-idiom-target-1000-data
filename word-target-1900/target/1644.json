@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "下書き；為替手形；隙間風",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "She made a rough draft of her speech.",
       "sentence-jp": "彼女は自分のスピーチの大ざっぱな下書きを書いた。"
     }

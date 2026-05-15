@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を彫る；を切り開く；（肉）を切り分ける",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "He carved the marble into the shape of a bird.",
       "sentence-jp": "彼は大理石を彫って鳥の形にした。"
     }

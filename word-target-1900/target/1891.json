@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "感染（性）の；病気を伝染する",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Contagious diseases are likely to spread in crowded places.",
       "sentence-jp": "感染症は混雑した場所で広がる可能性が高い。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "生じる",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Social problems may arise from cultural differences.",
       "sentence-jp": "社会問題は文化的な相違から生じることもある。"
     }

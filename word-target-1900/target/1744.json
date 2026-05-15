@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "類推；類似",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He supported his view by analogy with another view.",
       "sentence-jp": "彼は別の見解との類推によって自分の見解を立証した。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜と関係がある；〜と姻戚関係がある",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "synonyms": [
         "be connected to [with] ~"
       ],

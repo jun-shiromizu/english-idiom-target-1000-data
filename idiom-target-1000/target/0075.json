@@ -1,20 +1,22 @@
-  {
-    "number": "0075",
-    "idioms": [
-      "pick out ~"
-    ],
-    "means": [
-      {
-        "idiom-jp": "〜を選ぶ",
-        "synonyms": [
-          "choose",
-          "select"
-        ],
-        "example-sentence": "Yumi, can you come along with me and help me pick out a birthday present for John?",
-        "sentence-jp": "ユミ、私と一緒に来て、ジョンの誕生日プレゼントを選ぶのを手伝ってくれますか。"
-      }
-    ],
-    "notes": [
-      "pick 〜 out の語順も可。"
-    ]
-  }
+{
+  "number": "0075",
+  "idioms": [
+    "pick out ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜を選ぶ",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
+      "synonyms": [
+        "choose",
+        "select"
+      ],
+      "example-sentence": "Yumi, can you come along with me and help me pick out a birthday present for John?",
+      "sentence-jp": "ユミ、私と一緒に来て、ジョンの誕生日プレゼントを選ぶのを手伝ってくれますか。"
+    }
+  ],
+  "notes": [
+    "pick 〜 out の語順も可。"
+  ]
+}

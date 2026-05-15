@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "生計を立てる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "A long time ago, my uncle made a living selling marine products in the surrounding area.",
       "sentence-jp": "私のおじは昔、周辺地域で海産物を売って生計を立てていた。"
     }

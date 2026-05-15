@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "控える",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Politicians should refrain from using bad language.",
       "sentence-jp": "政治家は汚い言葉を使うのを控えるべきである。"
     }

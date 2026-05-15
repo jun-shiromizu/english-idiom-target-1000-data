@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(主義・決定など)を堅持する；〜にくっつく",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "We’re determined to stick to our original plan as best we can.",
       "sentence-jp": "私たちはできる限り元の計画を堅持する決意だ。"
     }

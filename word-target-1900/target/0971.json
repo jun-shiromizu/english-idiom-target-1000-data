@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "歩行者",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "A pedestrian was hit by a car when he was crossing the street.",
       "sentence-jp": "歩行者が道路を渡っていたとき，車にはねられた。"
     }

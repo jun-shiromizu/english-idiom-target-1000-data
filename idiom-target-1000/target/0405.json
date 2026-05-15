@@ -6,11 +6,15 @@
   "means": [
     {
       "idiom-jp": "〜のほうへ進む",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "He made for the exit when he heard a knock on the back door.",
       "sentence-jp": "彼は裏口のノックの音を聞くと、出口のほうへ進んだ。"
     },
     {
       "idiom-jp": "〜に寄与する[役立つ]",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "contribute to ~"
       ],

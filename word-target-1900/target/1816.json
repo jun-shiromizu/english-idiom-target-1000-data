@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（人）に注射する，を注入する；を導入する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "The children were injected with the influenza vaccine.",
       "sentence-jp": "その子供たちはインフルエンザワクチンを注射された。"
     }

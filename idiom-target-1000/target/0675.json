@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "もう少しで…しそうになる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "almost do",
         "nearly do"

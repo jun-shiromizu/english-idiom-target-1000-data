@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(否定文で)まったく",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "not ~ (in) the least"
       ],
@@ -14,11 +16,15 @@
     },
     {
       "idiom-jp": "(疑問文で)一体, そもそも",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "I know there are many people who wonder why we need speed bumps at all in big cities.",
       "sentence-jp": "一体なぜ大都市にスピードバンプが必要なのかと疑問に思う人がたくさんいることを私は知っている。"
     },
     {
       "idiom-jp": "(肯定文で)そもそも, ともかく",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Before jumping to a conclusion, let's check if we need any of those regulations at all.",
       "sentence-jp": "結論を急ぐ前に, そもそもそうした規則が何か必要かどうか調べましょう。"
     }

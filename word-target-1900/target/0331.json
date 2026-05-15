@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を操作する；機能する；手術する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The technician received training in order to operate the new machinery.",
       "sentence-jp": "その技術者は新しい機械を操作するために訓練を受けた。"
     }

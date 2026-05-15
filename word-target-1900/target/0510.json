@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を発表［公表］する，知らせる；（物事が）を告げる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The government announced a new policy on agriculture.",
       "sentence-jp": "政府は農業に関する新しい政策を発表した。"
     }

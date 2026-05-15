@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "に住んでいる；に宿る，存する",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "America is inhabited by many people from all over the world.",
       "sentence-jp": "アメリカには世界中から来た多くの人々が住んでいる。"
     }

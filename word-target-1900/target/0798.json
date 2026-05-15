@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（～を）熱望して（for）；熱心な",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Many visitors to New York are eager to go to Broadway musicals.",
       "sentence-jp": "ニューヨークを訪れる多くの人は，ブロードウェイミュージカルをしきりに見に行きたがる。"
     }

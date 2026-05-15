@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〔plug inで〕のプラグを電源に差し込む；を（～で）ふさぐ（with）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He plugged in the game console and started playing immediately.",
       "sentence-jp": "彼はゲーム機のプラグを電源に差し込み，すぐにゲームを始めた。"
     }

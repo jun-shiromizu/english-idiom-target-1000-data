@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "帝国の；皇帝の",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "St.Petersburg was once the capital of Imperial Russia.",
       "sentence-jp": "サンクトペテルブルクはかつて帝政ロシアの首都であった。"
     }

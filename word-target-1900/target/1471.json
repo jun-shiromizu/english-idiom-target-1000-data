@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "刃；（プロペラなどの）羽根；（草などの）葉",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The company has decided to sell ceramic blades instead of metal ones.",
       "sentence-jp": "その会社は金属刃の代わりにセラミックスの刃を販売することを決めた。"
     }

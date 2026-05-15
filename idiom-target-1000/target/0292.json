@@ -6,16 +6,22 @@
   "means": [
     {
       "idiom-jp": "〜を構成する ; 〜を作り上げる",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "example-sentence": "According to this article, the freshwater on Earth makes up only 3 percent of the water supply.",
       "sentence-jp": "この記事によれば, 地球上の真水は水資源の3パーセントしか構成していない。"
     },
     {
       "idiom-jp": "仲直りをする",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "The couple had an argument but soon made up with each other.",
       "sentence-jp": "その夫婦は口論をしたが, すぐに互いに仲直りした。"
     },
     {
       "idiom-jp": "〜の埋め合わせをする",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "example-sentence": "The cashier would have had to make up the difference with her own money in an earlier time.",
       "sentence-jp": "以前であれば, 会計係は自分のお金で差額の埋め合わせをしなければならなかっただろう。"
     }

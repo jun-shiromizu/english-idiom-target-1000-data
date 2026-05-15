@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "機関；協会；施設；制度",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Many academic institutions issue their own journals monthly.",
       "sentence-jp": "多くの学術機関が毎月独自の機関誌を刊行している。"
     }

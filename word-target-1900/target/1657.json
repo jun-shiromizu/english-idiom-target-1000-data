@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "用語小辞典；用語集",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He referred to the glossary to understand Shakespeare.",
       "sentence-jp": "彼はシェークスピアを理解するために用語小辞典を参照した。"
     }

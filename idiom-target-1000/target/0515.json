@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "B のことで A を祝う",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "We gave a gift to Mary to congratulate her on her promotion.",
       "sentence-jp": "私たちは昇進のことでメアリーを祝うために贈り物をした。"
     }

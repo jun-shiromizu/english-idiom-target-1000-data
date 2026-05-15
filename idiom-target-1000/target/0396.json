@@ -6,11 +6,15 @@
   "means": [
     {
       "idiom-jp": "定住する；落ち着く",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "John traveled through Syria before deciding to settle down in a small village in Spain.",
       "sentence-jp": "ジョンはスペインの小さな村に定住すると決める前にシリアをくまなく旅行した。"
     },
     {
       "idiom-jp": "(腰を据えて)始める",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "We were just settling down to dinner when there was a call from Eita, my friend.",
       "sentence-jp": "友人のエイタから電話がかかってきたとき、私たちはちょうど夕食を始めるところだった。"
     }

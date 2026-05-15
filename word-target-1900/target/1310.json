@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を（巧みに）操る；を改ざんする",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The politician knows how to manipulate public opinion.",
       "sentence-jp": "その政治家は世論を操る術を知っている。"
     }

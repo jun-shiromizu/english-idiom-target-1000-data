@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "危険（要素）；偶然",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Many people still smoke despite the health hazards of cigarettes.",
       "sentence-jp": "多くの人がタバコの健康に対する危険性にもかかわらずいまだに喫煙している。"
     }

@@ -6,11 +6,15 @@
   "means": [
     {
       "idiom-jp": "傍観する；待機する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "Tom just stood by without doing anything to help her pick out a gift.",
       "sentence-jp": "トムは彼女が贈り物を選ぶ手助けは何もせず、ただ傍観していた。"
     },
     {
       "idiom-jp": "〜を支持[擁護]する；(約束など)を守る",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "synonyms": [
         "support",
         "stand up for ~",

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "準備[計画・進行]中で",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "synonyms": [
         "in the pipeline",
         "in the making"

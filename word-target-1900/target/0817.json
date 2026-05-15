@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "に値する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "She deserves to be praised for trying her best in the competition.",
       "sentence-jp": "彼女は競技会で最善を尽くしたことで賞賛されるに値する。"
     }

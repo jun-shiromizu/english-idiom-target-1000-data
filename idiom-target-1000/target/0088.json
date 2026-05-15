@@ -1,17 +1,19 @@
-  {
-    "number": "0088",
-    "idioms": [
-      "play a role (in ~)",
-      "play a part (in ~)"
-    ],
-    "means": [
-      {
-        "idiom-jp": "(〜で)役割を演じる[果たす]",
-        "example-sentence": "Nobody can deny that social media plays an important role in modern life.",
-        "sentence-jp": "ソーシャルメディアが現代生活において重要な役割を果たしていることは誰にも否定できない。"
-      }
-    ],
-    "notes": [
-      "role [part] の前にはいろいろな形容詞を入れることが可能。"
-    ]
-  }
+{
+  "number": "0088",
+  "idioms": [
+    "play a role (in ~)",
+    "play a part (in ~)"
+  ],
+  "means": [
+    {
+      "idiom-jp": "(〜で)役割を演じる[果たす]",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
+      "example-sentence": "Nobody can deny that social media plays an important role in modern life.",
+      "sentence-jp": "ソーシャルメディアが現代生活において重要な役割を果たしていることは誰にも否定できない。"
+    }
+  ],
+  "notes": [
+    "role [part] の前にはいろいろな形容詞を入れることが可能。"
+  ]
+}

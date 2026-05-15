@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（～への）熱情，熱意（for）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Her enthusiasm for the job made up for her lack of experience.",
       "sentence-jp": "彼女の仕事への熱意は自らの経験不足を補った。"
     }

@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "(否定文中で)まして〜はない",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "synonyms": [
         "let alone ~"
       ],

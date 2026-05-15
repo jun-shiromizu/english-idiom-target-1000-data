@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（を）歩き回る；放浪する",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He likes to roam the streets for shopping on his day off.",
       "sentence-jp": "彼は休日には買い物のために通りを歩き回るのが好きである。"
     }

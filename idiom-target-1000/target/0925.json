@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "A を B のせいにする",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "synonyms": [
         "attribute A to B"
       ],

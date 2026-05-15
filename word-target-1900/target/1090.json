@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "浅い（⇔deep 深い）；浅薄な",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "Children can walk around in the shallow end of the pool.",
       "sentence-jp": "子供たちはプールの浅いほうの端で歩き回ることができる。"
     }

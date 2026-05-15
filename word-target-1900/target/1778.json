@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "論文；命題，テーゼ",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "She is still working on her doctoral thesis.",
       "sentence-jp": "彼女はまだ博士論文に取り組んでいる。"
     }

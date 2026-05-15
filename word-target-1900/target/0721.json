@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を確保する；を守る",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The government has secured a new source of water for its people.",
       "sentence-jp": "政府は国民のために新しい水源を確保した。"
     }

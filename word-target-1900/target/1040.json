@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "に備えつける",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Robert's new car is equipped with a great music system.",
       "sentence-jp": "ロバートの新しい車はすばらしい音楽装置を備えている。"
     }

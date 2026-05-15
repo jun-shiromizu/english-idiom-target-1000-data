@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "遠方に[で]",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "The snow-capped Mt. Fuji was clearly visible in the distance.",
       "sentence-jp": "雪を頂いた富士山が遠方にはっきりと見えた。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "大まかな；粗野な；未精製の",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "He read a crude summary of the novel.",
       "sentence-jp": "彼はその小説の大まかな要約を読んだ。"
     }

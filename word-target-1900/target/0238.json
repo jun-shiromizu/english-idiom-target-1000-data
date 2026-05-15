@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を満足させる；（条件など）を満たす",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The hotel's high level of service always satisfies its guests.",
       "sentence-jp": "そのホテルの高い水準のサービスはいつも客たちを満足させる。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "単なる，ほんの",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He is a mere child, so he said some silly things.",
       "sentence-jp": "彼はほんの子供なのでばかげたことを言った。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "自由に...できる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Now that my uncle is retired from work, he's free to do anything he wants.",
       "sentence-jp": "私のおじは退職しているので, したいことを何でも自由にすることができる。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "場合，時；行事；機会",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "I have met him on two separate occasions.",
       "sentence-jp": "私は別々の時に2度彼に会ったことがある。"
     }

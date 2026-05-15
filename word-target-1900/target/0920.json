@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "干渉する，介入する；邪魔する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "The church should not interfere in politics.",
       "sentence-jp": "教会は政治に干渉するべきでない。"
     }

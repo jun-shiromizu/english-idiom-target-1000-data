@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を実行［実施］する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Japan implemented its recycling policy in 1991.",
       "sentence-jp": "日本は1991年にそのリサイクル政策を実施した。"
     }

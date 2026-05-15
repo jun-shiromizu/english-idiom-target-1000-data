@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "[get to + (代)名詞で]〜に到着する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "synonyms": [
         "reach",
         "arrive at ~"
@@ -15,6 +17,8 @@
     },
     {
       "idiom-jp": "[get to do で]…できる；…するようになる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "It was in the summer of 2019 that I got to see firsthand how good he was at the game.",
       "sentence-jp": "その試合で彼がどんなに優れていたのかを直接見ることができたのは、2019年の夏だった。"
     }

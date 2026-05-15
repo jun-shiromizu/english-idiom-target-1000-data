@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "…だ、その上〜でもある",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "His sister is a professional translator, and an excellent one at that.",
       "sentence-jp": "彼の姉はプロの翻訳家で、それも優秀な翻訳家だ。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を建設する（＝ build）；を構成する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The city plans to construct new public transportation facilities.",
       "sentence-jp": "市は新しい公共輸送施設を建設する計画である。"
     }

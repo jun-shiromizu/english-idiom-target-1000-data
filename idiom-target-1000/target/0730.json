@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜するやいなや…する",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "synonyms": [
         "... as soon as ~"
       ],

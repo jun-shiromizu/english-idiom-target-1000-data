@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "気まずい；ぎこちない；厄介な",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "After her remark, there was an awkward silence.",
       "sentence-jp": "彼女の発言の後，気まずい沈黙があった。"
     }

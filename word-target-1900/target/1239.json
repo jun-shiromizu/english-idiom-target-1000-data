@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を統合する；融合する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The students integrated the ideas from their teacher with their own.",
       "sentence-jp": "生徒たちは教師からのアイディアと自分たちのアイディアを統合した。"
     }

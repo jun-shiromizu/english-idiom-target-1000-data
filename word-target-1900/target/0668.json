@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "捕食動物；略奪者",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Small animals need to protect themselves from large predators like tigers.",
       "sentence-jp": "小さな動物はトラのような大きな捕食動物から身を守る必要がある。"
     }

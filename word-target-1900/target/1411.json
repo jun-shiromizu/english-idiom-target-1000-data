@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を指定する；を任命する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The wetland was designated as a conservation area.",
       "sentence-jp": "その湿地は保護地域に指定された。"
     }

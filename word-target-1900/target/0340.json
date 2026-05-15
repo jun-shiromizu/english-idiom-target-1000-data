@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を正当に評価する；を鑑賞する；を感謝する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "He does not think that everyone appreciates his talent.",
       "sentence-jp": "彼はだれもが彼の才能を正当に評価しているとは思っていない。"
     }

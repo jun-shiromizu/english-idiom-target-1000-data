@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "莫大な，巨大な",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "Human activity has an enormous effect on the natural environment.",
       "sentence-jp": "人間の活動は自然環境に莫大な影響を及ぼす。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜と一致する；〜と同時に起こる",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "example-sentence": "We arranged our trip to coincide with the start of baseball season.",
       "sentence-jp": "私たちは野球シーズンの始まりと一致するように旅行を手配した。"
     }

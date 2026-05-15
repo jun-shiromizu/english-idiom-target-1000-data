@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "時代遅れの[で]",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "out of date"
       ],

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を育てる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "raise"
       ],
@@ -14,6 +16,8 @@
     },
     {
       "idiom-jp": "(問題・話題など)を持ち出す",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "raise"
       ],

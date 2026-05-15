@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "列；（建物が並ぶ）通り",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Our seats are the third and fourth from the right in the fifth row.",
       "sentence-jp": "私たちの座席は5列目の右から3番目と4番目だ。"
     }

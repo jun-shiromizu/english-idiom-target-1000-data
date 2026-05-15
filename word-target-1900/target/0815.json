@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を和らげる；〔受身形で〕（...して）安心する（to do）；を解放する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "She sings her favorite karaoke songs to relieve stress.",
       "sentence-jp": "彼女はストレスを和らげるために大好きなカラオケの歌を歌う。"
     }

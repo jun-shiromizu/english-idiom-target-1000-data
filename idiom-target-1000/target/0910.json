@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を利用する",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "example-sentence": "The ability to create knowledge and put it to good use is the key characteristic of humans.",
       "sentence-jp": "知識を生み出してうまくそれを利用する能力は、人間の主要な特性だ。"
     }

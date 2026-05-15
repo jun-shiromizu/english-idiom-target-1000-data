@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "小惑星（≒ minor planet）；ヒトデ（＝ starfish）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Scientists are planning to capture an asteroid orbiting around Mars.",
       "sentence-jp": "科学者は火星周辺の軌道を回る小惑星をとらえる計画を立てている。"
     }

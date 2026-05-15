@@ -6,11 +6,15 @@
   "means": [
     {
       "idiom-jp": "〜に侵入する",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "example-sentence": "It looked like someone had broken into our office, so we called the police.",
       "sentence-jp": "誰かが私たちの会社に侵入したようだったので、私たちは警察に電話した。"
     },
     {
       "idiom-jp": "急に〜をしだす",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "burst into ~"
       ],

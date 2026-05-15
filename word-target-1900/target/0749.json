@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "たんぱく質",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He keeps his muscular body by eating food high in protein.",
       "sentence-jp": "彼はたんぱく質の多い食物を食べることで筋肉質の体を維持している。"
     }

@@ -6,11 +6,15 @@
   "means": [
     {
       "idiom-jp": "多かれ少なかれ, 程度の差はあれ",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "In a new place, we have to adapt our way of living more or less to the local culture.",
       "sentence-jp": "新しい場所では, 私たちは地域の文化に合わせて自分たちの生活の仕方を多かれ少なかれ適応させなければならない。"
     },
     {
       "idiom-jp": "ほぼ；おおよそ",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "almost",
         "just about",

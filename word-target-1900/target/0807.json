@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を（～に）分配する（to）；〔受身形で〕分布する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Many charities distribute food to victims in disaster areas.",
       "sentence-jp": "多くの慈善事業は被災地で被災者に食料を分配する。"
     }

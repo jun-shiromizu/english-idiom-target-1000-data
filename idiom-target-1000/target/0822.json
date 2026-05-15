@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜にうんざりしている",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "be tired of ~",
         "be bored with [of] ~"

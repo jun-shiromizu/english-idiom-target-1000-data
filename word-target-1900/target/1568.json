@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "潮（の干満）；動向",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "I cannot tell whether the tide is going out or coming in.",
       "sentence-jp": "潮が引いているのか満ちているのか，私にはわからない。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（...する）傾向がある（to do）；適切な；利発な",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "A careless person is apt to make the same mistakes.",
       "sentence-jp": "不注意な人は同じ間違いをする傾向がある。"
     }

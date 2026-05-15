@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を建てる；を直立させる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "They have erected high concrete walls along the border.",
       "sentence-jp": "彼らは境界線に沿って高いコンクリートの壁を建てた。"
     }

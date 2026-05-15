@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "をもたらす；を（～に）譲る（to）；（～に）屈する（to）",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The manager's brave decision yielded unexpected results.",
       "sentence-jp": "その経営者の勇気ある決断は思いがけない結果をもたらした。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を抑制する；を妨げる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Seeing certain colors seems to inhibit anger.",
       "sentence-jp": "ある色を見ると怒りを抑制するように思える。"
     }

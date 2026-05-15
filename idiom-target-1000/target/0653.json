@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "建築[工事]中で",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "example-sentence": "When Sam visited the small fishing village, a wind farm was under construction nearby.",
       "sentence-jp": "サムが小さな漁村を訪れたとき、近くで風力発電所が建設中だった。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "今のところは, 当分は",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "for the present",
         "for the time being",

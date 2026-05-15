@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "滑る；滑り落ちる；そっと動く",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He got injured when he slipped on ice on the street.",
       "sentence-jp": "通りに張った氷の上で滑ったとき，彼はけがをした。"
     }

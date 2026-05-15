@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "在庫品；蓄え；株",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The store held a clearance sale to reduce their old stock.",
       "sentence-jp": "その店は古い在庫品を減らすために在庫一掃セールを行った。"
     }

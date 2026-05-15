@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を定義する；を明確にする",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The dictionary defines happiness as the basic feeling of joy or satisfaction.",
       "sentence-jp": "その辞書は幸福を喜びまたは満足の基本的な感情と定義している。"
     }

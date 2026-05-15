@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "順々に；(立ち代わって)次に(は)",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "example-sentence": "The large family had just one table, so they had to eat in turn.",
       "sentence-jp": "その大家族にはテーブルが1つしかなく、順番に食事をしなければならなかった。"
     }

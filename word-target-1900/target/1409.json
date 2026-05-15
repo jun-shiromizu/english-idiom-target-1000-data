@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を描く；（の役）を演じる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The detective is portrayed as an intelligent character.",
       "sentence-jp": "その刑事は聡明な人物として描かれている。"
     }

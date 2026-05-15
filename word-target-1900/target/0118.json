@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を達成する；を成し遂げる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "You can achieve your goals by making a good plan.",
       "sentence-jp": "よい計画を立てることによって，自分の目標を達成することができる。"
     }

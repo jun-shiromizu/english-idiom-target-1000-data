@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(〜の)速度を落とす；ペースが落ちる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "slow up (~)"
       ],

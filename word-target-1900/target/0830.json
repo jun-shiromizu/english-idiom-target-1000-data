@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を中断させる；（の）邪魔をする",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Sarah interrupted my conversation with Jill.",
       "sentence-jp": "サラは私とジルの会話を中断させた。"
     }

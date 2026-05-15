@@ -1,28 +1,32 @@
-  {
-    "number": "0008",
-    "idioms": [
-      "in time"
-    ],
-    "means": [
-      {
-        "idiom-jp": "間に合って",
-        "synonyms": [
-          "on time"
-        ],
-        "example-sentence": "Do you think we can get back in time for dinner?",
-        "sentence-jp": "私たちは夕食に間に合うように戻れると思いますか。"
-      },
-      {
-        "idiom-jp": "やがて，そのうちに",
-        "synonyms": [
-          "sooner or later",
-          "in due course [time]"
-        ],
-        "example-sentence": "I'm afraid these small changes will have a big impact in time.",
-        "sentence-jp": "こうした小さな変化がやがて大きな影響を与えるのではないかと思う。"
-      }
-    ],
-    "notes": [
-      "「〜に間に合って」は、in time for 〜（例文）。"
-    ]
-  }
+{
+  "number": "0008",
+  "idioms": [
+    "in time"
+  ],
+  "means": [
+    {
+      "idiom-jp": "間に合って",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
+      "synonyms": [
+        "on time"
+      ],
+      "example-sentence": "Do you think we can get back in time for dinner?",
+      "sentence-jp": "私たちは夕食に間に合うように戻れると思いますか。"
+    },
+    {
+      "idiom-jp": "やがて，そのうちに",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
+      "synonyms": [
+        "sooner or later",
+        "in due course [time]"
+      ],
+      "example-sentence": "I'm afraid these small changes will have a big impact in time.",
+      "sentence-jp": "こうした小さな変化がやがて大きな影響を与えるのではないかと思う。"
+    }
+  ],
+  "notes": [
+    "「〜に間に合って」は、in time for 〜（例文）。"
+  ]
+}

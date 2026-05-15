@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(手段など)に訴える[頼る]",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "In the long drought, some people in the poorer districts resorted to criminal acts.",
       "sentence-jp": "長い干ばつで、貧困地区では犯罪行為に訴える人々もいた。"
     }

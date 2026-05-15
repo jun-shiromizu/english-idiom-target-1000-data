@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を熱望する",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "synonyms": [
         "yearn for ~",
         "wish for ~"

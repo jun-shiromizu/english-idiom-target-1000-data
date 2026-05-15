@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を考慮に入れる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "take account of ~",
         "take ~ into consideration"

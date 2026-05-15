@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(大)流行している",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "be in fashion",
         "be in vogue"

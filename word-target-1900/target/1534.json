@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（を）祈る",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "She prayed that her son might recover from his illness.",
       "sentence-jp": "彼女は自分の息子が病気から回復するよう祈った。"
     }

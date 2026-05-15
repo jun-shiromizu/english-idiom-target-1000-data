@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "概して",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "generally speaking",
         "on the whole",

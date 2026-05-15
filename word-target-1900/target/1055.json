@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（刑）罰；罰金；ペナルティー",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He faced a heavy penalty for kidnapping.",
       "sentence-jp": "彼は誘拐に対して重い刑罰を科せられた。"
     }

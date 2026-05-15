@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "[後に副詞句や doing などを伴って]最後には〜になる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "wind up"
       ],

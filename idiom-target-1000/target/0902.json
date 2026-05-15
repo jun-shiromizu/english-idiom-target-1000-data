@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "当てはまる；有効である",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "hold good"
       ],

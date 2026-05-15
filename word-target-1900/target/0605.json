@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "反応する；化学反応を起こす",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "Life is decided by how you react to what happens to you.",
       "sentence-jp": "人生は自分の身に起こることにどう反応するかによって決定される。"
     }

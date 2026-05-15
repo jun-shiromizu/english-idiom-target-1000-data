@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（専門）用語；〔～s〕条件；〔～s〕間柄；学期",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Hypertension is a medical term for abnormally high blood pressure.",
       "sentence-jp": "hypertension（高血圧症）は異常に高い血圧を表す医学用語である。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "もっともらしい",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "He gave a plausible explanation for making the floor wet.",
       "sentence-jp": "彼は床をぬらしたことについてもっともらしい説明をした。"
     }

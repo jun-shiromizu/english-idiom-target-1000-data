@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "に知らせる；情報を提供する",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Please inform us of any change in your plan.",
       "sentence-jp": "計画のどんな変更も我々にお知らせください。"
     }

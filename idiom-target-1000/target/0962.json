@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜がないならば",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "if it were not for ~",
         "without"

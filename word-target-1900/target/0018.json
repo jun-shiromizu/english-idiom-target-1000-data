@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "について述べる，を説明する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "She described her physical condition to her doctor.",
       "sentence-jp": "彼女は医師に自分の体調を説明した。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を確立する；を設立する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "At a party, you can establish friendly relationships with others.",
       "sentence-jp": "パーティーではほかの人々と友好的な関係を確立することができる。"
     }

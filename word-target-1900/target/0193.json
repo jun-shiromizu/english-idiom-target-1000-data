@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "積極的な；活動的な；効力のある",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "Men should play an active role in raising children.",
       "sentence-jp": "男性は子育てにおいて積極的な役割を果たすべきである。"
     }

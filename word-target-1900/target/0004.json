@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を意味する；（...する）つもりである（to do）",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Her silence means that she does not agree with you.",
       "sentence-jp": "彼女の沈黙は彼女があなたに同意していないことを意味する。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "におい；気配",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "Dogs can detect odors that humans cannot notice.",
       "sentence-jp": "犬は人間が気づくことのできないにおいを感知することができる。"
     }

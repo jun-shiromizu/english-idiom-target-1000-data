@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "損なわれていない，手つかずの",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "We should try to keep the world's remaining jungles intact.",
       "sentence-jp": "私たちは世界中の残存しているジャングルを手つかずのままにしておくよう努めるべきである。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "裏返して, ひっくり返して",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "It was embarrassing that so many people saw me wearing my T-shirt inside out.",
       "sentence-jp": "私がTシャツを裏返しに着ているのをそんなにも多くの人に見られたのは恥ずかしいことだった。"
     }

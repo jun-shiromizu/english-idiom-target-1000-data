@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "干し草",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Cattle and sheep are fed on hay grown on this farm.",
       "sentence-jp": "牛や羊はこの農場で育てられた干し草を与えられている。"
     }

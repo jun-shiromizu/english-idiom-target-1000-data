@@ -1,16 +1,18 @@
-  {
-    "number": "0037",
-    "idioms": [
-      "focus on ~"
-    ],
-    "means": [
-      {
-        "idiom-jp": "〜に集中する；〜に焦点を合わせる",
-        "example-sentence": "Why don't you just focus on doing what you have to do today, not tomorrow?",
-        "sentence-jp": "明日ではなく今日しなければならないことをするのに集中したらどうですか。"
-      }
-    ],
-    "notes": [
-      "focus A on B は「A を B に集中させる」の意味。この focus は他動詞。"
-    ]
-  }
+{
+  "number": "0037",
+  "idioms": [
+    "focus on ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜に集中する；〜に焦点を合わせる",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
+      "example-sentence": "Why don't you just focus on doing what you have to do today, not tomorrow?",
+      "sentence-jp": "明日ではなく今日しなければならないことをするのに集中したらどうですか。"
+    }
+  ],
+  "notes": [
+    "focus A on B は「A を B に集中させる」の意味。この focus は他動詞。"
+  ]
+}

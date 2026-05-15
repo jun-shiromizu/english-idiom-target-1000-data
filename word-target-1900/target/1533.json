@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "をうらやむ",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Many writers envy her talent for literature.",
       "sentence-jp": "多くの作家が彼女の文学の才能をうらやむ。"
     }

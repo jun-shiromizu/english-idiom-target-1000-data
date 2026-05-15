@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(〜に)折り返し電話する、(〜に)電話をかけ直す；〜を呼び戻す",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "When I called her, Saki said, “I’ll call back in an hour or so.”",
       "sentence-jp": "私がサキに電話したとき、彼女は「1時間くらいしたら折り返し電話するわ」と言った。"
     }

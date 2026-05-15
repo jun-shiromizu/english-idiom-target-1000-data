@@ -1,17 +1,19 @@
-  {
-    "number": "0090",
-    "idioms": [
-      "make sense"
-    ],
-    "means": [
-      {
-        "idiom-jp": "意味をなす；道理にかなう",
-        "example-sentence": "Grammar is the study of the way we bring words together in order to make sense.",
-        "sentence-jp": "文法とは、私たちが単語を意味をなすように結び合わせる方法の研究だ。"
-      }
-    ],
-    "notes": [
-      "sense には perfect, much, no, little などの形容詞も付く。",
-      "make sense of 〜 は「〜を理解する、〜の意味がわかる」。"
-    ]
-  }
+{
+  "number": "0090",
+  "idioms": [
+    "make sense"
+  ],
+  "means": [
+    {
+      "idiom-jp": "意味をなす；道理にかなう",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
+      "example-sentence": "Grammar is the study of the way we bring words together in order to make sense.",
+      "sentence-jp": "文法とは、私たちが単語を意味をなすように結び合わせる方法の研究だ。"
+    }
+  ],
+  "notes": [
+    "sense には perfect, much, no, little などの形容詞も付く。",
+    "make sense of 〜 は「〜を理解する、〜の意味がわかる」。"
+  ]
+}

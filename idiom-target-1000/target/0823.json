@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "考えてみると、そういえば",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "I thought of visiting him, but come to think of it, he’s been studying in America for some time.",
       "sentence-jp": "私は彼を訪ねようと思ったが、考えてみると彼はしばらくの間アメリカで勉強しているのだった。"
     }

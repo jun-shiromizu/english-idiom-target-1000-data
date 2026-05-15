@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "…しようと狙っている",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "I’m under the impression that that guy is out to make money at our expense.",
       "sentence-jp": "あの男は私たちのお金で金もうけをしようとしているのではないかという気がする。"
     }

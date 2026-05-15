@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "A を B にたとえる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "compare A to [with] B"
       ],

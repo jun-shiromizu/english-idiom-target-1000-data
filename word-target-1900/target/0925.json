@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を規制する；を調整する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Europe has made efforts to regulate content on the Internet.",
       "sentence-jp": "ヨーロッパはインターネット上のコンテンツを規制するための努力をしてきている。"
     }

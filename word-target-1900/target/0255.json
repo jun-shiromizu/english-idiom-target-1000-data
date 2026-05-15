@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "技術；技巧；手法",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "She developed a new technique for making smartphones easier to use.",
       "sentence-jp": "彼女はスマートフォンの使い勝手をよくするための新技術を開発した。"
     }

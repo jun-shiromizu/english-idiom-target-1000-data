@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜が…できるように",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "example-sentence": "The students asked their teacher to speak more slowly so that they could understand her.",
       "sentence-jp": "生徒たちは、彼らが先生の言うことを理解できるように、もっとゆっくり話してくれるよう先生に頼んだ。"
     }

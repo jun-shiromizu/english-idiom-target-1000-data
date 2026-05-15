@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "不可欠な（⇔ dispensable なくてもすむ）",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "Computer literacy is indispensable for academic learning.",
       "sentence-jp": "コンピューター・リテラシーは大学での学習に不可欠である。"
     }

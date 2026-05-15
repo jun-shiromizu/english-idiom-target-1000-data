@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "非常に数の多い",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "Kyoto is an old capital city with numerous temples and shrines.",
       "sentence-jp": "京都は非常に多くの寺や神社がある古都である。"
     }

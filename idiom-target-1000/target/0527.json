@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "握手する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "I wonder how many countries there are in the world where people shake hands in greeting.",
       "sentence-jp": "人々があいさつをする際に握手する国は世界にどのくらいあるのだろう。"
     }

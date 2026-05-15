@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を利用できる；〜に近づける",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "According to statistics, some 2.1 billion people worldwide don’t have access to safe water at home.",
       "sentence-jp": "統計によれば、世界中で21億人ほどが家庭で安全な水を利用できない。"
     }

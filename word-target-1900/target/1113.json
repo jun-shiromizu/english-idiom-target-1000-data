@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を握る；をとらえる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Scared by the noise, she gripped her father's arm tightly.",
       "sentence-jp": "物音におびえて，彼女は父親の腕をしっかりと握った。"
     }

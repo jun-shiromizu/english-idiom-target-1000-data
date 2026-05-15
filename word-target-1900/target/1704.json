@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "の正しさを証明［確認］する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "Passports verify travelers' identity when crossing borders.",
       "sentence-jp": "パスポートは国境を越える際に旅行者の身元を証明する。"
     }

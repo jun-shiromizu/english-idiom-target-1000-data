@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "署名；特徴",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Please put your signature on this form.",
       "sentence-jp": "この記入用紙にあなたの署名をしてください。"
     }

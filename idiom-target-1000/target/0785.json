@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(人)を見送る",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "We have just been to the airport to see my daughter off to Chicago.",
       "sentence-jp": "私たちはシカゴへ向かう娘を見送るために空港へ行ってきたところだ。"
     }

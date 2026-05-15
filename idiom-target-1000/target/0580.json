@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜に対して寛大である",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "To grow up mentally, it’s important to learn to be tolerant of other views and ideas.",
       "sentence-jp": "精神的に大人になるためには、ほかの見方や考えに対して寛大になることが大切だ。"
     }

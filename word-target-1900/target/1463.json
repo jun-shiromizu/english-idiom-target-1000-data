@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "勝利；勝利の喜び；偉業",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "She achieved a great triumph during the tournament.",
       "sentence-jp": "彼女はトーナメント中にすばらしい勝利を収めた。"
     }

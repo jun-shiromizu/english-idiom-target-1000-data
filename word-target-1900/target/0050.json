@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "状況；（人の置かれた）立場",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The economic situation of the country is gently improving.",
       "sentence-jp": "その国の経済状況は緩やかによくなってきている。"
     }

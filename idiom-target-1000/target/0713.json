@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "死ぬまで〜；ひどく〜",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "He donated some money in hopes of reducing the number of people who starve to death.",
       "sentence-jp": "餓死する人の数が減ることを願って、彼はいくらかのお金を寄付した。"
     }

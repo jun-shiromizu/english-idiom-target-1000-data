@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "よろけながら歩く；（～に）つまずく（on / over）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "She stumbled on a rough road.",
       "sentence-jp": "彼女はでこぼこ道をよろけながら歩いた。"
     }

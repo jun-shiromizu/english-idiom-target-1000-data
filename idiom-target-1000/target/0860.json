@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜に固執する、〜をやり通す",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "We won’t be able to reach a consensus if he persists in his demand.",
       "sentence-jp": "彼が自分の要求に固執するなら、私たちは意見の一致に至れないだろう。"
     }

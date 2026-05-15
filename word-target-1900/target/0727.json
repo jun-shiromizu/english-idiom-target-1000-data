@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "に抵抗する；〔通例否定文で〕を我慢する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "Some countries are resisting the current trend toward free trade.",
       "sentence-jp": "自由貿易に向かう現在の傾向に抵抗している国もある。"
     }

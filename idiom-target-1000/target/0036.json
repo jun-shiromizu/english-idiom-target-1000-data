@@ -1,21 +1,23 @@
-  {
-    "number": "0036",
-    "idioms": [
-      "depend (on/upon) ~"
-    ],
-    "means": [
-      {
-        "idiom-jp": "〜に頼る；〜しだいである",
-        "synonyms": [
-          "rely on [upon] ~",
-          "count on [upon] ~",
-          "rest on [upon] ~"
-        ],
-        "example-sentence": "It's important to remember that we all depend on various people for different reasons.",
-        "sentence-jp": "私たちは皆、さまざまな理由でいろいろな人々に頼っているということを覚えておくことが大切だ。"
-      }
-    ],
-    "notes": [
-      "「A に B を頼る」は depend on [upon] A for B。"
-    ]
-  }
+{
+  "number": "0036",
+  "idioms": [
+    "depend (on/upon) ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜に頼る；〜しだいである",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
+      "synonyms": [
+        "rely on [upon] ~",
+        "count on [upon] ~",
+        "rest on [upon] ~"
+      ],
+      "example-sentence": "It's important to remember that we all depend on various people for different reasons.",
+      "sentence-jp": "私たちは皆、さまざまな理由でいろいろな人々に頼っているということを覚えておくことが大切だ。"
+    }
+  ],
+  "notes": [
+    "「A に B を頼る」は depend on [upon] A for B。"
+  ]
+}

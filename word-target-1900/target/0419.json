@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（を）かむ，（に）かみつく；（を）刺す",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "A big dog bit my leg when I was a child.",
       "sentence-jp": "私が子供のころ大きな犬が私の脚にかみついた。"
     }

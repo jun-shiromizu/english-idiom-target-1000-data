@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "悲観的な（⇔ optimistic ⇒ 882）",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "You should not be pessimistic about your future.",
       "sentence-jp": "君は将来について悲観的になってはいけない。"
     }

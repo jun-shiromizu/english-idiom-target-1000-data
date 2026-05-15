@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〔dispose ofで〕を処分する；を（...する）気にさせる（to do）；を配置する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "His will indicated how to dispose of his property.",
       "sentence-jp": "彼の遺言は自分の財産を処分する方法を示していた。"
     }

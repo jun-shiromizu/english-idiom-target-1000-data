@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（乗り物の）料金",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "In Japan, you can use IC cards to pay for train and bus fares.",
       "sentence-jp": "日本では，列車やバスの料金を支払うのにICカードを使うことができる。"
     }

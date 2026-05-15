@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "一見したところでは；ひと目で[の]",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "at first glance",
         "at first blush"

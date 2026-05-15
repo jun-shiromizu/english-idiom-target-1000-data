@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を徐々にむしばむ；を侵食する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The new theory accounts for what undermines health.",
       "sentence-jp": "その新しい理論は何が健康をむしばむかの説明となる。"
     }

@@ -1,18 +1,20 @@
-  {
-    "number": "0021",
-    "idioms": [
-      "be different from ~"
-    ],
-    "means": [
-      {
-        "idiom-jp": "〜とは違っている",
-        "example-sentence": "Learning one's native language is different from learning a second language.",
-        "sentence-jp": "母語を学習することは第2言語を学習するのとは違う。"
-      }
-    ],
-    "notes": [
-      "be similar to 〜 → 550",
-      "from の代わりに than や to も使われるが、from が一般的。",
-      "differ from 〜 → 52"
-    ]
-  }
+{
+  "number": "0021",
+  "idioms": [
+    "be different from ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜とは違っている",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
+      "example-sentence": "Learning one's native language is different from learning a second language.",
+      "sentence-jp": "母語を学習することは第2言語を学習するのとは違う。"
+    }
+  ],
+  "notes": [
+    "be similar to 〜 → 550",
+    "from の代わりに than や to も使われるが、from が一般的。",
+    "differ from 〜 → 52"
+  ]
+}

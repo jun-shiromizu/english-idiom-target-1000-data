@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "凍る；を凍らせる；（計画・資金など）を凍結する",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "When water in the ocean freezes, layers of ice may form.",
       "sentence-jp": "海水が凍るとき，氷の層が形成されることもある。"
     }

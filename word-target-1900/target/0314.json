@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を採用する；（態度など）をとる；を養子にする",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The airline adopted a new cost-saving measure.",
       "sentence-jp": "その航空会社は新しい経費削減策を採用した。"
     }

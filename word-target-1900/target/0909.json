@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を注ぐ；激しく降る；押し寄せる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "He poured some tea into a cup.",
       "sentence-jp": "彼はカップに紅茶を注いだ。"
     }

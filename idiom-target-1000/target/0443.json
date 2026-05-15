@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を目指す；〜を狙う",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Education has historically aimed at making people conform to society.",
       "sentence-jp": "歴史的には教育は人々を社会に順応させることを目標としてきた。"
     }

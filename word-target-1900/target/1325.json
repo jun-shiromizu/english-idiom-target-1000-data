@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を主張する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The researcher asserted that her findings were true.",
       "sentence-jp": "その研究者は，自分の研究結果が事実であると主張した。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "張り詰めた，緊張した",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The goal of this exercise is to relax tense muscles and reduce stress.",
       "sentence-jp": "この運動の目的は緊張した筋肉をほぐし，ストレスを減らすことである。"
     }

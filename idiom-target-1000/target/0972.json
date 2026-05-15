@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "最初からずっと",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "from the beginning"
       ],

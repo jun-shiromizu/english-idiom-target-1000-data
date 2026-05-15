@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "死ぬ",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "die"
       ],

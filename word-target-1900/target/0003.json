@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を向上させる；よくなる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Light exercise improves thinking ability.",
       "sentence-jp": "軽い運動は思考力を向上させる。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "破裂する；（～を）突然始める（into）",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "The bubble economy in Japan burst in the 1990s.",
       "sentence-jp": "日本のバブル経済は1990年代に崩壊した。"
     }

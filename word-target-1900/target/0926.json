@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を走査［スキャン］する；をざっと見る；を注意深く調べる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The doctor scanned the patient's body using a machine.",
       "sentence-jp": "医師は機械を使って患者の体をスキャンした。"
     }

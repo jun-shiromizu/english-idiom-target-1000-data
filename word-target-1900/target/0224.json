@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を無視する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The sailors ignored the warning about the dangerous currents in the sea.",
       "sentence-jp": "船員たちは危険な潮流の警告を無視した。"
     }

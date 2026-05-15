@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "人前で, 公然と",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "publicly"
       ],

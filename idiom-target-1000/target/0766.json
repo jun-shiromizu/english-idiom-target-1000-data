@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "…である以上、今はもう…なので",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "example-sentence": "Now that the decision has been made, we will be obliged to accept it.",
       "sentence-jp": "決定が下された以上、私たちはそれを受け入れざるを得ないだろう。"
     }

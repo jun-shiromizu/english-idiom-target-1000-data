@@ -6,11 +6,15 @@
   "means": [
     {
       "idiom-jp": "〜によれば",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "According to this article, the world is continuing to be urbanized rapidly.",
       "sentence-jp": "この記事によれば, 世界は急速に都市化を続けている。"
     },
     {
       "idiom-jp": "〜に従って ; 〜に応じて",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "in accordance with ~"
       ],

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "適格の，資格のある；（結婚相手として）望ましい",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "You are eligible for salary increase based on your performance.",
       "sentence-jp": "あなたはあなたの業績に基づき昇給に適格である。"
     }

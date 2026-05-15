@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "話をやめる；〜を黙らせる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "Annoyed by the kids talking loudly, someone said, “Shut up!”",
       "sentence-jp": "子供たちが大声で話すのにいらいらして、誰かが『黙りなさい！』と言った。"
     }

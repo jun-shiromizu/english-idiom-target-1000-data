@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜と親しくなる",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "My niece, who is a first grader, wants to make friends with everyone in her class.",
       "sentence-jp": "私のめいは小学1年生だが、クラス全員と仲良くなりたがっている。"
     }

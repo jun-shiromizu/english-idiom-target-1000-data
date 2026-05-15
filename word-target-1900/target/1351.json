@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "発生，勃発",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "In 2014, an outbreak of Ebola fever killed more than 11, 000 people.",
       "sentence-jp": "2014年，エボラ熱の発生が11,000人以上の命を奪った。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(経済的・時間的に)…する余裕がある",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "No society can afford to ignore air pollution or climate change.",
       "sentence-jp": "大気汚染や気候変動を無視する余裕のある社会はない。"
     }

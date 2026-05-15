@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "調子がよくて",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "If you want to keep yourself in good shape, you need to exercise every day.",
       "sentence-jp": "自分自身を調子よくしておきたければ、あなたは毎日運動する必要がある。"
     }

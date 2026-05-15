@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〔for the ～ ofで〕のために，の目的で；に免じて",
+      "partOfSpeech": "adverb",
+      "choiceType": "adverb",
       "example-sentence": "I gave up smoking for the sake of my health.",
       "sentence-jp": "私は健康のためにタバコを吸うのをやめた。"
     }

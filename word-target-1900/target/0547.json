@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "貸付金，融資；貸すこと",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He spent ten years paying back the bank loan.",
       "sentence-jp": "彼は銀行の貸付金を返済するのに10年を費やした。"
     }

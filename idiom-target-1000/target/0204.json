@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜に関連して",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "concerning",
         "about"

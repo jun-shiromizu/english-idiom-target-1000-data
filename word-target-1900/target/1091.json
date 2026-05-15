@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "無関心な（≒uninterested）",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "Many young people are indifferent to politics and the economy.",
       "sentence-jp": "多くの若者は政治や経済に無関心である。"
     }

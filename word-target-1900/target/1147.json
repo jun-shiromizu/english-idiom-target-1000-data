@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "人類",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Environmental destruction threatens the future of mankind.",
       "sentence-jp": "環境破壊は人類の未来を脅かす。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "直売店，特売店；はけ口；【米】（電気の）コンセント（≒ 【英】socket）",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "A lot of tourists rushed to the outlets that sell famous brands.",
       "sentence-jp": "多くの観光客が有名ブランド品を売る直売店に殺到した。"
     }

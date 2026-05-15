@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を制止する；(真相など)を隠す",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "example-sentence": "The story was so moving that the children could not hold back their tears.",
       "sentence-jp": "その物語はとても感動的だったので、子供たちは涙を抑えることができなかった。"
     }

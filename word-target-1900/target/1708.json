@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "に（...することを）強いる（to do）；を抑える",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "He was constrained to work in harsh conditions.",
       "sentence-jp": "彼は厳しい条件で働くことを強いられた。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を寄せ集める；〜を検挙[逮捕]する",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "gather",
         "collect",

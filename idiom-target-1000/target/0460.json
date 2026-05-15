@@ -7,6 +7,8 @@
   "means": [
     {
       "idiom-jp": "〜(の量)を減らす、〜を切り詰める",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "reduce"
       ],

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜に似ている",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "resemble"
       ],

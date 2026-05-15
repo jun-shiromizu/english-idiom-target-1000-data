@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜のほうを見る；〜に気をつける",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "pay attention to ~",
         "attend to ~"
@@ -15,6 +17,8 @@
     },
     {
       "idiom-jp": "〜に頼る、〜を当てにする",
+      "partOfSpeech": "verb",
+      "choiceType": "verb-phrase",
       "example-sentence": "In former days, when in doubt, people often looked to magicians for directions.",
       "sentence-jp": "人々は昔、迷ったときには指示をあおぐために魔術師に頼ることがよくあった。"
     }

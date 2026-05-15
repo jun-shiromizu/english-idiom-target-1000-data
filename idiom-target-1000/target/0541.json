@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜を好む",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "example-sentence": "I told the curator that I had a great liking for paintings done in the ukiyo-e style.",
       "sentence-jp": "私は学芸員に、自分は浮世絵の画法で描かれた絵画を非常に好んでいると言った。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "十分すぎるほどの；広い",
+      "partOfSpeech": "phrase",
+      "choiceType": "comparative-expression",
       "example-sentence": "There is ample room for the expansion of this student center.",
       "sentence-jp": "この学生センターを拡張するのに十分すぎるほどのスペースがある。"
     }

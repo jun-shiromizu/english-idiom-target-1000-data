@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を非難する；を告訴する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "She accused me of having spread rumors about her father.",
       "sentence-jp": "彼女は自分の父親に関するうわさを広めたことで私を非難した。"
     }

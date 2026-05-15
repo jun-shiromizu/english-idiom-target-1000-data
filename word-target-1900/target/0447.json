@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "自信；信頼；秘密",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The teacher's praise for her schoolwork strengthened her confidence.",
       "sentence-jp": "彼女の学業に対する教師の賞賛が彼女の自信を強めた。"
     }

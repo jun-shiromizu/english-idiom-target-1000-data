@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "論理；道理；論理学",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The speaker explained his main point using clear logic.",
       "sentence-jp": "その演説者は明快な論理を使って自身の要点を説明した。"
     }

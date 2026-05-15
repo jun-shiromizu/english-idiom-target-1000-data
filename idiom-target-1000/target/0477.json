@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "(光・音・においなど)を発する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "synonyms": [
         "give out ~",
         "produce",

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "逆説；矛盾",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Fighting a war in order to bring peace is a paradox.",
       "sentence-jp": "平和をもたらすために戦争を行うことは逆説である。"
     }

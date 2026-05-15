@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "期間；範囲",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Good diet is important for lengthening our life span.",
       "sentence-jp": "体によい食事は私たちの寿命を延ばすのに重要である。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を具現する；を包含する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The law must embody the concept of justice.",
       "sentence-jp": "法律は正義の概念を具現しなければならない。"
     }

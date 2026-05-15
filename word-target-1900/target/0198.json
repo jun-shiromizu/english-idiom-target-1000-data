@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "化学の，化学的な",
+      "partOfSpeech": "adjective",
+      "choiceType": "adjective",
       "example-sentence": "Soda water is created by a chemical reaction.",
       "sentence-jp": "炭酸水は化学反応によって作られる。"
     }

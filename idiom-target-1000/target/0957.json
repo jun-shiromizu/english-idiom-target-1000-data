@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "〜に(も)かかわらず、〜に関係なく",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "without regard to ~",
         "irrespective of ~"

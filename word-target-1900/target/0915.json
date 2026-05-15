@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "をつかむ；を横取りする；を急いで食べる",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "She grabbed the handrail to stop herself from falling.",
       "sentence-jp": "彼女は倒れないように手すりをつかんだ。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "失明する",
+      "partOfSpeech": "verb",
+      "choiceType": "intransitive-verb",
       "example-sentence": "Helen Keller went blind and deaf from an unknown illness when she was 19 months old.",
       "sentence-jp": "ヘレン・ケラーは生後19か月のときに未知の病気で失明し、聴覚も失った。"
     }

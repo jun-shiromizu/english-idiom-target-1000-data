@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "をまねる；を模造する",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "Children imitate the actions of others.",
       "sentence-jp": "子供は他人の行動をまねる。"
     }

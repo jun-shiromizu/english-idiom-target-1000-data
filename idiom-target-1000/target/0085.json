@@ -1,16 +1,18 @@
-  {
-    "number": "0085",
-    "idioms": [
-      "think over ~"
-    ],
-    "means": [
-      {
-        "idiom-jp": "〜をよく考える",
-        "example-sentence": "Can I have a few days to think it over before deciding?",
-        "sentence-jp": "決める前にそのことについてよく考えるために数日いただけますか。"
-      }
-    ],
-    "notes": [
-      "think 〜 over の語順も可。"
-    ]
-  }
+{
+  "number": "0085",
+  "idioms": [
+    "think over ~"
+  ],
+  "means": [
+    {
+      "idiom-jp": "〜をよく考える",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
+      "example-sentence": "Can I have a few days to think it over before deciding?",
+      "sentence-jp": "決める前にそのことについてよく考えるために数日いただけますか。"
+    }
+  ],
+  "notes": [
+    "think 〜 over の語順も可。"
+  ]
+}

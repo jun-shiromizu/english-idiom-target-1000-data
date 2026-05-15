@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "をかき回す；を揺り動かす",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "She stirred her tea with a spoon.",
       "sentence-jp": "彼女はスプーンで紅茶をかき混ぜた。"
     }

@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "起こる；心に浮かぶ；現れる",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "Forest fires often occur in California.",
       "sentence-jp": "カリフォルニア州では森林火災がよく起こる。"
     }

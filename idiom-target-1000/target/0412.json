@@ -6,11 +6,15 @@
   "means": [
     {
       "idiom-jp": "〜のため[結果]である",
+      "partOfSpeech": "preposition",
+      "choiceType": "prepositional-phrase",
       "example-sentence": "Many people think this year’s potato crop failure was due to unusual weather.",
       "sentence-jp": "多くの人が今年のジャガイモの不作は異常気象のためであったと考えている。"
     },
     {
       "idiom-jp": "(be due to do で)…する予定である",
+      "partOfSpeech": "phrase",
+      "choiceType": "idiomatic-expression",
       "synonyms": [
         "be scheduled to do"
       ],

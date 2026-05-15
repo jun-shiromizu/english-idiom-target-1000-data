@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "を明確にする",
+      "partOfSpeech": "verb",
+      "choiceType": "transitive-verb",
       "example-sentence": "The man clarified the main point of his presentation.",
       "sentence-jp": "その男性は自分のプレゼンの最重要ポイントを明確にした。"
     }

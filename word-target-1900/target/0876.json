@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（地方）議会；評議会；（公の）会議",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "The town council decided to cut down the roadside trees.",
       "sentence-jp": "町議会は道路わきの木を切り倒すことに決めた。"
     }

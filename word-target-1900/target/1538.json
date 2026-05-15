@@ -6,6 +6,8 @@
   "means": [
     {
       "idiom-jp": "（閉じたもの）を開く；を明らかにする；開く；明らかになる",
+      "partOfSpeech": "noun",
+      "choiceType": "noun",
       "example-sentence": "She unfolded the letter inside the envelope.",
       "sentence-jp": "彼女は封筒の中の手紙を開いた。"
     }
