@@ -1,0 +1,14 @@
+{
+  "number": "1009",
+  "idioms": [
+    "exclude"
+  ],
+  "means": [
+    {
+      "idiom-jp": "を除外する（⇔include を含む）",
+      "example-sentence": "Tax was excluded from the price.",
+      "sentence-jp": "税金は価格から除外されていた。"
+    }
+  ],
+  "notes": []
+}

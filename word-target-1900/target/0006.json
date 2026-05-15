@@ -1,0 +1,14 @@
+{
+  "number": "0006",
+  "idioms": [
+    "include"
+  ],
+  "means": [
+    {
+      "idiom-jp": "を含む（⇔ exclude ⇒ 1009）",
+      "example-sentence": "Jane's work includes typing letters and making appointments.",
+      "sentence-jp": "ジェーンの仕事は手紙をタイプしたり，アポを取ったりすることを含む。"
+    }
+  ],
+  "notes": []
+}
