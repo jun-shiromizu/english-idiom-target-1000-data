@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "Five students were absent from school today.",
-      "sentence-jp": "今日、5人の生徒が学校を欠席していた。"
+      "sentence-jp": "今日、5人の生徒が学校を欠席していた。",
+      "cloze": {
+        "maskedText": "Five students were ____ school today.",
+        "answerBase": "be absent from ~",
+        "answerSurface": "absent from",
+        "choices": [
+          "absent from",
+          "present at",
+          "close to",
+          "interested in"
+        ]
+      }
     }
   ],
   "notes": [

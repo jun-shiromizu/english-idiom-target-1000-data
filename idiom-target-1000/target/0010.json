@@ -13,7 +13,18 @@
         "on schedule"
       ],
       "example-sentence": "We have to work harder, or we won't finish this project on time.",
-      "sentence-jp": "私たちはもっと一生懸命働かねばならない。さもないとこの計画は時間どおりに終わらないだろう。"
+      "sentence-jp": "私たちはもっと一生懸命働かねばならない。さもないとこの計画は時間どおりに終わらないだろう。",
+      "cloze": {
+        "maskedText": "We have to work harder, or we won't finish this project ____.",
+        "answerBase": "on time",
+        "answerSurface": "on time",
+        "choices": [
+          "on time",
+          "ahead of schedule",
+          "without delay",
+          "by tomorrow"
+        ]
+      }
     }
   ],
   "notes": [

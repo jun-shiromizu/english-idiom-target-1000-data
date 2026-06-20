@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Parents are responsible for taking care of their children.",
-      "sentence-jp": "親には自分たちの子供の面倒を見ることに対して責任がある。"
+      "sentence-jp": "親には自分たちの子供の面倒を見ることに対して責任がある。",
+      "cloze": {
+        "maskedText": "Parents are ____ taking care of their children.",
+        "answerBase": "be responsible for ~",
+        "answerSurface": "responsible for",
+        "choices": [
+          "responsible for",
+          "interested in",
+          "proud of",
+          "known for"
+        ]
+      }
     }
   ],
   "notes": [

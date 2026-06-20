@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "What I cannot understand is why he is not satisfied with his job.",
-      "sentence-jp": "私が理解できないのは、彼がなぜ自分の仕事に満足していないのかということだ。"
+      "sentence-jp": "私が理解できないのは、彼がなぜ自分の仕事に満足していないのかということだ。",
+      "cloze": {
+        "maskedText": "What I cannot understand is why he is not ____ his job.",
+        "answerBase": "be satisfied with ~",
+        "answerSurface": "satisfied with",
+        "choices": [
+          "satisfied with",
+          "disappointed with",
+          "bored with",
+          "familiar with"
+        ]
+      }
     }
   ],
   "notes": [

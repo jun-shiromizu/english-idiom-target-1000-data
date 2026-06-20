@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "quantity-expression",
       "example-sentence": "I introduced myself in front of dozens of new students yesterday.",
-      "sentence-jp": "私は昨日、何十人もの新入生の前で自己紹介をした。"
+      "sentence-jp": "私は昨日、何十人もの新入生の前で自己紹介をした。",
+      "cloze": {
+        "maskedText": "I introduced myself in front of ____ new students yesterday.",
+        "answerBase": "dozens of ~",
+        "answerSurface": "dozens of",
+        "choices": [
+          "dozens of",
+          "hundreds of",
+          "a handful of",
+          "a number of"
+        ]
+      }
     }
   ],
   "notes": [

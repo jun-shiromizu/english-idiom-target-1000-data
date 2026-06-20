@@ -10,7 +10,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "The recent typhoon did a great deal of damage to rice crops.",
-      "sentence-jp": "先ごろの台風は米作に大きな被害を与えた。"
+      "sentence-jp": "先ごろの台風は米作に大きな被害を与えた。",
+      "cloze": {
+        "maskedText": "The recent typhoon did ____ damage to rice crops.",
+        "answerBase": "a great deal (of ~)",
+        "answerSurface": "a great deal of",
+        "choices": [
+          "a great deal of",
+          "a little bit of",
+          "a lot of",
+          "a small amount of"
+        ]
+      }
     }
   ],
   "notes": [

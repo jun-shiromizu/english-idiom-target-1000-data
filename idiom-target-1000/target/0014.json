@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "From the beginning I was aware of this misunderstanding between us.",
-      "sentence-jp": "私は最初から私たちの間でのこの誤解に気がついていた。"
+      "sentence-jp": "私は最初から私たちの間でのこの誤解に気がついていた。",
+      "cloze": {
+        "maskedText": "From the beginning I was ____ this misunderstanding between us.",
+        "answerBase": "be aware of ~",
+        "answerSurface": "aware of",
+        "choices": [
+          "aware of",
+          "interested in",
+          "satisfied with",
+          "responsible for"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "It's important to keep information up to date.",
-      "sentence-jp": "情報を常に最新にしておくことが大切だ。"
+      "sentence-jp": "情報を常に最新にしておくことが大切だ。",
+      "cloze": {
+        "maskedText": "It's important to keep information ____.",
+        "answerBase": "up to date",
+        "answerSurface": "up to date",
+        "choices": [
+          "up to date",
+          "current",
+          "accurate",
+          "available"
+        ]
+      }
     }
   ],
   "notes": [

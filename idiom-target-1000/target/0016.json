@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Tina is capable of speaking three foreign languages, including German.",
-      "sentence-jp": "ティーナはドイツ語を含む3つの外国語を話すことができる。"
+      "sentence-jp": "ティーナはドイツ語を含む3つの外国語を話すことができる。",
+      "cloze": {
+        "maskedText": "Tina is ____ speaking three foreign languages, including German.",
+        "answerBase": "be capable of ~",
+        "answerSurface": "capable of",
+        "choices": [
+          "capable of",
+          "afraid of",
+          "interested in",
+          "proud of"
+        ]
+      }
     }
   ],
   "notes": [

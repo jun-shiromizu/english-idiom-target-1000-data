@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Don't be afraid of making mistakes when you are learning a second language.",
-      "sentence-jp": "第2言語を学習しているときは間違えることを恐れるな。"
+      "sentence-jp": "第2言語を学習しているときは間違えることを恐れるな。",
+      "cloze": {
+        "maskedText": "Don't be ____ making mistakes when you are learning a second language.",
+        "answerBase": "be afraid of ~",
+        "answerSurface": "afraid of",
+        "choices": [
+          "afraid of",
+          "sure about",
+          "capable of",
+          "tired of"
+        ]
+      }
     }
   ],
   "notes": [

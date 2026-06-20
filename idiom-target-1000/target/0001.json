@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "quantity-expression",
       "example-sentence": "I handed him a piece of paper so that he could write down all the names.",
-      "sentence-jp": "彼がすべての名前を書けるように私は彼に1枚の紙を手渡した。"
+      "sentence-jp": "彼がすべての名前を書けるように私は彼に1枚の紙を手渡した。",
+      "cloze": {
+        "maskedText": "I handed him ____ paper so that he could write down all the names.",
+        "answerBase": "a piece of ~",
+        "answerSurface": "a piece of",
+        "choices": [
+          "a piece of",
+          "a pile of",
+          "a lot of",
+          "a sheet of"
+        ]
+      }
     }
   ],
   "notes": [

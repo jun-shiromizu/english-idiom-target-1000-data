@@ -9,7 +9,18 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "I'm not feeling well and wonder if there is a doctor on duty at the hotel.",
-      "sentence-jp": "私は気分がすぐれないのだが、ホテルに当直医がいるだろうか。"
+      "sentence-jp": "私は気分がすぐれないのだが、ホテルに当直医がいるだろうか。",
+      "cloze": {
+        "maskedText": "I'm not feeling well and wonder if there is a doctor ____ at the hotel.",
+        "answerBase": "on duty",
+        "answerSurface": "on duty",
+        "choices": [
+          "on duty",
+          "on call",
+          "on leave",
+          "in training"
+        ]
+      }
     }
   ],
   "notes": [

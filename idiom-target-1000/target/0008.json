@@ -12,7 +12,18 @@
         "on time"
       ],
       "example-sentence": "Do you think we can get back in time for dinner?",
-      "sentence-jp": "私たちは夕食に間に合うように戻れると思いますか。"
+      "sentence-jp": "私たちは夕食に間に合うように戻れると思いますか。",
+      "cloze": {
+        "maskedText": "Do you think we can get back ____ dinner?",
+        "answerBase": "in time for ~",
+        "answerSurface": "in time for",
+        "choices": [
+          "in time for",
+          "too late for",
+          "well before",
+          "just after"
+        ]
+      }
     },
     {
       "idiom-jp": "やがて，そのうちに",
@@ -23,7 +34,18 @@
         "in due course [time]"
       ],
       "example-sentence": "I'm afraid these small changes will have a big impact in time.",
-      "sentence-jp": "こうした小さな変化がやがて大きな影響を与えるのではないかと思う。"
+      "sentence-jp": "こうした小さな変化がやがて大きな影響を与えるのではないかと思う。",
+      "cloze": {
+        "maskedText": "I'm afraid these small changes will have a big impact ____.",
+        "answerBase": "in time",
+        "answerSurface": "in time",
+        "choices": [
+          "in time",
+          "eventually",
+          "before long",
+          "sooner or later"
+        ]
+      }
     }
   ],
   "notes": [

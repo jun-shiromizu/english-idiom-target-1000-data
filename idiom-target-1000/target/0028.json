@@ -12,7 +12,18 @@
         "be well-to-do"
       ],
       "example-sentence": "Maki, who is married, asked her father for financial support though she is quite well off.",
-      "sentence-jp": "マキは既婚者だが、たいへん裕福であるのに父親に財政的な支援を求めた。"
+      "sentence-jp": "マキは既婚者だが、たいへん裕福であるのに父親に財政的な支援を求めた。",
+      "cloze": {
+        "maskedText": "Maki, who is married, asked her father for financial support though she is quite ____.",
+        "answerBase": "be well off",
+        "answerSurface": "well off",
+        "choices": [
+          "well off",
+          "independent",
+          "optimistic",
+          "well known"
+        ]
+      }
     }
   ],
   "notes": [

@@ -13,7 +13,18 @@
         "on time"
       ],
       "example-sentence": "The traffic was heavy and the buses weren't running on schedule.",
-      "sentence-jp": "交通量が激しく、バスは予定どおりに運行していなかった。"
+      "sentence-jp": "交通量が激しく、バスは予定どおりに運行していなかった。",
+      "cloze": {
+        "maskedText": "The traffic was heavy and the buses weren't running ____.",
+        "answerBase": "on schedule",
+        "answerSurface": "on schedule",
+        "choices": [
+          "on schedule",
+          "on time",
+          "without delay",
+          "as usual"
+        ]
+      }
     }
   ],
   "notes": []

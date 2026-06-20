@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Yui is married to Hiroki, a dentist.",
-      "sentence-jp": "ユイは歯科医師のヒロキと結婚している。"
+      "sentence-jp": "ユイは歯科医師のヒロキと結婚している。",
+      "cloze": {
+        "maskedText": "Yui is ____ Hiroki, a dentist.",
+        "answerBase": "be married to ~",
+        "answerSurface": "married to",
+        "choices": [
+          "married to",
+          "related to",
+          "engaged to",
+          "kind to"
+        ]
+      }
     }
   ],
   "notes": [

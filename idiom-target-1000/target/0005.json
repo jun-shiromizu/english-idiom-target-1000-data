@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "quantity-expression",
       "example-sentence": "Be sure to get plenty of sleep; sleep is the key to good health.",
-      "sentence-jp": "十分な睡眠をとるようにしなさい。睡眠は健康のかぎなのです。"
+      "sentence-jp": "十分な睡眠をとるようにしなさい。睡眠は健康のかぎなのです。",
+      "cloze": {
+        "maskedText": "Be sure to get ____ sleep; sleep is the key to good health.",
+        "answerBase": "plenty of ~",
+        "answerSurface": "plenty of",
+        "choices": [
+          "plenty of",
+          "a little",
+          "hours of",
+          "a lack of"
+        ]
+      }
     }
   ],
   "notes": [

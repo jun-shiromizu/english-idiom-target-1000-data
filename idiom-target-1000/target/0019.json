@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I like the fact that our group is composed of different types of individuals.",
-      "sentence-jp": "私たちのグループがさまざまなタイプの個人で構成されている事実を私は気に入っている。"
+      "sentence-jp": "私たちのグループがさまざまなタイプの個人で構成されている事実を私は気に入っている。",
+      "cloze": {
+        "maskedText": "I like the fact that our group is ____ different types of individuals.",
+        "answerBase": "be composed of ~",
+        "answerSurface": "composed of",
+        "choices": [
+          "composed of",
+          "filled with",
+          "surrounded by",
+          "based on"
+        ]
+      }
     }
   ],
   "notes": [

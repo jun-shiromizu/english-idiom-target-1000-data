@@ -9,21 +9,54 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "What would it feel like to have to stay at home every day?",
-      "sentence-jp": "毎日在宅していなければならないというのは、どんなだろうか。"
+      "sentence-jp": "毎日在宅していなければならないというのは、どんなだろうか。",
+      "cloze": {
+        "maskedText": "What would it feel like to have to stay ____ every day?",
+        "answerBase": "at home",
+        "answerSurface": "at home",
+        "choices": [
+          "at home",
+          "at school",
+          "in public",
+          "on duty"
+        ]
+      }
     },
     {
       "idiom-jp": "くつろいで",
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "Please make yourself at home during your stay with us.",
-      "sentence-jp": "わが家での滞在中はどうぞくつろいでください。"
+      "sentence-jp": "わが家での滞在中はどうぞくつろいでください。",
+      "cloze": {
+        "maskedText": "Please make yourself ____ during your stay with us.",
+        "answerBase": "at home",
+        "answerSurface": "at home",
+        "choices": [
+          "at home",
+          "at ease",
+          "comfortable",
+          "relaxed"
+        ]
+      }
     },
     {
       "idiom-jp": "精通して",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Yoshito is completely at home in geometry.",
-      "sentence-jp": "ヨシトは幾何学に完璧に精通している。"
+      "sentence-jp": "ヨシトは幾何学に完璧に精通している。",
+      "cloze": {
+        "maskedText": "Yoshito is completely ____ geometry.",
+        "answerBase": "at home in ~",
+        "answerSurface": "at home in",
+        "choices": [
+          "at home in",
+          "familiar with",
+          "good at",
+          "interested in"
+        ]
+      }
     }
   ],
   "notes": [

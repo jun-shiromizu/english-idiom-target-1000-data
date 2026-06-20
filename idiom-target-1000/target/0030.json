@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "The tourist said he was willing to pay extra for the double room if it really had a good view.",
-      "sentence-jp": "その旅行者は、本当によい眺めならダブルルームの追加料金を払ってもかまわないと言った。"
+      "sentence-jp": "その旅行者は、本当によい眺めならダブルルームの追加料金を払ってもかまわないと言った。",
+      "cloze": {
+        "maskedText": "The tourist said he was ____ pay extra for the double room if it really had a good view.",
+        "answerBase": "be willing to do",
+        "answerSurface": "willing to",
+        "choices": [
+          "willing to",
+          "ready to",
+          "afraid to",
+          "reluctant to"
+        ]
+      }
     }
   ],
   "notes": [

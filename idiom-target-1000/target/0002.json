@@ -12,7 +12,18 @@
         "two"
       ],
       "example-sentence": "My mother wanted me to buy a couple of sandwiches on my way home.",
-      "sentence-jp": "母は私に、帰宅の途中で2個のサンドイッチを買ってきてもらいたかった。"
+      "sentence-jp": "母は私に、帰宅の途中で2個のサンドイッチを買ってきてもらいたかった。",
+      "cloze": {
+        "maskedText": "My mother wanted me to buy ____ sandwiches on my way home.",
+        "answerBase": "a couple of ~",
+        "answerSurface": "a couple of",
+        "choices": [
+          "a couple of",
+          "a number of",
+          "a handful of",
+          "a bunch of"
+        ]
+      }
     },
     {
       "idiom-jp": "2, 3の〜",
@@ -22,7 +33,18 @@
         "a few ~"
       ],
       "example-sentence": "Take a couple of sweaters with you; it might be cold up there.",
-      "sentence-jp": "2, 3枚のセーターを持って行きなさい。その上のほうは寒いかもしれません。"
+      "sentence-jp": "2, 3枚のセーターを持って行きなさい。その上のほうは寒いかもしれません。",
+      "cloze": {
+        "maskedText": "Take ____ sweaters with you; it might be cold up there.",
+        "answerBase": "a couple of ~",
+        "answerSurface": "a couple of",
+        "choices": [
+          "a couple of",
+          "a number of",
+          "a handful of",
+          "a bunch of"
+        ]
+      }
     }
   ],
   "notes": [

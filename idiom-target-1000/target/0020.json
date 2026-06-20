@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "These papers are based on his long research.",
-      "sentence-jp": "これらの論文は彼の長年の研究に基づいている。"
+      "sentence-jp": "これらの論文は彼の長年の研究に基づいている。",
+      "cloze": {
+        "maskedText": "These papers are ____ his long research.",
+        "answerBase": "be based on ~",
+        "answerSurface": "based on",
+        "choices": [
+          "based on",
+          "known for",
+          "related to",
+          "combined with"
+        ]
+      }
     }
   ],
   "notes": [

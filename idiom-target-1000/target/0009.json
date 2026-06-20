@@ -13,7 +13,18 @@
         "(all) the rage"
       ],
       "example-sentence": "Our car was red because the color was in fashion in those days.",
-      "sentence-jp": "当時その色がはやっていたので、私たちの車は赤だった。"
+      "sentence-jp": "当時その色がはやっていたので、私たちの車は赤だった。",
+      "cloze": {
+        "maskedText": "Our car was red because the color was ____ in those days.",
+        "answerBase": "in fashion",
+        "answerSurface": "in fashion",
+        "choices": [
+          "in fashion",
+          "in demand",
+          "out of date",
+          "on sale"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "The special golf ball used then was made of feathers instead of stone.",
-      "sentence-jp": "そのとき使われた特別なゴルフボールは石の代わりに羽でできていた。"
+      "sentence-jp": "そのとき使われた特別なゴルフボールは石の代わりに羽でできていた。",
+      "cloze": {
+        "maskedText": "The special golf ball used then was ____ feathers instead of stone.",
+        "answerBase": "be made of ~",
+        "answerSurface": "made of",
+        "choices": [
+          "made of",
+          "composed of",
+          "filled with",
+          "covered with"
+        ]
+      }
     }
   ],
   "notes": [
