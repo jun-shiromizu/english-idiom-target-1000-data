@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She realized that she was put in a difficult position.",
-      "sentence-jp": "彼女は自分が難しい立場に置かれていることに気づいた。"
+      "sentence-jp": "彼女は自分が難しい立場に置かれていることに気づいた。",
+      "cloze": {
+        "maskedText": "She ____ that she was put in a difficult position.",
+        "answerBase": "realize",
+        "answerSurface": "realized",
+        "choices": [
+          "realized",
+          "denied",
+          "imagined",
+          "created"
+        ]
+      }
     }
   ],
   "notes": []

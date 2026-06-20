@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Eco-friendly cars consume less fuel than traditional gas-based cars.",
-      "sentence-jp": "エコカーは従来のガソリン車に比べてより少ない燃料を消費する。"
+      "sentence-jp": "エコカーは従来のガソリン車に比べてより少ない燃料を消費する。",
+      "cloze": {
+        "maskedText": "Eco-friendly cars ____ less fuel than traditional gas-based cars.",
+        "answerBase": "consume",
+        "answerSurface": "consume",
+        "choices": [
+          "consume",
+          "produce",
+          "release",
+          "deliver"
+        ]
+      }
     }
   ],
   "notes": []

@@ -14,7 +14,18 @@
         "because of ~"
       ],
       "example-sentence": "The price of cabbage has gone up sharply, mainly owing to the bad weather.",
-      "sentence-jp": "主に悪天候のためにキャベツの値段が急騰している。"
+      "sentence-jp": "主に悪天候のためにキャベツの値段が急騰している。",
+      "cloze": {
+        "maskedText": "The price of cabbage has gone up sharply, mainly ____ the bad weather.",
+        "answerBase": "owing to ~",
+        "answerSurface": "owing to",
+        "choices": [
+          "owing to",
+          "looking at",
+          "leading to",
+          "waiting for"
+        ]
+      }
     }
   ],
   "notes": [

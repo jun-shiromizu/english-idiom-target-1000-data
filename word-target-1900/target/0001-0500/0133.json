@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "I respect the professor because of his unique viewpoints on literature.",
-      "sentence-jp": "文学に対する独自の観点ゆえに，私は教授を尊敬する。"
+      "sentence-jp": "文学に対する独自の観点ゆえに，私は教授を尊敬する。",
+      "cloze": {
+        "maskedText": "I ____ the professor because of his unique viewpoints on literature.",
+        "answerBase": "respect",
+        "answerSurface": "respect",
+        "choices": [
+          "respect",
+          "approach",
+          "invite",
+          "question"
+        ]
+      }
     }
   ],
   "notes": []

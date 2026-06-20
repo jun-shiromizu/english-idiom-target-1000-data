@@ -13,7 +13,18 @@
         "on hand"
       ],
       "example-sentence": "I’m trying to repair this on my own, so I need to keep this manual close at hand.",
-      "sentence-jp": "私は独力でこれを修理しようとしているので、このマニュアルをすぐ近くに置いておく必要がある。"
+      "sentence-jp": "私は独力でこれを修理しようとしているので、このマニュアルをすぐ近くに置いておく必要がある。",
+      "cloze": {
+        "maskedText": "I’m trying to repair this on my own, so I need to keep this manual ____.",
+        "answerBase": "close at hand",
+        "answerSurface": "close at hand",
+        "choices": [
+          "close at hand",
+          "for the present",
+          "in short",
+          "with all the evidence"
+        ]
+      }
     }
   ],
   "notes": [

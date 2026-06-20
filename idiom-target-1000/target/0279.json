@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "It was embarrassing that so many people saw me wearing my T-shirt inside out.",
-      "sentence-jp": "私がTシャツを裏返しに着ているのをそんなにも多くの人に見られたのは恥ずかしいことだった。"
+      "sentence-jp": "私がTシャツを裏返しに着ているのをそんなにも多くの人に見られたのは恥ずかしいことだった。",
+      "cloze": {
+        "maskedText": "It was embarrassing that so many people saw me wearing my T-shirt ____.",
+        "answerBase": "inside out",
+        "answerSurface": "inside out",
+        "choices": [
+          "inside out",
+          "upside down",
+          "in the distance",
+          "by chance"
+        ]
+      }
     }
   ],
   "notes": [

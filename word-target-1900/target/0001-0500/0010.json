@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The manufacturer produces home electrical appliances.",
-      "sentence-jp": "その製造業者は家庭用電化製品を生産している。"
+      "sentence-jp": "その製造業者は家庭用電化製品を生産している。",
+      "cloze": {
+        "maskedText": "The manufacturer ____ home electrical appliances.",
+        "answerBase": "produce",
+        "answerSurface": "produces",
+        "choices": [
+          "produces",
+          "repairs",
+          "borrows",
+          "wastes"
+        ]
+      }
     }
   ],
   "notes": []

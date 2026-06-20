@@ -13,7 +13,18 @@
         "dispense with ~"
       ],
       "example-sentence": "As a longtime worker, Jim was indispensable to a small company like my father’s.",
-      "sentence-jp": "長く勤めてきた人として、ジムは私の父の会社のような小さい会社にとっては不可欠な人物だった。"
+      "sentence-jp": "長く勤めてきた人として、ジムは私の父の会社のような小さい会社にとっては不可欠な人物だった。",
+      "cloze": {
+        "maskedText": "As a longtime worker, Jim was ____ a small company like my father’s.",
+        "answerBase": "be indispensable to ~",
+        "answerSurface": "indispensable to",
+        "choices": [
+          "indispensable to",
+          "equal to",
+          "apt to",
+          "in a sense"
+        ]
+      }
     }
   ],
   "notes": [

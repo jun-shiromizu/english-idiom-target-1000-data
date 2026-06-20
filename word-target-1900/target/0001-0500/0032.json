@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She measures her temperature every morning.",
-      "sentence-jp": "彼女は毎朝体温を測る。"
+      "sentence-jp": "彼女は毎朝体温を測る。",
+      "cloze": {
+        "maskedText": "She ____ her temperature every morning.",
+        "answerBase": "measure",
+        "answerSurface": "measures",
+        "choices": [
+          "measures",
+          "lowers",
+          "hides",
+          "doubts"
+        ]
+      }
     }
   ],
   "notes": []

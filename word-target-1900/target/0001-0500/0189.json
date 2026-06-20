@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Academic achievement is traditionally measured through examination.",
-      "sentence-jp": "学業成績は伝統的に試験によって評価される。"
+      "sentence-jp": "学業成績は伝統的に試験によって評価される。",
+      "cloze": {
+        "maskedText": "____ achievement is traditionally measured through examination.",
+        "answerBase": "academic",
+        "answerSurface": "Academic",
+        "choices": [
+          "Academic",
+          "Plastic",
+          "Silent",
+          "Private"
+        ]
+      }
     }
   ],
   "notes": []

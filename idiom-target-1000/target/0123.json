@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I don't know enough about this problem as a whole to propose how to solve it.",
-      "sentence-jp": "私は解決方法を提案するほどにはこの問題全体についてわかっていない。"
+      "sentence-jp": "私は解決方法を提案するほどにはこの問題全体についてわかっていない。",
+      "cloze": {
+        "maskedText": "I don't know enough about this problem ____ to propose how to solve it.",
+        "answerBase": "as a whole",
+        "answerSurface": "as a whole",
+        "choices": [
+          "as a whole",
+          "as usual",
+          "at random",
+          "by mistake"
+        ]
+      }
     }
   ],
   "notes": [

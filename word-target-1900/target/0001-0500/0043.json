@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He started to work for an insurance company three years ago.",
-      "sentence-jp": "彼は3年前に保険会社で働き始めた。"
+      "sentence-jp": "彼は3年前に保険会社で働き始めた。",
+      "cloze": {
+        "maskedText": "He started to work for an insurance ____ three years ago.",
+        "answerBase": "company",
+        "answerSurface": "company",
+        "choices": [
+          "company",
+          "village",
+          "custom",
+          "engine"
+        ]
+      }
     }
   ],
   "notes": []

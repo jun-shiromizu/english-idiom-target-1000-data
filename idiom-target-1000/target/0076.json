@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "The boy took off the jacket he'd put on just a minute before.",
-      "sentence-jp": "その少年はたった1分前に身につけたジャケットを脱いだ。"
+      "sentence-jp": "その少年はたった1分前に身につけたジャケットを脱いだ。",
+      "cloze": {
+        "maskedText": "The boy took off the jacket he'd ____ just a minute before.",
+        "answerBase": "put on ~",
+        "answerSurface": "put on",
+        "choices": [
+          "put on",
+          "turned on",
+          "picked up",
+          "thrown away"
+        ]
+      }
     }
   ],
   "notes": [

@@ -12,7 +12,18 @@
         "on a par with ~"
       ],
       "example-sentence": "I used to think that diet, exercise and sleeping well are equal to good health.",
-      "sentence-jp": "私は以前は食事、運動、そしてよく寝ることは健康に等しいと考えていた。"
+      "sentence-jp": "私は以前は食事、運動、そしてよく寝ることは健康に等しいと考えていた。",
+      "cloze": {
+        "maskedText": "I used to think that diet, exercise and sleeping well are ____ good health.",
+        "answerBase": "be equal to ~",
+        "answerSurface": "equal to",
+        "choices": [
+          "equal to",
+          "essential to",
+          "indispensable to",
+          "inclined to"
+        ]
+      }
     }
   ],
   "notes": [

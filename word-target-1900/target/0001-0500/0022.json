@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The scandal forced the CEO to resign from his position.",
-      "sentence-jp": "そのスキャンダルはCEO（最高経営責任者）にその地位を辞することを強いた。"
+      "sentence-jp": "そのスキャンダルはCEO（最高経営責任者）にその地位を辞することを強いた。",
+      "cloze": {
+        "maskedText": "The scandal ____ the CEO to resign from his position.",
+        "answerBase": "force",
+        "answerSurface": "forced",
+        "choices": [
+          "forced",
+          "invited",
+          "allowed",
+          "praised"
+        ]
+      }
     }
   ],
   "notes": []

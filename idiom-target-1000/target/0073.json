@@ -12,7 +12,18 @@
         "prove"
       ],
       "example-sentence": "The e-mail address she'd given me turned out to be completely wrong.",
-      "sentence-jp": "彼女が私にくれたメールアドレスがまったく違っていることがわかった。"
+      "sentence-jp": "彼女が私にくれたメールアドレスがまったく違っていることがわかった。",
+      "cloze": {
+        "maskedText": "The e-mail address she'd given me ____ be completely wrong.",
+        "answerBase": "turn out to be ~",
+        "answerSurface": "turned out to",
+        "choices": [
+          "turned out to",
+          "seemed likely to",
+          "managed not to",
+          "came back to"
+        ]
+      }
     },
     {
       "idiom-jp": "〜を産出する",
@@ -22,14 +33,36 @@
         "produce"
       ],
       "example-sentence": "The speaker said, \"Even a rural school turns out a competent scientist once in a while.\"",
-      "sentence-jp": "講演者は「地方の学校でさえ時折有能な科学者を生み出すことがある」と発言した。"
+      "sentence-jp": "講演者は「地方の学校でさえ時折有能な科学者を生み出すことがある」と発言した。",
+      "cloze": {
+        "maskedText": "The speaker said, \"Even a rural school ____ a competent scientist once in a while.\"",
+        "answerBase": "turn out ~",
+        "answerSurface": "turns out",
+        "choices": [
+          "turns out",
+          "points at",
+          "looks over",
+          "gives up"
+        ]
+      }
     },
     {
       "idiom-jp": "（催しなどに）繰り出す",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Hundreds of villagers turned out for the circus.",
-      "sentence-jp": "何百人もの村人たちがサーカスに繰り出した。"
+      "sentence-jp": "何百人もの村人たちがサーカスに繰り出した。",
+      "cloze": {
+        "maskedText": "Hundreds of villagers ____ for the circus.",
+        "answerBase": "turn out for ~",
+        "answerSurface": "turned out",
+        "choices": [
+          "turned out",
+          "looked in",
+          "broke up",
+          "gave back"
+        ]
+      }
     }
   ],
   "notes": [

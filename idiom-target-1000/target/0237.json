@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "We're now corresponding with a few students in Canada in chat rooms on the internet.",
-      "sentence-jp": "私たちは現在, インターネット上のチャットルームでカナダの数人の生徒とやりとりをしている。"
+      "sentence-jp": "私たちは現在, インターネット上のチャットルームでカナダの数人の生徒とやりとりをしている。",
+      "cloze": {
+        "maskedText": "We're now ____ a few students in Canada in chat rooms on the internet.",
+        "answerBase": "correspond with ~",
+        "answerSurface": "corresponding with",
+        "choices": [
+          "corresponding with",
+          "corresponding to",
+          "applying for",
+          "hitting on"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "It is feared that the impact of the economic depression will be felt for many years to come.",
-      "sentence-jp": "経済不況の影響は今後何年にもわたって感じられるだろうと懸念されている。"
+      "sentence-jp": "経済不況の影響は今後何年にもわたって感じられるだろうと懸念されている。",
+      "cloze": {
+        "maskedText": "It is feared that the impact of the economic depression will be felt for many years ____.",
+        "answerBase": "~ to come",
+        "answerSurface": "to come",
+        "choices": [
+          "to come",
+          "to go",
+          "for good",
+          "in advance"
+        ]
+      }
     }
   ],
   "notes": [

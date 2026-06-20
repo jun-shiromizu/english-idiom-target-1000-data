@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "She can adapt to various situations thanks to her positive attitude.",
-      "sentence-jp": "彼女はその前向きな態度のおかげで，さまざまな状況に適応することができる。"
+      "sentence-jp": "彼女はその前向きな態度のおかげで，さまざまな状況に適応することができる。",
+      "cloze": {
+        "maskedText": "She can ____ to various situations thanks to her positive attitude.",
+        "answerBase": "adapt to",
+        "answerSurface": "adapt",
+        "choices": [
+          "adapt",
+          "refer",
+          "compare",
+          "return"
+        ]
+      }
     }
   ],
   "notes": []

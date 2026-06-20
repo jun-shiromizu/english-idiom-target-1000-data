@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Tom took to running long distances in an attempt to lose some weight.",
-      "sentence-jp": "トムは体重を落とそうと長距離のランニングを始めた。"
+      "sentence-jp": "トムは体重を落とそうと長距離のランニングを始めた。",
+      "cloze": {
+        "maskedText": "Tom ____ running long distances in an attempt to lose some weight.",
+        "answerBase": "take to ~",
+        "answerSurface": "took to",
+        "choices": [
+          "took to",
+          "took up",
+          "took in",
+          "took on"
+        ]
+      }
     },
     {
       "idiom-jp": "〜を好きになる",
@@ -19,7 +30,18 @@
         "hit it off with ~"
       ],
       "example-sentence": "My sister took to her new teacher as soon as she met her.",
-      "sentence-jp": "私の妹は新任の先生に会うとすぐに彼女のことを好きになった。"
+      "sentence-jp": "私の妹は新任の先生に会うとすぐに彼女のことを好きになった。",
+      "cloze": {
+        "maskedText": "My sister ____ her new teacher as soon as she met her.",
+        "answerBase": "take to ~",
+        "answerSurface": "took to",
+        "choices": [
+          "took to",
+          "took in",
+          "turned in",
+          "made for"
+        ]
+      }
     }
   ],
   "notes": [

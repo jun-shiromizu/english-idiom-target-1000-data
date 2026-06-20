@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "There is clear evidence that the man did not commit the crime.",
-      "sentence-jp": "その男性は罪を犯していなかったという明白な証拠がある。"
+      "sentence-jp": "その男性は罪を犯していなかったという明白な証拠がある。",
+      "cloze": {
+        "maskedText": "There is clear ____ that the man did not commit the crime.",
+        "answerBase": "evidence",
+        "answerSurface": "evidence",
+        "choices": [
+          "evidence",
+          "weather",
+          "furniture",
+          "traffic"
+        ]
+      }
     }
   ],
   "notes": []

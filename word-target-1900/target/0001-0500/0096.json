@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The train is due to arrive at Nagoya Station in ten minutes.",
-      "sentence-jp": "列車は10分後に名古屋駅に到着する予定である。"
+      "sentence-jp": "列車は10分後に名古屋駅に到着する予定である。",
+      "cloze": {
+        "maskedText": "The train is ____ to arrive at Nagoya Station in ten minutes.",
+        "answerBase": "due to do",
+        "answerSurface": "due",
+        "choices": [
+          "due",
+          "proud",
+          "unable",
+          "eager"
+        ]
+      }
     }
   ],
   "notes": []

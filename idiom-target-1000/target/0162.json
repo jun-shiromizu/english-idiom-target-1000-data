@@ -12,7 +12,18 @@
         "in time"
       ],
       "example-sentence": "I'm sure we'll find out the truth sooner or later.",
-      "sentence-jp": "私たちは, 遅かれ早かれきっと真実を見つけ出すと思う。"
+      "sentence-jp": "私たちは, 遅かれ早かれきっと真実を見つけ出すと思う。",
+      "cloze": {
+        "maskedText": "I'm sure we'll find out the truth ____.",
+        "answerBase": "sooner or later",
+        "answerSurface": "sooner or later",
+        "choices": [
+          "sooner or later",
+          "all at once",
+          "in private",
+          "at random"
+        ]
+      }
     }
   ],
   "notes": []

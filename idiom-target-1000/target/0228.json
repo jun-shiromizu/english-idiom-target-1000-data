@@ -9,14 +9,36 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "What this research has found does not apply to people under 40.",
-      "sentence-jp": "この研究が発見したことは40歳未満の人には当てはまらない。"
+      "sentence-jp": "この研究が発見したことは40歳未満の人には当てはまらない。",
+      "cloze": {
+        "maskedText": "What this research has found does not ____ people under 40.",
+        "answerBase": "apply to ~",
+        "answerSurface": "apply to",
+        "choices": [
+          "apply to",
+          "apply for",
+          "agree to",
+          "occur to"
+        ]
+      }
     },
     {
       "idiom-jp": "(人・場所・組織)に申し込む",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "If you're applying to a university overseas, you'll need some letters of recommendation.",
-      "sentence-jp": "海外の大学に出願する予定なら, 何通かの推薦状が必要になるだろう。"
+      "sentence-jp": "海外の大学に出願する予定なら, 何通かの推薦状が必要になるだろう。",
+      "cloze": {
+        "maskedText": "If you're ____ a university overseas, you'll need some letters of recommendation.",
+        "answerBase": "apply to ~",
+        "answerSurface": "applying to",
+        "choices": [
+          "applying to",
+          "applying for",
+          "agreeing with",
+          "corresponding to"
+        ]
+      }
     }
   ],
   "notes": [

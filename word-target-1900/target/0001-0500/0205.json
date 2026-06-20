@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "I would like to attend the party because I might meet someone famous.",
-      "sentence-jp": "有名人に会えるかもしれないので，私はそのパーティーに出席したい。"
+      "sentence-jp": "有名人に会えるかもしれないので，私はそのパーティーに出席したい。",
+      "cloze": {
+        "maskedText": "I would like to ____ the party because I might meet someone famous.",
+        "answerBase": "attend",
+        "answerSurface": "attend",
+        "choices": [
+          "attend",
+          "cancel",
+          "damage",
+          "replace"
+        ]
+      }
     }
   ],
   "notes": []

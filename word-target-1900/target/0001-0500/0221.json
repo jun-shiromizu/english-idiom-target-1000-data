@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Freud believed that dreams reflected our deepest desires.",
-      "sentence-jp": "フロイトは夢は心の奥底にある願望を反映すると信じていた。"
+      "sentence-jp": "フロイトは夢は心の奥底にある願望を反映すると信じていた。",
+      "cloze": {
+        "maskedText": "Freud believed that dreams ____ our deepest desires.",
+        "answerBase": "reflect",
+        "answerSurface": "reflected",
+        "choices": [
+          "reflected",
+          "protected",
+          "visited",
+          "ignored"
+        ]
+      }
     }
   ],
   "notes": []

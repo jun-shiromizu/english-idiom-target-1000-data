@@ -12,7 +12,18 @@
         "at (the) worst"
       ],
       "example-sentence": "I hear views on the effectiveness of this new medicine are mixed at best.",
-      "sentence-jp": "この新薬の有効性に関する見方はよくても賛否両論だそうだ。"
+      "sentence-jp": "この新薬の有効性に関する見方はよくても賛否両論だそうだ。",
+      "cloze": {
+        "maskedText": "I hear views on the effectiveness of this new medicine are mixed ____.",
+        "answerBase": "at best",
+        "answerSurface": "at best",
+        "choices": [
+          "at best",
+          "at random",
+          "at once",
+          "at large"
+        ]
+      }
     }
   ],
   "notes": [

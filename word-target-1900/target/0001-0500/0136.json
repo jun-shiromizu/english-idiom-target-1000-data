@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "The crime rate in the U.S. has declined steadily.",
-      "sentence-jp": "アメリカにおける犯罪率は着実に減少してきている。"
+      "sentence-jp": "アメリカにおける犯罪率は着実に減少してきている。",
+      "cloze": {
+        "maskedText": "The crime rate in the U.S. has ____ steadily.",
+        "answerBase": "decline",
+        "answerSurface": "declined",
+        "choices": [
+          "declined",
+          "expanded",
+          "wandered",
+          "argued"
+        ]
+      }
     }
   ],
   "notes": []

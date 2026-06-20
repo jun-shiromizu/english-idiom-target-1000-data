@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The company is trying to improve the quality of its products.",
-      "sentence-jp": "その会社は自社製品の質を向上させようとしている。"
+      "sentence-jp": "その会社は自社製品の質を向上させようとしている。",
+      "cloze": {
+        "maskedText": "The company is trying to improve the ____ of its products.",
+        "answerBase": "quality",
+        "answerSurface": "quality",
+        "choices": [
+          "quality",
+          "journey",
+          "posture",
+          "forest"
+        ]
+      }
     }
   ],
   "notes": []

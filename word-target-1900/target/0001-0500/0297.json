@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Students can learn scientific theories through actual experiences.",
-      "sentence-jp": "学生は実際の経験を通して科学的理論を学ぶことができる。"
+      "sentence-jp": "学生は実際の経験を通して科学的理論を学ぶことができる。",
+      "cloze": {
+        "maskedText": "Students can learn scientific theories through ____ experiences.",
+        "answerBase": "actual",
+        "answerSurface": "actual",
+        "choices": [
+          "actual",
+          "legal",
+          "moral",
+          "rare"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,21 +9,54 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "The mother sat up all night waiting for her son to get home.",
-      "sentence-jp": "その母親は息子の帰宅を待って一晩中起きていた。"
+      "sentence-jp": "その母親は息子の帰宅を待って一晩中起きていた。",
+      "cloze": {
+        "maskedText": "The mother ____ all night waiting for her son to get home.",
+        "answerBase": "sit up",
+        "answerSurface": "sat up",
+        "choices": [
+          "sat up",
+          "stood out",
+          "held back",
+          "turned over"
+        ]
+      }
     },
     {
       "idiom-jp": "(寝た状態から)上半身を起こす",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Suddenly, Hayato stopped snoring, sat up, looked around and went back to sleep.",
-      "sentence-jp": "ハヤトは突然いびきを止め、上半身を起こし、周りを見回して、再び寝た。"
+      "sentence-jp": "ハヤトは突然いびきを止め、上半身を起こし、周りを見回して、再び寝た。",
+      "cloze": {
+        "maskedText": "Suddenly, Hayato stopped snoring, ____, looked around and went back to sleep.",
+        "answerBase": "sit up",
+        "answerSurface": "sat up",
+        "choices": [
+          "sat up",
+          "stood out",
+          "turned over",
+          "held back"
+        ]
+      }
     },
     {
       "idiom-jp": "きちんと座る",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Sitting up straight with hands joined in his lap, he remained silent for a long time thinking.",
-      "sentence-jp": "彼はひざの上で両手を重ね、背筋を伸ばしてきちんと座り、考え事をしながら長い間静かにしていた。"
+      "sentence-jp": "彼はひざの上で両手を重ね、背筋を伸ばしてきちんと座り、考え事をしながら長い間静かにしていた。",
+      "cloze": {
+        "maskedText": "____ with hands joined in his lap, he remained silent for a long time thinking.",
+        "answerBase": "sit up",
+        "answerSurface": "Sitting up straight",
+        "choices": [
+          "Sitting up straight",
+          "Staying up straight",
+          "Standing out straight",
+          "Turning over straight"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Bob gave some thought to applying for the big contest.",
-      "sentence-jp": "ボブはその大きなコンテストに応募することについて一考した。"
+      "sentence-jp": "ボブはその大きなコンテストに応募することについて一考した。",
+      "cloze": {
+        "maskedText": "Bob gave some ____ to applying for the big contest.",
+        "answerBase": "thought",
+        "answerSurface": "thought",
+        "choices": [
+          "thought",
+          "tickets",
+          "traffic",
+          "furniture"
+        ]
+      }
     }
   ],
   "notes": []

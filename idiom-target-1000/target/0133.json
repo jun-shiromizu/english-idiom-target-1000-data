@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "In a new place, we have to adapt our way of living more or less to the local culture.",
-      "sentence-jp": "新しい場所では, 私たちは地域の文化に合わせて自分たちの生活の仕方を多かれ少なかれ適応させなければならない。"
+      "sentence-jp": "新しい場所では, 私たちは地域の文化に合わせて自分たちの生活の仕方を多かれ少なかれ適応させなければならない。",
+      "cloze": {
+        "maskedText": "In a new place, we have to adapt our way of living ____ to the local culture.",
+        "answerBase": "more or less",
+        "answerSurface": "more or less",
+        "choices": [
+          "more or less",
+          "at random",
+          "by mistake",
+          "after all"
+        ]
+      }
     },
     {
       "idiom-jp": "ほぼ；おおよそ",
@@ -22,7 +33,18 @@
         "about"
       ],
       "example-sentence": "It's more or less impossible to calculate accurately the number of refugees worldwide.",
-      "sentence-jp": "世界中の難民の数を正確に算出することはほぼ不可能だ。"
+      "sentence-jp": "世界中の難民の数を正確に算出することはほぼ不可能だ。",
+      "cloze": {
+        "maskedText": "It's ____ impossible to calculate accurately the number of refugees worldwide.",
+        "answerBase": "more or less",
+        "answerSurface": "more or less",
+        "choices": [
+          "more or less",
+          "at once",
+          "by hand",
+          "in turn"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "There are many complex theories in physics.",
-      "sentence-jp": "物理学には多くの複雑な理論がある。"
+      "sentence-jp": "物理学には多くの複雑な理論がある。",
+      "cloze": {
+        "maskedText": "There are many ____ theories in physics.",
+        "answerBase": "complex",
+        "answerSurface": "complex",
+        "choices": [
+          "complex",
+          "silent",
+          "formal",
+          "gentle"
+        ]
+      }
     }
   ],
   "notes": []

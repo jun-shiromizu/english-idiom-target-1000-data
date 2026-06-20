@@ -14,7 +14,18 @@
         "turn in ~"
       ],
       "example-sentence": "He wants to hand over the command of the factory to his son as soon as possible.",
-      "sentence-jp": "彼はできるだけ早く息子に工場の指揮権を引き渡したいと思っている。"
+      "sentence-jp": "彼はできるだけ早く息子に工場の指揮権を引き渡したいと思っている。",
+      "cloze": {
+        "maskedText": "He wants to ____ the command of the factory to his son as soon as possible.",
+        "answerBase": "hand over ~",
+        "answerSurface": "hand over",
+        "choices": [
+          "hand over",
+          "put aside",
+          "hold back",
+          "look out for"
+        ]
+      }
     }
   ],
   "notes": [

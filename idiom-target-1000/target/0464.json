@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "According to a study, the more words a person takes down, the better he remembers the content.",
-      "sentence-jp": "ある研究によれば、人はたくさん言葉を書くほど、その内容をしっかり覚える。"
+      "sentence-jp": "ある研究によれば、人はたくさん言葉を書くほど、その内容をしっかり覚える。",
+      "cloze": {
+        "maskedText": "According to a study, the more words a person ____, the better he remembers the content.",
+        "answerBase": "take down ~",
+        "answerSurface": "takes down",
+        "choices": [
+          "takes down",
+          "hands down",
+          "sorts out",
+          "burns down"
+        ]
+      }
     }
   ],
   "notes": [

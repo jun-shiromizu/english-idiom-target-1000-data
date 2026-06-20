@@ -12,7 +12,18 @@
         "not ~ any longer"
       ],
       "example-sentence": "Sadly, he has completely changed; he is no longer the Masato we used to know.",
-      "sentence-jp": "悲しいことに, 彼はすっかり変わってしまった。彼はもはや私たちが知っていたあのマサトではない。"
+      "sentence-jp": "悲しいことに, 彼はすっかり変わってしまった。彼はもはや私たちが知っていたあのマサトではない。",
+      "cloze": {
+        "maskedText": "Sadly, he has completely changed; he is ____ the Masato we used to know.",
+        "answerBase": "no longer ~",
+        "answerSurface": "no longer",
+        "choices": [
+          "no longer",
+          "no doubt",
+          "in general",
+          "for example"
+        ]
+      }
     }
   ],
   "notes": [

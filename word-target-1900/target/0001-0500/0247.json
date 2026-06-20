@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "I have terrible pain in my upper right arm.",
-      "sentence-jp": "私は右上腕にひどい痛みがある。"
+      "sentence-jp": "私は右上腕にひどい痛みがある。",
+      "cloze": {
+        "maskedText": "I have terrible ____ in my upper right arm.",
+        "answerBase": "pain",
+        "answerSurface": "pain",
+        "choices": [
+          "pain",
+          "traffic",
+          "weather",
+          "furniture"
+        ]
+      }
     }
   ],
   "notes": []

@@ -13,7 +13,18 @@
         "ban A from B"
       ],
       "example-sentence": "Many parents forbid their children from using their smartphones for a certain number of hours a day.",
-      "sentence-jp": "1日のうち一定の時間、子供たちにスマートフォンを使うことを禁止する親は多い。"
+      "sentence-jp": "1日のうち一定の時間、子供たちにスマートフォンを使うことを禁止する親は多い。",
+      "cloze": {
+        "maskedText": "Many parents ____ their children from using their smartphones for a certain number of hours a day.",
+        "answerBase": "forbid A from B",
+        "answerSurface": "forbid",
+        "choices": [
+          "forbid",
+          "prohibit",
+          "discourage",
+          "keep"
+        ]
+      }
     }
   ],
   "notes": [

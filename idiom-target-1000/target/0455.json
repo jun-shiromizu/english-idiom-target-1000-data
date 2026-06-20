@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Try as we would, we could not get her to cheer up.",
-      "sentence-jp": "どんなに頑張っても、私たちは彼女に元気を出させることはできなかった。"
+      "sentence-jp": "どんなに頑張っても、私たちは彼女に元気を出させることはできなかった。",
+      "cloze": {
+        "maskedText": "Try as we would, we could not get her to ____.",
+        "answerBase": "cheer up (~)",
+        "answerSurface": "cheer up",
+        "choices": [
+          "cheer up",
+          "shut up",
+          "blow up",
+          "clear up"
+        ]
+      }
     }
   ],
   "notes": [

@@ -14,7 +14,18 @@
         "in (the) face of ~"
       ],
       "example-sentence": "For all the convenience it provides, plastic is now a plague on the environment.",
-      "sentence-jp": "プラスチックは、それが提供する利便性にもかかわらず、今では環境における悩みの種だ。"
+      "sentence-jp": "プラスチックは、それが提供する利便性にもかかわらず、今では環境における悩みの種だ。",
+      "cloze": {
+        "maskedText": "____ the convenience it provides, plastic is now a plague on the environment.",
+        "answerBase": "for all ~",
+        "answerSurface": "For all",
+        "choices": [
+          "For all",
+          "With all",
+          "As for",
+          "At present"
+        ]
+      }
     }
   ],
   "notes": [

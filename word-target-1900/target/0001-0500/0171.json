@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The average annual household income has declined over the past decade.",
-      "sentence-jp": "平均的な世帯年収は過去10年で減少した。"
+      "sentence-jp": "平均的な世帯年収は過去10年で減少した。",
+      "cloze": {
+        "maskedText": "The average annual household ____ has declined over the past decade.",
+        "answerBase": "income",
+        "answerSurface": "income",
+        "choices": [
+          "income",
+          "vehicle",
+          "lecture",
+          "shelter"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "We are aware of the importance of learning a second language.",
-      "sentence-jp": "私たちは第二言語を学ぶことの重要性に気づいている。"
+      "sentence-jp": "私たちは第二言語を学ぶことの重要性に気づいている。",
+      "cloze": {
+        "maskedText": "We are ____ of the importance of learning a second language.",
+        "answerBase": "aware of",
+        "answerSurface": "aware",
+        "choices": [
+          "aware",
+          "active",
+          "worthy",
+          "formal"
+        ]
+      }
     }
   ],
   "notes": []

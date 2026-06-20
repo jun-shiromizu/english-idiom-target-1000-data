@@ -10,7 +10,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Comparing this year’s result with last year’s, the boss appreciated everybody’s efforts.",
-      "sentence-jp": "上司は今年の結果を昨年のものと比較して、全員の努力を評価した。"
+      "sentence-jp": "上司は今年の結果を昨年のものと比較して、全員の努力を評価した。",
+      "cloze": {
+        "maskedText": "____ this year’s result with last year’s, the boss appreciated everybody’s efforts.",
+        "answerBase": "compare A with B / compare A to B",
+        "answerSurface": "Comparing",
+        "choices": [
+          "Comparing",
+          "Exposing",
+          "Leaving",
+          "Attributing"
+        ]
+      }
     }
   ],
   "notes": [

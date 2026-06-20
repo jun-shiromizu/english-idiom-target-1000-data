@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Tom just stood by without doing anything to help her pick out a gift.",
-      "sentence-jp": "トムは彼女が贈り物を選ぶ手助けは何もせず、ただ傍観していた。"
+      "sentence-jp": "トムは彼女が贈り物を選ぶ手助けは何もせず、ただ傍観していた。",
+      "cloze": {
+        "maskedText": "Tom just ____ without doing anything to help her pick out a gift.",
+        "answerBase": "stand by (~)",
+        "answerSurface": "stood by",
+        "choices": [
+          "stood by",
+          "stood for",
+          "took in",
+          "met with"
+        ]
+      }
     },
     {
       "idiom-jp": "〜を支持[擁護]する；(約束など)を守る",
@@ -21,7 +32,18 @@
         "stand for ~"
       ],
       "example-sentence": "My parents said that they would stand by me no matter what decision I made.",
-      "sentence-jp": "私の両親は私がどんな決定をしても私を擁護すると言った。"
+      "sentence-jp": "私の両親は私がどんな決定をしても私を擁護すると言った。",
+      "cloze": {
+        "maskedText": "My parents said that they would ____ me no matter what decision I made.",
+        "answerBase": "stand by (~)",
+        "answerSurface": "stand by",
+        "choices": [
+          "stand by",
+          "stand for",
+          "take on",
+          "turn down"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The government created a long-term strategy for dealing with the economy.",
-      "sentence-jp": "政府は経済に対処するための長期的戦略を創り出した。"
+      "sentence-jp": "政府は経済に対処するための長期的戦略を創り出した。",
+      "cloze": {
+        "maskedText": "The government created a long-term ____ for dealing with the economy.",
+        "answerBase": "strategy",
+        "answerSurface": "strategy",
+        "choices": [
+          "strategy",
+          "surface",
+          "payment",
+          "lecture"
+        ]
+      }
     }
   ],
   "notes": []

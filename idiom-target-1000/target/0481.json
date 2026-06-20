@@ -12,7 +12,18 @@
         "drop by ~"
       ],
       "example-sentence": "Now that you know where I live, I hope you’ll drop in when you’re in the neighborhood.",
-      "sentence-jp": "私がどこに住んでいるのかおわかりでしょうから、近所にお越しの際は立ち寄ってくださいね。"
+      "sentence-jp": "私がどこに住んでいるのかおわかりでしょうから、近所にお越しの際は立ち寄ってくださいね。",
+      "cloze": {
+        "maskedText": "Now that you know where I live, I hope you’ll ____ when you’re in the neighborhood.",
+        "answerBase": "drop in",
+        "answerSurface": "drop in",
+        "choices": [
+          "drop in",
+          "cut in",
+          "pass on",
+          "give away"
+        ]
+      }
     }
   ],
   "notes": [

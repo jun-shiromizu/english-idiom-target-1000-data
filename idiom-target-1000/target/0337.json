@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "My shopping bag broke in the middle of the road; puzzled, I looked up and down the street.",
-      "sentence-jp": "私の買い物袋が道路の真ん中で破れた。私は当惑して、通りをきょろきょろ見回した。"
+      "sentence-jp": "私の買い物袋が道路の真ん中で破れた。私は当惑して、通りをきょろきょろ見回した。",
+      "cloze": {
+        "maskedText": "My shopping bag broke in the middle of the road; puzzled, I looked ____ the street.",
+        "answerBase": "up and down",
+        "answerSurface": "up and down",
+        "choices": [
+          "up and down",
+          "back and forth",
+          "at present",
+          "in a sense"
+        ]
+      }
     }
   ],
   "notes": [

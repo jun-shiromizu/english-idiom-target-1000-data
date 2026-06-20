@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The team did research on life on Mars.",
-      "sentence-jp": "そのチームは火星上の生命体についての調査を行った。"
+      "sentence-jp": "そのチームは火星上の生命体についての調査を行った。",
+      "cloze": {
+        "maskedText": "The team did ____ on life on Mars.",
+        "answerBase": "research",
+        "answerSurface": "research",
+        "choices": [
+          "research",
+          "traffic",
+          "luggage",
+          "homework"
+        ]
+      }
     }
   ],
   "notes": []

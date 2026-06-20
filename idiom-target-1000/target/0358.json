@@ -9,7 +9,18 @@
       "partOfSpeech": "conjunction",
       "choiceType": "conjunction-phrase",
       "example-sentence": "With all the evidence, the man continued to deny committing the crime.",
-      "sentence-jp": "証拠があるにもかかわらず、その男は犯罪を犯したことを否定し続けた。"
+      "sentence-jp": "証拠があるにもかかわらず、その男は犯罪を犯したことを否定し続けた。",
+      "cloze": {
+        "maskedText": "____ the evidence, the man continued to deny committing the crime.",
+        "answerBase": "with all ~",
+        "answerSurface": "With all",
+        "choices": [
+          "With all",
+          "For all",
+          "As to",
+          "In theory"
+        ]
+      }
     }
   ],
   "notes": [

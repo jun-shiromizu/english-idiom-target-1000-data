@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "I demanded that she let me go with her.",
-      "sentence-jp": "私は彼女に自分を一緒に連れて行くように要求した。"
+      "sentence-jp": "私は彼女に自分を一緒に連れて行くように要求した。",
+      "cloze": {
+        "maskedText": "I ____ that she let me go with her.",
+        "answerBase": "demand",
+        "answerSurface": "demanded",
+        "choices": [
+          "demanded",
+          "suggested",
+          "noticed",
+          "imagined"
+        ]
+      }
     }
   ],
   "notes": []

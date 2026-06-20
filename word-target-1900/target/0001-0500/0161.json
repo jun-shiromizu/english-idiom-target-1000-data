@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "A wasteful use of resources has a negative impact on the environment.",
-      "sentence-jp": "資源の無駄遣いは環境に悪影響を及ぼす。"
+      "sentence-jp": "資源の無駄遣いは環境に悪影響を及ぼす。",
+      "cloze": {
+        "maskedText": "A wasteful use of resources has a negative ____ on the environment.",
+        "answerBase": "impact",
+        "answerSurface": "impact",
+        "choices": [
+          "impact",
+          "pocket",
+          "ladder",
+          "engine"
+        ]
+      }
     }
   ],
   "notes": []

@@ -14,7 +14,18 @@
         "to put it another way"
       ],
       "example-sentence": "English is now an international language: in other words, it plays an important role in international communication.",
-      "sentence-jp": "英語は今や国際語だ。言い換えれば, それは国際的なコミュニケーションについて重要な役割を果たしているということだ。"
+      "sentence-jp": "英語は今や国際語だ。言い換えれば, それは国際的なコミュニケーションについて重要な役割を果たしているということだ。",
+      "cloze": {
+        "maskedText": "English is now an international language: ____ , it plays an important role in international communication.",
+        "answerBase": "in other words",
+        "answerSurface": "in other words",
+        "choices": [
+          "in other words",
+          "in detail",
+          "in public",
+          "in part"
+        ]
+      }
     }
   ],
   "notes": []

@@ -13,7 +13,18 @@
         "obtain"
       ],
       "example-sentence": "These newly developed fibers are very economical and easy to come by.",
-      "sentence-jp": "この新たに開発された繊維はとても経済的で, 手に入れるのが簡単だ。"
+      "sentence-jp": "この新たに開発された繊維はとても経済的で, 手に入れるのが簡単だ。",
+      "cloze": {
+        "maskedText": "These newly developed fibers are very economical and easy to ____.",
+        "answerBase": "come by ~",
+        "answerSurface": "come by",
+        "choices": [
+          "come by",
+          "look over",
+          "pass away",
+          "hand in"
+        ]
+      }
     }
   ],
   "notes": [

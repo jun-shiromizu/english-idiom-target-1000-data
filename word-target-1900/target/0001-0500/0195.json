@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Gaming on mobile devices is becoming more popular than ever before.",
-      "sentence-jp": "移動式機器でゲームをすることはこれまで以上に人気が高まってきている。"
+      "sentence-jp": "移動式機器でゲームをすることはこれまで以上に人気が高まってきている。",
+      "cloze": {
+        "maskedText": "Gaming on ____ devices is becoming more popular than ever before.",
+        "answerBase": "mobile",
+        "answerSurface": "mobile",
+        "choices": [
+          "mobile",
+          "official",
+          "curious",
+          "silent"
+        ]
+      }
     }
   ],
   "notes": []

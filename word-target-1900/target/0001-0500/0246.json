@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "I discussed the matter with some of my colleagues at work.",
-      "sentence-jp": "私はその問題について職場の同僚の何人かと話し合った。"
+      "sentence-jp": "私はその問題について職場の同僚の何人かと話し合った。",
+      "cloze": {
+        "maskedText": "I discussed the matter with some of my ____ at work.",
+        "answerBase": "colleague",
+        "answerSurface": "colleagues",
+        "choices": [
+          "colleagues",
+          "factories",
+          "machines",
+          "customers"
+        ]
+      }
     }
   ],
   "notes": []

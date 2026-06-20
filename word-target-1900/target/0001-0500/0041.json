@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He came up with a good idea for the school party.",
-      "sentence-jp": "彼は学校のパーティーに合ういい考えを思いついた。"
+      "sentence-jp": "彼は学校のパーティーに合ういい考えを思いついた。",
+      "cloze": {
+        "maskedText": "He came up with ____ for the school party.",
+        "answerBase": "idea",
+        "answerSurface": "a good idea",
+        "choices": [
+          "a good idea",
+          "an old chair",
+          "a noisy crowd",
+          "an empty wallet"
+        ]
+      }
     }
   ],
   "notes": []

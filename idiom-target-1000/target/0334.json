@@ -14,7 +14,18 @@
         "first off"
       ],
       "example-sentence": "First of all, let me congratulate you on becoming members of this institution.",
-      "sentence-jp": "まず第一に、皆さんがこの機関の一員になったことについてお祝いを述べさせてください。"
+      "sentence-jp": "まず第一に、皆さんがこの機関の一員になったことについてお祝いを述べさせてください。",
+      "cloze": {
+        "maskedText": "____, let me congratulate you on becoming members of this institution.",
+        "answerBase": "first of all",
+        "answerSurface": "First of all",
+        "choices": [
+          "First of all",
+          "At present",
+          "In a word",
+          "Back and forth"
+        ]
+      }
     }
   ],
   "notes": [

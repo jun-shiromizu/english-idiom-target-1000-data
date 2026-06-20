@@ -13,7 +13,18 @@
         "for the moment"
       ],
       "example-sentence": "Jack remains in this post for the present, but someone else will take over next year.",
-      "sentence-jp": "当分の間はジャックがこのポストにとどまるが、来年には誰かほかの人が引き継ぐだろう。"
+      "sentence-jp": "当分の間はジャックがこのポストにとどまるが、来年には誰かほかの人が引き継ぐだろう。",
+      "cloze": {
+        "maskedText": "Jack remains in this post ____ , but someone else will take over next year.",
+        "answerBase": "for the present",
+        "answerSurface": "for the present",
+        "choices": [
+          "for the present",
+          "at all costs",
+          "in a word",
+          "close at hand"
+        ]
+      }
     }
   ],
   "notes": [

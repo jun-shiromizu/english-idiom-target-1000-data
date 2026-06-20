@@ -13,7 +13,18 @@
         "wish for ~"
       ],
       "example-sentence": "After being away for six months, Maki longs for the chance to see her family again.",
-      "sentence-jp": "6か月間離れていた後だから、マキは家族と再び会える機会を切望している。"
+      "sentence-jp": "6か月間離れていた後だから、マキは家族と再び会える機会を切望している。",
+      "cloze": {
+        "maskedText": "After being away for six months, Maki ____ the chance to see her family again.",
+        "answerBase": "long for ~",
+        "answerSurface": "longs for",
+        "choices": [
+          "longs for",
+          "sends for",
+          "goes about",
+          "boasts of"
+        ]
+      }
     }
   ],
   "notes": [

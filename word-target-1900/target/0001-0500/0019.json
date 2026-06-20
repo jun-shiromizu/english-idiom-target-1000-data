@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "In Japan, more and more men are involved in raising children.",
-      "sentence-jp": "日本では，子育てにかかわる男性が増えている。"
+      "sentence-jp": "日本では，子育てにかかわる男性が増えている。",
+      "cloze": {
+        "maskedText": "In Japan, more and more men are ____ raising children.",
+        "answerBase": "be involved in",
+        "answerSurface": "involved in",
+        "choices": [
+          "involved in",
+          "bored with",
+          "divided by",
+          "trapped by"
+        ]
+      }
     }
   ],
   "notes": []

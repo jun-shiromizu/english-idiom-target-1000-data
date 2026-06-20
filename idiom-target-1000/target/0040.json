@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "The child insisted on continuing to play in the game despite an injury to her right leg.",
-      "sentence-jp": "その子供は右足の負傷にもかかわらず試合でプレーし続けると主張した。"
+      "sentence-jp": "その子供は右足の負傷にもかかわらず試合でプレーし続けると主張した。",
+      "cloze": {
+        "maskedText": "The child ____ continuing to play in the game despite an injury to her right leg.",
+        "answerBase": "insist on ~",
+        "answerSurface": "insisted on",
+        "choices": [
+          "insisted on",
+          "succeeded in",
+          "ended up",
+          "gave up"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "His explanation about the incident does not correspond to what actually happened.",
-      "sentence-jp": "その事故に関する彼の説明は実際に起きたことと一致しない。"
+      "sentence-jp": "その事故に関する彼の説明は実際に起きたことと一致しない。",
+      "cloze": {
+        "maskedText": "His explanation about the incident does not ____ what actually happened.",
+        "answerBase": "correspond to ~",
+        "answerSurface": "correspond to",
+        "choices": [
+          "correspond to",
+          "apply for",
+          "occur to",
+          "hit on"
+        ]
+      }
     }
   ],
   "notes": []

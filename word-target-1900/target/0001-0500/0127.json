@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The computer company applied a new theory to its product designs.",
-      "sentence-jp": "そのコンピューター会社は自社の商品設計に新しい理論を適用した。"
+      "sentence-jp": "そのコンピューター会社は自社の商品設計に新しい理論を適用した。",
+      "cloze": {
+        "maskedText": "The computer company ____ a new theory to its product designs.",
+        "answerBase": "apply",
+        "answerSurface": "applied",
+        "choices": [
+          "applied",
+          "owed",
+          "folded",
+          "prevented"
+        ]
+      }
     }
   ],
   "notes": []

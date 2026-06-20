@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "We are now experiencing rapid growth in digital technology.",
-      "sentence-jp": "私たちは今デジタル技術の急成長を経験している。"
+      "sentence-jp": "私たちは今デジタル技術の急成長を経験している。",
+      "cloze": {
+        "maskedText": "We are now experiencing rapid growth in ____ technology.",
+        "answerBase": "digital",
+        "answerSurface": "digital",
+        "choices": [
+          "digital",
+          "rural",
+          "gentle",
+          "current"
+        ]
+      }
     }
   ],
   "notes": []

@@ -12,7 +12,18 @@
         "support"
       ],
       "example-sentence": "The guard at the parking lot held up his hands high to stop our car.",
-      "sentence-jp": "駐車場の警備員は私たちの車を止めるために高く両手を上げた。"
+      "sentence-jp": "駐車場の警備員は私たちの車を止めるために高く両手を上げた。",
+      "cloze": {
+        "maskedText": "The guard at the parking lot ____ his hands high to stop our car.",
+        "answerBase": "hold up (~)",
+        "answerSurface": "held up",
+        "choices": [
+          "held up",
+          "held out",
+          "looked up",
+          "put out"
+        ]
+      }
     },
     {
       "idiom-jp": "〜を遅らせる",
@@ -22,14 +33,36 @@
         "delay"
       ],
       "example-sentence": "We were held up by a traffic jam on the way and couldn’t make it to the meeting in time.",
-      "sentence-jp": "私たちは途中交通渋滞のために遅れ、その会議に間に合わなかった。"
+      "sentence-jp": "私たちは途中交通渋滞のために遅れ、その会議に間に合わなかった。",
+      "cloze": {
+        "maskedText": "We were ____ by a traffic jam on the way and couldn’t make it to the meeting in time.",
+        "answerBase": "hold up (~)",
+        "answerSurface": "held up",
+        "choices": [
+          "held up",
+          "held out",
+          "looked up",
+          "put out"
+        ]
+      }
     },
     {
       "idiom-jp": "〜に強盗に入る",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "The bank was held up last night.",
-      "sentence-jp": "昨夜、その銀行は強盗に入られた。"
+      "sentence-jp": "昨夜、その銀行は強盗に入られた。",
+      "cloze": {
+        "maskedText": "The bank was ____ last night.",
+        "answerBase": "hold up (~)",
+        "answerSurface": "held up",
+        "choices": [
+          "held up",
+          "held out",
+          "looked up",
+          "went by"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She believes that people's blood types are related to their personalities.",
-      "sentence-jp": "彼女は人の血液型はその人の性格に関連していると信じている。"
+      "sentence-jp": "彼女は人の血液型はその人の性格に関連していると信じている。",
+      "cloze": {
+        "maskedText": "She believes that people's blood types are ____ their personalities.",
+        "answerBase": "be related to",
+        "answerSurface": "related to",
+        "choices": [
+          "related to",
+          "famous for",
+          "covered by",
+          "angry at"
+        ]
+      }
     }
   ],
   "notes": []

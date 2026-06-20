@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Some linguists think that about 8, 000 languages exist in the world.",
-      "sentence-jp": "言語学者の中には世界には約8,000の言語が存在すると考える人もいる。"
+      "sentence-jp": "言語学者の中には世界には約8,000の言語が存在すると考える人もいる。",
+      "cloze": {
+        "maskedText": "Some linguists think that about 8,000 languages ____ in the world.",
+        "answerBase": "exist",
+        "answerSurface": "exist",
+        "choices": [
+          "exist",
+          "compete",
+          "argue",
+          "travel"
+        ]
+      }
     }
   ],
   "notes": []

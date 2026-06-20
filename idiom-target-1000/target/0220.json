@@ -14,7 +14,18 @@
         "not least"
       ],
       "example-sentence": "Is there anything in particular you'd like me to mention in the recommendation letter?",
-      "sentence-jp": "推薦状の中であなたが私に触れてほしいことは特に何かありますか。"
+      "sentence-jp": "推薦状の中であなたが私に触れてほしいことは特に何かありますか。",
+      "cloze": {
+        "maskedText": "Is there anything ____ you'd like me to mention in the recommendation letter?",
+        "answerBase": "in particular",
+        "answerSurface": "in particular",
+        "choices": [
+          "in particular",
+          "as well",
+          "for good",
+          "in all"
+        ]
+      }
     }
   ],
   "notes": [

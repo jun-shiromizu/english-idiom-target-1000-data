@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Naoki’s new wife prides herself on being a good cook.",
-      "sentence-jp": "ナオキの新妻は料理が上手なことを誇りに思っている。"
+      "sentence-jp": "ナオキの新妻は料理が上手なことを誇りに思っている。",
+      "cloze": {
+        "maskedText": "Naoki’s new wife ____ being a good cook.",
+        "answerBase": "pride oneself on ~",
+        "answerSurface": "prides herself on",
+        "choices": [
+          "prides herself on",
+          "takes pride in",
+          "yields to",
+          "is equal to"
+        ]
+      }
     }
   ],
   "notes": [

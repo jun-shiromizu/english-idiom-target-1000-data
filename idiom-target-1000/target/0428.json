@@ -13,14 +13,36 @@
         "arrive at ~"
       ],
       "example-sentence": "Our plane got to London about an hour ahead of schedule due to the tailwind.",
-      "sentence-jp": "私たちの飛行機は追い風のために予定より1時間ほど早くロンドンに到着した。"
+      "sentence-jp": "私たちの飛行機は追い風のために予定より1時間ほど早くロンドンに到着した。",
+      "cloze": {
+        "maskedText": "Our plane ____ London about an hour ahead of schedule due to the tailwind.",
+        "answerBase": "get to ~",
+        "answerSurface": "got to",
+        "choices": [
+          "got to",
+          "kept to",
+          "added to",
+          "adapted to"
+        ]
+      }
     },
     {
       "idiom-jp": "[get to do で]…できる；…するようになる",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "It was in the summer of 2019 that I got to see firsthand how good he was at the game.",
-      "sentence-jp": "その試合で彼がどんなに優れていたのかを直接見ることができたのは、2019年の夏だった。"
+      "sentence-jp": "その試合で彼がどんなに優れていたのかを直接見ることができたのは、2019年の夏だった。",
+      "cloze": {
+        "maskedText": "It was in the summer of 2019 that I ____ see firsthand how good he was at the game.",
+        "answerBase": "get to do",
+        "answerSurface": "got to",
+        "choices": [
+          "got to",
+          "kept to",
+          "resorted to",
+          "objected to"
+        ]
+      }
     }
   ],
   "notes": []

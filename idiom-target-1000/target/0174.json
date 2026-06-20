@@ -12,7 +12,18 @@
         "one another"
       ],
       "example-sentence": "Technology continues to impact the way people communicate with each other.",
-      "sentence-jp": "技術は人々の互いのコミュニケーションの取り方に影響を与え続けている。"
+      "sentence-jp": "技術は人々の互いのコミュニケーションの取り方に影響を与え続けている。",
+      "cloze": {
+        "maskedText": "Technology continues to impact the way people communicate with ____.",
+        "answerBase": "each other",
+        "answerSurface": "each other",
+        "choices": [
+          "each other",
+          "one person",
+          "that group",
+          "the public"
+        ]
+      }
     }
   ],
   "notes": [

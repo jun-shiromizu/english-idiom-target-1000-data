@@ -13,7 +13,18 @@
         "boast of [about] ~"
       ],
       "example-sentence": "It is important to take pride in whatever job you choose for your career.",
-      "sentence-jp": "あなたがどんな仕事であれ自分の職業として選んだものを誇りに思うことが大切だ。"
+      "sentence-jp": "あなたがどんな仕事であれ自分の職業として選んだものを誇りに思うことが大切だ。",
+      "cloze": {
+        "maskedText": "It is important to ____ whatever job you choose for your career.",
+        "answerBase": "take pride in ~",
+        "answerSurface": "take pride in",
+        "choices": [
+          "take pride in",
+          "yield to",
+          "be equal to",
+          "date from"
+        ]
+      }
     }
   ],
   "notes": [

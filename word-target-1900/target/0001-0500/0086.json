@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "His car is similar to mine in design and performance.",
-      "sentence-jp": "彼の車はデザインと性能において私の車と似ている。"
+      "sentence-jp": "彼の車はデザインと性能において私の車と似ている。",
+      "cloze": {
+        "maskedText": "His car is ____ to mine in design and performance.",
+        "answerBase": "similar to",
+        "answerSurface": "similar",
+        "choices": [
+          "similar",
+          "useful",
+          "kind",
+          "open"
+        ]
+      }
     }
   ],
   "notes": []

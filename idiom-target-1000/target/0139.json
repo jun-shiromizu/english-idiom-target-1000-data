@@ -12,7 +12,18 @@
         "incidentally"
       ],
       "example-sentence": "By the way, did you attend the lecture given by Professor Yamada?",
-      "sentence-jp": "ところで, 山田教授の行った講義に出席しましたか。"
+      "sentence-jp": "ところで, 山田教授の行った講義に出席しましたか。",
+      "cloze": {
+        "maskedText": "____, did you attend the lecture given by Professor Yamada?",
+        "answerBase": "by the way",
+        "answerSurface": "By the way",
+        "choices": [
+          "By the way",
+          "After all",
+          "At once",
+          "In short"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,14 +9,36 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "As the day went by, more people came into town wondering what was happening there.",
-      "sentence-jp": "その日が過ぎるにつれ、より多くの人々がそこで何が起きているのかと思いながら町にやってきた。"
+      "sentence-jp": "その日が過ぎるにつれ、より多くの人々がそこで何が起きているのかと思いながら町にやってきた。",
+      "cloze": {
+        "maskedText": "As the day ____ , more people came into town wondering what was happening there.",
+        "answerBase": "go by (~)",
+        "answerSurface": "went by",
+        "choices": [
+          "went by",
+          "went off",
+          "went on",
+          "went out"
+        ]
+      }
     },
     {
       "idiom-jp": "〜の名で通る[知られる]；〜によって行動[判断]する",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Her real name was Yoshiko, but she usually went by the nickname, Chiko-chan.",
-      "sentence-jp": "彼女の本当の名前はヨシコだったが、彼女はたいていチコチャンというニックネームで知られていた。"
+      "sentence-jp": "彼女の本当の名前はヨシコだったが、彼女はたいていチコチャンというニックネームで知られていた。",
+      "cloze": {
+        "maskedText": "Her real name was Yoshiko, but she usually ____ the nickname, Chiko-chan.",
+        "answerBase": "go by (~)",
+        "answerSurface": "went by",
+        "choices": [
+          "went by",
+          "came across",
+          "looked up",
+          "settled down"
+        ]
+      }
     }
   ],
   "notes": [

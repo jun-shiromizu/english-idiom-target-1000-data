@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "I wonder if higher wages are good for the Japanese economy.",
-      "sentence-jp": "より高い賃金は日本経済にとってよいことだろうか。"
+      "sentence-jp": "より高い賃金は日本経済にとってよいことだろうか。",
+      "cloze": {
+        "maskedText": "I wonder if higher wages are good for the Japanese ____.",
+        "answerBase": "economy",
+        "answerSurface": "economy",
+        "choices": [
+          "economy",
+          "blanket",
+          "vehicle",
+          "schedule"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "It is important in business to look for potential customers.",
-      "sentence-jp": "潜在的な顧客を探すことがビジネスにおいて重要だ。"
+      "sentence-jp": "潜在的な顧客を探すことがビジネスにおいて重要だ。",
+      "cloze": {
+        "maskedText": "It is important in business to look for ____ customers.",
+        "answerBase": "potential",
+        "answerSurface": "potential",
+        "choices": [
+          "potential",
+          "wooden",
+          "formal",
+          "narrow"
+        ]
+      }
     }
   ],
   "notes": []

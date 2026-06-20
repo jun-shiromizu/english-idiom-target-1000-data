@@ -13,7 +13,18 @@
         "also"
       ],
       "example-sentence": "The old lady in her late 90s looked physically very healthy, and mentally active as well.",
-      "sentence-jp": "その90代後半の老婦人は肉体的にとても健康に見え, 精神的にもまた活動的に見えた。"
+      "sentence-jp": "その90代後半の老婦人は肉体的にとても健康に見え, 精神的にもまた活動的に見えた。",
+      "cloze": {
+        "maskedText": "The old lady in her late 90s looked physically very healthy, and mentally active ____.",
+        "answerBase": "as well",
+        "answerSurface": "as well",
+        "choices": [
+          "as well",
+          "for good",
+          "in all",
+          "before long"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Men should play an active role in raising children.",
-      "sentence-jp": "男性は子育てにおいて積極的な役割を果たすべきである。"
+      "sentence-jp": "男性は子育てにおいて積極的な役割を果たすべきである。",
+      "cloze": {
+        "maskedText": "Men should play an ____ role in raising children.",
+        "answerBase": "active",
+        "answerSurface": "active",
+        "choices": [
+          "active",
+          "official",
+          "mobile",
+          "nervous"
+        ]
+      }
     }
   ],
   "notes": []

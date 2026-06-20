@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "I deeply sympathized with Tom when I knew he’d been in a tragic situation for a long time.",
-      "sentence-jp": "私はトムが長いこと悲劇的な状況にいたのだと知ったとき、心から彼に同情した。"
+      "sentence-jp": "私はトムが長いこと悲劇的な状況にいたのだと知ったとき、心から彼に同情した。",
+      "cloze": {
+        "maskedText": "I deeply ____ Tom when I knew he’d been in a tragic situation for a long time.",
+        "answerBase": "sympathize with ~",
+        "answerSurface": "sympathized with",
+        "choices": [
+          "sympathized with",
+          "took pride in",
+          "yielded to",
+          "looked up and down"
+        ]
+      }
     }
   ],
   "notes": [

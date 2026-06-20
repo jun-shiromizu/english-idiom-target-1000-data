@@ -12,7 +12,18 @@
         "nevertheless"
       ],
       "example-sentence": "No one likes to be criticized, and yet criticism is essential for personal growth.",
-      "sentence-jp": "批判されるのが好きな人はいないが, それにもかかわらず批判は個人の成長には不可欠なものだ。"
+      "sentence-jp": "批判されるのが好きな人はいないが, それにもかかわらず批判は個人の成長には不可欠なものだ。",
+      "cloze": {
+        "maskedText": "No one likes to be criticized, ____ criticism is essential for personal growth.",
+        "answerBase": "and yet",
+        "answerSurface": "and yet",
+        "choices": [
+          "and yet",
+          "for example",
+          "in fact",
+          "as a result"
+        ]
+      }
     }
   ],
   "notes": [

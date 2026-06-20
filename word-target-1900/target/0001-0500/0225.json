@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Modern building designs often match the natural surroundings.",
-      "sentence-jp": "現代の建物のデザインは周りの自然環境に合っていることが多い。"
+      "sentence-jp": "現代の建物のデザインは周りの自然環境に合っていることが多い。",
+      "cloze": {
+        "maskedText": "Modern building designs often ____ the natural surroundings.",
+        "answerBase": "match",
+        "answerSurface": "match",
+        "choices": [
+          "match",
+          "damage",
+          "survey",
+          "replace"
+        ]
+      }
     }
   ],
   "notes": []

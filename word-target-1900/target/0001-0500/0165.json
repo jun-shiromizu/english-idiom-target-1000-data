@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The doctors tried out a new kind of medicine on the girl to save her life.",
-      "sentence-jp": "医師たちはその少女の命を救うために彼女に新しい種類の薬を試した。"
+      "sentence-jp": "医師たちはその少女の命を救うために彼女に新しい種類の薬を試した。",
+      "cloze": {
+        "maskedText": "The doctors tried out a new kind of ____ on the girl to save her life.",
+        "answerBase": "medicine",
+        "answerSurface": "medicine",
+        "choices": [
+          "medicine",
+          "vehicle",
+          "surface",
+          "village"
+        ]
+      }
     }
   ],
   "notes": []

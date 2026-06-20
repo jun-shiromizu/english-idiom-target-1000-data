@@ -15,7 +15,18 @@
         "all things considered"
       ],
       "example-sentence": "I saw a few people here and there, but on the whole, the street looked deserted that night.",
-      "sentence-jp": "何人かの人があちらこちらに見えたが、その晩は全体的に通りに人気がないように見えた。"
+      "sentence-jp": "何人かの人があちらこちらに見えたが、その晩は全体的に通りに人気がないように見えた。",
+      "cloze": {
+        "maskedText": "I saw a few people here and there, but ____ , the street looked deserted that night.",
+        "answerBase": "on the whole",
+        "answerSurface": "on the whole",
+        "choices": [
+          "on the whole",
+          "in principle",
+          "at any cost",
+          "for his part"
+        ]
+      }
     }
   ],
   "notes": [

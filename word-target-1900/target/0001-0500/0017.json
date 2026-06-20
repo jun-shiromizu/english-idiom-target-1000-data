@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "We are concerned about the negative effect of the new tax law.",
-      "sentence-jp": "私たちは新しい税法のマイナス効果を心配している。"
+      "sentence-jp": "私たちは新しい税法のマイナス効果を心配している。",
+      "cloze": {
+        "maskedText": "We are ____ the negative effect of the new tax law.",
+        "answerBase": "be concerned about",
+        "answerSurface": "concerned about",
+        "choices": [
+          "concerned about",
+          "pleased with",
+          "sheltered from",
+          "mistaken for"
+        ]
+      }
     }
   ],
   "notes": []

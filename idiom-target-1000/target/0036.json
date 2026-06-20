@@ -14,7 +14,18 @@
         "rest on [upon] ~"
       ],
       "example-sentence": "It's important to remember that we all depend on various people for different reasons.",
-      "sentence-jp": "私たちは皆、さまざまな理由でいろいろな人々に頼っているということを覚えておくことが大切だ。"
+      "sentence-jp": "私たちは皆、さまざまな理由でいろいろな人々に頼っているということを覚えておくことが大切だ。",
+      "cloze": {
+        "maskedText": "It's important to remember that we all ____ various people for different reasons.",
+        "answerBase": "depend on ~",
+        "answerSurface": "depend on",
+        "choices": [
+          "depend on",
+          "wait for",
+          "look after",
+          "complain about"
+        ]
+      }
     }
   ],
   "notes": [

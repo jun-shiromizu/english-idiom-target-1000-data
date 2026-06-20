@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "There are significant differences between having knowledge and using it.",
-      "sentence-jp": "知識があることとそれを使うこととの間には重大な違いがある。"
+      "sentence-jp": "知識があることとそれを使うこととの間には重大な違いがある。",
+      "cloze": {
+        "maskedText": "There are ____ differences between having knowledge and using it.",
+        "answerBase": "significant",
+        "answerSurface": "significant",
+        "choices": [
+          "significant",
+          "careless",
+          "dusty",
+          "formal"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The teacher suggested that he study physics in university.",
-      "sentence-jp": "先生は彼が大学で物理学を学ぶことを提案した。"
+      "sentence-jp": "先生は彼が大学で物理学を学ぶことを提案した。",
+      "cloze": {
+        "maskedText": "The teacher ____ that he study physics in university.",
+        "answerBase": "suggest",
+        "answerSurface": "suggested",
+        "choices": [
+          "suggested",
+          "denied",
+          "forgot",
+          "imagined"
+        ]
+      }
     }
   ],
   "notes": []

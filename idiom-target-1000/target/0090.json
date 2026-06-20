@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Grammar is the study of the way we bring words together in order to make sense.",
-      "sentence-jp": "文法とは、私たちが単語を意味をなすように結び合わせる方法の研究だ。"
+      "sentence-jp": "文法とは、私たちが単語を意味をなすように結び合わせる方法の研究だ。",
+      "cloze": {
+        "maskedText": "Grammar is the study of the way we bring words together in order to ____.",
+        "answerBase": "make sense",
+        "answerSurface": "make sense",
+        "choices": [
+          "make sense",
+          "take place",
+          "grow up",
+          "get along"
+        ]
+      }
     }
   ],
   "notes": [

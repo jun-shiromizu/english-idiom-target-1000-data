@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Today, Kyoto still maintains a lot of its ancient culture.",
-      "sentence-jp": "今日，京都はなお昔の文化を多く維持している。"
+      "sentence-jp": "今日，京都はなお昔の文化を多く維持している。",
+      "cloze": {
+        "maskedText": "Today, Kyoto still ____ a lot of its ancient culture.",
+        "answerBase": "maintain",
+        "answerSurface": "maintains",
+        "choices": [
+          "maintains",
+          "destroys",
+          "forgets",
+          "spreads"
+        ]
+      }
     }
   ],
   "notes": []

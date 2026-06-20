@@ -12,7 +12,18 @@
         "get through ~"
       ],
       "example-sentence": "There is no direct flight from Nagoya to San Francisco, so you have to go through Los Angeles.",
-      "sentence-jp": "名古屋からサンフランシスコへの直行便がないため、ロサンゼルスを経由しなければならない。"
+      "sentence-jp": "名古屋からサンフランシスコへの直行便がないため、ロサンゼルスを経由しなければならない。",
+      "cloze": {
+        "maskedText": "There is no direct flight from Nagoya to San Francisco, so you have to ____ Los Angeles.",
+        "answerBase": "go through ~",
+        "answerSurface": "go through",
+        "choices": [
+          "go through",
+          "avoid",
+          "leave behind",
+          "miss"
+        ]
+      }
     },
     {
       "idiom-jp": "（苦しみなど）を経験する",
@@ -23,7 +34,18 @@
         "undergo"
       ],
       "example-sentence": "Suddenly the child shouted, \"Oh, no! I don't want to go through that experience again.\"",
-      "sentence-jp": "突然その子供は、「だめだ！ 二度とあんな目にあいたくないよ」と叫んだ。"
+      "sentence-jp": "突然その子供は、「だめだ！ 二度とあんな目にあいたくないよ」と叫んだ。",
+      "cloze": {
+        "maskedText": "Suddenly the child shouted, \"Oh, no! I don't want to ____ that experience again.\"",
+        "answerBase": "go through ~",
+        "answerSurface": "go through",
+        "choices": [
+          "go through",
+          "describe",
+          "forget",
+          "avoid"
+        ]
+      }
     }
   ],
   "notes": [

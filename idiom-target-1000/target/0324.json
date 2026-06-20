@@ -14,7 +14,18 @@
         "submit to ~"
       ],
       "example-sentence": "He seemed to have surrendered to temptation and started drinking again.",
-      "sentence-jp": "彼は誘惑に屈して、再び酒を飲み始めたようだ。"
+      "sentence-jp": "彼は誘惑に屈して、再び酒を飲み始めたようだ。",
+      "cloze": {
+        "maskedText": "He seemed to have ____ temptation and started drinking again.",
+        "answerBase": "surrender to ~",
+        "answerSurface": "surrendered to",
+        "choices": [
+          "surrendered to",
+          "yielded to",
+          "took pride in",
+          "dated from"
+        ]
+      }
     }
   ],
   "notes": [

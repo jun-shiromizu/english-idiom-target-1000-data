@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Please relax and make yourself at home.",
-      "sentence-jp": "どうぞくつろいで楽になさってください。"
+      "sentence-jp": "どうぞくつろいで楽になさってください。",
+      "cloze": {
+        "maskedText": "Please ____ and make yourself at home.",
+        "answerBase": "relax",
+        "answerSurface": "relax",
+        "choices": [
+          "relax",
+          "measure",
+          "argue",
+          "divide"
+        ]
+      }
     }
   ],
   "notes": []

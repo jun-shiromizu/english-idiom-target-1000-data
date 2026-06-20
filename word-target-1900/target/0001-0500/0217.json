@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "More and more people are seeking better ways to maintain a work-life balance.",
-      "sentence-jp": "ますます多くの人が仕事と生活のバランスを保つよりよい方法を追い求めている。"
+      "sentence-jp": "ますます多くの人が仕事と生活のバランスを保つよりよい方法を追い求めている。",
+      "cloze": {
+        "maskedText": "More and more people are ____ better ways to maintain a work-life balance.",
+        "answerBase": "seek",
+        "answerSurface": "seeking",
+        "choices": [
+          "seeking",
+          "hiding",
+          "damaging",
+          "visiting"
+        ]
+      }
     }
   ],
   "notes": []

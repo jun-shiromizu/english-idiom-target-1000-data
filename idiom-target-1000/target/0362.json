@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "She speaks French, to say nothing of English.",
-      "sentence-jp": "彼女は英語は言うまでもなく、フランス語も話す。"
+      "sentence-jp": "彼女は英語は言うまでもなく、フランス語も話す。",
+      "cloze": {
+        "maskedText": "She speaks French, ____ English.",
+        "answerBase": "to say nothing of ~",
+        "answerSurface": "to say nothing of",
+        "choices": [
+          "to say nothing of",
+          "not to mention",
+          "out of order",
+          "ill at ease"
+        ]
+      }
     }
   ],
   "notes": [

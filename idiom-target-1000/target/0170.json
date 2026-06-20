@@ -13,7 +13,18 @@
         "except for ~"
       ],
       "example-sentence": "Nobody aside from her was able to solve that math problem.",
-      "sentence-jp": "彼女を除いては誰もその数学の問題を解くことができなかった。"
+      "sentence-jp": "彼女を除いては誰もその数学の問題を解くことができなかった。",
+      "cloze": {
+        "maskedText": "Nobody ____ was able to solve that math problem.",
+        "answerBase": "aside from ~",
+        "answerSurface": "aside from her",
+        "choices": [
+          "aside from her",
+          "ahead of her",
+          "instead of her",
+          "because of her"
+        ]
+      }
     }
   ],
   "notes": []

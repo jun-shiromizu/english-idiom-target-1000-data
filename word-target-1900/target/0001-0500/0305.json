@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "His musical talent emerged early in his life.",
-      "sentence-jp": "彼の音楽的才能はその人生の初期に現れた。"
+      "sentence-jp": "彼の音楽的才能はその人生の初期に現れた。",
+      "cloze": {
+        "maskedText": "His musical talent ____ early in his life.",
+        "answerBase": "emerge",
+        "answerSurface": "emerged",
+        "choices": [
+          "emerged",
+          "settled",
+          "measured",
+          "borrowed"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "There is heavy traffic on the road to the airport.",
-      "sentence-jp": "空港に向かう道路は交通が激しい。"
+      "sentence-jp": "空港に向かう道路は交通が激しい。",
+      "cloze": {
+        "maskedText": "There is heavy ____ on the road to the airport.",
+        "answerBase": "traffic",
+        "answerSurface": "traffic",
+        "choices": [
+          "traffic",
+          "rainfall",
+          "furniture",
+          "machinery"
+        ]
+      }
     }
   ],
   "notes": []

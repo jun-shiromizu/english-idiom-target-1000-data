@@ -12,7 +12,18 @@
         "search for ~"
       ],
       "example-sentence": "Just tell me what you're looking for, and I might be able to help you find it.",
-      "sentence-jp": "あなたが何を探しているのか教えてください。そうすれば見つけるお手伝いができるかもしれません。"
+      "sentence-jp": "あなたが何を探しているのか教えてください。そうすれば見つけるお手伝いができるかもしれません。",
+      "cloze": {
+        "maskedText": "Just tell me what you're ____ , and I might be able to help you find it.",
+        "answerBase": "look for ~",
+        "answerSurface": "looking for",
+        "choices": [
+          "looking for",
+          "waiting for",
+          "searching through",
+          "asking about"
+        ]
+      }
     }
   ],
   "notes": []

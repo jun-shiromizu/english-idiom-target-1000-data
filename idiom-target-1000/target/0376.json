@@ -9,14 +9,36 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "From the footprints outside, it was clear the burglar had broken in through the window.",
-      "sentence-jp": "外の足跡から、強盗が窓から押し入ったことは明らかだった。"
+      "sentence-jp": "外の足跡から、強盗が窓から押し入ったことは明らかだった。",
+      "cloze": {
+        "maskedText": "From the footprints outside, it was clear the burglar had ____ through the window.",
+        "answerBase": "break in (~)",
+        "answerSurface": "broken in",
+        "choices": [
+          "broken in",
+          "broken out",
+          "broken up",
+          "called for"
+        ]
+      }
     },
     {
       "idiom-jp": "〜を慣らす",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "It’ll take a few days to break in these shoes.",
-      "sentence-jp": "この靴を履き慣らすのに数日かかるだろう。"
+      "sentence-jp": "この靴を履き慣らすのに数日かかるだろう。",
+      "cloze": {
+        "maskedText": "It’ll take a few days to ____ these shoes.",
+        "answerBase": "break in (~)",
+        "answerSurface": "break in",
+        "choices": [
+          "break in",
+          "break up",
+          "call on",
+          "do without"
+        ]
+      }
     }
   ],
   "notes": [

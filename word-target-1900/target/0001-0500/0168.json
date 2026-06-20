@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Voice recognition is one of the most useful functions of smartphones.",
-      "sentence-jp": "音声認識はスマートフォンの最も便利な機能の1つである。"
+      "sentence-jp": "音声認識はスマートフォンの最も便利な機能の1つである。",
+      "cloze": {
+        "maskedText": "Voice recognition is one of the most useful ____ of smartphones.",
+        "answerBase": "function",
+        "answerSurface": "functions",
+        "choices": [
+          "functions",
+          "landscapes",
+          "passengers",
+          "shelves"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "At a party, you can establish friendly relationships with others.",
-      "sentence-jp": "パーティーではほかの人々と友好的な関係を確立することができる。"
+      "sentence-jp": "パーティーではほかの人々と友好的な関係を確立することができる。",
+      "cloze": {
+        "maskedText": "At a party, you can ____ friendly relationships with others.",
+        "answerBase": "establish",
+        "answerSurface": "establish",
+        "choices": [
+          "establish",
+          "remove",
+          "damage",
+          "reject"
+        ]
+      }
     }
   ],
   "notes": []

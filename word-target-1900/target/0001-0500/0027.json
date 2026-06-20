@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She somehow avoided getting involved in the quarrel.",
-      "sentence-jp": "彼女はどうにかその口論に巻き込まれるのを避けた。"
+      "sentence-jp": "彼女はどうにかその口論に巻き込まれるのを避けた。",
+      "cloze": {
+        "maskedText": "She somehow ____ getting involved in the quarrel.",
+        "answerBase": "avoid",
+        "answerSurface": "avoided",
+        "choices": [
+          "avoided",
+          "enjoyed",
+          "kept",
+          "started"
+        ]
+      }
     }
   ],
   "notes": []

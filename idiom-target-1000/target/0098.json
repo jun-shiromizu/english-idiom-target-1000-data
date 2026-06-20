@@ -13,7 +13,18 @@
         "have fun"
       ],
       "example-sentence": "My brother usually enjoys himself working out at a gym after work.",
-      "sentence-jp": "兄はふだん、仕事の後にジムでトレーニングをして楽しい時を過ごしている。"
+      "sentence-jp": "兄はふだん、仕事の後にジムでトレーニングをして楽しい時を過ごしている。",
+      "cloze": {
+        "maskedText": "My brother usually ____ working out at a gym after work.",
+        "answerBase": "enjoy oneself",
+        "answerSurface": "enjoys himself",
+        "choices": [
+          "enjoys himself",
+          "makes himself",
+          "gets himself",
+          "takes himself"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She can solve any math problem quickly.",
-      "sentence-jp": "彼女はどんな数学の問題もすぐに解くことができる。"
+      "sentence-jp": "彼女はどんな数学の問題もすぐに解くことができる。",
+      "cloze": {
+        "maskedText": "She can ____ any math problem quickly.",
+        "answerBase": "solve",
+        "answerSurface": "solve",
+        "choices": [
+          "solve",
+          "repeat",
+          "store",
+          "measure"
+        ]
+      }
     }
   ],
   "notes": []

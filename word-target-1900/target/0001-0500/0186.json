@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Friends are essential for our lives.",
-      "sentence-jp": "友人は私たちの人生に不可欠である。"
+      "sentence-jp": "友人は私たちの人生に不可欠である。",
+      "cloze": {
+        "maskedText": "Friends are ____ for our lives.",
+        "answerBase": "essential for",
+        "answerSurface": "essential",
+        "choices": [
+          "essential",
+          "afraid",
+          "famous",
+          "typical"
+        ]
+      }
     }
   ],
   "notes": []

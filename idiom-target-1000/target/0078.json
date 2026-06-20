@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "Why don't you try it on to see if it suits you?",
-      "sentence-jp": "あなたに似合うか確かめるのにそれを試着してはどうですか。"
+      "sentence-jp": "あなたに似合うか確かめるのにそれを試着してはどうですか。",
+      "cloze": {
+        "maskedText": "Why don't you ____ to see if it suits you?",
+        "answerBase": "try ~ on",
+        "answerSurface": "try it on",
+        "choices": [
+          "try it on",
+          "put it away",
+          "pick it out",
+          "hand it over"
+        ]
+      }
     }
   ],
   "notes": [

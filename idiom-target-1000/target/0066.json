@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I'm a music lover, and my dream is to set up a small recording studio at my house.",
-      "sentence-jp": "私は音楽が大好きで、夢は自分の家に小さなレコーディングスタジオを作ることだ。"
+      "sentence-jp": "私は音楽が大好きで、夢は自分の家に小さなレコーディングスタジオを作ることだ。",
+      "cloze": {
+        "maskedText": "I'm a music lover, and my dream is to ____ a small recording studio at my house.",
+        "answerBase": "set up ~",
+        "answerSurface": "set up",
+        "choices": [
+          "set up",
+          "give up",
+          "deal with",
+          "go through"
+        ]
+      }
     }
   ],
   "notes": [

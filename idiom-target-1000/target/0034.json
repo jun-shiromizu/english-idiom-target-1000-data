@@ -12,7 +12,18 @@
         "make for ~"
       ],
       "example-sentence": "Cutting down trees eventually contributes to global warming.",
-      "sentence-jp": "樹木の伐採は最終的には地球温暖化の一因となっている。"
+      "sentence-jp": "樹木の伐採は最終的には地球温暖化の一因となっている。",
+      "cloze": {
+        "maskedText": "Cutting down trees eventually ____ global warming.",
+        "answerBase": "contribute to ~",
+        "answerSurface": "contributes to",
+        "choices": [
+          "contributes to",
+          "results from",
+          "depends on",
+          "compares with"
+        ]
+      }
     }
   ],
   "notes": [

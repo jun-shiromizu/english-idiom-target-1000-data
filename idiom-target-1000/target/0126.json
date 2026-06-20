@@ -12,7 +12,18 @@
         "at (the) most"
       ],
       "example-sentence": "Our teacher told us to spend at least a little time every day studying the language.",
-      "sentence-jp": "私たちの先生は, 毎日少なくとも少しの時間をその言語の勉強に費やすように私たちに言った。"
+      "sentence-jp": "私たちの先生は, 毎日少なくとも少しの時間をその言語の勉強に費やすように私たちに言った。",
+      "cloze": {
+        "maskedText": "Our teacher told us to spend ____ a little time every day studying the language.",
+        "answerBase": "at least",
+        "answerSurface": "at least",
+        "choices": [
+          "at least",
+          "at best",
+          "at random",
+          "at all"
+        ]
+      }
     }
   ],
   "notes": [

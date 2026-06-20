@@ -14,7 +14,18 @@
         "no more than ~"
       ],
       "example-sentence": "It is indeed a shame that we had nothing but rain all the while we were staying here.",
-      "sentence-jp": "私たちがここに滞在していた間ずっと雨降りばかりだったのは, 本当に残念なことだ。"
+      "sentence-jp": "私たちがここに滞在していた間ずっと雨降りばかりだったのは, 本当に残念なことだ。",
+      "cloze": {
+        "maskedText": "It is indeed a shame that we had ____ rain all the while we were staying here.",
+        "answerBase": "nothing but ~",
+        "answerSurface": "nothing but",
+        "choices": [
+          "nothing but",
+          "anything but",
+          "by now",
+          "on the contrary"
+        ]
+      }
     }
   ],
   "notes": [

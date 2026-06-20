@@ -16,7 +16,18 @@
         "all in all"
       ],
       "example-sentence": "We've used this dishwasher for many years, and for the most part it's worked very well.",
-      "sentence-jp": "私たちは長年にわたってこの食洗機を使ってきた。そして, 大体はとても順調に動いてきた。"
+      "sentence-jp": "私たちは長年にわたってこの食洗機を使ってきた。そして, 大体はとても順調に動いてきた。",
+      "cloze": {
+        "maskedText": "We've used this dishwasher for many years, and ____ it's worked very well.",
+        "answerBase": "for the most part",
+        "answerSurface": "for the most part",
+        "choices": [
+          "for the most part",
+          "all of a sudden",
+          "for good",
+          "in advance"
+        ]
+      }
     }
   ],
   "notes": []

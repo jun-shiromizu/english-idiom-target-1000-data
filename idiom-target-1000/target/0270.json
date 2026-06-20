@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Despite evidence to the contrary, we tend to believe in the accuracy of memories.",
-      "sentence-jp": "それと反対の証拠があるのに, 私たちは記憶の正確さを信じがちだ。"
+      "sentence-jp": "それと反対の証拠があるのに, 私たちは記憶の正確さを信じがちだ。",
+      "cloze": {
+        "maskedText": "Despite evidence ____ , we tend to believe in the accuracy of memories.",
+        "answerBase": "to the contrary",
+        "answerSurface": "to the contrary",
+        "choices": [
+          "to the contrary",
+          "on the contrary",
+          "by any chance",
+          "at a distance"
+        ]
+      }
     }
   ],
   "notes": [

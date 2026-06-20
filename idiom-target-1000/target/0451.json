@@ -12,7 +12,18 @@
         "exhaust"
       ],
       "example-sentence": "During our trip around the country, we used up almost all the toothpaste we’d taken with us.",
-      "sentence-jp": "その国を回る旅行中、私たちは持ってきた歯磨き粉をほとんどすべて使い果たした。"
+      "sentence-jp": "その国を回る旅行中、私たちは持ってきた歯磨き粉をほとんどすべて使い果たした。",
+      "cloze": {
+        "maskedText": "During our trip around the country, we ____ almost all the toothpaste we’d taken with us.",
+        "answerBase": "use up ~",
+        "answerSurface": "used up",
+        "choices": [
+          "used up",
+          "summed up",
+          "blew up",
+          "called up"
+        ]
+      }
     }
   ],
   "notes": [

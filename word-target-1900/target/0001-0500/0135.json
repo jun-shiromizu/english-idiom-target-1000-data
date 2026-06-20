@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Nowadays, many people are connecting their TVs to the Internet.",
-      "sentence-jp": "今日では，多くの人がテレビをインターネットにつないでいる。"
+      "sentence-jp": "今日では，多くの人がテレビをインターネットにつないでいる。",
+      "cloze": {
+        "maskedText": "Nowadays, many people are ____ their TVs to the Internet.",
+        "answerBase": "connect",
+        "answerSurface": "connecting",
+        "choices": [
+          "connecting",
+          "selling",
+          "dropping",
+          "shifting"
+        ]
+      }
     }
   ],
   "notes": []

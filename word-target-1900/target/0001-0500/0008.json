@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The company allows its employees to take long winter vacations.",
-      "sentence-jp": "その会社は従業員が長い冬期休暇をとるのを許している。"
+      "sentence-jp": "その会社は従業員が長い冬期休暇をとるのを許している。",
+      "cloze": {
+        "maskedText": "The company ____ its employees to take long winter vacations.",
+        "answerBase": "allow",
+        "answerSurface": "allows",
+        "choices": [
+          "allows",
+          "forces",
+          "stops",
+          "punishes"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Common ancestors of humans and chimpanzees lived millions of years ago.",
-      "sentence-jp": "ヒトとチンパンジーの共通の祖先は何百万年も前に生きていた。"
+      "sentence-jp": "ヒトとチンパンジーの共通の祖先は何百万年も前に生きていた。",
+      "cloze": {
+        "maskedText": "Common ____ of humans and chimpanzees lived millions of years ago.",
+        "answerBase": "ancestor",
+        "answerSurface": "ancestors",
+        "choices": [
+          "ancestors",
+          "lectures",
+          "audiences",
+          "payments"
+        ]
+      }
     }
   ],
   "notes": []

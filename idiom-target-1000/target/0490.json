@@ -12,7 +12,18 @@
         "ascribe A to B"
       ],
       "example-sentence": "Many of Satoshi’s friends attributed his success to his hard work and flexible thinking.",
-      "sentence-jp": "サトシの友人の多くは、彼の成功を勤勉なことと柔軟な思考の結果と考えた。"
+      "sentence-jp": "サトシの友人の多くは、彼の成功を勤勉なことと柔軟な思考の結果と考えた。",
+      "cloze": {
+        "maskedText": "Many of Satoshi’s friends ____ his success to his hard work and flexible thinking.",
+        "answerBase": "attribute A to B",
+        "answerSurface": "attributed",
+        "choices": [
+          "attributed",
+          "attached",
+          "left",
+          "compared"
+        ]
+      }
     }
   ],
   "notes": [

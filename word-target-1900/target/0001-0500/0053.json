@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She is good at handling difficult matters.",
-      "sentence-jp": "彼女は難しい事柄に対処するのが得意である。"
+      "sentence-jp": "彼女は難しい事柄に対処するのが得意である。",
+      "cloze": {
+        "maskedText": "She is good at handling difficult ____.",
+        "answerBase": "matter",
+        "answerSurface": "matters",
+        "choices": [
+          "matters",
+          "bridges",
+          "seasons",
+          "packages"
+        ]
+      }
     }
   ],
   "notes": []

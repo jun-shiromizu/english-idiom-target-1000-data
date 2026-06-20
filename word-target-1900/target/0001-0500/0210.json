@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "The doctor conducted a quick test to measure my blood-sugar level.",
-      "sentence-jp": "医師は私の血糖値を測るために簡単な検査を行った。"
+      "sentence-jp": "医師は私の血糖値を測るために簡単な検査を行った。",
+      "cloze": {
+        "maskedText": "The doctor ____ a quick test to measure my blood-sugar level.",
+        "answerBase": "conduct",
+        "answerSurface": "conducted",
+        "choices": [
+          "conducted",
+          "borrowed",
+          "followed",
+          "stored"
+        ]
+      }
     }
   ],
   "notes": []

@@ -14,7 +14,18 @@
         "for the moment"
       ],
       "example-sentence": "I think this amount of work will do for now, but I'm not sure about next month.",
-      "sentence-jp": "今のところはこの量の仕事で間に合うと思うが, 来月についてはわからない。"
+      "sentence-jp": "今のところはこの量の仕事で間に合うと思うが, 来月についてはわからない。",
+      "cloze": {
+        "maskedText": "I think this amount of work will do ____ , but I'm not sure about next month.",
+        "answerBase": "for now",
+        "answerSurface": "for now",
+        "choices": [
+          "for now",
+          "by now",
+          "for good",
+          "at first"
+        ]
+      }
     }
   ],
   "notes": [

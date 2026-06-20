@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "His new computer software is far better than any previous version.",
-      "sentence-jp": "彼の新しいコンピューターソフトは以前のどのバージョンよりもはるかにすぐれている。"
+      "sentence-jp": "彼の新しいコンピューターソフトは以前のどのバージョンよりもはるかにすぐれている。",
+      "cloze": {
+        "maskedText": "His new computer software is far better than any ____ version.",
+        "answerBase": "previous",
+        "answerSurface": "previous",
+        "choices": [
+          "previous",
+          "formal",
+          "silent",
+          "dusty"
+        ]
+      }
     }
   ],
   "notes": []

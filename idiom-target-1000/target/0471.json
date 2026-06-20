@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I was so completely worn out that I couldn’t keep on working.",
-      "sentence-jp": "私は完全に疲れ果てていたので、仕事を続けられなかった。"
+      "sentence-jp": "私は完全に疲れ果てていたので、仕事を続けられなかった。",
+      "cloze": {
+        "maskedText": "I was so completely ____ that I couldn’t keep on working.",
+        "answerBase": "wear out (~)",
+        "answerSurface": "worn out",
+        "choices": [
+          "worn out",
+          "rolled out",
+          "set off",
+          "shown off"
+        ]
+      }
     }
   ],
   "notes": [

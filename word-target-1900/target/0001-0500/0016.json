@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "My town tends to get windy.",
-      "sentence-jp": "私の町は風がよく吹く傾向がある。"
+      "sentence-jp": "私の町は風がよく吹く傾向がある。",
+      "cloze": {
+        "maskedText": "My town ____ get windy.",
+        "answerBase": "tend to do",
+        "answerSurface": "tends to",
+        "choices": [
+          "tends to",
+          "refuses to",
+          "fails to",
+          "hopes to"
+        ]
+      }
     }
   ],
   "notes": []

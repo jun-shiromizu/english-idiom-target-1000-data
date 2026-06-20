@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "We tend to assume that Japanese trains always run on schedule.",
-      "sentence-jp": "私たちは日本の列車がいつも定刻どおりに運行することを当然と思う傾向がある。"
+      "sentence-jp": "私たちは日本の列車がいつも定刻どおりに運行することを当然と思う傾向がある。",
+      "cloze": {
+        "maskedText": "We tend to ____ that Japanese trains always run on schedule.",
+        "answerBase": "assume",
+        "answerSurface": "assume",
+        "choices": [
+          "assume",
+          "hide",
+          "exchange",
+          "cancel"
+        ]
+      }
     }
   ],
   "notes": []

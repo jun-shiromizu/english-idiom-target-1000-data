@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Tokyo somehow survived serious air pollution in the 1960 s.",
-      "sentence-jp": "東京は1960年代の深刻な大気汚染をなんとか乗り越えた。"
+      "sentence-jp": "東京は1960年代の深刻な大気汚染をなんとか乗り越えた。",
+      "cloze": {
+        "maskedText": "Tokyo somehow survived serious air ____ in the 1960 s.",
+        "answerBase": "pollution",
+        "answerSurface": "pollution",
+        "choices": [
+          "pollution",
+          "traffic",
+          "weather",
+          "furniture"
+        ]
+      }
     }
   ],
   "notes": []

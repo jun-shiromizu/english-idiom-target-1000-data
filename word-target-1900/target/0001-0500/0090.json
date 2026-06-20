@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She cannot eat a particular type of nut.",
-      "sentence-jp": "彼女はある特定の種類のナッツが食べられない。"
+      "sentence-jp": "彼女はある特定の種類のナッツが食べられない。",
+      "cloze": {
+        "maskedText": "She cannot eat a ____ type of nut.",
+        "answerBase": "particular",
+        "answerSurface": "particular",
+        "choices": [
+          "particular",
+          "sleepy",
+          "formal",
+          "silver"
+        ]
+      }
     }
   ],
   "notes": []

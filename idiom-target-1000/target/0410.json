@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Our neighbor’s cat was nearly run over by a car yesterday.",
-      "sentence-jp": "私たちの隣人の猫は昨日、もう少しで車にひかれるところだった。"
+      "sentence-jp": "私たちの隣人の猫は昨日、もう少しで車にひかれるところだった。",
+      "cloze": {
+        "maskedText": "Our neighbor’s cat was nearly ____ by a car yesterday.",
+        "answerBase": "run over (~)",
+        "answerSurface": "run over",
+        "choices": [
+          "run over",
+          "put down",
+          "set out",
+          "made out"
+        ]
+      }
     },
     {
       "idiom-jp": "(〜から)あふれる",
@@ -19,7 +30,18 @@
         "overflow"
       ],
       "example-sentence": "I was so absorbed in a book that I didn’t realize the bath was almost beginning to run over.",
-      "sentence-jp": "私は本に夢中になっていたので、風呂があふれそうになっていることに気がつかなかった。"
+      "sentence-jp": "私は本に夢中になっていたので、風呂があふれそうになっていることに気がつかなかった。",
+      "cloze": {
+        "maskedText": "I was so absorbed in a book that I didn’t realize the bath was almost beginning to ____.",
+        "answerBase": "run over (~)",
+        "answerSurface": "run over",
+        "choices": [
+          "run over",
+          "put down",
+          "set out",
+          "turn in"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Risk management capability is tested when one can make the best of a bad situation.",
-      "sentence-jp": "危機管理能力は人が苦境に最大限対応するときに試される。"
+      "sentence-jp": "危機管理能力は人が苦境に最大限対応するときに試される。",
+      "cloze": {
+        "maskedText": "Risk management capability is tested when one can ____ a bad situation.",
+        "answerBase": "make the best of ~",
+        "answerSurface": "make the best of",
+        "choices": [
+          "make the best of",
+          "make the most of",
+          "lay out",
+          "be true to"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Living things receive their genes from their parents.",
-      "sentence-jp": "生物は親から遺伝子を受け継ぐ。"
+      "sentence-jp": "生物は親から遺伝子を受け継ぐ。",
+      "cloze": {
+        "maskedText": "Living things receive their ____ from their parents.",
+        "answerBase": "gene",
+        "answerSurface": "genes",
+        "choices": [
+          "genes",
+          "tickets",
+          "garages",
+          "lessons"
+        ]
+      }
     }
   ],
   "notes": []

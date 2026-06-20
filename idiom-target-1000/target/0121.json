@@ -14,7 +14,18 @@
         "to the best of one's ability"
       ],
       "example-sentence": "I need to return this book to the library as soon as possible.",
-      "sentence-jp": "私はできる限り早くこの本を図書館に返す必要がある。"
+      "sentence-jp": "私はできる限り早くこの本を図書館に返す必要がある。",
+      "cloze": {
+        "maskedText": "I need to return this book to the library ____.",
+        "answerBase": "as ~ as possible",
+        "answerSurface": "as soon as possible",
+        "choices": [
+          "as soon as possible",
+          "as long as usual",
+          "as well as before",
+          "as much as ever"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Fortunately, no one was inside the factory when it blew up.",
-      "sentence-jp": "幸運なことに、その工場が爆発したときには中に誰もいなかった。"
+      "sentence-jp": "幸運なことに、その工場が爆発したときには中に誰もいなかった。",
+      "cloze": {
+        "maskedText": "Fortunately, no one was inside the factory when it ____.",
+        "answerBase": "blow up (~)",
+        "answerSurface": "blew up",
+        "choices": [
+          "blew up",
+          "cheered up",
+          "called up",
+          "stepped up"
+        ]
+      }
     }
   ],
   "notes": [

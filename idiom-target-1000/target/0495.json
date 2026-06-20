@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "On that stormy morning, the manager at the hut discouraged us from setting off for a climb.",
-      "sentence-jp": "その嵐の朝、山小屋の管理人は私たちに登山に出発することを思いとどまらせた。"
+      "sentence-jp": "その嵐の朝、山小屋の管理人は私たちに登山に出発することを思いとどまらせた。",
+      "cloze": {
+        "maskedText": "On that stormy morning, the manager at the hut ____ us from setting off for a climb.",
+        "answerBase": "discourage A from B",
+        "answerSurface": "discouraged",
+        "choices": [
+          "discouraged",
+          "forbade",
+          "prohibited",
+          "ordered"
+        ]
+      }
     }
   ],
   "notes": []

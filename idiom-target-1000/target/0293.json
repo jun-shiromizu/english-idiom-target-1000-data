@@ -12,14 +12,36 @@
         "take care of ~"
       ],
       "example-sentence": "Linda had to take a few days off last week to care for her elderly father.",
-      "sentence-jp": "リンダは先週, 年老いた父の世話をするために休みを数日とらなければならなかった。"
+      "sentence-jp": "リンダは先週, 年老いた父の世話をするために休みを数日とらなければならなかった。",
+      "cloze": {
+        "maskedText": "Linda had to take a few days off last week to ____ her elderly father.",
+        "answerBase": "care for ~",
+        "answerSurface": "care for",
+        "choices": [
+          "care for",
+          "look after",
+          "show up",
+          "give way to"
+        ]
+      }
     },
     {
       "idiom-jp": "(否定文・疑問文・条件文で)〜を好む ; 〜を望む",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Because Mary doesn't care for bright colors, she always wears dark-colored clothes.",
-      "sentence-jp": "メアリーは明るい色が好きではないので, いつも暗い色の服を着ている。"
+      "sentence-jp": "メアリーは明るい色が好きではないので, いつも暗い色の服を着ている。",
+      "cloze": {
+        "maskedText": "Because Mary doesn't ____ bright colors, she always wears dark-colored clothes.",
+        "answerBase": "care for ~",
+        "answerSurface": "care for",
+        "choices": [
+          "care for",
+          "look after",
+          "give in",
+          "turn up"
+        ]
+      }
     }
   ],
   "notes": []

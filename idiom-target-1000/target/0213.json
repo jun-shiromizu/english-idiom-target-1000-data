@@ -12,7 +12,18 @@
         "soon"
       ],
       "example-sentence": "She went out to buy some office supplies a few minutes ago, so she should be back before long.",
-      "sentence-jp": "彼女は数分前に事務用品を買いに出かけたので, 間もなく戻ってくるだろう。"
+      "sentence-jp": "彼女は数分前に事務用品を買いに出かけたので, 間もなく戻ってくるだろう。",
+      "cloze": {
+        "maskedText": "She went out to buy some office supplies a few minutes ago, so she should be back ____.",
+        "answerBase": "before long",
+        "answerSurface": "before long",
+        "choices": [
+          "before long",
+          "in advance",
+          "for good",
+          "by degrees"
+        ]
+      }
     }
   ],
   "notes": [

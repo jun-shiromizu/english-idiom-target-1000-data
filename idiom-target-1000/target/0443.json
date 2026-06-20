@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Education has historically aimed at making people conform to society.",
-      "sentence-jp": "歴史的には教育は人々を社会に順応させることを目標としてきた。"
+      "sentence-jp": "歴史的には教育は人々を社会に順応させることを目標としてきた。",
+      "cloze": {
+        "maskedText": "Education has historically ____ making people conform to society.",
+        "answerBase": "aim at ~",
+        "answerSurface": "aimed at",
+        "choices": [
+          "aimed at",
+          "derived from",
+          "interfered with",
+          "sent for"
+        ]
+      }
     }
   ],
   "notes": [

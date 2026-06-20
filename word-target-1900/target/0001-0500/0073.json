@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The company makes its products with only natural materials.",
-      "sentence-jp": "その会社は天然素材だけを使って製品を作っている。"
+      "sentence-jp": "その会社は天然素材だけを使って製品を作っている。",
+      "cloze": {
+        "maskedText": "The company makes its products with only natural ____.",
+        "answerBase": "material",
+        "answerSurface": "materials",
+        "choices": [
+          "materials",
+          "neighbors",
+          "audiences",
+          "appointments"
+        ]
+      }
     }
   ],
   "notes": []

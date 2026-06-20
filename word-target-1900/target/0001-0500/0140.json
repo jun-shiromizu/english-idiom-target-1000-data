@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She published a novel about a professional gamer.",
-      "sentence-jp": "彼女はプロのゲーマーを描いた小説を出版した。"
+      "sentence-jp": "彼女はプロのゲーマーを描いた小説を出版した。",
+      "cloze": {
+        "maskedText": "She ____ a novel about a professional gamer.",
+        "answerBase": "publish",
+        "answerSurface": "published",
+        "choices": [
+          "published",
+          "borrowed",
+          "trusted",
+          "advertised"
+        ]
+      }
     }
   ],
   "notes": []

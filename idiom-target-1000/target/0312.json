@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "The first camera phones date from the very beginning of the 21st century.",
-      "sentence-jp": "最初のカメラ付き携帯電話は21世紀初頭に登場する。"
+      "sentence-jp": "最初のカメラ付き携帯電話は21世紀初頭に登場する。",
+      "cloze": {
+        "maskedText": "The first camera phones ____ the very beginning of the 21st century.",
+        "answerBase": "date from ~",
+        "answerSurface": "date from",
+        "choices": [
+          "date from",
+          "stand out from",
+          "cling to",
+          "count on"
+        ]
+      }
     }
   ],
   "notes": []

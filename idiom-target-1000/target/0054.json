@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "He left us three years ago, and we haven't heard from him since.",
-      "sentence-jp": "彼は 3 年前に私たちのもとを去り、それ以来彼からは連絡がない。"
+      "sentence-jp": "彼は 3 年前に私たちのもとを去り、それ以来彼からは連絡がない。",
+      "cloze": {
+        "maskedText": "He left us three years ago, and we haven't ____ him since.",
+        "answerBase": "hear from ~",
+        "answerSurface": "heard from",
+        "choices": [
+          "heard from",
+          "looked for",
+          "believed in",
+          "waited for"
+        ]
+      }
     }
   ],
   "notes": [

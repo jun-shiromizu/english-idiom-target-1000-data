@@ -14,7 +14,18 @@
         "submit (to ~)"
       ],
       "example-sentence": "The prime minister stated at the meeting that the nation would never give in to terrorism.",
-      "sentence-jp": "首相はこの国は決してテロに屈服しないと会議で述べた。"
+      "sentence-jp": "首相はこの国は決してテロに屈服しないと会議で述べた。",
+      "cloze": {
+        "maskedText": "The prime minister stated at the meeting that the nation would never ____ to terrorism.",
+        "answerBase": "give in (~)",
+        "answerSurface": "give in",
+        "choices": [
+          "give in",
+          "give way",
+          "turn up",
+          "make up"
+        ]
+      }
     },
     {
       "idiom-jp": "(宅に要〜を)提出する",
@@ -26,7 +37,18 @@
         "turn in ~"
       ],
       "example-sentence": "I think you should look over what you've written before giving it in next Monday.",
-      "sentence-jp": "あなたは来週の月曜日に自分の書いたものを提出する前に, それを見直すべきだと思う。"
+      "sentence-jp": "あなたは来週の月曜日に自分の書いたものを提出する前に, それを見直すべきだと思う。",
+      "cloze": {
+        "maskedText": "I think you should look over what you've written before ____ next Monday.",
+        "answerBase": "give in (~)",
+        "answerSurface": "giving it in",
+        "choices": [
+          "giving it in",
+          "turning up",
+          "making up",
+          "showing up"
+        ]
+      }
     }
   ],
   "notes": [

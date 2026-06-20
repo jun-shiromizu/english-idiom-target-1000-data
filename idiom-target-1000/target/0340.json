@@ -13,7 +13,18 @@
         "in a nutshell"
       ],
       "example-sentence": "The speaker talked a lot, but what he meant was, in a word, he was “opposed” to the plan.",
-      "sentence-jp": "その発言者はたくさんしゃべったが、言いたかったことは要するに彼はその計画に「反対」だということだった。"
+      "sentence-jp": "その発言者はたくさんしゃべったが、言いたかったことは要するに彼はその計画に「反対」だということだった。",
+      "cloze": {
+        "maskedText": "The speaker talked a lot, but what he meant was, ____ , he was \"opposed\" to the plan.",
+        "answerBase": "in a word",
+        "answerSurface": "in a word",
+        "choices": [
+          "in a word",
+          "at present",
+          "first of all",
+          "up and down"
+        ]
+      }
     }
   ],
   "notes": []

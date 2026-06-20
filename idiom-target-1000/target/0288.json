@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "The boy is ten, so he should be old enough to tell right from wrong.",
-      "sentence-jp": "その少年は10歳だから, 正しいことと間違ったことを区別してもいい歳だ。"
+      "sentence-jp": "その少年は10歳だから, 正しいことと間違ったことを区別してもいい歳だ。",
+      "cloze": {
+        "maskedText": "The boy is ten, so he should be old enough to ____ right from wrong.",
+        "answerBase": "tell A from B",
+        "answerSurface": "tell",
+        "choices": [
+          "tell",
+          "distinguish",
+          "supply",
+          "take part"
+        ]
+      }
     }
   ],
   "notes": [

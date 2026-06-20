@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "It is a good habit to get physical exercise every day.",
-      "sentence-jp": "毎日身体の運動をするのはよい習慣だ。"
+      "sentence-jp": "毎日身体の運動をするのはよい習慣だ。",
+      "cloze": {
+        "maskedText": "It is a good habit to get ____ exercise every day.",
+        "answerBase": "physical",
+        "answerSurface": "physical",
+        "choices": [
+          "physical",
+          "formal",
+          "wooden",
+          "private"
+        ]
+      }
     }
   ],
   "notes": []

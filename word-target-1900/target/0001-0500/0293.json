@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "The medicine may sometimes make people sleepy in rare cases.",
-      "sentence-jp": "その薬はまれな事例では人を眠たくさせることがあるかもしれない。"
+      "sentence-jp": "その薬はまれな事例では人を眠たくさせることがあるかもしれない。",
+      "cloze": {
+        "maskedText": "The medicine may sometimes make people sleepy in ____ cases.",
+        "answerBase": "rare",
+        "answerSurface": "rare",
+        "choices": [
+          "rare",
+          "urban",
+          "moral",
+          "entire"
+        ]
+      }
     }
   ],
   "notes": []

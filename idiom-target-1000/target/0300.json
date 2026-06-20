@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Finally, the girl gave way to temptation and ate a slice of cake.",
-      "sentence-jp": "とうとうその女の子は誘惑に屈し, ケーキを1切れ食べた。"
+      "sentence-jp": "とうとうその女の子は誘惑に屈し, ケーキを1切れ食べた。",
+      "cloze": {
+        "maskedText": "Finally, the girl ____ temptation and ate a slice of cake.",
+        "answerBase": "give way (to ~)",
+        "answerSurface": "gave way to",
+        "choices": [
+          "gave way to",
+          "gave in to",
+          "turned up",
+          "looked after"
+        ]
+      }
     }
   ],
   "notes": [

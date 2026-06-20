@@ -13,14 +13,36 @@
         "attend to ~"
       ],
       "example-sentence": "When I walked out to the road, I looked to the right and then the left before crossing it.",
-      "sentence-jp": "歩いて道路に出たとき、私は渡る前に右のほうを見てから左を見た。"
+      "sentence-jp": "歩いて道路に出たとき、私は渡る前に右のほうを見てから左を見た。",
+      "cloze": {
+        "maskedText": "When I walked out to the road, I ____ the right and then the left before crossing it.",
+        "answerBase": "look to ~",
+        "answerSurface": "looked to",
+        "choices": [
+          "looked to",
+          "looked up",
+          "went over",
+          "settled down"
+        ]
+      }
     },
     {
       "idiom-jp": "〜に頼る、〜を当てにする",
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "In former days, when in doubt, people often looked to magicians for directions.",
-      "sentence-jp": "人々は昔、迷ったときには指示をあおぐために魔術師に頼ることがよくあった。"
+      "sentence-jp": "人々は昔、迷ったときには指示をあおぐために魔術師に頼ることがよくあった。",
+      "cloze": {
+        "maskedText": "In former days, when in doubt, people often ____ magicians for directions.",
+        "answerBase": "look to ~",
+        "answerSurface": "looked to",
+        "choices": [
+          "looked to",
+          "looked up",
+          "went over",
+          "put out"
+        ]
+      }
     }
   ],
   "notes": [

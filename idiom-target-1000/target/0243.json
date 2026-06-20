@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "During the last recession, even the big companies were forced to lay off thousands of workers.",
-      "sentence-jp": "この前の不況では, 大企業でさえ何千人もの労働者を一時解雇せざるを得なかった。"
+      "sentence-jp": "この前の不況では, 大企業でさえ何千人もの労働者を一時解雇せざるを得なかった。",
+      "cloze": {
+        "maskedText": "During the last recession, even the big companies were forced to ____ thousands of workers.",
+        "answerBase": "lay off ~",
+        "answerSurface": "lay off",
+        "choices": [
+          "lay off",
+          "lay out",
+          "make the most of",
+          "be concerned with"
+        ]
+      }
     }
   ],
   "notes": [

@@ -12,21 +12,54 @@
         "not ~ (in) the least"
       ],
       "example-sentence": "I didn't like the movie at all, and Mayu didn't like it either.",
-      "sentence-jp": "私はその映画をまったく気に入らず, マユもそうだった。"
+      "sentence-jp": "私はその映画をまったく気に入らず, マユもそうだった。",
+      "cloze": {
+        "maskedText": "I didn't like the movie ____ , and Mayu didn't like it either.",
+        "answerBase": "at all",
+        "answerSurface": "at all",
+        "choices": [
+          "at all",
+          "at once",
+          "at hand",
+          "at best"
+        ]
+      }
     },
     {
       "idiom-jp": "(疑問文で)一体, そもそも",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I know there are many people who wonder why we need speed bumps at all in big cities.",
-      "sentence-jp": "一体なぜ大都市にスピードバンプが必要なのかと疑問に思う人がたくさんいることを私は知っている。"
+      "sentence-jp": "一体なぜ大都市にスピードバンプが必要なのかと疑問に思う人がたくさんいることを私は知っている。",
+      "cloze": {
+        "maskedText": "I know there are many people who wonder why we need speed bumps ____ in big cities.",
+        "answerBase": "at all",
+        "answerSurface": "at all",
+        "choices": [
+          "at all",
+          "at most",
+          "at random",
+          "at times"
+        ]
+      }
     },
     {
       "idiom-jp": "(肯定文で)そもそも, ともかく",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Before jumping to a conclusion, let's check if we need any of those regulations at all.",
-      "sentence-jp": "結論を急ぐ前に, そもそもそうした規則が何か必要かどうか調べましょう。"
+      "sentence-jp": "結論を急ぐ前に, そもそもそうした規則が何か必要かどうか調べましょう。",
+      "cloze": {
+        "maskedText": "Before jumping to a conclusion, let's check if we need any of those regulations ____.",
+        "answerBase": "at all",
+        "answerSurface": "at all",
+        "choices": [
+          "at all",
+          "at least",
+          "at once",
+          "at heart"
+        ]
+      }
     }
   ],
   "notes": [

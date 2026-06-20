@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "It takes time to determine whether something is true or not.",
-      "sentence-jp": "何かが真実かどうかを決定するには時間がかかる。"
+      "sentence-jp": "何かが真実かどうかを決定するには時間がかかる。",
+      "cloze": {
+        "maskedText": "It takes time to ____ whether something is true or not.",
+        "answerBase": "determine",
+        "answerSurface": "determine",
+        "choices": [
+          "determine",
+          "ignore",
+          "hide",
+          "exchange"
+        ]
+      }
     }
   ],
   "notes": []

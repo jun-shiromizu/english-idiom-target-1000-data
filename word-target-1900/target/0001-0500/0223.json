@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "My salary has gradually decreased over the last few years.",
-      "sentence-jp": "私の給料はここ数年でだんだん減少してきている。"
+      "sentence-jp": "私の給料はここ数年でだんだん減少してきている。",
+      "cloze": {
+        "maskedText": "My salary has gradually ____ over the last few years.",
+        "answerBase": "decrease",
+        "answerSurface": "decreased",
+        "choices": [
+          "decreased",
+          "expanded",
+          "wandered",
+          "arrived"
+        ]
+      }
     }
   ],
   "notes": []

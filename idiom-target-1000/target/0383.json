@@ -14,7 +14,18 @@
         "give off ~"
       ],
       "example-sentence": "The company gives out special calendars for free if you buy the item today.",
-      "sentence-jp": "今日その商品を買うとその会社が無料で特製カレンダーをくれる。"
+      "sentence-jp": "今日その商品を買うとその会社が無料で特製カレンダーをくれる。",
+      "cloze": {
+        "maskedText": "The company ____ special calendars for free if you buy the item today.",
+        "answerBase": "give out (~)",
+        "answerSurface": "gives out",
+        "choices": [
+          "gives out",
+          "goes over",
+          "holds up",
+          "puts out"
+        ]
+      }
     },
     {
       "idiom-jp": "(供給物・力などが)尽きる[なくなる]",
@@ -25,7 +36,18 @@
         "be used up"
       ],
       "example-sentence": "After three hours of effort to solve the problem, my patience gave out.",
-      "sentence-jp": "その問題を解こうとする3時間に及ぶ努力の後で、私の忍耐力は尽きた。"
+      "sentence-jp": "その問題を解こうとする3時間に及ぶ努力の後で、私の忍耐力は尽きた。",
+      "cloze": {
+        "maskedText": "After three hours of effort to solve the problem, my patience ____.",
+        "answerBase": "give out (~)",
+        "answerSurface": "gave out",
+        "choices": [
+          "gave out",
+          "went by",
+          "held up",
+          "looked to"
+        ]
+      }
     }
   ],
   "notes": [

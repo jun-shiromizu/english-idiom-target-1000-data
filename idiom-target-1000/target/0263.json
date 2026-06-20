@@ -13,7 +13,18 @@
         "at the outset"
       ],
       "example-sentence": "At first I thought he was joking, but soon I realized he was dead serious.",
-      "sentence-jp": "最初は, 私は彼が冗談を言っていると思ったが, すぐに彼は大まじめだとわかった。"
+      "sentence-jp": "最初は, 私は彼が冗談を言っていると思ったが, すぐに彼は大まじめだとわかった。",
+      "cloze": {
+        "maskedText": "____ I thought he was joking, but soon I realized he was dead serious.",
+        "answerBase": "at first",
+        "answerSurface": "At first",
+        "choices": [
+          "At first",
+          "For now",
+          "By chance",
+          "On the contrary"
+        ]
+      }
     }
   ],
   "notes": [

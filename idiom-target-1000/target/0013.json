@@ -16,9 +16,9 @@
         "answerSurface": "up to date",
         "choices": [
           "up to date",
-          "current",
-          "accurate",
-          "available"
+          "out of order",
+          "under control",
+          "within reach"
         ]
       }
     }

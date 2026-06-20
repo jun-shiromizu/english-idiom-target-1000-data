@@ -9,14 +9,36 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "The Egyptians recognized many gods - hundreds of them, in fact.",
-      "sentence-jp": "エジプト人は多くの神々, 実際には何百もの神々を認識していた。"
+      "sentence-jp": "エジプト人は多くの神々, 実際には何百もの神々を認識していた。",
+      "cloze": {
+        "maskedText": "The Egyptians recognized many gods - hundreds of them, ____.",
+        "answerBase": "in fact",
+        "answerSurface": "in fact",
+        "choices": [
+          "in fact",
+          "in detail",
+          "in public",
+          "in general"
+        ]
+      }
     },
     {
       "idiom-jp": "(前言と対照して) (ところが) 実際は",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Sue insisted she was there, but, in fact, there is enough evidence to show otherwise.",
-      "sentence-jp": "スーはそこにいたと主張したが, 実際はそうではないことを示す十分な証拠がある。"
+      "sentence-jp": "スーはそこにいたと主張したが, 実際はそうではないことを示す十分な証拠がある。",
+      "cloze": {
+        "maskedText": "Sue insisted she was there, but, ____ , there is enough evidence to show otherwise.",
+        "answerBase": "in fact",
+        "answerSurface": "in fact",
+        "choices": [
+          "in fact",
+          "in other words",
+          "in addition",
+          "in time"
+        ]
+      }
     }
   ],
   "notes": [

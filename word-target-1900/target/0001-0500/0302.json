@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The doctor examined the patient's stomach with a medical device.",
-      "sentence-jp": "医師は医療機器を使って患者の胃を調べた。"
+      "sentence-jp": "医師は医療機器を使って患者の胃を調べた。",
+      "cloze": {
+        "maskedText": "The doctor ____ the patient's stomach with a medical device.",
+        "answerBase": "examine",
+        "answerSurface": "examined",
+        "choices": [
+          "examined",
+          "replaced",
+          "shifted",
+          "joined"
+        ]
+      }
     }
   ],
   "notes": []

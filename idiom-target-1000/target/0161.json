@@ -14,7 +14,18 @@
         "to date"
       ],
       "example-sentence": "Of the houses I've checked on the internet so far, I think this is the best.",
-      "sentence-jp": "今までのところインターネットで調べた家の中では, 私はこれが最高だと思う。"
+      "sentence-jp": "今までのところインターネットで調べた家の中では, 私はこれが最高だと思う。",
+      "cloze": {
+        "maskedText": "Of the houses I've checked on the internet ____ , I think this is the best.",
+        "answerBase": "so far",
+        "answerSurface": "so far",
+        "choices": [
+          "so far",
+          "at once",
+          "by hand",
+          "for example"
+        ]
+      }
     }
   ],
   "notes": []

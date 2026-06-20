@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The researchers divided their subjects into two groups.",
-      "sentence-jp": "研究者は被験者を2つのグループに分けた。"
+      "sentence-jp": "研究者は被験者を2つのグループに分けた。",
+      "cloze": {
+        "maskedText": "The researchers ____ their subjects into two groups.",
+        "answerBase": "divide A into B",
+        "answerSurface": "divided",
+        "choices": [
+          "divided",
+          "trusted",
+          "published",
+          "defined"
+        ]
+      }
     }
   ],
   "notes": []

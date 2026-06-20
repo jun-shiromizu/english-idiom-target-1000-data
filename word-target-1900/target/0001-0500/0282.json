@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Stories about heroes and heroines have universal appeal among children.",
-      "sentence-jp": "ヒーローやヒロインが登場する物語は，子供たちの間で普遍的な魅力を備えている。"
+      "sentence-jp": "ヒーローやヒロインが登場する物語は，子供たちの間で普遍的な魅力を備えている。",
+      "cloze": {
+        "maskedText": "Stories about heroes and heroines have ____ appeal among children.",
+        "answerBase": "universal",
+        "answerSurface": "universal",
+        "choices": [
+          "universal",
+          "rural",
+          "official",
+          "seasonal"
+        ]
+      }
     }
   ],
   "notes": []

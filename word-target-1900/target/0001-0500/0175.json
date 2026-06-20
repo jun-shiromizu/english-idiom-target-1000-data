@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The social structure of the country has changed over the years.",
-      "sentence-jp": "その国の社会構造は長年にわたって変化してきた。"
+      "sentence-jp": "その国の社会構造は長年にわたって変化してきた。",
+      "cloze": {
+        "maskedText": "The social ____ of the country has changed over the years.",
+        "answerBase": "structure",
+        "answerSurface": "structure",
+        "choices": [
+          "structure",
+          "payment",
+          "journey",
+          "package"
+        ]
+      }
     }
   ],
   "notes": []

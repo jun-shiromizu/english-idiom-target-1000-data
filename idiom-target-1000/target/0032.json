@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "His constant hard work has led to his victory in the competition.",
-      "sentence-jp": "彼の絶え間ない努力が競技会での勝利につながった。"
+      "sentence-jp": "彼の絶え間ない努力が競技会での勝利につながった。",
+      "cloze": {
+        "maskedText": "His constant hard work has ____ his victory in the competition.",
+        "answerBase": "lead to ~",
+        "answerSurface": "led to",
+        "choices": [
+          "led to",
+          "resulted from",
+          "added to",
+          "turned into"
+        ]
+      }
     }
   ],
   "notes": [

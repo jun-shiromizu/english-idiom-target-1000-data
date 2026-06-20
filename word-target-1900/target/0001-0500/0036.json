@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Children depend on their parents for many things.",
-      "sentence-jp": "子供は多くのことを親に頼っている。"
+      "sentence-jp": "子供は多くのことを親に頼っている。",
+      "cloze": {
+        "maskedText": "Children ____ on their parents for many things.",
+        "answerBase": "depend on",
+        "answerSurface": "depend",
+        "choices": [
+          "depend",
+          "insist",
+          "focus",
+          "work"
+        ]
+      }
     }
   ],
   "notes": []

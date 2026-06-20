@@ -9,7 +9,18 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "I gave her the document, in which the proposal was explained in detail.",
-      "sentence-jp": "私は彼女に資料を提供したが, それには詳細に提案が説明されていた。"
+      "sentence-jp": "私は彼女に資料を提供したが, それには詳細に提案が説明されていた。",
+      "cloze": {
+        "maskedText": "I gave her the document, in which the proposal was explained ____.",
+        "answerBase": "in detail",
+        "answerSurface": "in detail",
+        "choices": [
+          "in detail",
+          "in public",
+          "in reality",
+          "in haste"
+        ]
+      }
     }
   ],
   "notes": [

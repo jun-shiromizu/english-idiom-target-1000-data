@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "The key to baking a good pie lies in making a good crust.",
-      "sentence-jp": "おいしいパイを焼くこつはおいしい皮を作ることにある。"
+      "sentence-jp": "おいしいパイを焼くこつはおいしい皮を作ることにある。",
+      "cloze": {
+        "maskedText": "The key to baking a good pie ____ making a good crust.",
+        "answerBase": "lie in ~",
+        "answerSurface": "lies in",
+        "choices": [
+          "lies in",
+          "consists in",
+          "gives way to",
+          "shows up"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Nowadays, it is possible to buy almost anything on the Internet.",
-      "sentence-jp": "最近では，インターネットでほとんど何でも買うことが可能である。"
+      "sentence-jp": "最近では，インターネットでほとんど何でも買うことが可能である。",
+      "cloze": {
+        "maskedText": "Nowadays, it is ____ to buy almost anything on the Internet.",
+        "answerBase": "possible",
+        "answerSurface": "possible",
+        "choices": [
+          "possible",
+          "careful",
+          "equal",
+          "silent"
+        ]
+      }
     }
   ],
   "notes": []

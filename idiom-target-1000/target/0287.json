@@ -13,7 +13,18 @@
         "tell [see] the difference between A and B"
       ],
       "example-sentence": "Today it is often very difficult to distinguish accurate from inaccurate information.",
-      "sentence-jp": "今日, 正確な情報を不正確なものと区別することはしばしば非常に難しい。"
+      "sentence-jp": "今日, 正確な情報を不正確なものと区別することはしばしば非常に難しい。",
+      "cloze": {
+        "maskedText": "Today it is often very difficult to ____ accurate from inaccurate information.",
+        "answerBase": "distinguish A from B",
+        "answerSurface": "distinguish",
+        "choices": [
+          "distinguish",
+          "tell",
+          "provide",
+          "participate"
+        ]
+      }
     }
   ],
   "notes": []

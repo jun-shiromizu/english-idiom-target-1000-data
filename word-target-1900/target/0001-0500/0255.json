@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She developed a new technique for making smartphones easier to use.",
-      "sentence-jp": "彼女はスマートフォンの使い勝手をよくするための新技術を開発した。"
+      "sentence-jp": "彼女はスマートフォンの使い勝手をよくするための新技術を開発した。",
+      "cloze": {
+        "maskedText": "She developed a new ____ for making smartphones easier to use.",
+        "answerBase": "technique",
+        "answerSurface": "technique",
+        "choices": [
+          "technique",
+          "village",
+          "weather",
+          "payment"
+        ]
+      }
     }
   ],
   "notes": []

@@ -14,7 +14,18 @@
         "denote"
       ],
       "example-sentence": "WHO stands for the World Health Organization.",
-      "sentence-jp": "WHOは世界保健機関を意味する。"
+      "sentence-jp": "WHOは世界保健機関を意味する。",
+      "cloze": {
+        "maskedText": "WHO ____ the World Health Organization.",
+        "answerBase": "stand for ~",
+        "answerSurface": "stands for",
+        "choices": [
+          "stands for",
+          "stands by",
+          "takes in",
+          "makes for"
+        ]
+      }
     },
     {
       "idiom-jp": "[否定文・疑問文で]〜を許容する、〜を我慢する",
@@ -26,7 +37,18 @@
         "tolerate"
       ],
       "example-sentence": "The new English teacher told us that she wouldn’t stand for speaking Japanese in class.",
-      "sentence-jp": "新任の英語の先生は、授業中に日本語を話すことを許容するつもりはないと私たちに言った。"
+      "sentence-jp": "新任の英語の先生は、授業中に日本語を話すことを許容するつもりはないと私たちに言った。",
+      "cloze": {
+        "maskedText": "The new English teacher told us that she wouldn’t ____ speaking Japanese in class.",
+        "answerBase": "stand for ~",
+        "answerSurface": "stand for",
+        "choices": [
+          "stand for",
+          "stand by",
+          "take up",
+          "turn in"
+        ]
+      }
     }
   ],
   "notes": [

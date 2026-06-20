@@ -12,7 +12,18 @@
         "criticize"
       ],
       "example-sentence": "It's easy to find fault with the work of others, but we should know it's a most shameful act.",
-      "sentence-jp": "他人の仕事にけちをつけるのは簡単だが, それはとても恥ずかしい行いだということを知るべきだ。"
+      "sentence-jp": "他人の仕事にけちをつけるのは簡単だが, それはとても恥ずかしい行いだということを知るべきだ。",
+      "cloze": {
+        "maskedText": "It's easy to ____ the work of others, but we should know it's a most shameful act.",
+        "answerBase": "find fault with ~",
+        "answerSurface": "find fault with",
+        "choices": [
+          "find fault with",
+          "look over",
+          "hand in",
+          "set in"
+        ]
+      }
     }
   ],
   "notes": [

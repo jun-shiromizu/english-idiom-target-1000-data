@@ -12,7 +12,18 @@
         "much [still] less ~"
       ],
       "example-sentence": "The old man can hardly remember what he had for breakfast this morning, let alone two days ago.",
-      "sentence-jp": "その老人は2日前は言うまでもなく, 今朝朝食に何を食べたのかもほとんど思い出せない。"
+      "sentence-jp": "その老人は2日前は言うまでもなく, 今朝朝食に何を食べたのかもほとんど思い出せない。",
+      "cloze": {
+        "maskedText": "The old man can hardly remember what he had for breakfast this morning, ____ two days ago.",
+        "answerBase": "let alone ~",
+        "answerSurface": "let alone",
+        "choices": [
+          "let alone",
+          "right away",
+          "on purpose",
+          "for good"
+        ]
+      }
     }
   ],
   "notes": [

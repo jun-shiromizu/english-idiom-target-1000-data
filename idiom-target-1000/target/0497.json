@@ -12,7 +12,18 @@
         "forbid A from B"
       ],
       "example-sentence": "The new rules at the museum prohibited visitors from smoking in the building.",
-      "sentence-jp": "その博物館の新たな規則は来館者に建物内での喫煙を禁止した。"
+      "sentence-jp": "その博物館の新たな規則は来館者に建物内での喫煙を禁止した。",
+      "cloze": {
+        "maskedText": "The new rules at the museum ____ visitors from smoking in the building.",
+        "answerBase": "prohibit A from B",
+        "answerSurface": "prohibited",
+        "choices": [
+          "prohibited",
+          "discouraged",
+          "ordered",
+          "substituted"
+        ]
+      }
     }
   ],
   "notes": [

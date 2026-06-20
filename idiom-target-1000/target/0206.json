@@ -12,7 +12,18 @@
         "before"
       ],
       "example-sentence": "A sign by the poolside says: \"All users must shower prior to entering the pool.\"",
-      "sentence-jp": "プールサイドのそばの看板には『すべての利用者はプールに入る前にシャワーを浴びなければならない』と書いてある。"
+      "sentence-jp": "プールサイドのそばの看板には『すべての利用者はプールに入る前にシャワーを浴びなければならない』と書いてある。",
+      "cloze": {
+        "maskedText": "A sign by the poolside says: \"All users must shower ____ entering the pool.\"",
+        "answerBase": "prior to ~",
+        "answerSurface": "prior to",
+        "choices": [
+          "prior to",
+          "along with",
+          "in all",
+          "as well"
+        ]
+      }
     }
   ],
   "notes": [

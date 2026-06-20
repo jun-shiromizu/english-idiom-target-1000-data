@@ -12,7 +12,18 @@
         "get over ~"
       ],
       "example-sentence": "The company will surely recover from the recent financial crisis.",
-      "sentence-jp": "その会社はきっと最近の財政危機から立ち直るだろう。"
+      "sentence-jp": "その会社はきっと最近の財政危機から立ち直るだろう。",
+      "cloze": {
+        "maskedText": "The company will surely ____ the recent financial crisis.",
+        "answerBase": "recover from ~",
+        "answerSurface": "recover from",
+        "choices": [
+          "recover from",
+          "result from",
+          "graduate from",
+          "care about"
+        ]
+      }
     }
   ],
   "notes": []

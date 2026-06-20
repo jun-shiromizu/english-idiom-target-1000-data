@@ -13,7 +13,18 @@
         "together with ~"
       ],
       "example-sentence": "I couldn't understand why we had to submit our notebook along with our test paper.",
-      "sentence-jp": "どうして私たちはテスト用紙と一緒にノートを提出しなければならないのか, 私には理解できなかった。"
+      "sentence-jp": "どうして私たちはテスト用紙と一緒にノートを提出しなければならないのか, 私には理解できなかった。",
+      "cloze": {
+        "maskedText": "I couldn't understand why we had to submit our notebook ____ our test paper.",
+        "answerBase": "along with ~",
+        "answerSurface": "along with",
+        "choices": [
+          "along with",
+          "prior to",
+          "in spite of",
+          "apart from"
+        ]
+      }
     }
   ],
   "notes": []

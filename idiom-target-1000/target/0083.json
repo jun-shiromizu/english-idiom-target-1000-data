@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Why not get together sometime next week?",
-      "sentence-jp": "来週のいつかに集まるのはどうですか。"
+      "sentence-jp": "来週のいつかに集まるのはどうですか。",
+      "cloze": {
+        "maskedText": "Why not ____ sometime next week?",
+        "answerBase": "get together",
+        "answerSurface": "get together",
+        "choices": [
+          "get together",
+          "turn over",
+          "settle down",
+          "break away"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The political situation of Britain changed after World War I.",
-      "sentence-jp": "イギリスの政治情勢は第一次世界大戦後に変わった。"
+      "sentence-jp": "イギリスの政治情勢は第一次世界大戦後に変わった。",
+      "cloze": {
+        "maskedText": "The ____ situation of Britain changed after World War I.",
+        "answerBase": "political",
+        "answerSurface": "political",
+        "choices": [
+          "political",
+          "chemical",
+          "personal",
+          "seasonal"
+        ]
+      }
     }
   ],
   "notes": []

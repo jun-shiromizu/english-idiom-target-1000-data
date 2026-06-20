@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "In short, Shakespeare was proposing the process we now call “the scientific method.”",
-      "sentence-jp": "つまり、シェークスピアは私たちが現在「科学的方法」と呼ぶ方法を提案していたのだ。"
+      "sentence-jp": "つまり、シェークスピアは私たちが現在「科学的方法」と呼ぶ方法を提案していたのだ。",
+      "cloze": {
+        "maskedText": "____, Shakespeare was proposing the process we now call \"the scientific method.\"",
+        "answerBase": "in short",
+        "answerSurface": "In short",
+        "choices": [
+          "In short",
+          "At all costs",
+          "By all means",
+          "Close at hand"
+        ]
+      }
     }
   ],
   "notes": [

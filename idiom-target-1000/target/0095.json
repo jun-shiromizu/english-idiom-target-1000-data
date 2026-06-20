@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Let's all do our best to make the school festival a success.",
-      "sentence-jp": "学園祭を成功させるために全員で最善を尽くしましょう。"
+      "sentence-jp": "学園祭を成功させるために全員で最善を尽くしましょう。",
+      "cloze": {
+        "maskedText": "Let's all ____ to make the school festival a success.",
+        "answerBase": "do one's best",
+        "answerSurface": "do our best",
+        "choices": [
+          "do our best",
+          "keep our promise",
+          "take our time",
+          "make our way"
+        ]
+      }
     }
   ],
   "notes": [

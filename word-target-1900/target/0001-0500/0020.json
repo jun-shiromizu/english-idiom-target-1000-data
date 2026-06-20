@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Good eating habits can reduce the risk of heart disease.",
-      "sentence-jp": "よい食習慣は心疾患の危険を軽減し得る。"
+      "sentence-jp": "よい食習慣は心疾患の危険を軽減し得る。",
+      "cloze": {
+        "maskedText": "Good eating habits can ____ the risk of heart disease.",
+        "answerBase": "reduce",
+        "answerSurface": "reduce",
+        "choices": [
+          "reduce",
+          "measure",
+          "discuss",
+          "copy"
+        ]
+      }
     }
   ],
   "notes": []

@@ -16,7 +16,18 @@
         "on occasion(s)"
       ],
       "example-sentence": "The twins look so much alike that at times I can't tell them apart.",
-      "sentence-jp": "その双子はよく似ていて, 私はときどき区別ができない。"
+      "sentence-jp": "その双子はよく似ていて, 私はときどき区別ができない。",
+      "cloze": {
+        "maskedText": "The twins look so much alike that ____ I can't tell them apart.",
+        "answerBase": "at times",
+        "answerSurface": "at times",
+        "choices": [
+          "at times",
+          "at best",
+          "at hand",
+          "at least"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The digital revolution may well change people's way of reading books.",
-      "sentence-jp": "デジタル革命はおそらく人々の読書法を変えるだろう。"
+      "sentence-jp": "デジタル革命はおそらく人々の読書法を変えるだろう。",
+      "cloze": {
+        "maskedText": "The digital ____ may well change people's way of reading books.",
+        "answerBase": "revolution",
+        "answerSurface": "revolution",
+        "choices": [
+          "revolution",
+          "blanket",
+          "vehicle",
+          "section"
+        ]
+      }
     }
   ],
   "notes": []

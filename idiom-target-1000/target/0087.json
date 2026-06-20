@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Unless it rains, the athletic meet will take place on the playground as scheduled.",
-      "sentence-jp": "雨が降らない限り、予定どおりグラウンドで運動会が開催されるだろう。"
+      "sentence-jp": "雨が降らない限り、予定どおりグラウンドで運動会が開催されるだろう。",
+      "cloze": {
+        "maskedText": "Unless it rains, the athletic meet will ____ on the playground as scheduled.",
+        "answerBase": "take place",
+        "answerSurface": "take place",
+        "choices": [
+          "take place",
+          "come back",
+          "go over",
+          "hold up"
+        ]
+      }
     }
   ],
   "notes": [

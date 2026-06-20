@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Loud noises may have a negative effect on studying.",
-      "sentence-jp": "大きな騒音は勉強に悪影響を与えるかもしれない。"
+      "sentence-jp": "大きな騒音は勉強に悪影響を与えるかもしれない。",
+      "cloze": {
+        "maskedText": "Loud noises may have a ____ effect on studying.",
+        "answerBase": "negative",
+        "answerSurface": "negative",
+        "choices": [
+          "negative",
+          "central",
+          "formal",
+          "steady"
+        ]
+      }
     }
   ],
   "notes": []

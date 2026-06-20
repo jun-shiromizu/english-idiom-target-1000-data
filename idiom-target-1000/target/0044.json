@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "I have to prepare for a test in English scheduled next week.",
-      "sentence-jp": "私は来週に予定されている英語のテストの準備をしなければならない。"
+      "sentence-jp": "私は来週に予定されている英語のテストの準備をしなければならない。",
+      "cloze": {
+        "maskedText": "I have to ____ a test in English scheduled next week.",
+        "answerBase": "prepare for ~",
+        "answerSurface": "prepare for",
+        "choices": [
+          "prepare for",
+          "search for",
+          "hope for",
+          "count on"
+        ]
+      }
     }
   ],
   "notes": [

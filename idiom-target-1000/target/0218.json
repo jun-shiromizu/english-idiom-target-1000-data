@@ -12,7 +12,18 @@
         "beforehand"
       ],
       "example-sentence": "If you're planning to visit Kyoto in the fall, you should book your hotel in advance.",
-      "sentence-jp": "もし秋に京都を訪れる計画を立てているのなら, 前もってホテルを予約すべきだ。"
+      "sentence-jp": "もし秋に京都を訪れる計画を立てているのなら, 前もってホテルを予約すべきだ。",
+      "cloze": {
+        "maskedText": "If you're planning to visit Kyoto in the fall, you should book your hotel ____.",
+        "answerBase": "in advance",
+        "answerSurface": "in advance",
+        "choices": [
+          "in advance",
+          "as well",
+          "for good",
+          "by degrees"
+        ]
+      }
     }
   ],
   "notes": []

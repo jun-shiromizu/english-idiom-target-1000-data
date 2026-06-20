@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "You should not waste too much time on chatting online.",
-      "sentence-jp": "オンラインでチャットをするのにあまりに長い時間を浪費するべきでない。"
+      "sentence-jp": "オンラインでチャットをするのにあまりに長い時間を浪費するべきでない。",
+      "cloze": {
+        "maskedText": "You should not ____ too much time on chatting online.",
+        "answerBase": "waste",
+        "answerSurface": "waste",
+        "choices": [
+          "waste",
+          "save",
+          "divide",
+          "collect"
+        ]
+      }
     }
   ],
   "notes": []

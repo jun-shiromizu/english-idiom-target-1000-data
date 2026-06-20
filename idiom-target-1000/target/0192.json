@@ -12,7 +12,18 @@
         "investigate"
       ],
       "example-sentence": "The police started to look into the cause of the accident more carefully.",
-      "sentence-jp": "警察はより慎重に事故の原因を調べ始めた。"
+      "sentence-jp": "警察はより慎重に事故の原因を調べ始めた。",
+      "cloze": {
+        "maskedText": "The police started to ____ the cause of the accident more carefully.",
+        "answerBase": "look into ~",
+        "answerSurface": "look into",
+        "choices": [
+          "look into",
+          "put up with",
+          "come by",
+          "pass away"
+        ]
+      }
     }
   ],
   "notes": [

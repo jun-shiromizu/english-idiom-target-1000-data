@@ -12,7 +12,18 @@
         "connect A with B"
       ],
       "example-sentence": "Numerous studies have associated marriage with a lower risk of disease.",
-      "sentence-jp": "無数の研究が結婚を病気にかかるリスクが低いことと結び付けて考えてきた。"
+      "sentence-jp": "無数の研究が結婚を病気にかかるリスクが低いことと結び付けて考えてきた。",
+      "cloze": {
+        "maskedText": "Numerous studies have ____ a lower risk of disease.",
+        "answerBase": "associate A with B",
+        "answerSurface": "associated marriage with",
+        "choices": [
+          "associated marriage with",
+          "informed marriage of",
+          "helped marriage with",
+          "prevented marriage from"
+        ]
+      }
     }
   ],
   "notes": [

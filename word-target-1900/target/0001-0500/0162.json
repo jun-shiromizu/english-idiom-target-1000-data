@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Some methods of dieting face a lot of criticism.",
-      "sentence-jp": "いくつかのダイエット法は多くの批判に直面している。"
+      "sentence-jp": "いくつかのダイエット法は多くの批判に直面している。",
+      "cloze": {
+        "maskedText": "Some ____ of dieting face a lot of criticism.",
+        "answerBase": "method",
+        "answerSurface": "methods",
+        "choices": [
+          "methods",
+          "garages",
+          "tickets",
+          "villages"
+        ]
+      }
     }
   ],
   "notes": []

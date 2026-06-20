@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Social Networking Services allow users to communicate with other users.",
-      "sentence-jp": "ソーシャルネットワークサービス（SNS）は，利用者がほかの利用者と情報交換するのを可能にする。"
+      "sentence-jp": "ソーシャルネットワークサービス（SNS）は，利用者がほかの利用者と情報交換するのを可能にする。",
+      "cloze": {
+        "maskedText": "Social Networking Services allow users to ____ with other users.",
+        "answerBase": "communicate with",
+        "answerSurface": "communicate",
+        "choices": [
+          "communicate",
+          "compare",
+          "compete",
+          "settle"
+        ]
+      }
     }
   ],
   "notes": []

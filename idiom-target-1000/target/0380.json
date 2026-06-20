@@ -10,14 +10,36 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Professor Yoshida, could I call on you sometime next week at your office for some advice?",
-      "sentence-jp": "吉田教授、アドバイスをいただきたいので、来週のいつか研究室を訪ねてもよろしいですか。"
+      "sentence-jp": "吉田教授、アドバイスをいただきたいので、来週のいつか研究室を訪ねてもよろしいですか。",
+      "cloze": {
+        "maskedText": "Professor Yoshida, could I ____ you sometime next week at your office for some advice?",
+        "answerBase": "call on ~",
+        "answerSurface": "call on",
+        "choices": [
+          "call on",
+          "call for",
+          "break in",
+          "do without"
+        ]
+      }
     },
     {
       "idiom-jp": "〜に要求する",
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "The report calls on the government to consider setting numerical targets on this.",
-      "sentence-jp": "報告書は、これに対しての数値目標の設定を検討するように政府に要求している。"
+      "sentence-jp": "報告書は、これに対しての数値目標の設定を検討するように政府に要求している。",
+      "cloze": {
+        "maskedText": "The report ____ the government to consider setting numerical targets on this.",
+        "answerBase": "call on ~",
+        "answerSurface": "calls on",
+        "choices": [
+          "calls on",
+          "calls for",
+          "breaks out",
+          "looks up to"
+        ]
+      }
     }
   ],
   "notes": [

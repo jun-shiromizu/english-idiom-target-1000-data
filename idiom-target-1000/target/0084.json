@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "One of the best ways to calm yourself down is to take a deep breath.",
-      "sentence-jp": "自分を落ち着かせる最善の方法の1つは深呼吸をすることだ。"
+      "sentence-jp": "自分を落ち着かせる最善の方法の1つは深呼吸をすることだ。",
+      "cloze": {
+        "maskedText": "One of the best ways to ____ is to take a deep breath.",
+        "answerBase": "calm ~ down",
+        "answerSurface": "calm yourself down",
+        "choices": [
+          "calm yourself down",
+          "wake yourself up",
+          "give yourself away",
+          "turn yourself over"
+        ]
+      }
     }
   ],
   "notes": [

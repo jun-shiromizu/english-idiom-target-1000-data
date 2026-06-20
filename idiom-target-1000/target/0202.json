@@ -12,7 +12,18 @@
         "important"
       ],
       "example-sentence": "I believe that education is of supreme importance, no matter where we live.",
-      "sentence-jp": "どこに住んでいようと教育が最も重要であると私は信じている。"
+      "sentence-jp": "どこに住んでいようと教育が最も重要であると私は信じている。",
+      "cloze": {
+        "maskedText": "I believe that education is ____ , no matter where we live.",
+        "answerBase": "of importance",
+        "answerSurface": "of supreme importance",
+        "choices": [
+          "of supreme importance",
+          "on board the plane",
+          "all of a sudden",
+          "from time to time"
+        ]
+      }
     }
   ],
   "notes": [

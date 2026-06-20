@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Researchers often cite articles from this scientific journal.",
-      "sentence-jp": "研究者たちはしばしばこの科学雑誌から記事を引用する。"
+      "sentence-jp": "研究者たちはしばしばこの科学雑誌から記事を引用する。",
+      "cloze": {
+        "maskedText": "Researchers often cite ____ from this scientific journal.",
+        "answerBase": "article",
+        "answerSurface": "articles",
+        "choices": [
+          "articles",
+          "factories",
+          "landscapes",
+          "fashions"
+        ]
+      }
     }
   ],
   "notes": []

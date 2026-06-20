@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "According to this article, the world is continuing to be urbanized rapidly.",
-      "sentence-jp": "この記事によれば, 世界は急速に都市化を続けている。"
+      "sentence-jp": "この記事によれば, 世界は急速に都市化を続けている。",
+      "cloze": {
+        "maskedText": "____ this article, the world is continuing to be urbanized rapidly.",
+        "answerBase": "according to ~",
+        "answerSurface": "According to",
+        "choices": [
+          "According to",
+          "Compared with",
+          "Apart from",
+          "In spite of"
+        ]
+      }
     },
     {
       "idiom-jp": "〜に従って ; 〜に応じて",
@@ -19,7 +30,18 @@
         "in accordance with ~"
       ],
       "example-sentence": "If all goes according to plan, the building will have been completed by next spring.",
-      "sentence-jp": "もしすべてが計画に従って進めば, その建物は来春までには完成しているだろう。"
+      "sentence-jp": "もしすべてが計画に従って進めば, その建物は来春までには完成しているだろう。",
+      "cloze": {
+        "maskedText": "If all goes ____ , the building will have been completed by next spring.",
+        "answerBase": "according to ~",
+        "answerSurface": "according to plan",
+        "choices": [
+          "according to plan",
+          "in spite of rain",
+          "apart from us",
+          "in addition to work"
+        ]
+      }
     }
   ],
   "notes": []

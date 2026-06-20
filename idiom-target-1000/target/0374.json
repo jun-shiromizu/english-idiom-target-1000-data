@@ -9,7 +9,18 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "When he moved to Texas, he felt ill at ease in the new environment.",
-      "sentence-jp": "彼はテキサスに引っ越したとき、新しい環境で不安に感じた。"
+      "sentence-jp": "彼はテキサスに引っ越したとき、新しい環境で不安に感じた。",
+      "cloze": {
+        "maskedText": "When he moved to Texas, he felt ____ in the new environment.",
+        "answerBase": "ill at ease",
+        "answerSurface": "ill at ease",
+        "choices": [
+          "ill at ease",
+          "at ease",
+          "in sight",
+          "in order"
+        ]
+      }
     }
   ],
   "notes": []

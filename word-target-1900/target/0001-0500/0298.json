@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "My friend was willing to help me move into a new apartment.",
-      "sentence-jp": "私の友人は私が新しいアパートに引っ越すのを手伝うことをいとわなかった。"
+      "sentence-jp": "私の友人は私が新しいアパートに引っ越すのを手伝うことをいとわなかった。",
+      "cloze": {
+        "maskedText": "My friend was ____ to help me move into a new apartment.",
+        "answerBase": "willing to do",
+        "answerSurface": "willing",
+        "choices": [
+          "willing",
+          "unable",
+          "sorry",
+          "afraid"
+        ]
+      }
     }
   ],
   "notes": []

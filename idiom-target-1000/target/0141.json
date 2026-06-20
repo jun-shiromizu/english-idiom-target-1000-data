@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "We've been walking since the morning, so let's take a rest for a while.",
-      "sentence-jp": "朝からずっと歩いているので, しばらくの間休憩をとろう。"
+      "sentence-jp": "朝からずっと歩いているので, しばらくの間休憩をとろう。",
+      "cloze": {
+        "maskedText": "We've been walking since the morning, so let's take a rest ____.",
+        "answerBase": "for a while",
+        "answerSurface": "for a while",
+        "choices": [
+          "for a while",
+          "for example",
+          "in detail",
+          "at random"
+        ]
+      }
     }
   ],
   "notes": [

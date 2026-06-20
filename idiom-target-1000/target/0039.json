@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I arrived at the airport just ten minutes before it was time to get on the plane.",
-      "sentence-jp": "私は飛行機に乗る時刻のほんの10分前に空港へ到着した。"
+      "sentence-jp": "私は飛行機に乗る時刻のほんの10分前に空港へ到着した。",
+      "cloze": {
+        "maskedText": "I arrived at the airport just ten minutes before it was time to ____ the plane.",
+        "answerBase": "get on ~",
+        "answerSurface": "get on",
+        "choices": [
+          "get on",
+          "get off",
+          "see off",
+          "pick up"
+        ]
+      }
     },
     {
       "idiom-jp": "主に英 仲良くやっていく；(なんとか)やっていく",
@@ -19,7 +30,18 @@
         "get along"
       ],
       "example-sentence": "It is important that students get on with their classmates at school.",
-      "sentence-jp": "生徒たちが学校でクラスメートと仲良くやっていくことは重要なことだ。"
+      "sentence-jp": "生徒たちが学校でクラスメートと仲良くやっていくことは重要なことだ。",
+      "cloze": {
+        "maskedText": "It is important that students ____ their classmates at school.",
+        "answerBase": "get on with ~",
+        "answerSurface": "get on with",
+        "choices": [
+          "get on with",
+          "catch up with",
+          "put up with",
+          "part from"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "To make the most of the warm weather, we went to the beach.",
-      "sentence-jp": "暖かい天候を最大限に利用するために私たちは海辺へ行った。"
+      "sentence-jp": "暖かい天候を最大限に利用するために私たちは海辺へ行った。",
+      "cloze": {
+        "maskedText": "To ____ the warm weather, we went to the beach.",
+        "answerBase": "make the most of ~",
+        "answerSurface": "make the most of",
+        "choices": [
+          "make the most of",
+          "make the best of",
+          "lay off",
+          "be bound for"
+        ]
+      }
     }
   ],
   "notes": [

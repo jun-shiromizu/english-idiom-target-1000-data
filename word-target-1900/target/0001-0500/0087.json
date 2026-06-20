@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Research shows that reading habits have declined in recent years.",
-      "sentence-jp": "近年，読書の習慣が衰退してきていることを研究は示している。"
+      "sentence-jp": "近年，読書の習慣が衰退してきていることを研究は示している。",
+      "cloze": {
+        "maskedText": "Research shows that reading habits have declined in ____ years.",
+        "answerBase": "recent",
+        "answerSurface": "recent",
+        "choices": [
+          "recent",
+          "wooden",
+          "foreign",
+          "honest"
+        ]
+      }
     }
   ],
   "notes": []

@@ -14,14 +14,36 @@
         "need"
       ],
       "example-sentence": "The situation is extremely serious and calls for immediate action.",
-      "sentence-jp": "状況は極めて深刻で、迅速な行動を必要としている。"
+      "sentence-jp": "状況は極めて深刻で、迅速な行動を必要としている。",
+      "cloze": {
+        "maskedText": "The situation is extremely serious and ____ immediate action.",
+        "answerBase": "call for ~",
+        "answerSurface": "calls for",
+        "choices": [
+          "calls for",
+          "calls on",
+          "breaks up",
+          "looks down on"
+        ]
+      }
     },
     {
       "idiom-jp": "主に英 (人)を誘い[迎え]に行く；(物)を取りに行く",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I should have called for you at eight as I’d promised, but I overslept.",
-      "sentence-jp": "私は約束したとおり8時にあなたを迎えに行くべきだったが、寝過ごしてしまった。"
+      "sentence-jp": "私は約束したとおり8時にあなたを迎えに行くべきだったが、寝過ごしてしまった。",
+      "cloze": {
+        "maskedText": "I should have ____ you at eight as I’d promised, but I overslept.",
+        "answerBase": "call for ~",
+        "answerSurface": "called for",
+        "choices": [
+          "called for",
+          "called on",
+          "broken up with",
+          "done with"
+        ]
+      }
     }
   ],
   "notes": [

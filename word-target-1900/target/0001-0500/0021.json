@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Airbags are designed to protect average-sized adult males.",
-      "sentence-jp": "エアバッグは平均的な体格の成人男性を保護するように設計されている。"
+      "sentence-jp": "エアバッグは平均的な体格の成人男性を保護するように設計されている。",
+      "cloze": {
+        "maskedText": "Airbags are ____ protect average-sized adult males.",
+        "answerBase": "be designed to do",
+        "answerSurface": "designed to",
+        "choices": [
+          "designed to",
+          "forced to",
+          "shocked to",
+          "allowed to"
+        ]
+      }
     }
   ],
   "notes": []

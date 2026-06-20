@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The journalist refused to answer the questions about the source of the information.",
-      "sentence-jp": "そのジャーナリストは情報の出所についての質問に答えるのを拒んだ。"
+      "sentence-jp": "そのジャーナリストは情報の出所についての質問に答えるのを拒んだ。",
+      "cloze": {
+        "maskedText": "The journalist ____ to answer the questions about the source of the information.",
+        "answerBase": "refuse to do",
+        "answerSurface": "refused",
+        "choices": [
+          "refused",
+          "learned",
+          "managed",
+          "agreed"
+        ]
+      }
     }
   ],
   "notes": []

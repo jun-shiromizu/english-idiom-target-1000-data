@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "For your security, I advise you to keep your valuables out of sight.",
-      "sentence-jp": "あなたの安全のために貴重品は見えない所に保管しておくことを勧めます。"
+      "sentence-jp": "あなたの安全のために貴重品は見えない所に保管しておくことを勧めます。",
+      "cloze": {
+        "maskedText": "For your security, I advise you to keep your valuables ____.",
+        "answerBase": "out of sight",
+        "answerSurface": "out of sight",
+        "choices": [
+          "out of sight",
+          "in sight",
+          "ill at ease",
+          "in order"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Dieting commonly means eating low-fat and low-calorie food to keep off weight.",
-      "sentence-jp": "ダイエットとは一般に、体重を増やさないために低脂肪、低カロリーの物を食べることを意味する。"
+      "sentence-jp": "ダイエットとは一般に、体重を増やさないために低脂肪、低カロリーの物を食べることを意味する。",
+      "cloze": {
+        "maskedText": "Dieting commonly means eating low-fat and low-calorie food to ____ weight.",
+        "answerBase": "keep off ~",
+        "answerSurface": "keep off",
+        "choices": [
+          "keep off",
+          "give off",
+          "break off",
+          "take over"
+        ]
+      }
     }
   ],
   "notes": [

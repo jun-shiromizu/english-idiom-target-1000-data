@@ -12,7 +12,18 @@
         "aboard"
       ],
       "example-sentence": "We began to get on board the plane half an hour before its scheduled takeoff.",
-      "sentence-jp": "私たちは離陸予定時刻の30分前に飛行機に乗り始めた。"
+      "sentence-jp": "私たちは離陸予定時刻の30分前に飛行機に乗り始めた。",
+      "cloze": {
+        "maskedText": "We began to get ____ the plane half an hour before its scheduled takeoff.",
+        "answerBase": "on board (~)",
+        "answerSurface": "on board",
+        "choices": [
+          "on board",
+          "all over",
+          "in advance",
+          "for good"
+        ]
+      }
     }
   ],
   "notes": [

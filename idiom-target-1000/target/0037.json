@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "Why don't you just focus on doing what you have to do today, not tomorrow?",
-      "sentence-jp": "明日ではなく今日しなければならないことをするのに集中したらどうですか。"
+      "sentence-jp": "明日ではなく今日しなければならないことをするのに集中したらどうですか。",
+      "cloze": {
+        "maskedText": "Why don't you just ____ doing what you have to do today, not tomorrow?",
+        "answerBase": "focus on ~",
+        "answerSurface": "focus on",
+        "choices": [
+          "focus on",
+          "give up",
+          "count on",
+          "succeed in"
+        ]
+      }
     }
   ],
   "notes": [

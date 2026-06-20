@@ -12,7 +12,18 @@
         "like A better than B"
       ],
       "example-sentence": "A survey shows that more than half of children prefer video games to books.",
-      "sentence-jp": "ある調査によれば, 子供たちの半数以上は本よりテレビゲームを好んでいるそうだ。"
+      "sentence-jp": "ある調査によれば, 子供たちの半数以上は本よりテレビゲームを好んでいるそうだ。",
+      "cloze": {
+        "maskedText": "A survey shows that more than half of children ____ books.",
+        "answerBase": "prefer A to B",
+        "answerSurface": "prefer video games to",
+        "choices": [
+          "prefer video games to",
+          "compare video games with",
+          "change video games into",
+          "inform video games about"
+        ]
+      }
     }
   ],
   "notes": [

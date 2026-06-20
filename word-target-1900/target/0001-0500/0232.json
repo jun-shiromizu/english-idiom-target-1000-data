@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "He hides his true feelings behind his smiles.",
-      "sentence-jp": "彼はほほえみの裏に自分の本当の感情を隠す。"
+      "sentence-jp": "彼はほほえみの裏に自分の本当の感情を隠す。",
+      "cloze": {
+        "maskedText": "He ____ his true feelings behind his smiles.",
+        "answerBase": "hide",
+        "answerSurface": "hides",
+        "choices": [
+          "hides",
+          "shares",
+          "spreads",
+          "finishes"
+        ]
+      }
     }
   ],
   "notes": []

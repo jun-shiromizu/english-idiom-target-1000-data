@@ -9,14 +9,36 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "The ice at both poles is breaking up earlier every year due to global warming.",
-      "sentence-jp": "両極の氷は地球温暖化のために毎年より早く崩壊している。"
+      "sentence-jp": "両極の氷は地球温暖化のために毎年より早く崩壊している。",
+      "cloze": {
+        "maskedText": "The ice at both poles is ____ earlier every year due to global warming.",
+        "answerBase": "break up (~)",
+        "answerSurface": "breaking up",
+        "choices": [
+          "breaking up",
+          "breaking out",
+          "breaking in",
+          "calling on"
+        ]
+      }
     },
     {
       "idiom-jp": "(人が)別れる；(関係などが)終わる；〜を終わらせる",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I’ve broken up with John, but between you and me, I actually feel a bit relieved.",
-      "sentence-jp": "私はジョンと別れたけれど、ここだけの話、実はちょっとほっとしています。"
+      "sentence-jp": "私はジョンと別れたけれど、ここだけの話、実はちょっとほっとしています。",
+      "cloze": {
+        "maskedText": "I’ve ____ with John, but between you and me, I actually feel a bit relieved.",
+        "answerBase": "break up (~)",
+        "answerSurface": "broken up",
+        "choices": [
+          "broken up",
+          "broken in",
+          "broken out",
+          "called for"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Biologists think there is a need to protect endangered species.",
-      "sentence-jp": "生物学者は絶滅危惧種を保護する必要性があると思っている。"
+      "sentence-jp": "生物学者は絶滅危惧種を保護する必要性があると思っている。",
+      "cloze": {
+        "maskedText": "Biologists think there is a need to protect endangered ____.",
+        "answerBase": "species",
+        "answerSurface": "species",
+        "choices": [
+          "species",
+          "methods",
+          "offices",
+          "festivals"
+        ]
+      }
     }
   ],
   "notes": []

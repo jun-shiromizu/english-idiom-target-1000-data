@@ -9,14 +9,36 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Bob has not come to the party yet, but he will turn up eventually.",
-      "sentence-jp": "ボブはまだパーティーに来ていないが, 最終的には現れるだろう。"
+      "sentence-jp": "ボブはまだパーティーに来ていないが, 最終的には現れるだろう。",
+      "cloze": {
+        "maskedText": "Bob has not come to the party yet, but he will ____ eventually.",
+        "answerBase": "turn up (~)",
+        "answerSurface": "turn up",
+        "choices": [
+          "turn up",
+          "show up",
+          "make up",
+          "lie in"
+        ]
+      }
     },
     {
       "idiom-jp": "(ガス・音量など)を大きくする ; 〜を探し出す",
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "My kid brother asked me to show him how to turn up the volume on his smartphone.",
-      "sentence-jp": "弟はスマートフォンの音量を大きくする方法を教えてくれと私に頼んできた。"
+      "sentence-jp": "弟はスマートフォンの音量を大きくする方法を教えてくれと私に頼んできた。",
+      "cloze": {
+        "maskedText": "My kid brother asked me to show him how to ____ the volume on his smartphone.",
+        "answerBase": "turn up (~)",
+        "answerSurface": "turn up",
+        "choices": [
+          "turn up",
+          "show up",
+          "look after",
+          "participate in"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The use of proper manners is effective in various business contexts.",
-      "sentence-jp": "適切な作法を用いることは，さまざまなビジネスの状況において効果的である。"
+      "sentence-jp": "適切な作法を用いることは，さまざまなビジネスの状況において効果的である。",
+      "cloze": {
+        "maskedText": "The use of proper manners is effective in various business ____.",
+        "answerBase": "context",
+        "answerSurface": "contexts",
+        "choices": [
+          "contexts",
+          "signals",
+          "tickets",
+          "villages"
+        ]
+      }
     }
   ],
   "notes": []

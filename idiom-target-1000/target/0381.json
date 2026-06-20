@@ -13,7 +13,18 @@
         "run into ~"
       ],
       "example-sentence": "Readers often remember where on the page they came across a particular passage.",
-      "sentence-jp": "読者はしばしば、ページのどこで特定の一節を見つけたのか覚えている。"
+      "sentence-jp": "読者はしばしば、ページのどこで特定の一節を見つけたのか覚えている。",
+      "cloze": {
+        "maskedText": "Readers often remember where on the page they ____ a particular passage.",
+        "answerBase": "come across (~)",
+        "answerSurface": "came across",
+        "choices": [
+          "came across",
+          "came to",
+          "went by",
+          "looked up"
+        ]
+      }
     },
     {
       "idiom-jp": "(考えなどが)(相手に)伝わる[理解される]",
@@ -23,7 +34,18 @@
         "get across"
       ],
       "example-sentence": "Her points came across very well as she spoke, so we really enjoyed her talk.",
-      "sentence-jp": "彼女が話をすると彼女の言いたいことがとてもよく伝わり、私たちは本当に彼女の話を楽しんだ。"
+      "sentence-jp": "彼女が話をすると彼女の言いたいことがとてもよく伝わり、私たちは本当に彼女の話を楽しんだ。",
+      "cloze": {
+        "maskedText": "Her points ____ very well as she spoke, so we really enjoyed her talk.",
+        "answerBase": "come across (~)",
+        "answerSurface": "came across",
+        "choices": [
+          "came across",
+          "came to",
+          "went out",
+          "held out"
+        ]
+      }
     }
   ],
   "notes": [

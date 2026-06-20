@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "Misa’s parents finally yielded to her strong desire to study abroad.",
-      "sentence-jp": "ミサの両親はついに、海外留学したいという彼女の強い願いに屈した。"
+      "sentence-jp": "ミサの両親はついに、海外留学したいという彼女の強い願いに屈した。",
+      "cloze": {
+        "maskedText": "Misa’s parents finally ____ her strong desire to study abroad.",
+        "answerBase": "yield to ~",
+        "answerSurface": "yielded to",
+        "choices": [
+          "yielded to",
+          "surrendered to",
+          "were essential to",
+          "went back and forth"
+        ]
+      }
     }
   ],
   "notes": [

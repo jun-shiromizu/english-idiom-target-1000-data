@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "An extra charge was added when I called for the taxi in advance.",
-      "sentence-jp": "私が前もってタクシーを呼んだとき特別料金が追加された。"
+      "sentence-jp": "私が前もってタクシーを呼んだとき特別料金が追加された。",
+      "cloze": {
+        "maskedText": "An extra ____ was added when I called for the taxi in advance.",
+        "answerBase": "charge",
+        "answerSurface": "charge",
+        "choices": [
+          "charge",
+          "window",
+          "garden",
+          "suitcase"
+        ]
+      }
     }
   ],
   "notes": []

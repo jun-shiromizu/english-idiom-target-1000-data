@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "It looked like someone had broken into our office, so we called the police.",
-      "sentence-jp": "誰かが私たちの会社に侵入したようだったので、私たちは警察に電話した。"
+      "sentence-jp": "誰かが私たちの会社に侵入したようだったので、私たちは警察に電話した。",
+      "cloze": {
+        "maskedText": "It looked like someone had ____ our office, so we called the police.",
+        "answerBase": "break into ~",
+        "answerSurface": "broken into",
+        "choices": [
+          "broken into",
+          "run into",
+          "entered into",
+          "disposed of"
+        ]
+      }
     },
     {
       "idiom-jp": "急に〜をしだす",
@@ -19,7 +30,18 @@
         "burst into ~"
       ],
       "example-sentence": "He broke into a sprint when walking along the street.",
-      "sentence-jp": "彼は通りを歩いていたとき、急に全速力で走りだした。"
+      "sentence-jp": "彼は通りを歩いていたとき、急に全速力で走りだした。",
+      "cloze": {
+        "maskedText": "He ____ a sprint when walking along the street.",
+        "answerBase": "break into ~",
+        "answerSurface": "broke into",
+        "choices": [
+          "broke into",
+          "ran into",
+          "entered into",
+          "derived from"
+        ]
+      }
     }
   ],
   "notes": [

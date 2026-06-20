@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "quantity-expression",
       "example-sentence": "I can’t imagine how this new idea of his will be accepted in society at large.",
-      "sentence-jp": "私は彼のこの新しい考えがどうやって社会一般に受け入れられるかが想像できない。"
+      "sentence-jp": "私は彼のこの新しい考えがどうやって社会一般に受け入れられるかが想像できない。",
+      "cloze": {
+        "maskedText": "I can’t imagine how this new idea of his will be accepted in society ____.",
+        "answerBase": "at large",
+        "answerSurface": "at large",
+        "choices": [
+          "at large",
+          "at length",
+          "in effect",
+          "on end"
+        ]
+      }
     },
     {
       "idiom-jp": "逃走中で、逮捕されないで",
@@ -19,7 +30,18 @@
         "on the loose"
       ],
       "example-sentence": "The suspect of the murder case is still at large.",
-      "sentence-jp": "殺人事件の容疑者はまだ逃走中だ。"
+      "sentence-jp": "殺人事件の容疑者はまだ逃走中だ。",
+      "cloze": {
+        "maskedText": "The suspect of the murder case is still ____.",
+        "answerBase": "at large",
+        "answerSurface": "at large",
+        "choices": [
+          "at large",
+          "at length",
+          "on end",
+          "in effect"
+        ]
+      }
     }
   ],
   "notes": [

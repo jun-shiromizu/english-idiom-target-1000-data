@@ -13,7 +13,18 @@
         "change A into B"
       ],
       "example-sentence": "If we use SNS wisely, it has the power to turn strangers into friends all over the planet.",
-      "sentence-jp": "SNSを賢明に使えば, それには世界中の知らない人たちを友達に変える力がある。"
+      "sentence-jp": "SNSを賢明に使えば, それには世界中の知らない人たちを友達に変える力がある。",
+      "cloze": {
+        "maskedText": "If we use SNS wisely, it has the power to ____ friends all over the planet.",
+        "answerBase": "turn A into B",
+        "answerSurface": "turn strangers into",
+        "choices": [
+          "turn strangers into",
+          "help strangers with",
+          "prefer strangers to",
+          "inform strangers of"
+        ]
+      }
     }
   ],
   "notes": [

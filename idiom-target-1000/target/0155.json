@@ -12,7 +12,18 @@
         "in the long term"
       ],
       "example-sentence": "I'm convinced that buying high-quality items will save us money in the long run.",
-      "sentence-jp": "長い目で見れば, 高品質の商品を買うことはお金の節約になると私は確信している。"
+      "sentence-jp": "長い目で見れば, 高品質の商品を買うことはお金の節約になると私は確信している。",
+      "cloze": {
+        "maskedText": "I'm convinced that buying high-quality items will save us money ____.",
+        "answerBase": "in the long run",
+        "answerSurface": "in the long run",
+        "choices": [
+          "in the long run",
+          "in the future",
+          "in the middle",
+          "in the distance"
+        ]
+      }
     }
   ],
   "notes": [

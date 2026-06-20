@@ -12,7 +12,18 @@
         "set out ~"
       ],
       "example-sentence": "We found a good picnic spot and laid out our food on a piece of cloth on the ground.",
-      "sentence-jp": "私たちはピクニックによい場所を見つけ, 地面に敷いた布の上に食べ物を並べた。"
+      "sentence-jp": "私たちはピクニックによい場所を見つけ, 地面に敷いた布の上に食べ物を並べた。",
+      "cloze": {
+        "maskedText": "We found a good picnic spot and ____ our food on a piece of cloth on the ground.",
+        "answerBase": "lay out ~",
+        "answerSurface": "laid out",
+        "choices": [
+          "laid out",
+          "laid off",
+          "made the best of",
+          "were bound for"
+        ]
+      }
     }
   ],
   "notes": [

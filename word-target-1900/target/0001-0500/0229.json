@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Nowadays, we can exchange information easily over the Internet.",
-      "sentence-jp": "今日，私たちはインターネットを通じて簡単に情報を交換することができる。"
+      "sentence-jp": "今日，私たちはインターネットを通じて簡単に情報を交換することができる。",
+      "cloze": {
+        "maskedText": "Nowadays, we can ____ information easily over the Internet.",
+        "answerBase": "exchange",
+        "answerSurface": "exchange",
+        "choices": [
+          "exchange",
+          "bury",
+          "damage",
+          "predict"
+        ]
+      }
     }
   ],
   "notes": []

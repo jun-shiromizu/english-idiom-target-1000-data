@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "We had to go off to our grandparents’ house for our annual Christmas dinner.",
-      "sentence-jp": "私たちは毎年恒例のクリスマスディナーのために祖父母の家へ出かけなければならなかった。"
+      "sentence-jp": "私たちは毎年恒例のクリスマスディナーのために祖父母の家へ出かけなければならなかった。",
+      "cloze": {
+        "maskedText": "We had to ____ to our grandparents’ house for our annual Christmas dinner.",
+        "answerBase": "go off",
+        "answerSurface": "go off",
+        "choices": [
+          "go off",
+          "go out",
+          "go over",
+          "go with"
+        ]
+      }
     },
     {
       "idiom-jp": "(仕掛けが)作動する；(爆薬が)爆発する；(銃などが)発射される",
@@ -20,7 +31,18 @@
         "be fired"
       ],
       "example-sentence": "My alarm didn’t go off this morning, so I overslept and was late for school.",
-      "sentence-jp": "今朝、目覚まし時計が作動しなかったので、私は寝過ごして学校に遅刻した。"
+      "sentence-jp": "今朝、目覚まし時計が作動しなかったので、私は寝過ごして学校に遅刻した。",
+      "cloze": {
+        "maskedText": "My alarm didn’t ____ this morning, so I overslept and was late for school.",
+        "answerBase": "go off",
+        "answerSurface": "go off",
+        "choices": [
+          "go off",
+          "go by",
+          "go out",
+          "go over"
+        ]
+      }
     }
   ],
   "notes": [

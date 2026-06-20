@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "He made for the exit when he heard a knock on the back door.",
-      "sentence-jp": "彼は裏口のノックの音を聞くと、出口のほうへ進んだ。"
+      "sentence-jp": "彼は裏口のノックの音を聞くと、出口のほうへ進んだ。",
+      "cloze": {
+        "maskedText": "He ____ the exit when he heard a knock on the back door.",
+        "answerBase": "make for ~",
+        "answerSurface": "made for",
+        "choices": [
+          "made for",
+          "made out",
+          "met with",
+          "put down"
+        ]
+      }
     },
     {
       "idiom-jp": "〜に寄与する[役立つ]",
@@ -19,7 +30,18 @@
         "contribute to ~"
       ],
       "example-sentence": "It is a proven fact that happier employees make for improved customer service.",
-      "sentence-jp": "満足度の高い従業員は顧客サービスの向上に寄与するというのは証明された事実だ。"
+      "sentence-jp": "満足度の高い従業員は顧客サービスの向上に寄与するというのは証明された事実だ。",
+      "cloze": {
+        "maskedText": "It is a proven fact that happier employees ____ improved customer service.",
+        "answerBase": "make for ~",
+        "answerSurface": "make for",
+        "choices": [
+          "make for",
+          "make out",
+          "meet with",
+          "turn in"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Children should be independent of their parents after a certain age.",
-      "sentence-jp": "子供はある年齢以降は親から独立しているべきである。"
+      "sentence-jp": "子供はある年齢以降は親から独立しているべきである。",
+      "cloze": {
+        "maskedText": "Children should be ____ of their parents after a certain age.",
+        "answerBase": "independent of",
+        "answerSurface": "independent",
+        "choices": [
+          "independent",
+          "familiar",
+          "equal",
+          "willing"
+        ]
+      }
     }
   ],
   "notes": []

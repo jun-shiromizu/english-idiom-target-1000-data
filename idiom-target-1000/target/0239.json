@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "She'd lived that way all her life, so it never occurred to her to act in any other way.",
-      "sentence-jp": "彼女は生まれてからずっとそんなふうに生きてきたので, ほかの行動をとることは彼女にはまったく思いつかなかった。"
+      "sentence-jp": "彼女は生まれてからずっとそんなふうに生きてきたので, ほかの行動をとることは彼女にはまったく思いつかなかった。",
+      "cloze": {
+        "maskedText": "She'd lived that way all her life, so it never ____ her to act in any other way.",
+        "answerBase": "occur to ~",
+        "answerSurface": "occurred to",
+        "choices": [
+          "occurred to",
+          "agreed with",
+          "applied to",
+          "corresponded to"
+        ]
+      }
     }
   ],
   "notes": [

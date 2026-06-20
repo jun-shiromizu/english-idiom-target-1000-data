@@ -15,7 +15,18 @@
         "(every) now and then [again]"
       ],
       "example-sentence": "This kind of misunderstanding can happen on occasions even among good friends.",
-      "sentence-jp": "この種の誤解はたとえ親友たちの間でもときどき起こり得る。"
+      "sentence-jp": "この種の誤解はたとえ親友たちの間でもときどき起こり得る。",
+      "cloze": {
+        "maskedText": "This kind of misunderstanding can happen ____ even among good friends.",
+        "answerBase": "on occasion(s)",
+        "answerSurface": "on occasions",
+        "choices": [
+          "on occasions",
+          "on purpose",
+          "right away",
+          "for good"
+        ]
+      }
     }
   ],
   "notes": []

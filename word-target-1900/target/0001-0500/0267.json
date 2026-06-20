@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The current trend is toward getting elderly people to give up driving.",
-      "sentence-jp": "最近の傾向は高齢者に車の運転をやめさせる方向にある。"
+      "sentence-jp": "最近の傾向は高齢者に車の運転をやめさせる方向にある。",
+      "cloze": {
+        "maskedText": "The current ____ is toward getting elderly people to give up driving.",
+        "answerBase": "trend",
+        "answerSurface": "trend",
+        "choices": [
+          "trend",
+          "curtain",
+          "lecture",
+          "vehicle"
+        ]
+      }
     }
   ],
   "notes": []

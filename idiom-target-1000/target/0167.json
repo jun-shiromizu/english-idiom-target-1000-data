@@ -14,7 +14,18 @@
         "with all ~"
       ],
       "example-sentence": "We all went out and took part in open-air exercise in spite of the bad weather.",
-      "sentence-jp": "私たちは全員悪天候にもかかわらず外に出て, 屋外での運動に参加した。"
+      "sentence-jp": "私たちは全員悪天候にもかかわらず外に出て, 屋外での運動に参加した。",
+      "cloze": {
+        "maskedText": "We all went out and took part in open-air exercise ____ the bad weather.",
+        "answerBase": "in spite of ~",
+        "answerSurface": "in spite of",
+        "choices": [
+          "in spite of",
+          "in search of",
+          "in charge of",
+          "in need of"
+        ]
+      }
     }
   ],
   "notes": [

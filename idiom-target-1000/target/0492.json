@@ -12,7 +12,18 @@
         "limit A to B"
       ],
       "example-sentence": "The professor confined his lecture to how the problem had been handled so far.",
-      "sentence-jp": "教授は講義をその問題がこれまでどのように扱われてきたかという点に絞った。"
+      "sentence-jp": "教授は講義をその問題がこれまでどのように扱われてきたかという点に絞った。",
+      "cloze": {
+        "maskedText": "The professor ____ his lecture to how the problem had been handled so far.",
+        "answerBase": "confine A to B",
+        "answerSurface": "confined",
+        "choices": [
+          "confined",
+          "likened",
+          "kept",
+          "ordered"
+        ]
+      }
     }
   ],
   "notes": []

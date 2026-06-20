@@ -12,7 +12,18 @@
         "be composed of ~"
       ],
       "example-sentence": "In those days, our baseball club consisted of about a hundred members.",
-      "sentence-jp": "当時、私たちの野球部は約 100 人の部員で成り立っていた。"
+      "sentence-jp": "当時、私たちの野球部は約 100 人の部員で成り立っていた。",
+      "cloze": {
+        "maskedText": "In those days, our baseball club ____ about a hundred members.",
+        "answerBase": "consist of ~",
+        "answerSurface": "consisted of",
+        "choices": [
+          "consisted of",
+          "resulted from",
+          "depended on",
+          "led to"
+        ]
+      }
     }
   ],
   "notes": [

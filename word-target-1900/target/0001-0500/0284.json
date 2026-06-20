@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The company asked the staff to work extra hours on Saturday.",
-      "sentence-jp": "その会社は社員に土曜日に時間外労働をすることを依頼した。"
+      "sentence-jp": "その会社は社員に土曜日に時間外労働をすることを依頼した。",
+      "cloze": {
+        "maskedText": "The company asked the staff to work ____ hours on Saturday.",
+        "answerBase": "extra",
+        "answerSurface": "extra",
+        "choices": [
+          "extra",
+          "silent",
+          "formal",
+          "distant"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "We must be careful not to let our biases interfere with our judgment.",
-      "sentence-jp": "私たちは先入観が自分たちの判断を邪魔しないように注意すべきだ。"
+      "sentence-jp": "私たちは先入観が自分たちの判断を邪魔しないように注意すべきだ。",
+      "cloze": {
+        "maskedText": "We must be careful not to let our biases ____ our judgment.",
+        "answerBase": "interfere with ~",
+        "answerSurface": "interfere with",
+        "choices": [
+          "interfere with",
+          "aim at",
+          "long for",
+          "go about"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "We often mistake a vulture for an eagle when in flight.",
-      "sentence-jp": "私たちはよく, 飛んでいるハゲタカをワシと間違える。"
+      "sentence-jp": "私たちはよく, 飛んでいるハゲタカをワシと間違える。",
+      "cloze": {
+        "maskedText": "We often ____ a vulture for an eagle when in flight.",
+        "answerBase": "mistake A for B",
+        "answerSurface": "mistake",
+        "choices": [
+          "mistake",
+          "take",
+          "look on",
+          "distinguish"
+        ]
+      }
     }
   ],
   "notes": [

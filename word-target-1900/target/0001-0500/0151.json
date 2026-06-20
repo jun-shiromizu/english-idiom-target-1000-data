@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "They discovered a virus that destroys cancer cells.",
-      "sentence-jp": "彼らは癌細胞を破壊するウイルスを発見した。"
+      "sentence-jp": "彼らは癌細胞を破壊するウイルスを発見した。",
+      "cloze": {
+        "maskedText": "They discovered a virus that destroys cancer ____.",
+        "answerBase": "cell",
+        "answerSurface": "cells",
+        "choices": [
+          "cells",
+          "bridges",
+          "tickets",
+          "shelves"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "There is room for improvement in the sales figures of our cars.",
-      "sentence-jp": "当社の車の販売数には改善の余地がある。"
+      "sentence-jp": "当社の車の販売数には改善の余地がある。",
+      "cloze": {
+        "maskedText": "There is room for improvement in the sales ____ of our cars.",
+        "answerBase": "figure",
+        "answerSurface": "figures",
+        "choices": [
+          "figures",
+          "villages",
+          "matches",
+          "corners"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Where you live can make a difference in how long you live.",
-      "sentence-jp": "住んでいる場所によって、どのくらい長生きするかに違いが生じることがある。"
+      "sentence-jp": "住んでいる場所によって、どのくらい長生きするかに違いが生じることがある。",
+      "cloze": {
+        "maskedText": "Where you live can ____ in how long you live.",
+        "answerBase": "make a difference",
+        "answerSurface": "make a difference",
+        "choices": [
+          "make a difference",
+          "make progress",
+          "take a seat",
+          "have a look"
+        ]
+      }
     }
   ],
   "notes": [

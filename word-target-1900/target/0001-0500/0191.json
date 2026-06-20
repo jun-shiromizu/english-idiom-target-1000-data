@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Organic food is said to be healthy, so it is worth buying.",
-      "sentence-jp": "自然食品は健康によいと言われていて，だから買うに値する。"
+      "sentence-jp": "自然食品は健康によいと言われていて，だから買うに値する。",
+      "cloze": {
+        "maskedText": "Organic food is said to be healthy, so it is ____ buying.",
+        "answerBase": "be worth doing",
+        "answerSurface": "worth",
+        "choices": [
+          "worth",
+          "afraid of",
+          "ready for",
+          "famous for"
+        ]
+      }
     }
   ],
   "notes": []

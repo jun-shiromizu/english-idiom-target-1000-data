@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Both nations will enjoy the benefits of a new free-trade agreement.",
-      "sentence-jp": "両国とも新たな自由貿易協定の利益を享受することになる。"
+      "sentence-jp": "両国とも新たな自由貿易協定の利益を享受することになる。",
+      "cloze": {
+        "maskedText": "Both nations will enjoy the ____ of a new free-trade agreement.",
+        "answerBase": "benefit",
+        "answerSurface": "benefits",
+        "choices": [
+          "benefits",
+          "shadows",
+          "borders",
+          "arguments"
+        ]
+      }
     }
   ],
   "notes": []

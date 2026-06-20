@@ -14,7 +14,18 @@
         "at all events"
       ],
       "example-sentence": "At any rate, from now on, make sure you have some time off SNS.",
-      "sentence-jp": "とにかく, 今後は必ずSNSから離れる時間を持つようにしてください。"
+      "sentence-jp": "とにかく, 今後は必ずSNSから離れる時間を持つようにしてください。",
+      "cloze": {
+        "maskedText": "____, from now on, make sure you have some time off SNS.",
+        "answerBase": "at any rate",
+        "answerSurface": "At any rate",
+        "choices": [
+          "At any rate",
+          "By the way",
+          "As a result",
+          "At random"
+        ]
+      }
     }
   ],
   "notes": [

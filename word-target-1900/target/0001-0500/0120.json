@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "This power plant supplies electricity to the whole city.",
-      "sentence-jp": "この発電所は市全体に電気を供給している。"
+      "sentence-jp": "この発電所は市全体に電気を供給している。",
+      "cloze": {
+        "maskedText": "This power plant ____ electricity to the whole city.",
+        "answerBase": "supply",
+        "answerSurface": "supplies",
+        "choices": [
+          "supplies",
+          "returns",
+          "compares",
+          "searches"
+        ]
+      }
     }
   ],
   "notes": []

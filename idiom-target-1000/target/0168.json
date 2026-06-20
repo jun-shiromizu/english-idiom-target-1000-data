@@ -9,14 +9,36 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I hear the Japanese word kawaii, meaning cute, is becoming popular all over the world.",
-      "sentence-jp": "『かわいい』を意味する日本語の『kawaii』が世界中で人気になっているそうだ。"
+      "sentence-jp": "『かわいい』を意味する日本語の『kawaii』が世界中で人気になっているそうだ。",
+      "cloze": {
+        "maskedText": "I hear the Japanese word kawaii, meaning cute, is becoming popular ____.",
+        "answerBase": "all over ~",
+        "answerSurface": "all over the world",
+        "choices": [
+          "all over the world",
+          "under the weather",
+          "at the station",
+          "for the moment"
+        ]
+      }
     },
     {
       "idiom-jp": "一面に",
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "I don't know what happened to me, but my body ached all over last night.",
-      "sentence-jp": "自分に何が起きたのかわからないが, 昨夜は体中が痛かった。"
+      "sentence-jp": "自分に何が起きたのかわからないが, 昨夜は体中が痛かった。",
+      "cloze": {
+        "maskedText": "I don't know what happened to me, but my body ached ____ last night.",
+        "answerBase": "all over",
+        "answerSurface": "all over",
+        "choices": [
+          "all over",
+          "all alone",
+          "in public",
+          "for nothing"
+        ]
+      }
     }
   ],
   "notes": [

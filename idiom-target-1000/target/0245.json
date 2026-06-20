@@ -13,7 +13,18 @@
         "be anxious about ~"
       ],
       "example-sentence": "If you are concerned about your health problem, you should arrange for a medical checkup.",
-      "sentence-jp": "健康上の問題について心配しているのなら, 健康診断の手配をすべきだ。"
+      "sentence-jp": "健康上の問題について心配しているのなら, 健康診断の手配をすべきだ。",
+      "cloze": {
+        "maskedText": "If you are ____ your health problem, you should arrange for a medical checkup.",
+        "answerBase": "be concerned about ~",
+        "answerSurface": "concerned about",
+        "choices": [
+          "concerned about",
+          "concerned with",
+          "free of",
+          "bound for"
+        ]
+      }
     }
   ],
   "notes": [

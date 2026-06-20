@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "After reading a comment on the book, I decided to order it from an online bookstore.",
-      "sentence-jp": "その本に関する批評を読んだ後、私はオンライン書店にそれを注文することに決めた。"
+      "sentence-jp": "その本に関する批評を読んだ後、私はオンライン書店にそれを注文することに決めた。",
+      "cloze": {
+        "maskedText": "After reading a comment on the book, I decided to ____ it from an online bookstore.",
+        "answerBase": "order A from B",
+        "answerSurface": "order",
+        "choices": [
+          "order",
+          "substitute",
+          "exchange",
+          "attribute"
+        ]
+      }
     }
   ],
   "notes": [

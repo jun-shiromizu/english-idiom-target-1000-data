@@ -12,7 +12,18 @@
         "now"
       ],
       "example-sentence": "At present, many victims from the last earthquake are still living in temporary dwellings.",
-      "sentence-jp": "現在、この前の地震の多くの被災者たちは依然として仮設住宅に住んでいる。"
+      "sentence-jp": "現在、この前の地震の多くの被災者たちは依然として仮設住宅に住んでいる。",
+      "cloze": {
+        "maskedText": "____, many victims from the last earthquake are still living in temporary dwellings.",
+        "answerBase": "at present",
+        "answerSurface": "At present",
+        "choices": [
+          "At present",
+          "In a word",
+          "First of all",
+          "Back and forth"
+        ]
+      }
     }
   ],
   "notes": []

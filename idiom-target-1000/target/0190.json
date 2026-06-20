@@ -13,7 +13,18 @@
         "turn in ~"
       ],
       "example-sentence": "Maybe we should go to the lost and found and ask if someone handed it in.",
-      "sentence-jp": "遺失物取扱所へ行って, 誰かがそれを届けてくれたかどうか尋ねてみたらどうだろう。"
+      "sentence-jp": "遺失物取扱所へ行って, 誰かがそれを届けてくれたかどうか尋ねてみたらどうだろう。",
+      "cloze": {
+        "maskedText": "Maybe we should go to the lost and found and ask if someone ____.",
+        "answerBase": "hand in ~",
+        "answerSurface": "handed it in",
+        "choices": [
+          "handed it in",
+          "called it off",
+          "looked it over",
+          "brought it up"
+        ]
+      }
     }
   ],
   "notes": [

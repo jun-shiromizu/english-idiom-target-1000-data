@@ -12,7 +12,18 @@
         "not necessarily ~"
       ],
       "example-sentence": "Experience tells me that things do not always go the way you want them to.",
-      "sentence-jp": "経験は, 物事は必ずしも私たちが望むようにはいかないことを私に教えてくれる。"
+      "sentence-jp": "経験は, 物事は必ずしも私たちが望むようにはいかないことを私に教えてくれる。",
+      "cloze": {
+        "maskedText": "Experience tells me that things ____ go the way you want them to.",
+        "answerBase": "not always ~",
+        "answerSurface": "do not always",
+        "choices": [
+          "do not always",
+          "rarely can",
+          "will in fact",
+          "should by all means"
+        ]
+      }
     }
   ],
   "notes": [

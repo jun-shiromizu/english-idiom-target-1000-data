@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The student managed to finish his report before the deadline.",
-      "sentence-jp": "その学生は締め切り前になんとかレポートを仕上げることができた。"
+      "sentence-jp": "その学生は締め切り前になんとかレポートを仕上げることができた。",
+      "cloze": {
+        "maskedText": "The student managed to finish his report before the deadline.",
+        "answerBase": "manage to do",
+        "answerSurface": "managed to",
+        "choices": [
+          "managed to",
+          "failed to",
+          "promised to",
+          "refused to"
+        ]
+      }
     }
   ],
   "notes": []

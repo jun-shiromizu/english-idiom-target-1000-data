@@ -9,7 +9,18 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "The best cure for environmental problems is to prevent them from happening in the first place.",
-      "sentence-jp": "環境問題の最良の解決策は、まず第一にそれが起きないようにすることだ。"
+      "sentence-jp": "環境問題の最良の解決策は、まず第一にそれが起きないようにすることだ。",
+      "cloze": {
+        "maskedText": "The best cure for environmental problems is to prevent them from happening ____.",
+        "answerBase": "in the first place",
+        "answerSurface": "in the first place",
+        "choices": [
+          "in the first place",
+          "at the moment",
+          "in a word",
+          "back and forth"
+        ]
+      }
     }
   ],
   "notes": [

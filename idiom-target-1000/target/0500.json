@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Everyone wants money because you can exchange money for whatever you want or need.",
-      "sentence-jp": "誰もがお金を欲しいものや必要なもの何とでも交換することができるので、お金を欲しがっている。"
+      "sentence-jp": "誰もがお金を欲しいものや必要なもの何とでも交換することができるので、お金を欲しがっている。",
+      "cloze": {
+        "maskedText": "Everyone wants money because you can ____ money for whatever you want or need.",
+        "answerBase": "exchange A for B",
+        "answerSurface": "exchange",
+        "choices": [
+          "exchange",
+          "substitute",
+          "attribute",
+          "confine"
+        ]
+      }
     }
   ],
   "notes": [

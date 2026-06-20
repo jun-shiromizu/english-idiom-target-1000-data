@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Hypertension is a medical term for abnormally high blood pressure.",
-      "sentence-jp": "hypertension（高血圧症）は異常に高い血圧を表す医学用語である。"
+      "sentence-jp": "hypertension（高血圧症）は異常に高い血圧を表す医学用語である。",
+      "cloze": {
+        "maskedText": "Hypertension is a medical ____ for abnormally high blood pressure.",
+        "answerBase": "term",
+        "answerSurface": "term",
+        "choices": [
+          "term",
+          "bridge",
+          "canvas",
+          "puzzle"
+        ]
+      }
     }
   ],
   "notes": []

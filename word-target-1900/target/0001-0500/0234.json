@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Some plants can remove salt from seawater to produce freshwater.",
-      "sentence-jp": "植物の中には海水から塩分を取り除き真水を作ることができるものもある。"
+      "sentence-jp": "植物の中には海水から塩分を取り除き真水を作ることができるものもある。",
+      "cloze": {
+        "maskedText": "Some plants can ____ salt from seawater to produce freshwater.",
+        "answerBase": "remove",
+        "answerSurface": "remove",
+        "choices": [
+          "remove",
+          "borrow",
+          "store",
+          "predict"
+        ]
+      }
     }
   ],
   "notes": []

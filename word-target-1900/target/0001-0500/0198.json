@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Soda water is created by a chemical reaction.",
-      "sentence-jp": "炭酸水は化学反応によって作られる。"
+      "sentence-jp": "炭酸水は化学反応によって作られる。",
+      "cloze": {
+        "maskedText": "Soda water is created by a ____ reaction.",
+        "answerBase": "chemical",
+        "answerSurface": "chemical",
+        "choices": [
+          "chemical",
+          "seasonal",
+          "mobile",
+          "formal"
+        ]
+      }
     }
   ],
   "notes": []

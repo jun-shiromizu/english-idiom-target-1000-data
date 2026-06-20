@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "People are required to sort household waste into different types.",
-      "sentence-jp": "人々は家庭ごみを種別に分類することが求められる。"
+      "sentence-jp": "人々は家庭ごみを種別に分類することが求められる。",
+      "cloze": {
+        "maskedText": "People are required to ____ household waste into different types.",
+        "answerBase": "sort A into B",
+        "answerSurface": "sort",
+        "choices": [
+          "sort",
+          "pour",
+          "carry",
+          "damage"
+        ]
+      }
     }
   ],
   "notes": []

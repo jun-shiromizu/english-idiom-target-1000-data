@@ -12,7 +12,18 @@
         "not to speak of ~"
       ],
       "example-sentence": "Maya was so tired she could hardly move, not to mention do all the cooking and washing.",
-      "sentence-jp": "マヤはとても疲れていたので、料理や洗濯は言うまでもなく、ほとんど動くこともできなかった。"
+      "sentence-jp": "マヤはとても疲れていたので、料理や洗濯は言うまでもなく、ほとんど動くこともできなかった。",
+      "cloze": {
+        "maskedText": "Maya was so tired she could hardly move, ____ do all the cooking and washing.",
+        "answerBase": "not to mention ~",
+        "answerSurface": "not to mention",
+        "choices": [
+          "not to mention",
+          "to say nothing of",
+          "in sight",
+          "at ease"
+        ]
+      }
     }
   ],
   "notes": [

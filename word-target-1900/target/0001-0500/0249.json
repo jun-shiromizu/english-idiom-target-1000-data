@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "You may remember the content of your dreams as soon as you wake up.",
-      "sentence-jp": "目覚めた直後に夢の内容を思い出すことがある。"
+      "sentence-jp": "目覚めた直後に夢の内容を思い出すことがある。",
+      "cloze": {
+        "maskedText": "You may remember the ____ of your dreams as soon as you wake up.",
+        "answerBase": "content",
+        "answerSurface": "content",
+        "choices": [
+          "content",
+          "engine",
+          "charge",
+          "section"
+        ]
+      }
     }
   ],
   "notes": []

@@ -12,7 +12,18 @@
         "postpone"
       ],
       "example-sentence": "Jason decided to put off taking his summer vacation because he was too busy at work.",
-      "sentence-jp": "ジェイソンは仕事があまりにも忙しかったので, 夏休みをとるのを延期することに決めた。"
+      "sentence-jp": "ジェイソンは仕事があまりにも忙しかったので, 夏休みをとるのを延期することに決めた。",
+      "cloze": {
+        "maskedText": "Jason decided to ____ taking his summer vacation because he was too busy at work.",
+        "answerBase": "put off ~",
+        "answerSurface": "put off",
+        "choices": [
+          "put off",
+          "carry on",
+          "look into",
+          "pass away"
+        ]
+      }
     }
   ],
   "notes": [

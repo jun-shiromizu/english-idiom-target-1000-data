@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She completed all the forms for her college application.",
-      "sentence-jp": "彼女は大学の入学願書の用紙すべてに記入し終えた。"
+      "sentence-jp": "彼女は大学の入学願書の用紙すべてに記入し終えた。",
+      "cloze": {
+        "maskedText": "She ____ all the forms for her college application.",
+        "answerBase": "complete",
+        "answerSurface": "completed",
+        "choices": [
+          "completed",
+          "collected",
+          "damaged",
+          "borrowed"
+        ]
+      }
     }
   ],
   "notes": []

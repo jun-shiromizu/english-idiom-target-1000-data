@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "I doubt that she will come on time.",
-      "sentence-jp": "私は彼女は時間どおりに来ないと思う。"
+      "sentence-jp": "私は彼女は時間どおりに来ないと思う。",
+      "cloze": {
+        "maskedText": "I ____ that she will come on time.",
+        "answerBase": "doubt",
+        "answerSurface": "doubt",
+        "choices": [
+          "doubt",
+          "admit",
+          "prove",
+          "settle"
+        ]
+      }
     }
   ],
   "notes": []

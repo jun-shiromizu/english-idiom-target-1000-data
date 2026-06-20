@@ -13,7 +13,18 @@
         "in view"
       ],
       "example-sentence": "She looked around to satisfy herself that no one was in sight.",
-      "sentence-jp": "彼女は見える所に誰もいないことを確かめるために辺りを見回した。"
+      "sentence-jp": "彼女は見える所に誰もいないことを確かめるために辺りを見回した。",
+      "cloze": {
+        "maskedText": "She looked around to satisfy herself that no one was ____.",
+        "answerBase": "in sight",
+        "answerSurface": "in sight",
+        "choices": [
+          "in sight",
+          "out of sight",
+          "at ease",
+          "in order"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,14 +9,36 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "According to a TV newscast, another badly abused child was turned over to an institution.",
-      "sentence-jp": "テレビのニュース放送によれば、ひどい虐待を受けた子供がまた1人、施設に引き渡された。"
+      "sentence-jp": "テレビのニュース放送によれば、ひどい虐待を受けた子供がまた1人、施設に引き渡された。",
+      "cloze": {
+        "maskedText": "According to a TV newscast, another badly abused child was ____ to an institution.",
+        "answerBase": "turn over (~)",
+        "answerSurface": "turned over",
+        "choices": [
+          "turned over",
+          "put aside",
+          "held back",
+          "stuck to"
+        ]
+      }
     },
     {
       "idiom-jp": "〜をひっくり返す；(ページなど)をめくる；ひっくり返る",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Turning the finished letter over and folding it, the secretary put it into an envelope.",
-      "sentence-jp": "書き終わった手紙を裏返してたたむと、秘書はそれを封筒に入れた。"
+      "sentence-jp": "書き終わった手紙を裏返してたたむと、秘書はそれを封筒に入れた。",
+      "cloze": {
+        "maskedText": "____ and folding it, the secretary put it into an envelope.",
+        "answerBase": "turn over (~)",
+        "answerSurface": "Turning the finished letter over",
+        "choices": [
+          "Turning the finished letter over",
+          "Putting the finished letter aside",
+          "Holding the finished letter back",
+          "Sticking to the finished letter"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She had the option of continuing her career after she got married.",
-      "sentence-jp": "彼女には結婚後に仕事を続けるという選択があった。"
+      "sentence-jp": "彼女には結婚後に仕事を続けるという選択があった。",
+      "cloze": {
+        "maskedText": "She had the ____ of continuing her career after she got married.",
+        "answerBase": "option",
+        "answerSurface": "option",
+        "choices": [
+          "option",
+          "corner",
+          "garage",
+          "engine"
+        ]
+      }
     }
   ],
   "notes": []

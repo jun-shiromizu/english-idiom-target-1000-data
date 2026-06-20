@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "The coach said he was by no means satisfied with the way his baseball team played.",
-      "sentence-jp": "コーチは, 彼の野球チームのプレーには全然満足していないと言った。"
+      "sentence-jp": "コーチは, 彼の野球チームのプレーには全然満足していないと言った。",
+      "cloze": {
+        "maskedText": "The coach said he was ____ satisfied with the way his baseball team played.",
+        "answerBase": "by no means",
+        "answerSurface": "by no means",
+        "choices": [
+          "by no means",
+          "by the way",
+          "by hand",
+          "by chance"
+        ]
+      }
     }
   ],
   "notes": [

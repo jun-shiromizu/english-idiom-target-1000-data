@@ -15,7 +15,18 @@
         "at all events"
       ],
       "example-sentence": "I'm satisfied, because both sides agree that research needs to continue in any case.",
-      "sentence-jp": "私は満足している。というのも, とにかく研究は続ける必要があるということで両者が合意しているからだ。"
+      "sentence-jp": "私は満足している。というのも, とにかく研究は続ける必要があるということで両者が合意しているからだ。",
+      "cloze": {
+        "maskedText": "I'm satisfied, because both sides agree that research needs to continue ____.",
+        "answerBase": "in any case",
+        "answerSurface": "in any case",
+        "choices": [
+          "in any case",
+          "in detail",
+          "in private",
+          "in no time"
+        ]
+      }
     }
   ],
   "notes": []

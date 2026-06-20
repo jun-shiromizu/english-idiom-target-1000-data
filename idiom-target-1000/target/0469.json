@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Running out of money is the most common reason people drop out of anything.",
-      "sentence-jp": "資金が尽きるということが、人々が何事からも脱落する最も一般的な理由だ。"
+      "sentence-jp": "資金が尽きるということが、人々が何事からも脱落する最も一般的な理由だ。",
+      "cloze": {
+        "maskedText": "Running out of money is the most common reason people ____ of anything.",
+        "answerBase": "drop out",
+        "answerSurface": "drop out",
+        "choices": [
+          "drop out",
+          "run out",
+          "come out",
+          "speak out"
+        ]
+      }
     }
   ],
   "notes": [

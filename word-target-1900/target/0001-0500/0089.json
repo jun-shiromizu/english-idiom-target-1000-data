@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "You should be more patient with your children.",
-      "sentence-jp": "自分の子供に対してもっと忍耐強くあるべきだ。"
+      "sentence-jp": "自分の子供に対してもっと忍耐強くあるべきだ。",
+      "cloze": {
+        "maskedText": "You should be more ____ with your children.",
+        "answerBase": "patient",
+        "answerSurface": "patient",
+        "choices": [
+          "patient",
+          "famous",
+          "secret",
+          "useful"
+        ]
+      }
     }
   ],
   "notes": []

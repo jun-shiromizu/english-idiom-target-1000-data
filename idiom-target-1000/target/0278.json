@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "The snow-capped Mt. Fuji was clearly visible in the distance.",
-      "sentence-jp": "雪を頂いた富士山が遠方にはっきりと見えた。"
+      "sentence-jp": "雪を頂いた富士山が遠方にはっきりと見えた。",
+      "cloze": {
+        "maskedText": "The snow-capped Mt. Fuji was clearly visible ____.",
+        "answerBase": "in the distance",
+        "answerSurface": "in the distance",
+        "choices": [
+          "in the distance",
+          "at a distance",
+          "on the air",
+          "up in the air"
+        ]
+      }
     }
   ],
   "notes": []

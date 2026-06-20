@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The doctor quickly noticed a change in the patient's condition.",
-      "sentence-jp": "医師は患者の状態の変化にすぐに気づいた。"
+      "sentence-jp": "医師は患者の状態の変化にすぐに気づいた。",
+      "cloze": {
+        "maskedText": "The doctor quickly ____ a change in the patient's condition.",
+        "answerBase": "notice",
+        "answerSurface": "noticed",
+        "choices": [
+          "noticed",
+          "created",
+          "covered",
+          "borrowed"
+        ]
+      }
     }
   ],
   "notes": []

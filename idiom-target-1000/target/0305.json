@@ -14,7 +14,18 @@
         "rely on [upon] ~"
       ],
       "example-sentence": "We’re very lucky to have a trustworthy person like Kato, whom we can always count on.",
-      "sentence-jp": "私たちには加藤さんのような信頼できる人がいてとても幸運だ、というのもいつでも彼に頼ることができるからだ。"
+      "sentence-jp": "私たちには加藤さんのような信頼できる人がいてとても幸運だ、というのもいつでも彼に頼ることができるからだ。",
+      "cloze": {
+        "maskedText": "We’re very lucky to have a trustworthy person like Kato, whom we can always ____.",
+        "answerBase": "count on ~",
+        "answerSurface": "count on",
+        "choices": [
+          "count on",
+          "rest on",
+          "look out for",
+          "turn over"
+        ]
+      }
     }
   ],
   "notes": [

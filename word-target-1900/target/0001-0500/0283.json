@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "He has a vast knowledge of the animal kingdom.",
-      "sentence-jp": "彼は動物界に関する莫大な知識を持っている。"
+      "sentence-jp": "彼は動物界に関する莫大な知識を持っている。",
+      "cloze": {
+        "maskedText": "He has a ____ knowledge of the animal kingdom.",
+        "answerBase": "vast",
+        "answerSurface": "vast",
+        "choices": [
+          "vast",
+          "narrow",
+          "formal",
+          "private"
+        ]
+      }
     }
   ],
   "notes": []

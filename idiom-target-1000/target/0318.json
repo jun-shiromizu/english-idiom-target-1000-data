@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I began to suspect that she was keeping back the truth from me.",
-      "sentence-jp": "彼女は私に真実を隠しているのではないかと私は疑い始めた。"
+      "sentence-jp": "彼女は私に真実を隠しているのではないかと私は疑い始めた。",
+      "cloze": {
+        "maskedText": "I began to suspect that she was ____ the truth from me.",
+        "answerBase": "keep back ~",
+        "answerSurface": "keeping back",
+        "choices": [
+          "keeping back",
+          "setting aside",
+          "taking pity on",
+          "standing out"
+        ]
+      }
     }
   ],
   "notes": [

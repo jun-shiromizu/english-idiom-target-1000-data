@@ -9,21 +9,54 @@
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "According to this article, the freshwater on Earth makes up only 3 percent of the water supply.",
-      "sentence-jp": "この記事によれば, 地球上の真水は水資源の3パーセントしか構成していない。"
+      "sentence-jp": "この記事によれば, 地球上の真水は水資源の3パーセントしか構成していない。",
+      "cloze": {
+        "maskedText": "According to this article, the freshwater on Earth ____ only 3 percent of the water supply.",
+        "answerBase": "make up (~)",
+        "answerSurface": "makes up",
+        "choices": [
+          "makes up",
+          "shows up",
+          "turns up",
+          "lies in"
+        ]
+      }
     },
     {
       "idiom-jp": "仲直りをする",
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "The couple had an argument but soon made up with each other.",
-      "sentence-jp": "その夫婦は口論をしたが, すぐに互いに仲直りした。"
+      "sentence-jp": "その夫婦は口論をしたが, すぐに互いに仲直りした。",
+      "cloze": {
+        "maskedText": "The couple had an argument but soon ____ with each other.",
+        "answerBase": "make up (~)",
+        "answerSurface": "made up",
+        "choices": [
+          "made up",
+          "gave in",
+          "showed up",
+          "turned up"
+        ]
+      }
     },
     {
       "idiom-jp": "〜の埋め合わせをする",
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "The cashier would have had to make up the difference with her own money in an earlier time.",
-      "sentence-jp": "以前であれば, 会計係は自分のお金で差額の埋め合わせをしなければならなかっただろう。"
+      "sentence-jp": "以前であれば, 会計係は自分のお金で差額の埋め合わせをしなければならなかっただろう。",
+      "cloze": {
+        "maskedText": "The cashier would have had to ____ the difference with her own money in an earlier time.",
+        "answerBase": "make up (~)",
+        "answerSurface": "make up",
+        "choices": [
+          "make up",
+          "care for",
+          "show up",
+          "turn up"
+        ]
+      }
     }
   ],
   "notes": [

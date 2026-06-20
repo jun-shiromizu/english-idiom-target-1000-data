@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Most high-school students think of homework as an unpleasant but unavoidable fact of life.",
-      "sentence-jp": "ほとんどの高校生は宿題を不快であるが避けがたい厳しい現実と見なしている。"
+      "sentence-jp": "ほとんどの高校生は宿題を不快であるが避けがたい厳しい現実と見なしている。",
+      "cloze": {
+        "maskedText": "Most high-school students ____ homework as an unpleasant but unavoidable fact of life.",
+        "answerBase": "think of A as B",
+        "answerSurface": "think of",
+        "choices": [
+          "think of",
+          "look on",
+          "mistake",
+          "distinguish"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "It rained hard in the morning, but it looks as if it’s going to clear up by the early evening.",
-      "sentence-jp": "午前中は激しい雨が降ったが、夕方までには晴れそうだ。"
+      "sentence-jp": "午前中は激しい雨が降ったが、夕方までには晴れそうだ。",
+      "cloze": {
+        "maskedText": "It rained hard in the morning, but it looks as if it’s going to ____ by the early evening.",
+        "answerBase": "clear up (~)",
+        "answerSurface": "clear up",
+        "choices": [
+          "clear up",
+          "cheer up",
+          "blow up",
+          "shut up"
+        ]
+      }
     }
   ],
   "notes": [

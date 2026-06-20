@@ -12,7 +12,18 @@
         "tend to do"
       ],
       "example-sentence": "I must be careful as I am apt to make a slip of the tongue.",
-      "sentence-jp": "私は言い間違いをしがちなので、注意しなければならない。"
+      "sentence-jp": "私は言い間違いをしがちなので、注意しなければならない。",
+      "cloze": {
+        "maskedText": "I must be careful as I am ____ make a slip of the tongue.",
+        "answerBase": "be apt to do",
+        "answerSurface": "apt to",
+        "choices": [
+          "apt to",
+          "equal to",
+          "at present",
+          "back and forth"
+        ]
+      }
     }
   ],
   "notes": [

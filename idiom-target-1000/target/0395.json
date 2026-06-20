@@ -12,14 +12,36 @@
         "extinguish"
       ],
       "example-sentence": "It was some time before the firefighters put out the forest fire.",
-      "sentence-jp": "消防士たちが森林火災を消すまでにはしばらく時間がかかった。"
+      "sentence-jp": "消防士たちが森林火災を消すまでにはしばらく時間がかかった。",
+      "cloze": {
+        "maskedText": "It was some time before the firefighters ____ the forest fire.",
+        "answerBase": "put out ~",
+        "answerSurface": "put out",
+        "choices": [
+          "put out",
+          "held up",
+          "looked up",
+          "settled down"
+        ]
+      }
     },
     {
       "idiom-jp": "〜を出す",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Car manufacturers around the world put out new models at least once a year.",
-      "sentence-jp": "世界中の自動車メーカーは少なくとも年に1回、新型車を出す。"
+      "sentence-jp": "世界中の自動車メーカーは少なくとも年に1回、新型車を出す。",
+      "cloze": {
+        "maskedText": "Car manufacturers around the world ____ new models at least once a year.",
+        "answerBase": "put out ~",
+        "answerSurface": "put out",
+        "choices": [
+          "put out",
+          "held out",
+          "looked to",
+          "lived on"
+        ]
+      }
     }
   ],
   "notes": [

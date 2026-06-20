@@ -15,7 +15,18 @@
         "remove"
       ],
       "example-sentence": "We want to get rid of two pieces of furniture before we move into our new house.",
-      "sentence-jp": "私たちは新しい家に引っ越す前に2つの家具を処分したい。"
+      "sentence-jp": "私たちは新しい家に引っ越す前に2つの家具を処分したい。",
+      "cloze": {
+        "maskedText": "We want to ____ two pieces of furniture before we move into our new house.",
+        "answerBase": "get rid of ~",
+        "answerSurface": "get rid of",
+        "choices": [
+          "get rid of",
+          "ask for",
+          "fall in love with",
+          "take care of"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "He often acts so selfishly; he is, as it were, a grown-up baby.",
-      "sentence-jp": "彼はしばしばとてもわがままに振る舞う。彼はいわば成人した赤ん坊だ。"
+      "sentence-jp": "彼はしばしばとてもわがままに振る舞う。彼はいわば成人した赤ん坊だ。",
+      "cloze": {
+        "maskedText": "He often acts so selfishly; he is, ____ , a grown-up baby.",
+        "answerBase": "as it were",
+        "answerSurface": "as it were",
+        "choices": [
+          "as it were",
+          "for his part",
+          "in principle",
+          "at all costs"
+        ]
+      }
     }
   ],
   "notes": [

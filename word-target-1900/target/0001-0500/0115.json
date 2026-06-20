@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "He spread rumors about Mike on social media.",
-      "sentence-jp": "彼はソーシャルメディアでマイクについてのうわさを広めた。"
+      "sentence-jp": "彼はソーシャルメディアでマイクについてのうわさを広めた。",
+      "cloze": {
+        "maskedText": "He ____ rumors about Mike on social media.",
+        "answerBase": "spread",
+        "answerSurface": "spread",
+        "choices": [
+          "spread",
+          "hid",
+          "copied",
+          "cancelled"
+        ]
+      }
     }
   ],
   "notes": []

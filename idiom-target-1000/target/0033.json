@@ -9,14 +9,36 @@
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "The author referred to this traditional festival in his new book.",
-      "sentence-jp": "その著者は彼の新刊でこの伝統的な祭りに言及した。"
+      "sentence-jp": "その著者は彼の新刊でこの伝統的な祭りに言及した。",
+      "cloze": {
+        "maskedText": "The author ____ this traditional festival in his new book.",
+        "answerBase": "refer to ~",
+        "answerSurface": "referred to",
+        "choices": [
+          "referred to",
+          "looked for",
+          "pointed at",
+          "heard of"
+        ]
+      }
     },
     {
       "idiom-jp": "〜を参照する；〜に問い合わせる",
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "He's still a beginner and has to continually refer to manuals to do his work.",
-      "sentence-jp": "彼はまだ新米で、仕事をするのに絶えずマニュアルを参照しなければならない。"
+      "sentence-jp": "彼はまだ新米で、仕事をするのに絶えずマニュアルを参照しなければならない。",
+      "cloze": {
+        "maskedText": "He's still a beginner and has to continually ____ manuals to do his work.",
+        "answerBase": "refer to ~",
+        "answerSurface": "refer to",
+        "choices": [
+          "refer to",
+          "look after",
+          "ask for",
+          "search through"
+        ]
+      }
     }
   ],
   "notes": [

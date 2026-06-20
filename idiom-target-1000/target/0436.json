@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "The two companies entered into a partnership to build autonomous cars.",
-      "sentence-jp": "その2社は自動走行車を製造するために協力関係を結んだ。"
+      "sentence-jp": "その2社は自動走行車を製造するために協力関係を結んだ。",
+      "cloze": {
+        "maskedText": "The two companies ____ a partnership to build autonomous cars.",
+        "answerBase": "enter into ~",
+        "answerSurface": "entered into",
+        "choices": [
+          "entered into",
+          "ran into",
+          "disposed of",
+          "approved of"
+        ]
+      }
     }
   ],
   "notes": []

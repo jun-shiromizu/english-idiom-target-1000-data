@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Our main concern is to improve public facilities in the city.",
-      "sentence-jp": "私たちの主たる関心事は市内の公共施設を改良することである。"
+      "sentence-jp": "私たちの主たる関心事は市内の公共施設を改良することである。",
+      "cloze": {
+        "maskedText": "Our main concern is to improve ____ facilities in the city.",
+        "answerBase": "public",
+        "answerSurface": "public",
+        "choices": [
+          "public",
+          "narrow",
+          "noisy",
+          "gentle"
+        ]
+      }
     }
   ],
   "notes": []

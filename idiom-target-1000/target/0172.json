@@ -12,7 +12,18 @@
         "in pursuit of ~"
       ],
       "example-sentence": "In the 1930s many Americans moved west in search of opportunities.",
-      "sentence-jp": "1930年代, 多くのアメリカ人は職の機会を求めて西へと移動した。"
+      "sentence-jp": "1930年代, 多くのアメリカ人は職の機会を求めて西へと移動した。",
+      "cloze": {
+        "maskedText": "In the 1930s many Americans moved west ____ opportunities.",
+        "answerBase": "in search of ~",
+        "answerSurface": "in search of",
+        "choices": [
+          "in search of",
+          "in front of",
+          "in charge of",
+          "in fear of"
+        ]
+      }
     }
   ],
   "notes": []

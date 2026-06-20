@@ -12,7 +12,18 @@
         "look for ~"
       ],
       "example-sentence": "Drones were used to search for missing people after the flood.",
-      "sentence-jp": "洪水の後、行方不明者を捜すためにドローンが使われた。"
+      "sentence-jp": "洪水の後、行方不明者を捜すためにドローンが使われた。",
+      "cloze": {
+        "maskedText": "Drones were used to ____ missing people after the flood.",
+        "answerBase": "search for ~",
+        "answerSurface": "search for",
+        "choices": [
+          "search for",
+          "look after",
+          "refer to",
+          "wait for"
+        ]
+      }
     }
   ],
   "notes": [

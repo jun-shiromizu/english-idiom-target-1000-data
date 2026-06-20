@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "My big brother, on the other hand, prefers spending his free time alone reading books.",
-      "sentence-jp": "他方では, 私の兄は本を読んで自由時間を1人で過ごすことを好む。"
+      "sentence-jp": "他方では, 私の兄は本を読んで自由時間を1人で過ごすことを好む。",
+      "cloze": {
+        "maskedText": "My big brother, ____ , prefers spending his free time alone reading books.",
+        "answerBase": "on the other hand",
+        "answerSurface": "on the other hand",
+        "choices": [
+          "on the other hand",
+          "for a while",
+          "in a hurry",
+          "by mistake"
+        ]
+      }
     }
   ],
   "notes": [

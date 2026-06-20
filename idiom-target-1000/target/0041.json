@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "Right now he is concentrating on the last part of his paper.",
-      "sentence-jp": "今、彼はレポートの最後の部分に集中しているところだ。"
+      "sentence-jp": "今、彼はレポートの最後の部分に集中しているところだ。",
+      "cloze": {
+        "maskedText": "Right now he is ____ the last part of his paper.",
+        "answerBase": "concentrate on ~",
+        "answerSurface": "concentrating on",
+        "choices": [
+          "concentrating on",
+          "looking for",
+          "thinking of",
+          "complaining of"
+        ]
+      }
     }
   ],
   "notes": [

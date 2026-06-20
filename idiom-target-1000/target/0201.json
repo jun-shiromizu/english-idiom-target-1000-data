@@ -12,7 +12,18 @@
         "resemble"
       ],
       "example-sentence": "Which side of your family do you think you take after?",
-      "sentence-jp": "あなたは自分が家族のどちらの家系に似ていると思いますか。"
+      "sentence-jp": "あなたは自分が家族のどちらの家系に似ていると思いますか。",
+      "cloze": {
+        "maskedText": "Which side of your family do you think you ____?",
+        "answerBase": "take after ~",
+        "answerSurface": "take after",
+        "choices": [
+          "take after",
+          "look into",
+          "put up with",
+          "pass away"
+        ]
+      }
     }
   ],
   "notes": []

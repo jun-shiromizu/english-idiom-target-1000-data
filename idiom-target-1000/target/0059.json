@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "My father doesn't care about clothes much when he goes out.",
-      "sentence-jp": "私の父は出かけるときにあまり服装を気にしない。"
+      "sentence-jp": "私の父は出かけるときにあまり服装を気にしない。",
+      "cloze": {
+        "maskedText": "My father doesn't ____ clothes much when he goes out.",
+        "answerBase": "care about ~",
+        "answerSurface": "care about",
+        "choices": [
+          "care about",
+          "search for",
+          "graduate from",
+          "lead to"
+        ]
+      }
     }
   ],
   "notes": [

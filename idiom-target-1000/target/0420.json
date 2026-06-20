@@ -13,7 +13,18 @@
         "through"
       ],
       "example-sentence": "There are pluses and minuses for us being connected by way of the worldwide internet.",
-      "sentence-jp": "私たちが世界規模のインターネット経由でつながっていることにはプラス面とマイナス面がある。"
+      "sentence-jp": "私たちが世界規模のインターネット経由でつながっていることにはプラス面とマイナス面がある。",
+      "cloze": {
+        "maskedText": "There are pluses and minuses for us being connected ____ the worldwide internet.",
+        "answerBase": "by way of ~",
+        "answerSurface": "by way of",
+        "choices": [
+          "by way of",
+          "next to",
+          "up to",
+          "at length"
+        ]
+      }
     },
     {
       "idiom-jp": "〜として、〜のつもりで(の)",
@@ -23,7 +34,18 @@
         "as a means of ~"
       ],
       "example-sentence": "By way of apology for the rudeness, the shop owner offered me a dessert on the house.",
-      "sentence-jp": "失礼のおわびとして、その店のオーナーは店のおごりで私にデザートを提供してくれた。"
+      "sentence-jp": "失礼のおわびとして、その店のオーナーは店のおごりで私にデザートを提供してくれた。",
+      "cloze": {
+        "maskedText": "____ apology for the rudeness, the shop owner offered me a dessert on the house.",
+        "answerBase": "by way of ~",
+        "answerSurface": "By way of",
+        "choices": [
+          "By way of",
+          "At large",
+          "On end",
+          "In effect"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "One great advantage of online communities is relationship building among people.",
-      "sentence-jp": "オンラインコミュニティーの大きな利点の1つは人々の間に関係を築くことである。"
+      "sentence-jp": "オンラインコミュニティーの大きな利点の1つは人々の間に関係を築くことである。",
+      "cloze": {
+        "maskedText": "One great ____ of online communities is relationship building among people.",
+        "answerBase": "advantage",
+        "answerSurface": "advantage",
+        "choices": [
+          "advantage",
+          "package",
+          "landscape",
+          "schedule"
+        ]
+      }
     }
   ],
   "notes": []

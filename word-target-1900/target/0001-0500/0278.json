@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Medicine has made significant progress in treating serious diseases.",
-      "sentence-jp": "医学は重病の治療において重要な進歩を遂げてきている。"
+      "sentence-jp": "医学は重病の治療において重要な進歩を遂げてきている。",
+      "cloze": {
+        "maskedText": "Medicine has made significant ____ in treating serious diseases.",
+        "answerBase": "progress",
+        "answerSurface": "progress",
+        "choices": [
+          "progress",
+          "traffic",
+          "fashion",
+          "rainfall"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "About two thirds of the earth's surface is covered with water.",
-      "sentence-jp": "地球の表面のおよそ3分の2は水でおおわれている。"
+      "sentence-jp": "地球の表面のおよそ3分の2は水でおおわれている。",
+      "cloze": {
+        "maskedText": "About two thirds of the earth's ____ is covered with water.",
+        "answerBase": "surface",
+        "answerSurface": "surface",
+        "choices": [
+          "surface",
+          "culture",
+          "lecture",
+          "vehicle"
+        ]
+      }
     }
   ],
   "notes": []

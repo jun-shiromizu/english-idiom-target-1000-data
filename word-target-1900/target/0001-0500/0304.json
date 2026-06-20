@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "We were stuck in a heavy traffic jam last night.",
-      "sentence-jp": "私たちは昨夜ひどい交通渋滞にはまって動けなかった。"
+      "sentence-jp": "私たちは昨夜ひどい交通渋滞にはまって動けなかった。",
+      "cloze": {
+        "maskedText": "We were ____ in a heavy traffic jam last night.",
+        "answerBase": "be stuck in",
+        "answerSurface": "stuck",
+        "choices": [
+          "stuck",
+          "placed",
+          "hidden",
+          "joined"
+        ]
+      }
     }
   ],
   "notes": []

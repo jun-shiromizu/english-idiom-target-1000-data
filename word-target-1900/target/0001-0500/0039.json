@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "A thinker in the Meiji Era founded this university.",
-      "sentence-jp": "明治時代のある思想家がこの大学を設立した。"
+      "sentence-jp": "明治時代のある思想家がこの大学を設立した。",
+      "cloze": {
+        "maskedText": "A thinker in the Meiji Era ____ this university.",
+        "answerBase": "found",
+        "answerSurface": "founded",
+        "choices": [
+          "founded",
+          "entered",
+          "visited",
+          "copied"
+        ]
+      }
     }
   ],
   "notes": []

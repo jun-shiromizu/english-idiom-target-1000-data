@@ -12,7 +12,18 @@
         "the moment [minute] ..."
       ],
       "example-sentence": "I'll be with you, Ken, as soon as I'm done with the dishes.",
-      "sentence-jp": "ケン, 皿洗いを済ませたらすぐにあなたの所へ行くからね。"
+      "sentence-jp": "ケン, 皿洗いを済ませたらすぐにあなたの所へ行くからね。",
+      "cloze": {
+        "maskedText": "I'll be with you, Ken, ____ I'm done with the dishes.",
+        "answerBase": "as soon as ...",
+        "answerSurface": "as soon as",
+        "choices": [
+          "as soon as",
+          "as long as",
+          "even though",
+          "so that"
+        ]
+      }
     }
   ],
   "notes": []

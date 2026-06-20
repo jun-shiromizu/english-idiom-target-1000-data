@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I remember my grandfather used to regularly complain of backache in his later years.",
-      "sentence-jp": "私は、祖父が晩年によく背中の痛みを訴えていたことを覚えている。"
+      "sentence-jp": "私は、祖父が晩年によく背中の痛みを訴えていたことを覚えている。",
+      "cloze": {
+        "maskedText": "I remember my grandfather used to regularly ____ backache in his later years.",
+        "answerBase": "complain of ~",
+        "answerSurface": "complain of",
+        "choices": [
+          "complain of",
+          "think of",
+          "search for",
+          "learn from"
+        ]
+      }
     }
   ],
   "notes": [

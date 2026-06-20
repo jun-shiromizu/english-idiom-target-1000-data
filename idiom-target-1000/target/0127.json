@@ -12,7 +12,18 @@
         "at (the) least"
       ],
       "example-sentence": "The gym is a short distance away from my house, a ten-minute walk at most.",
-      "sentence-jp": "そのジムは私の家から近い所にあり, せいぜい歩いて10分だ。"
+      "sentence-jp": "そのジムは私の家から近い所にあり, せいぜい歩いて10分だ。",
+      "cloze": {
+        "maskedText": "The gym is a short distance away from my house, a ten-minute walk ____.",
+        "answerBase": "at most",
+        "answerSurface": "at most",
+        "choices": [
+          "at most",
+          "at least",
+          "at random",
+          "at heart"
+        ]
+      }
     }
   ],
   "notes": [

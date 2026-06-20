@@ -9,21 +9,54 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Colombia’s civil war has been going on for many decades.",
-      "sentence-jp": "コロンビアの内戦は何十年も続いている。"
+      "sentence-jp": "コロンビアの内戦は何十年も続いている。",
+      "cloze": {
+        "maskedText": "Colombia’s civil war has been ____ for many decades.",
+        "answerBase": "go on (~)",
+        "answerSurface": "going on",
+        "choices": [
+          "going on",
+          "going off",
+          "going out",
+          "going over"
+        ]
+      }
     },
     {
       "idiom-jp": "[通例 be going on で]起こる、行われる",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I knew something was going on under the surface but couldn’t tell for sure what it was.",
-      "sentence-jp": "私は水面下で何かが起こっているのは知っていたが、それが何であるのか正確にはわからなかった。"
+      "sentence-jp": "私は水面下で何かが起こっているのは知っていたが、それが何であるのか正確にはわからなかった。",
+      "cloze": {
+        "maskedText": "I knew something was ____ under the surface but couldn’t tell for sure what it was.",
+        "answerBase": "go on (~)",
+        "answerSurface": "going on",
+        "choices": [
+          "going on",
+          "going off",
+          "going by",
+          "looking up"
+        ]
+      }
     },
     {
       "idiom-jp": "(旅行など)に出かける",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I’m going on my first trip abroad next month, and I need some advice.",
-      "sentence-jp": "私は来月初めての海外旅行に出かける予定なので、アドバイスを必要としています。"
+      "sentence-jp": "私は来月初めての海外旅行に出かける予定なので、アドバイスを必要としています。",
+      "cloze": {
+        "maskedText": "I’m ____ my first trip abroad next month, and I need some advice.",
+        "answerBase": "go on (~)",
+        "answerSurface": "going on",
+        "choices": [
+          "going on",
+          "going out",
+          "going over",
+          "going with"
+        ]
+      }
     }
   ],
   "notes": [

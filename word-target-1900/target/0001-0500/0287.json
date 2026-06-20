@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "It was obvious that the woman was innocent of the crime.",
-      "sentence-jp": "その女性がその犯罪については無実であることは明らかだった。"
+      "sentence-jp": "その女性がその犯罪については無実であることは明らかだった。",
+      "cloze": {
+        "maskedText": "It was ____ that the woman was innocent of the crime.",
+        "answerBase": "obvious",
+        "answerSurface": "obvious",
+        "choices": [
+          "obvious",
+          "fragile",
+          "silent",
+          "mobile"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,14 +9,36 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "“I’m Carla,” she said, and held out her hand for a handshake.",
-      "sentence-jp": "「私はカーラです」と彼女は言い、握手のために手を差し出した。"
+      "sentence-jp": "「私はカーラです」と彼女は言い、握手のために手を差し出した。",
+      "cloze": {
+        "maskedText": "\"I’m Carla,\" she said, and ____ her hand for a handshake.",
+        "answerBase": "hold out (~)",
+        "answerSurface": "held out",
+        "choices": [
+          "held out",
+          "held up",
+          "lived on",
+          "looked to"
+        ]
+      }
     },
     {
       "idiom-jp": "(希望など)を抱かせる；持ちこたえる[耐える]",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "A deep respect for human rights holds out hope for better treatment of us human beings.",
-      "sentence-jp": "人権への深い尊敬というのは、我々人間へのよりよい扱いに対する希望を抱かせるものだ。"
+      "sentence-jp": "人権への深い尊敬というのは、我々人間へのよりよい扱いに対する希望を抱かせるものだ。",
+      "cloze": {
+        "maskedText": "A deep respect for human rights ____ hope for better treatment of us human beings.",
+        "answerBase": "hold out (~)",
+        "answerSurface": "holds out",
+        "choices": [
+          "holds out",
+          "holds up",
+          "looks to",
+          "puts out"
+        ]
+      }
     }
   ],
   "notes": [

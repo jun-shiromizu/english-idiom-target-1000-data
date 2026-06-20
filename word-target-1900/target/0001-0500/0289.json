@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "quantity-expression",
       "example-sentence": "New technologies might change the lives of ordinary people into something quite different.",
-      "sentence-jp": "新しい技術は一般の人々の生活をまったく違ったものに変えるかもしれ"
+      "sentence-jp": "新しい技術は一般の人々の生活をまったく違ったものに変えるかもしれ",
+      "cloze": {
+        "maskedText": "New technologies might change the lives of ____ people into something quite different.",
+        "answerBase": "ordinary",
+        "answerSurface": "ordinary",
+        "choices": [
+          "ordinary",
+          "digital",
+          "financial",
+          "mobile"
+        ]
+      }
     }
   ],
   "notes": []

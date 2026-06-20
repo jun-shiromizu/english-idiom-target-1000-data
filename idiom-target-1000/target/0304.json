@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "We’re determined to stick to our original plan as best we can.",
-      "sentence-jp": "私たちはできる限り元の計画を堅持する決意だ。"
+      "sentence-jp": "私たちはできる限り元の計画を堅持する決意だ。",
+      "cloze": {
+        "maskedText": "We’re determined to ____ our original plan as best we can.",
+        "answerBase": "stick to ~",
+        "answerSurface": "stick to",
+        "choices": [
+          "stick to",
+          "cling to",
+          "count on",
+          "sit up"
+        ]
+      }
     }
   ],
   "notes": [

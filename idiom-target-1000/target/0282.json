@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "The hotel supplied me with most things I needed until my suitcase arrived.",
-      "sentence-jp": "そのホテルはスーツケースが到着するまで私が必要とするほとんどのものを私に提供してくれた。"
+      "sentence-jp": "そのホテルはスーツケースが到着するまで私が必要とするほとんどのものを私に提供してくれた。",
+      "cloze": {
+        "maskedText": "The hotel ____ me with most things I needed until my suitcase arrived.",
+        "answerBase": "supply A with B",
+        "answerSurface": "supplied",
+        "choices": [
+          "supplied",
+          "provided",
+          "mistook",
+          "looked on"
+        ]
+      }
     }
   ],
   "notes": [

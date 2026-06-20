@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Once I started reading this book, I haven’t been able to put it down.",
-      "sentence-jp": "いったんこの本を読み始めたら、私はそれを置くことができないでいる。"
+      "sentence-jp": "いったんこの本を読み始めたら、私はそれを置くことができないでいる。",
+      "cloze": {
+        "maskedText": "Once I started reading this book, I haven’t been able to ____.",
+        "answerBase": "put down ~",
+        "answerSurface": "put it down",
+        "choices": [
+          "put it down",
+          "turn it in",
+          "make it out",
+          "run it over"
+        ]
+      }
     },
     {
       "idiom-jp": "〜を鎮める[抑える]",
@@ -20,7 +31,18 @@
         "quell"
       ],
       "example-sentence": "The riot was soon put down by the police.",
-      "sentence-jp": "暴動は警察によって間もなく鎮められた。"
+      "sentence-jp": "暴動は警察によって間もなく鎮められた。",
+      "cloze": {
+        "maskedText": "The riot was soon ____ by the police.",
+        "answerBase": "put down ~",
+        "answerSurface": "put down",
+        "choices": [
+          "put down",
+          "run over",
+          "set out",
+          "was due to"
+        ]
+      }
     }
   ],
   "notes": [

@@ -13,7 +13,18 @@
         "despise"
       ],
       "example-sentence": "Animals have a culture different from that of humans in that they look down on the old.",
-      "sentence-jp": "動物は老いた個体を軽んじるという点で人間とは異なった文化を有している。"
+      "sentence-jp": "動物は老いた個体を軽んじるという点で人間とは異なった文化を有している。",
+      "cloze": {
+        "maskedText": "Animals have a culture different from that of humans in that they ____ the old.",
+        "answerBase": "look down on ~",
+        "answerSurface": "look down on",
+        "choices": [
+          "look down on",
+          "look up to",
+          "call for",
+          "break out"
+        ]
+      }
     }
   ],
   "notes": [

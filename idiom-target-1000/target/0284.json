@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Those who saw us in the woods may have taken us for ghosts or something.",
-      "sentence-jp": "森で私たちを見た人々は, 私たちのことを幽霊か何かだと思ったかもしれない。"
+      "sentence-jp": "森で私たちを見た人々は, 私たちのことを幽霊か何かだと思ったかもしれない。",
+      "cloze": {
+        "maskedText": "Those who saw us in the woods may have ____ us for ghosts or something.",
+        "answerBase": "take A for B",
+        "answerSurface": "taken",
+        "choices": [
+          "taken",
+          "mistaken",
+          "looked on",
+          "provided"
+        ]
+      }
     }
   ],
   "notes": []

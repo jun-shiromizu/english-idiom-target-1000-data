@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Tickets for the concert are available on the Internet.",
-      "sentence-jp": "そのコンサートのチケットはインターネットで手に入る。"
+      "sentence-jp": "そのコンサートのチケットはインターネットで手に入る。",
+      "cloze": {
+        "maskedText": "Tickets for the concert are ____ on the Internet.",
+        "answerBase": "available",
+        "answerSurface": "available",
+        "choices": [
+          "available",
+          "separate",
+          "delicate",
+          "narrow"
+        ]
+      }
     }
   ],
   "notes": []

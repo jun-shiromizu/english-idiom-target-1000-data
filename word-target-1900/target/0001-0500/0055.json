@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Many societies place a high value on education these days.",
-      "sentence-jp": "最近，多くの社会は教育に高い価値を置く。"
+      "sentence-jp": "最近，多くの社会は教育に高い価値を置く。",
+      "cloze": {
+        "maskedText": "Many societies place a high ____ on education these days.",
+        "answerBase": "value",
+        "answerSurface": "value",
+        "choices": [
+          "value",
+          "curtain",
+          "address",
+          "circle"
+        ]
+      }
     }
   ],
   "notes": []

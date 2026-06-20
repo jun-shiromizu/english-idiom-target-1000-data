@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "The cold, gray weather added to the dark atmosphere of the house.",
-      "sentence-jp": "寒くてどんよりした天気がその家の暗い雰囲気を増加させた。"
+      "sentence-jp": "寒くてどんよりした天気がその家の暗い雰囲気を増加させた。",
+      "cloze": {
+        "maskedText": "The cold, gray weather ____ the dark atmosphere of the house.",
+        "answerBase": "add to ~",
+        "answerSurface": "added to",
+        "choices": [
+          "added to",
+          "adapted to",
+          "objected to",
+          "admitted to"
+        ]
+      }
     }
   ],
   "notes": [

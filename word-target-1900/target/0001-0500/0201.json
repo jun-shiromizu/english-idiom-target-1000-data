@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The police officer identified the man as a criminal.",
-      "sentence-jp": "警官はその男性を犯人と特定した。"
+      "sentence-jp": "警官はその男性を犯人と特定した。",
+      "cloze": {
+        "maskedText": "The police officer ____ the man as a criminal.",
+        "answerBase": "identify A as B",
+        "answerSurface": "identified",
+        "choices": [
+          "identified",
+          "visited",
+          "ignored",
+          "borrowed"
+        ]
+      }
     }
   ],
   "notes": []

@@ -12,7 +12,18 @@
         "summarize"
       ],
       "example-sentence": "The professor summed up the lecture in just a few minutes.",
-      "sentence-jp": "教授はその講義をわずか数分でまとめた。"
+      "sentence-jp": "教授はその講義をわずか数分でまとめた。",
+      "cloze": {
+        "maskedText": "The professor ____ the lecture in just a few minutes.",
+        "answerBase": "sum up (~)",
+        "answerSurface": "summed up",
+        "choices": [
+          "summed up",
+          "used up",
+          "cheered up",
+          "blew up"
+        ]
+      }
     }
   ],
   "notes": [

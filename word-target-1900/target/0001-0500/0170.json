@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The secret behind the popularity of the shop is its wide choice of items.",
-      "sentence-jp": "その店の人気の秘密は幅広い品ぞろえである。"
+      "sentence-jp": "その店の人気の秘密は幅広い品ぞろえである。",
+      "cloze": {
+        "maskedText": "The secret behind the popularity of the shop is its wide choice of ____.",
+        "answerBase": "item",
+        "answerSurface": "items",
+        "choices": [
+          "items",
+          "bridges",
+          "village",
+          "lecture"
+        ]
+      }
     }
   ],
   "notes": []

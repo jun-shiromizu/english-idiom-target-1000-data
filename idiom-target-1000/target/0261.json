@@ -12,7 +12,18 @@
         "far from ~"
       ],
       "example-sentence": "The boy looked anything but happy in his dirty baseball uniform.",
-      "sentence-jp": "少年は汚れた野球のユニフォームを着ていて全然うれしそうではなかった。"
+      "sentence-jp": "少年は汚れた野球のユニフォームを着ていて全然うれしそうではなかった。",
+      "cloze": {
+        "maskedText": "The boy looked ____ happy in his dirty baseball uniform.",
+        "answerBase": "anything but ~",
+        "answerSurface": "anything but",
+        "choices": [
+          "anything but",
+          "nothing but",
+          "for now",
+          "by chance"
+        ]
+      }
     }
   ],
   "notes": [

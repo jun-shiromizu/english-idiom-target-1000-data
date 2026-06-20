@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "Jane’s father did not approve of her going to the party.",
-      "sentence-jp": "ジェーンの父は、彼女がそのパーティーへ行くことに賛成しなかった。"
+      "sentence-jp": "ジェーンの父は、彼女がそのパーティーへ行くことに賛成しなかった。",
+      "cloze": {
+        "maskedText": "Jane’s father did not ____ her going to the party.",
+        "answerBase": "approve of ~",
+        "answerSurface": "approve of",
+        "choices": [
+          "approve of",
+          "dispose of",
+          "part with",
+          "long for"
+        ]
+      }
     }
   ],
   "notes": [

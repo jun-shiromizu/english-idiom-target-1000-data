@@ -9,14 +9,36 @@
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "In order for food to be absorbed in the body, it must be broken down into little pieces.",
-      "sentence-jp": "食べ物が体に吸収されるためには、細かく分解されなければならない。"
+      "sentence-jp": "食べ物が体に吸収されるためには、細かく分解されなければならない。",
+      "cloze": {
+        "maskedText": "In order for food to be absorbed in the body, it must be ____ into little pieces.",
+        "answerBase": "break down (~)",
+        "answerSurface": "broken down",
+        "choices": [
+          "broken down",
+          "handed down",
+          "taken down",
+          "burned down"
+        ]
+      }
     },
     {
       "idiom-jp": "故障する；取り乱す；肉体的[精神的]に参る",
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "On the way the air conditioner of our car broke down, and we suffered from the heat.",
-      "sentence-jp": "途中で私たちの車のエアコンが故障し、私たちは暑さに苦しんだ。"
+      "sentence-jp": "途中で私たちの車のエアコンが故障し、私たちは暑さに苦しんだ。",
+      "cloze": {
+        "maskedText": "On the way the air conditioner of our car ____, and we suffered from the heat.",
+        "answerBase": "break down (~)",
+        "answerSurface": "broke down",
+        "choices": [
+          "broke down",
+          "came out",
+          "ran out",
+          "dropped out"
+        ]
+      }
     }
   ],
   "notes": [

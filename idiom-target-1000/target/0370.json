@@ -13,7 +13,18 @@
         "dispense with ~"
       ],
       "example-sentence": "It’s too late to go shopping, so let’s do without chicken tonight.",
-      "sentence-jp": "買い物に行くには遅すぎるので、今夜はチキンなしですませよう。"
+      "sentence-jp": "買い物に行くには遅すぎるので、今夜はチキンなしですませよう。",
+      "cloze": {
+        "maskedText": "It’s too late to go shopping, so let’s ____ chicken tonight.",
+        "answerBase": "do without (~)",
+        "answerSurface": "do without",
+        "choices": [
+          "do without",
+          "do with",
+          "break in",
+          "call on"
+        ]
+      }
     }
   ],
   "notes": [

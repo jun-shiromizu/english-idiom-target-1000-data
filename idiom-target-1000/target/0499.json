@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "We can substitute a group of easier words for one difficult word whenever necessary.",
-      "sentence-jp": "私たちは必要なときはいつでも難しい1語の代わりにより易しい言葉のかたまりを使うことができる。"
+      "sentence-jp": "私たちは必要なときはいつでも難しい1語の代わりにより易しい言葉のかたまりを使うことができる。",
+      "cloze": {
+        "maskedText": "We can ____ a group of easier words for one difficult word whenever necessary.",
+        "answerBase": "substitute A for B",
+        "answerSurface": "substitute",
+        "choices": [
+          "substitute",
+          "exchange",
+          "attribute",
+          "owe"
+        ]
+      }
     }
   ],
   "notes": [

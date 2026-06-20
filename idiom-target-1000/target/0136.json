@@ -9,7 +9,18 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "Making things by hand has given way to mass production by machine.",
-      "sentence-jp": "手での物作りは機械による大量生産に道を譲った。"
+      "sentence-jp": "手での物作りは機械による大量生産に道を譲った。",
+      "cloze": {
+        "maskedText": "Making things ____ has given way to mass production by machine.",
+        "answerBase": "by hand",
+        "answerSurface": "by hand",
+        "choices": [
+          "by hand",
+          "by chance",
+          "by then",
+          "by far"
+        ]
+      }
     }
   ],
   "notes": [

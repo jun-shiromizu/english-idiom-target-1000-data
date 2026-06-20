@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Her excellent writing skills enabled her to get a good job.",
-      "sentence-jp": "彼女の卓越した文章能力は彼女がよい仕事を得るのを可能にした。"
+      "sentence-jp": "彼女の卓越した文章能力は彼女がよい仕事を得るのを可能にした。",
+      "cloze": {
+        "maskedText": "Her excellent writing skills ____ her to get a good job.",
+        "answerBase": "enable A to do",
+        "answerSurface": "enabled",
+        "choices": [
+          "enabled",
+          "forced",
+          "warned",
+          "persuaded"
+        ]
+      }
     }
   ],
   "notes": []

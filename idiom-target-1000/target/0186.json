@@ -15,7 +15,18 @@
         "think of ~"
       ],
       "example-sentence": "Tom was late to class again and was unable to come up with a good excuse for that.",
-      "sentence-jp": "トムはまた授業に遅れ, そのことについてうまい言い訳を思いつくことができなかった。"
+      "sentence-jp": "トムはまた授業に遅れ, そのことについてうまい言い訳を思いつくことができなかった。",
+      "cloze": {
+        "maskedText": "Tom was late to class again and was unable to ____ a good excuse for that.",
+        "answerBase": "come up with ~",
+        "answerSurface": "come up with",
+        "choices": [
+          "come up with",
+          "do away with",
+          "hand in",
+          "pass away"
+        ]
+      }
     }
   ],
   "notes": []

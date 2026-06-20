@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Economic growth is a major concern for the Japanese government.",
-      "sentence-jp": "経済成長は日本政府にとって大きな関心事である。"
+      "sentence-jp": "経済成長は日本政府にとって大きな関心事である。",
+      "cloze": {
+        "maskedText": "Economic growth is a ____ concern for the Japanese government.",
+        "answerBase": "major",
+        "answerSurface": "major",
+        "choices": [
+          "major",
+          "daily",
+          "sleepy",
+          "modern"
+        ]
+      }
     }
   ],
   "notes": []

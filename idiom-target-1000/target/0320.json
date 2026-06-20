@@ -10,7 +10,18 @@
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "Finally, the guard seemed to take pity on the girl and said, “OK, go in.”",
-      "sentence-jp": "とうとう守衛はその少女に同情したようで「いいよ、入りなさい」と言った。"
+      "sentence-jp": "とうとう守衛はその少女に同情したようで「いいよ、入りなさい」と言った。",
+      "cloze": {
+        "maskedText": "Finally, the guard seemed to ____ the girl and said, \"OK, go in.\"",
+        "answerBase": "take pity on ~",
+        "answerSurface": "take pity on",
+        "choices": [
+          "take pity on",
+          "keep back",
+          "hand over",
+          "count on"
+        ]
+      }
     }
   ],
   "notes": [

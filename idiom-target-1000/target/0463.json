@@ -13,7 +13,18 @@
         "pass on ~"
       ],
       "example-sentence": "I think it is our duty to hand down our good traditions and customs to future generations.",
-      "sentence-jp": "後世の人々に私たちのよき伝統と風習を伝えることは私たちの義務だと思う。"
+      "sentence-jp": "後世の人々に私たちのよき伝統と風習を伝えることは私たちの義務だと思う。",
+      "cloze": {
+        "maskedText": "I think it is our duty to ____ our good traditions and customs to future generations.",
+        "answerBase": "hand down ~",
+        "answerSurface": "hand down",
+        "choices": [
+          "hand down",
+          "take down",
+          "burn down",
+          "slow down"
+        ]
+      }
     }
   ],
   "notes": [

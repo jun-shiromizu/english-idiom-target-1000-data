@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The politician expressed his opinions on the leak of state secrets.",
-      "sentence-jp": "その政治家は国家機密の漏洩に関する自分の意見を表明した。"
+      "sentence-jp": "その政治家は国家機密の漏洩に関する自分の意見を表明した。",
+      "cloze": {
+        "maskedText": "The politician ____ his opinions on the leak of state secrets.",
+        "answerBase": "express",
+        "answerSurface": "expressed",
+        "choices": [
+          "expressed",
+          "hid",
+          "measured",
+          "repeated"
+        ]
+      }
     }
   ],
   "notes": []

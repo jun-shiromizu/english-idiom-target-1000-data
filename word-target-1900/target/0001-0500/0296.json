@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Extreme inequality prevents many people from fulfilling their potential.",
-      "sentence-jp": "極端な不平等は多くの人々がその潜在能力を発揮するのを妨げる。"
+      "sentence-jp": "極端な不平等は多くの人々がその潜在能力を発揮するのを妨げる。",
+      "cloze": {
+        "maskedText": "____ inequality prevents many people from fulfilling their potential.",
+        "answerBase": "extreme",
+        "answerSurface": "Extreme",
+        "choices": [
+          "Extreme",
+          "Digital",
+          "Official",
+          "Entire"
+        ]
+      }
     }
   ],
   "notes": []

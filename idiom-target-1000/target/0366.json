@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "This vending machine is out of order, so I have to find another one.",
-      "sentence-jp": "この自動販売機は故障しているので、別のを探さなければならない。"
+      "sentence-jp": "この自動販売機は故障しているので、別のを探さなければならない。",
+      "cloze": {
+        "maskedText": "This vending machine is ____ , so I have to find another one.",
+        "answerBase": "out of order",
+        "answerSurface": "out of order",
+        "choices": [
+          "out of order",
+          "in order",
+          "at ease",
+          "in sight"
+        ]
+      }
     }
   ],
   "notes": [

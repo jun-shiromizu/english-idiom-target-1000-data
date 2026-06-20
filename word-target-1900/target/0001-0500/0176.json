@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He has the habit of checking e-mail messages at meal times.",
-      "sentence-jp": "彼は食事時にEメールのメッセージをチェックする習慣がある。"
+      "sentence-jp": "彼は食事時にEメールのメッセージをチェックする習慣がある。",
+      "cloze": {
+        "maskedText": "He has the ____ of checking e-mail messages at meal times.",
+        "answerBase": "habit",
+        "answerSurface": "habit",
+        "choices": [
+          "habit",
+          "ladder",
+          "budget",
+          "signal"
+        ]
+      }
     }
   ],
   "notes": []

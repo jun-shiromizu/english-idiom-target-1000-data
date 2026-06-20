@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "A tight work schedule may cause stress.",
-      "sentence-jp": "ぎっしり詰まった仕事の予定がストレスを引き起こすこともある。"
+      "sentence-jp": "ぎっしり詰まった仕事の予定がストレスを引き起こすこともある。",
+      "cloze": {
+        "maskedText": "A tight work schedule may cause ____.",
+        "answerBase": "stress",
+        "answerSurface": "stress",
+        "choices": [
+          "stress",
+          "traffic",
+          "rainfall",
+          "furniture"
+        ]
+      }
     }
   ],
   "notes": []

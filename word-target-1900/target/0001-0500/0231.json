@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Babies quickly respond to any sound similar to their mother's heartbeat.",
-      "sentence-jp": "赤ん坊は母親の心臓の鼓動に似たどんな音にもすぐに反応する。"
+      "sentence-jp": "赤ん坊は母親の心臓の鼓動に似たどんな音にもすぐに反応する。",
+      "cloze": {
+        "maskedText": "Babies quickly ____ to any sound similar to their mother's heartbeat.",
+        "answerBase": "respond to",
+        "answerSurface": "respond",
+        "choices": [
+          "respond",
+          "travel",
+          "belong",
+          "wander"
+        ]
+      }
     }
   ],
   "notes": []

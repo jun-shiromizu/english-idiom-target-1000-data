@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I immediately fell in love with the city we visited, and so did my sister.",
-      "sentence-jp": "私はすぐに私たちが訪れた町を好きになり, それは妹も同じだった。"
+      "sentence-jp": "私はすぐに私たちが訪れた町を好きになり, それは妹も同じだった。",
+      "cloze": {
+        "maskedText": "I immediately ____ the city we visited, and so did my sister.",
+        "answerBase": "fall in love with ~",
+        "answerSurface": "fell in love with",
+        "choices": [
+          "fell in love with",
+          "got rid of",
+          "looked forward to",
+          "gave in to"
+        ]
+      }
     }
   ],
   "notes": [

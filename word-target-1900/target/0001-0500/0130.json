@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Junk food usually contains a lot of salt, sugar and fat.",
-      "sentence-jp": "ジャンクフードはたいていたくさんの塩分，糖分，脂肪を含む。"
+      "sentence-jp": "ジャンクフードはたいていたくさんの塩分，糖分，脂肪を含む。",
+      "cloze": {
+        "maskedText": "Junk food usually ____ a lot of salt, sugar and fat.",
+        "answerBase": "contain",
+        "answerSurface": "contains",
+        "choices": [
+          "contains",
+          "avoids",
+          "wastes",
+          "orders"
+        ]
+      }
     }
   ],
   "notes": []

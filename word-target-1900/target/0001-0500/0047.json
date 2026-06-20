@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He explained the reason for his absence from school today.",
-      "sentence-jp": "彼は今日学校を欠席した理由を説明した。"
+      "sentence-jp": "彼は今日学校を欠席した理由を説明した。",
+      "cloze": {
+        "maskedText": "He explained the ____ for his absence from school today.",
+        "answerBase": "reason",
+        "answerSurface": "reason",
+        "choices": [
+          "reason",
+          "distance",
+          "manner",
+          "corner"
+        ]
+      }
     }
   ],
   "notes": []

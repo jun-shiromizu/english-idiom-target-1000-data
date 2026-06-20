@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The country relied on military support from overseas.",
-      "sentence-jp": "その国は外国からの軍事支援に頼っていた。"
+      "sentence-jp": "その国は外国からの軍事支援に頼っていた。",
+      "cloze": {
+        "maskedText": "The country ____ on military support from overseas.",
+        "answerBase": "rely on",
+        "answerSurface": "relied",
+        "choices": [
+          "relied",
+          "carried",
+          "focused",
+          "traveled"
+        ]
+      }
     }
   ],
   "notes": []

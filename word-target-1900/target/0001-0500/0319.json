@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Humans tend to repeat their mistakes without much thought.",
-      "sentence-jp": "人間はあまり考えもせずに同じ間違いを繰り返す傾向がある。"
+      "sentence-jp": "人間はあまり考えもせずに同じ間違いを繰り返す傾向がある。",
+      "cloze": {
+        "maskedText": "Humans tend to ____ their mistakes without much thought.",
+        "answerBase": "repeat",
+        "answerSurface": "repeat",
+        "choices": [
+          "repeat",
+          "bury",
+          "survey",
+          "remove"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "There are many different theories about how cancers occur.",
-      "sentence-jp": "癌がどのように生じるかに関する多くの異なる学説が存在する。"
+      "sentence-jp": "癌がどのように生じるかに関する多くの異なる学説が存在する。",
+      "cloze": {
+        "maskedText": "There are many different ____ about how cancers occur.",
+        "answerBase": "theory",
+        "answerSurface": "theories",
+        "choices": [
+          "theories",
+          "islands",
+          "garages",
+          "brushes"
+        ]
+      }
     }
   ],
   "notes": []

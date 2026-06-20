@@ -9,7 +9,18 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "The sign we saw on the way to the natural hot spring read: \"Beware of bears.\"",
-      "sentence-jp": "私たちが天然温泉へ行く途中で見た標識には『クマに注意』と書いてあった。"
+      "sentence-jp": "私たちが天然温泉へ行く途中で見た標識には『クマに注意』と書いてあった。",
+      "cloze": {
+        "maskedText": "The sign we saw ____ the natural hot spring read: \"Beware of bears.\"",
+        "answerBase": "on the way (to ~)",
+        "answerSurface": "on the way to",
+        "choices": [
+          "on the way to",
+          "in the way of",
+          "by chance",
+          "up in the air"
+        ]
+      }
     }
   ],
   "notes": [

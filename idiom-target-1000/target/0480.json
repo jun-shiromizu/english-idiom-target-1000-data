@@ -12,7 +12,18 @@
         "install"
       ],
       "example-sentence": "I’d like to put in a few sentences here to explain what I mean by this.",
-      "sentence-jp": "私はこれで何を言おうとしているかを説明するために、ここに少し文を付け加えたい。"
+      "sentence-jp": "私はこれで何を言おうとしているかを説明するために、ここに少し文を付け加えたい。",
+      "cloze": {
+        "maskedText": "I’d like to ____ a few sentences here to explain what I mean by this.",
+        "answerBase": "put in ~",
+        "answerSurface": "put in",
+        "choices": [
+          "put in",
+          "break off",
+          "take over",
+          "show off"
+        ]
+      }
     },
     {
       "idiom-jp": "(労力・時間・金など)を注ぎ込む[投入する]",
@@ -23,7 +34,18 @@
         "invest"
       ],
       "example-sentence": "The hard work the team put in led to their victory in the competition.",
-      "sentence-jp": "チームが注ぎ込んだ多大な努力が競技会での勝利につながった。"
+      "sentence-jp": "チームが注ぎ込んだ多大な努力が競技会での勝利につながった。",
+      "cloze": {
+        "maskedText": "The hard work the team ____ led to their victory in the competition.",
+        "answerBase": "put in ~",
+        "answerSurface": "put in",
+        "choices": [
+          "put in",
+          "took over",
+          "showed off",
+          "wore out"
+        ]
+      }
     }
   ],
   "notes": [

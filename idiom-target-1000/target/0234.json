@@ -12,7 +12,18 @@
         "let ~ alone"
       ],
       "example-sentence": "He's doing his homework, so we'd better leave him alone for some time.",
-      "sentence-jp": "彼は宿題をしているので, しばらく彼をほっておくほうがいいだろう。"
+      "sentence-jp": "彼は宿題をしているので, しばらく彼をほっておくほうがいいだろう。",
+      "cloze": {
+        "maskedText": "He's doing his homework, so we'd better ____ for some time.",
+        "answerBase": "leave ~ alone",
+        "answerSurface": "leave him alone",
+        "choices": [
+          "leave him alone",
+          "let alone him",
+          "catch up with him",
+          "agree with him"
+        ]
+      }
     }
   ],
   "notes": []

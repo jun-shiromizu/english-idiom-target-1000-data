@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "The man refused to join the fight for moral reasons.",
-      "sentence-jp": "その男性は道徳上の理由からその争いに加わるのを断った。"
+      "sentence-jp": "その男性は道徳上の理由からその争いに加わるのを断った。",
+      "cloze": {
+        "maskedText": "The man refused to join the fight for ____ reasons.",
+        "answerBase": "moral",
+        "answerSurface": "moral",
+        "choices": [
+          "moral",
+          "seasonal",
+          "formal",
+          "official"
+        ]
+      }
     }
   ],
   "notes": []

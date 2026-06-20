@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Humans differ from other animals in that they can use language.",
-      "sentence-jp": "言語を使えるという点で人間はほかの動物とは異なる。"
+      "sentence-jp": "言語を使えるという点で人間はほかの動物とは異なる。",
+      "cloze": {
+        "maskedText": "Humans ____ other animals in that they can use language.",
+        "answerBase": "differ from ~",
+        "answerSurface": "differ from",
+        "choices": [
+          "differ from",
+          "depend on",
+          "result from",
+          "focus on"
+        ]
+      }
     }
   ],
   "notes": [

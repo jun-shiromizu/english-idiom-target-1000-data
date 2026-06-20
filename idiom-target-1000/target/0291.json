@@ -12,7 +12,18 @@
         "make up for ~"
       ],
       "example-sentence": "My grandfather says nothing can compensate for the time wasted when one is young.",
-      "sentence-jp": "祖父は, 何事も人が若いときに浪費した時間の埋め合わせをすることはできないと言う。"
+      "sentence-jp": "祖父は, 何事も人が若いときに浪費した時間の埋め合わせをすることはできないと言う。",
+      "cloze": {
+        "maskedText": "My grandfather says nothing can ____ the time wasted when one is young.",
+        "answerBase": "compensate for ~",
+        "answerSurface": "compensate for",
+        "choices": [
+          "compensate for",
+          "make up for",
+          "care for",
+          "show up"
+        ]
+      }
     }
   ],
   "notes": []

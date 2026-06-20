@@ -12,7 +12,18 @@
         "as a matter of fact"
       ],
       "example-sentence": "In theory, it may be so, but in practice, it is not so simple.",
-      "sentence-jp": "理論上はそうかもしれないが、実際にはそれほど単純ではない。"
+      "sentence-jp": "理論上はそうかもしれないが、実際にはそれほど単純ではない。",
+      "cloze": {
+        "maskedText": "____, it may be so, but in practice, it is not so simple.",
+        "answerBase": "in theory",
+        "answerSurface": "In theory",
+        "choices": [
+          "In theory",
+          "In short",
+          "By all means",
+          "As for architecture"
+        ]
+      }
     }
   ],
   "notes": [

@@ -12,7 +12,18 @@
         "memorize"
       ],
       "example-sentence": "I've found it fun to learn something by heart - Toson's beautiful poems, for example.",
-      "sentence-jp": "私は何かを暗記することは楽しいと気づいた。例えば, 藤村の美しい詩などだ。"
+      "sentence-jp": "私は何かを暗記することは楽しいと気づいた。例えば, 藤村の美しい詩などだ。",
+      "cloze": {
+        "maskedText": "I've found it fun to ____ - Toson's beautiful poems, for example.",
+        "answerBase": "learn ~ by heart",
+        "answerSurface": "learn something by heart",
+        "choices": [
+          "learn something by heart",
+          "look into something",
+          "put off something",
+          "bring up something"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Uncle George offered me an opportunity to work for his company.",
-      "sentence-jp": "ジョージおじさんは彼の会社で働く機会を私に提供した。"
+      "sentence-jp": "ジョージおじさんは彼の会社で働く機会を私に提供した。",
+      "cloze": {
+        "maskedText": "Uncle George ____ me an opportunity to work for his company.",
+        "answerBase": "offer",
+        "answerSurface": "offered",
+        "choices": [
+          "offered",
+          "denied",
+          "wasted",
+          "withheld"
+        ]
+      }
     }
   ],
   "notes": []

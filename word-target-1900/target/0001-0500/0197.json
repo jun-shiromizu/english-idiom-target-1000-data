@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "The human brain is very plastic, so even adults can learn and adapt.",
-      "sentence-jp": "人間の脳はとても柔軟なので，大人でさえ学習して順応することができる。"
+      "sentence-jp": "人間の脳はとても柔軟なので，大人でさえ学習して順応することができる。",
+      "cloze": {
+        "maskedText": "The human brain is very ____, so even adults can learn and adapt.",
+        "answerBase": "plastic",
+        "answerSurface": "plastic",
+        "choices": [
+          "plastic",
+          "silent",
+          "distant",
+          "financial"
+        ]
+      }
     }
   ],
   "notes": []

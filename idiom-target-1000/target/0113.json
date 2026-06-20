@@ -16,7 +16,18 @@
         "take A as B"
       ],
       "example-sentence": "Despite the difficulties, many elderly people regard learning foreign languages as fun.",
-      "sentence-jp": "困難にもかかわらず, 多くの高齢者は外国語の学習を楽しみと見なしている。"
+      "sentence-jp": "困難にもかかわらず, 多くの高齢者は外国語の学習を楽しみと見なしている。",
+      "cloze": {
+        "maskedText": "Despite the difficulties, many elderly people ____ fun.",
+        "answerBase": "regard A as B",
+        "answerSurface": "regard learning foreign languages as",
+        "choices": [
+          "regard learning foreign languages as",
+          "compare learning foreign languages with",
+          "turn learning foreign languages into",
+          "inform learning foreign languages about"
+        ]
+      }
     }
   ],
   "notes": [

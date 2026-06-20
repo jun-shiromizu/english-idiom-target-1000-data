@@ -13,14 +13,36 @@
         "in succession"
       ],
       "example-sentence": "During the rainy season, it continues to rain for days on end.",
-      "sentence-jp": "梅雨の間は、連続して何日も雨が降り続く。"
+      "sentence-jp": "梅雨の間は、連続して何日も雨が降り続く。",
+      "cloze": {
+        "maskedText": "During the rainy season, it continues to rain for days ____.",
+        "answerBase": "on end",
+        "answerSurface": "on end",
+        "choices": [
+          "on end",
+          "at length",
+          "in effect",
+          "up to"
+        ]
+      }
     },
     {
       "idiom-jp": "直立して、垂直にして",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "When cats get angry, the hair on their neck stands on end.",
-      "sentence-jp": "猫が怒ると、首の辺りの毛が逆立つ。"
+      "sentence-jp": "猫が怒ると、首の辺りの毛が逆立つ。",
+      "cloze": {
+        "maskedText": "When cats get angry, the hair on their neck stands ____.",
+        "answerBase": "on end",
+        "answerSurface": "on end",
+        "choices": [
+          "on end",
+          "at length",
+          "at large",
+          "next to"
+        ]
+      }
     }
   ],
   "notes": [

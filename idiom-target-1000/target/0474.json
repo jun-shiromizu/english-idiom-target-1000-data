@@ -12,7 +12,18 @@
         "set out"
       ],
       "example-sentence": "I set off for the destination on my bike along a rough dirt road.",
-      "sentence-jp": "私は荒れた未舗装の道路を自転車で目的地に向けて出発した。"
+      "sentence-jp": "私は荒れた未舗装の道路を自転車で目的地に向けて出発した。",
+      "cloze": {
+        "maskedText": "I ____ for the destination on my bike along a rough dirt road.",
+        "answerBase": "set off (~)",
+        "answerSurface": "set off",
+        "choices": [
+          "set off",
+          "showed off",
+          "gave off",
+          "broke off"
+        ]
+      }
     }
   ],
   "notes": [

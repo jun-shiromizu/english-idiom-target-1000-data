@@ -12,7 +12,18 @@
         "obey"
       ],
       "example-sentence": "In most of the Western countries, traffic keeps to the right side of the road.",
-      "sentence-jp": "ほとんどの西欧諸国では、車は道路の右側を通行する。"
+      "sentence-jp": "ほとんどの西欧諸国では、車は道路の右側を通行する。",
+      "cloze": {
+        "maskedText": "In most of the Western countries, traffic ____ the right side of the road.",
+        "answerBase": "keep to ~",
+        "answerSurface": "keeps to",
+        "choices": [
+          "keeps to",
+          "gets to",
+          "adds to",
+          "admits to"
+        ]
+      }
     }
   ],
   "notes": [

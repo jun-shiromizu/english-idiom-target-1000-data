@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Do you know their names by any chance?",
-      "sentence-jp": "もしかしてあなたは彼らの名前をご存じですか。"
+      "sentence-jp": "もしかしてあなたは彼らの名前をご存じですか。",
+      "cloze": {
+        "maskedText": "Do you know their names ____?",
+        "answerBase": "by any chance",
+        "answerSurface": "by any chance",
+        "choices": [
+          "by any chance",
+          "by chance",
+          "for now",
+          "as a matter of course"
+        ]
+      }
     }
   ],
   "notes": [

@@ -13,7 +13,18 @@
         "reduce"
       ],
       "example-sentence": "What doctors recommend is that we eat what we like but just cut down on quantity.",
-      "sentence-jp": "医師たちが勧めているのは、好きなものを食べてもいいが、ただ量を減らすことだ。"
+      "sentence-jp": "医師たちが勧めているのは、好きなものを食べてもいいが、ただ量を減らすことだ。",
+      "cloze": {
+        "maskedText": "What doctors recommend is that we eat what we like but just ____ quantity.",
+        "answerBase": "cut down on ~ / cut back on ~",
+        "answerSurface": "cut down on",
+        "choices": [
+          "cut down on",
+          "dispose of",
+          "approve of",
+          "boast of"
+        ]
+      }
     }
   ],
   "notes": []

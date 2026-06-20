@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Most Japanese do not have an opportunity to use English every day.",
-      "sentence-jp": "たいていの日本人は毎日英語を使う機会がない。"
+      "sentence-jp": "たいていの日本人は毎日英語を使う機会がない。",
+      "cloze": {
+        "maskedText": "Most Japanese do not have an ____ to use English every day.",
+        "answerBase": "opportunity",
+        "answerSurface": "opportunity",
+        "choices": [
+          "opportunity",
+          "engine",
+          "village",
+          "surface"
+        ]
+      }
     }
   ],
   "notes": []

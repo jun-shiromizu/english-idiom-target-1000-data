@@ -15,7 +15,18 @@
         "and the like"
       ],
       "example-sentence": "When we call something a fruit, we necessarily distinguish it from vegetables, meat, dairy, and so on.",
-      "sentence-jp": "私たちはあるものを果物と呼ぶとき, それを野菜や肉, 乳製品などと必ず区別している。"
+      "sentence-jp": "私たちはあるものを果物と呼ぶとき, それを野菜や肉, 乳製品などと必ず区別している。",
+      "cloze": {
+        "maskedText": "When we call something a fruit, we necessarily distinguish it from vegetables, meat, dairy, ____.",
+        "answerBase": "~ and so on",
+        "answerSurface": "and so on",
+        "choices": [
+          "and so on",
+          "after all",
+          "at once",
+          "by itself"
+        ]
+      }
     }
   ],
   "notes": [

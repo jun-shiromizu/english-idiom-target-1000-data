@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Whether we like it or not, we are exposed to large amounts of information every day.",
-      "sentence-jp": "好むと好まざるとにかかわらず、私たちは毎日大量の情報にさらされている。"
+      "sentence-jp": "好むと好まざるとにかかわらず、私たちは毎日大量の情報にさらされている。",
+      "cloze": {
+        "maskedText": "Whether we like it or not, we are ____ large amounts of information every day.",
+        "answerBase": "expose A to B",
+        "answerSurface": "exposed to",
+        "choices": [
+          "exposed to",
+          "left to",
+          "attached to",
+          "adjusted to"
+        ]
+      }
     }
   ],
   "notes": [

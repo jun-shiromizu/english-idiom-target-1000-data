@@ -10,7 +10,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I could not catch up with him, as he was running too fast.",
-      "sentence-jp": "私は彼に追いつくことができなかった。というのも彼がとても速く走っていたからだ。"
+      "sentence-jp": "私は彼に追いつくことができなかった。というのも彼がとても速く走っていたからだ。",
+      "cloze": {
+        "maskedText": "I could not ____ him, as he was running too fast.",
+        "answerBase": "catch up with ~",
+        "answerSurface": "catch up with",
+        "choices": [
+          "catch up with",
+          "put up with",
+          "agree to",
+          "occur to"
+        ]
+      }
     }
   ],
   "notes": [

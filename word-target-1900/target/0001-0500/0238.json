@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The hotel's high level of service always satisfies its guests.",
-      "sentence-jp": "そのホテルの高い水準のサービスはいつも客たちを満足させる。"
+      "sentence-jp": "そのホテルの高い水準のサービスはいつも客たちを満足させる。",
+      "cloze": {
+        "maskedText": "The hotel's high level of service always ____ its guests.",
+        "answerBase": "satisfy",
+        "answerSurface": "satisfies",
+        "choices": [
+          "satisfies",
+          "shocks",
+          "delays",
+          "warns"
+        ]
+      }
     }
   ],
   "notes": []

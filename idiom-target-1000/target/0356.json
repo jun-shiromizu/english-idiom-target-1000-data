@@ -9,7 +9,18 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "I’m just wondering if he remembers my birthday is just around the corner.",
-      "sentence-jp": "彼は私の誕生日がもうすぐだということを覚えているだろうか。"
+      "sentence-jp": "彼は私の誕生日がもうすぐだということを覚えているだろうか。",
+      "cloze": {
+        "maskedText": "I’m just wondering if he remembers my birthday is ____.",
+        "answerBase": "(just) around the corner",
+        "answerSurface": "just around the corner",
+        "choices": [
+          "just around the corner",
+          "close at hand",
+          "for all the convenience",
+          "as it were"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "We couldn't reach a decision, so our plans are still up in the air.",
-      "sentence-jp": "結論に達し得なかったので, 私たちの計画は依然として未決定である。"
+      "sentence-jp": "結論に達し得なかったので, 私たちの計画は依然として未決定である。",
+      "cloze": {
+        "maskedText": "We couldn't reach a decision, so our plans are still ____.",
+        "answerBase": "in the air",
+        "answerSurface": "up in the air",
+        "choices": [
+          "up in the air",
+          "on the air",
+          "inside out",
+          "by now"
+        ]
+      }
     }
   ],
   "notes": [

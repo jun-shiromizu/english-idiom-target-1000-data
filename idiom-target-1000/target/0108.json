@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "My kid brother asked me to help him with his math homework the other day.",
-      "sentence-jp": "先日, 弟は私に彼の数学の宿題を手伝うように頼んできた。"
+      "sentence-jp": "先日, 弟は私に彼の数学の宿題を手伝うように頼んできた。",
+      "cloze": {
+        "maskedText": "My kid brother asked me to ____ his math homework the other day.",
+        "answerBase": "help A with B",
+        "answerSurface": "help him with",
+        "choices": [
+          "help him with",
+          "inform him of",
+          "turn him into",
+          "ask him for"
+        ]
+      }
     }
   ],
   "notes": [

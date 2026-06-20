@@ -9,14 +9,36 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "It was almost half an hour after the appointed time when he finally showed up.",
-      "sentence-jp": "彼がついに現れたのは約束した時間を30分近く過ぎてからだった。"
+      "sentence-jp": "彼がついに現れたのは約束した時間を30分近く過ぎてからだった。",
+      "cloze": {
+        "maskedText": "It was almost half an hour after the appointed time when he finally ____.",
+        "answerBase": "show up (~)",
+        "answerSurface": "showed up",
+        "choices": [
+          "showed up",
+          "turned up",
+          "gave in",
+          "lay off"
+        ]
+      }
     },
     {
       "idiom-jp": "目立つ ; 〜を目立たせる",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "The difference between the two designs clearly showed up against the bright background.",
-      "sentence-jp": "2つのデザインの差は明るい背景のもとではっきりと目立った。"
+      "sentence-jp": "2つのデザインの差は明るい背景のもとではっきりと目立った。",
+      "cloze": {
+        "maskedText": "The difference between the two designs clearly ____ against the bright background.",
+        "answerBase": "show up (~)",
+        "answerSurface": "showed up",
+        "choices": [
+          "showed up",
+          "turned up",
+          "looked after",
+          "consisted in"
+        ]
+      }
     }
   ],
   "notes": [

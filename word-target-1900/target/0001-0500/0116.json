@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "He prepared a speech for his friend's wedding reception.",
-      "sentence-jp": "彼は友人の結婚披露宴のためのスピーチを準備した。"
+      "sentence-jp": "彼は友人の結婚披露宴のためのスピーチを準備した。",
+      "cloze": {
+        "maskedText": "He ____ a speech for his friend's wedding reception.",
+        "answerBase": "prepare",
+        "answerSurface": "prepared",
+        "choices": [
+          "prepared",
+          "found",
+          "missed",
+          "guessed"
+        ]
+      }
     }
   ],
   "notes": []

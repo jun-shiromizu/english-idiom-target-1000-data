@@ -13,7 +13,18 @@
         "at any price"
       ],
       "example-sentence": "The members are determined to complete the project at all costs.",
-      "sentence-jp": "メンバーたちはぜひともそのプロジェクトを完成したいと決意している。"
+      "sentence-jp": "メンバーたちはぜひともそのプロジェクトを完成したいと決意している。",
+      "cloze": {
+        "maskedText": "The members are determined to complete the project ____.",
+        "answerBase": "at all cost(s)",
+        "answerSurface": "at all costs",
+        "choices": [
+          "at all costs",
+          "by all means",
+          "for the time being",
+          "in a word"
+        ]
+      }
     }
   ],
   "notes": [

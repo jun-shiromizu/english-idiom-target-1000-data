@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "There was an increase in wine trade between the two countries.",
-      "sentence-jp": "両国間のワイン貿易が拡大した。"
+      "sentence-jp": "両国間のワイン貿易が拡大した。",
+      "cloze": {
+        "maskedText": "There was an increase in wine ____ between the two countries.",
+        "answerBase": "trade",
+        "answerSurface": "trade",
+        "choices": [
+          "trade",
+          "lecture",
+          "surface",
+          "chapter"
+        ]
+      }
     }
   ],
   "notes": []

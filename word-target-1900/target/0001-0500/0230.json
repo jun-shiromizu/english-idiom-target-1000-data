@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She sometimes displayed strong emotions while talking about her past.",
-      "sentence-jp": "彼女は自分の過去について話していたとき，ときどき強い感情を示した。"
+      "sentence-jp": "彼女は自分の過去について話していたとき，ときどき強い感情を示した。",
+      "cloze": {
+        "maskedText": "She sometimes ____ strong emotions while talking about her past.",
+        "answerBase": "display",
+        "answerSurface": "displayed",
+        "choices": [
+          "displayed",
+          "hid",
+          "folded",
+          "borrowed"
+        ]
+      }
     }
   ],
   "notes": []

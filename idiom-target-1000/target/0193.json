@@ -12,7 +12,18 @@
         "examine"
       ],
       "example-sentence": "The clerk was kind enough to look over the papers for me before I sent them off.",
-      "sentence-jp": "その職員は私が書類を送る前に親切にもそれらをざっと調べてくれた。"
+      "sentence-jp": "その職員は私が書類を送る前に親切にもそれらをざっと調べてくれた。",
+      "cloze": {
+        "maskedText": "The clerk was kind enough to ____ the papers for me before I sent them off.",
+        "answerBase": "look over ~",
+        "answerSurface": "look over",
+        "choices": [
+          "look over",
+          "hand in",
+          "bring up",
+          "pass away"
+        ]
+      }
     }
   ],
   "notes": [

@@ -13,7 +13,18 @@
         "undergo"
       ],
       "example-sentence": "The proposals met with a lot of criticism at the annual meeting of the stockholders.",
-      "sentence-jp": "その提案は年次株主総会で多くの批判を受けた。"
+      "sentence-jp": "その提案は年次株主総会で多くの批判を受けた。",
+      "cloze": {
+        "maskedText": "The proposals ____ a lot of criticism at the annual meeting of the stockholders.",
+        "answerBase": "meet with ~",
+        "answerSurface": "met with",
+        "choices": [
+          "met with",
+          "made out",
+          "provided for",
+          "put down"
+        ]
+      }
     },
     {
       "idiom-jp": "主に米 〜と(約束して)会う、〜と会見する",
@@ -23,7 +34,18 @@
         "meet"
       ],
       "example-sentence": "The researcher traveled to farming villages and met with groups of local mothers.",
-      "sentence-jp": "その研究者は農村へ行き、地元の母親たちのグループと会った。"
+      "sentence-jp": "その研究者は農村へ行き、地元の母親たちのグループと会った。",
+      "cloze": {
+        "maskedText": "The researcher traveled to farming villages and ____ groups of local mothers.",
+        "answerBase": "meet with ~",
+        "answerSurface": "met with",
+        "choices": [
+          "met with",
+          "made for",
+          "put down",
+          "ran over"
+        ]
+      }
     }
   ],
   "notes": []

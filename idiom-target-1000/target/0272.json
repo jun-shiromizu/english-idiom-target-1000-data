@@ -12,7 +12,18 @@
         "off the air"
       ],
       "example-sentence": "The English programs on the air have been a big help to me in my study of the language.",
-      "sentence-jp": "放送中の英語の番組は, 私がその言語を勉強するのにとても役立ってきた。"
+      "sentence-jp": "放送中の英語の番組は, 私がその言語を勉強するのにとても役立ってきた。",
+      "cloze": {
+        "maskedText": "The English programs ____ have been a big help to me in my study of the language.",
+        "answerBase": "on the air",
+        "answerSurface": "on the air",
+        "choices": [
+          "on the air",
+          "up in the air",
+          "in the distance",
+          "inside out"
+        ]
+      }
     }
   ],
   "notes": [

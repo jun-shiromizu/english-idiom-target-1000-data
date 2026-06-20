@@ -14,7 +14,18 @@
         "stand"
       ],
       "example-sentence": "There are many inconveniences that have to be put up with when you go abroad.",
-      "sentence-jp": "外国へ行くと, 我慢しなければならない不便なことがたくさんある。"
+      "sentence-jp": "外国へ行くと, 我慢しなければならない不便なことがたくさんある。",
+      "cloze": {
+        "maskedText": "There are many inconveniences that have to be ____ when you go abroad.",
+        "answerBase": "put up with ~",
+        "answerSurface": "put up with",
+        "choices": [
+          "put up with",
+          "called off",
+          "handed in",
+          "passed away"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "The researcher selected people for the questionnaire at random from telephone directories.",
-      "sentence-jp": "その調査員は電話帳から無作為にアンケートのための人々を選び出した。"
+      "sentence-jp": "その調査員は電話帳から無作為にアンケートのための人々を選び出した。",
+      "cloze": {
+        "maskedText": "The researcher selected people for the questionnaire ____ from telephone directories.",
+        "answerBase": "at random",
+        "answerSurface": "at random",
+        "choices": [
+          "at random",
+          "at least",
+          "at once",
+          "at best"
+        ]
+      }
     }
   ],
   "notes": [

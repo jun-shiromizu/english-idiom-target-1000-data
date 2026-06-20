@@ -10,7 +10,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Nobody can deny that social media plays an important role in modern life.",
-      "sentence-jp": "ソーシャルメディアが現代生活において重要な役割を果たしていることは誰にも否定できない。"
+      "sentence-jp": "ソーシャルメディアが現代生活において重要な役割を果たしていることは誰にも否定できない。",
+      "cloze": {
+        "maskedText": "Nobody can deny that social media ____ modern life.",
+        "answerBase": "play a role in ~",
+        "answerSurface": "plays an important role in",
+        "choices": [
+          "plays an important role in",
+          "takes a chance on",
+          "makes a point of",
+          "gets rid of"
+        ]
+      }
     }
   ],
   "notes": [

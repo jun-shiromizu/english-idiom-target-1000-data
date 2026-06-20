@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She considers herself to be lucky.",
-      "sentence-jp": "彼女は自分自身を幸運だと見なしている。"
+      "sentence-jp": "彼女は自分自身を幸運だと見なしている。",
+      "cloze": {
+        "maskedText": "She ____ herself to be lucky.",
+        "answerBase": "consider",
+        "answerSurface": "considers",
+        "choices": [
+          "considers",
+          "forces",
+          "warns",
+          "blames"
+        ]
+      }
     }
   ],
   "notes": []

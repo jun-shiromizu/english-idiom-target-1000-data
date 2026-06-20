@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Our happiness consists in good health more than anything else.",
-      "sentence-jp": "私たちの幸福はほかの何よりも健康にある。"
+      "sentence-jp": "私たちの幸福はほかの何よりも健康にある。",
+      "cloze": {
+        "maskedText": "Our happiness ____ good health more than anything else.",
+        "answerBase": "consist in ~",
+        "answerSurface": "consists in",
+        "choices": [
+          "consists in",
+          "lies in",
+          "gives in",
+          "takes part in"
+        ]
+      }
     }
   ],
   "notes": [

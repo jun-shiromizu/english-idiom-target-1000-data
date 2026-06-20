@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "She is lazy and leaves hard work to others.",
-      "sentence-jp": "彼女は怠け者で、きつい仕事を他人に任せる。"
+      "sentence-jp": "彼女は怠け者で、きつい仕事を他人に任せる。",
+      "cloze": {
+        "maskedText": "She is lazy and ____ hard work to others.",
+        "answerBase": "leave A (up) to B",
+        "answerSurface": "leaves",
+        "choices": [
+          "leaves",
+          "attaches",
+          "attributes",
+          "compares"
+        ]
+      }
     }
   ],
   "notes": [

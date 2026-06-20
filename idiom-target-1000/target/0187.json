@@ -14,7 +14,18 @@
         "get rid of ~"
       ],
       "example-sentence": "Modern society should make every effort to do away with racial discrimination.",
-      "sentence-jp": "現代社会は人種差別をなくすためにあらゆる努力をすべきだ。"
+      "sentence-jp": "現代社会は人種差別をなくすためにあらゆる努力をすべきだ。",
+      "cloze": {
+        "maskedText": "Modern society should make every effort to ____ racial discrimination.",
+        "answerBase": "do away with ~",
+        "answerSurface": "do away with",
+        "choices": [
+          "do away with",
+          "find fault with",
+          "hand in",
+          "look over"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "After all, you are saying you are not coming with me, aren't you?",
-      "sentence-jp": "結局, あなたは私とは一緒に行かないと言っているんですよね。"
+      "sentence-jp": "結局, あなたは私とは一緒に行かないと言っているんですよね。",
+      "cloze": {
+        "maskedText": "____, you are saying you are not coming with me, aren't you?",
+        "answerBase": "after all",
+        "answerSurface": "After all",
+        "choices": [
+          "After all",
+          "At first",
+          "At least",
+          "By chance"
+        ]
+      }
     }
   ],
   "notes": [

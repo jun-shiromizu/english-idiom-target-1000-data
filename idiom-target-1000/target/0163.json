@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "These days I get up early in the morning and enjoy jogging around the park.",
-      "sentence-jp": "近ごろ私は朝早く起きて, 公園の周りをジョギングして楽しんでいる。"
+      "sentence-jp": "近ごろ私は朝早く起きて, 公園の周りをジョギングして楽しんでいる。",
+      "cloze": {
+        "maskedText": "____ I get up early in the morning and enjoy jogging around the park.",
+        "answerBase": "these days",
+        "answerSurface": "These days",
+        "choices": [
+          "These days",
+          "Those days",
+          "At times",
+          "In contrast"
+        ]
+      }
     }
   ],
   "notes": [

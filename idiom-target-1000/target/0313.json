@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I respect him for his attitude — putting aside his anger, he apologized.",
-      "sentence-jp": "私は彼の態度には敬服している。彼は怒りをわきに置いて、謝ったのだ。"
+      "sentence-jp": "私は彼の態度には敬服している。彼は怒りをわきに置いて、謝ったのだ。",
+      "cloze": {
+        "maskedText": "I respect him for his attitude — ____ his anger, he apologized.",
+        "answerBase": "put aside ~",
+        "answerSurface": "putting aside",
+        "choices": [
+          "putting aside",
+          "holding back",
+          "watching out for",
+          "dating from"
+        ]
+      }
     }
   ],
   "notes": [

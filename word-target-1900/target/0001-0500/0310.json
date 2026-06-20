@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "We should not judge people by their appearance.",
-      "sentence-jp": "私たちは人を外見で判断するべきではない。"
+      "sentence-jp": "私たちは人を外見で判断するべきではない。",
+      "cloze": {
+        "maskedText": "We should not ____ people by their appearance.",
+        "answerBase": "judge",
+        "answerSurface": "judge",
+        "choices": [
+          "judge",
+          "measure",
+          "replace",
+          "remove"
+        ]
+      }
     }
   ],
   "notes": []

@@ -12,7 +12,18 @@
         "take ~ off"
       ],
       "example-sentence": "Most of the workers have two days off each week these days — Saturdays and Sundays.",
-      "sentence-jp": "最近ほとんどの労働者が毎週、土曜日と日曜日の2日を休みにしている。"
+      "sentence-jp": "最近ほとんどの労働者が毎週、土曜日と日曜日の2日を休みにしている。",
+      "cloze": {
+        "maskedText": "Most of the workers ____ each week these days — Saturdays and Sundays.",
+        "answerBase": "have ~ off",
+        "answerSurface": "have two days off",
+        "choices": [
+          "have two days off",
+          "take two days on",
+          "make two days out",
+          "keep two days over"
+        ]
+      }
     }
   ],
   "notes": []

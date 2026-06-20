@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The current trend in cars is toward automated driving.",
-      "sentence-jp": "自動車における現在の傾向は自動運転に向かっている。"
+      "sentence-jp": "自動車における現在の傾向は自動運転に向かっている。",
+      "cloze": {
+        "maskedText": "The ____ trend in cars is toward automated driving.",
+        "answerBase": "current",
+        "answerSurface": "current",
+        "choices": [
+          "current",
+          "wooden",
+          "careless",
+          "private"
+        ]
+      }
     }
   ],
   "notes": []

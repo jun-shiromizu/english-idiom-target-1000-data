@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She earns enough money to pay for her costs of living.",
-      "sentence-jp": "彼女は生活費をまかなうのに十分なお金を稼ぐ。"
+      "sentence-jp": "彼女は生活費をまかなうのに十分なお金を稼ぐ。",
+      "cloze": {
+        "maskedText": "She ____ enough money to pay for her costs of living.",
+        "answerBase": "earn",
+        "answerSurface": "earns",
+        "choices": [
+          "earns",
+          "wastes",
+          "hides",
+          "returns"
+        ]
+      }
     }
   ],
   "notes": []

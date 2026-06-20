@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Many foreigners think Japanese people have a modest character.",
-      "sentence-jp": "多くの外国人が日本人は謙虚な性格を備えていると思っている。"
+      "sentence-jp": "多くの外国人が日本人は謙虚な性格を備えていると思っている。",
+      "cloze": {
+        "maskedText": "Many foreigners think Japanese people have a modest ____.",
+        "answerBase": "character",
+        "answerSurface": "character",
+        "choices": [
+          "character",
+          "journey",
+          "highway",
+          "payment"
+        ]
+      }
     }
   ],
   "notes": []

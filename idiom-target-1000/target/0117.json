@@ -9,7 +9,18 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "When I was a child, my parents took me to the zoo all the time.",
-      "sentence-jp": "子供のころ, 私の両親は私をいつもその動物園に連れて行ってくれた。"
+      "sentence-jp": "子供のころ, 私の両親は私をいつもその動物園に連れて行ってくれた。",
+      "cloze": {
+        "maskedText": "When I was a child, my parents took me to the zoo ____.",
+        "answerBase": "all the time",
+        "answerSurface": "all the time",
+        "choices": [
+          "all the time",
+          "at a time",
+          "for a while",
+          "by accident"
+        ]
+      }
     }
   ],
   "notes": [

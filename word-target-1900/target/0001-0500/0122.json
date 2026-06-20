@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The two researchers decided to work together to perform an experiment.",
-      "sentence-jp": "2人の研究者は実験を行うために協力することにした。"
+      "sentence-jp": "2人の研究者は実験を行うために協力することにした。",
+      "cloze": {
+        "maskedText": "The two researchers decided to work together to ____ an experiment.",
+        "answerBase": "perform",
+        "answerSurface": "perform",
+        "choices": [
+          "perform",
+          "borrow",
+          "cancel",
+          "divide"
+        ]
+      }
     }
   ],
   "notes": []

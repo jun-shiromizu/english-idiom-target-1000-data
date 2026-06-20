@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Speech-to-text technology has made great progress in recent years.",
-      "sentence-jp": "話し言葉を文書に変える技術は近年大きく進歩している。"
+      "sentence-jp": "話し言葉を文書に変える技術は近年大きく進歩している。",
+      "cloze": {
+        "maskedText": "Speech-to-text technology has ____ in recent years.",
+        "answerBase": "make progress",
+        "answerSurface": "made great progress",
+        "choices": [
+          "made great progress",
+          "made a mistake",
+          "taken a chance",
+          "kept a promise"
+        ]
+      }
     }
   ],
   "notes": [

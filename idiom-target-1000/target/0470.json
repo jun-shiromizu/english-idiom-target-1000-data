@@ -12,7 +12,18 @@
         "iron out ~"
       ],
       "example-sentence": "The room was a mess, so I had to sort it out quickly.",
-      "sentence-jp": "部屋が散らかっていたので、私は急いでそれを片づけなければならなかった。"
+      "sentence-jp": "部屋が散らかっていたので、私は急いでそれを片づけなければならなかった。",
+      "cloze": {
+        "maskedText": "The room was a mess, so I had to ____ quickly.",
+        "answerBase": "sort out ~",
+        "answerSurface": "sort it out",
+        "choices": [
+          "sort it out",
+          "take it down",
+          "hand it down",
+          "burn it down"
+        ]
+      }
     }
   ],
   "notes": [

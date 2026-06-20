@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "The scientist finally succeeded in developing the new robot.",
-      "sentence-jp": "その科学者はついに新しいロボットを開発するのに成功した。"
+      "sentence-jp": "その科学者はついに新しいロボットを開発するのに成功した。",
+      "cloze": {
+        "maskedText": "The scientist finally ____ in developing the new robot.",
+        "answerBase": "succeed in doing",
+        "answerSurface": "succeeded",
+        "choices": [
+          "succeeded",
+          "agreed",
+          "started",
+          "continued"
+        ]
+      }
     }
   ],
   "notes": []

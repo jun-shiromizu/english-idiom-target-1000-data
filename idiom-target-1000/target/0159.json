@@ -12,7 +12,18 @@
         "in the world"
       ],
       "example-sentence": "What on earth are you trying to convey to him by writing such a long letter?",
-      "sentence-jp": "あなたはあんなに長い手紙を書いて, 一体全体彼に何を伝えようとしているのですか。"
+      "sentence-jp": "あなたはあんなに長い手紙を書いて, 一体全体彼に何を伝えようとしているのですか。",
+      "cloze": {
+        "maskedText": "What ____ are you trying to convey to him by writing such a long letter?",
+        "answerBase": "on earth",
+        "answerSurface": "on earth",
+        "choices": [
+          "on earth",
+          "in fact",
+          "by hand",
+          "at all"
+        ]
+      }
     },
     {
       "idiom-jp": "(最上級を強めて)世界中で",
@@ -22,7 +33,18 @@
         "in the world"
       ],
       "example-sentence": "India is one of the most densely populated countries on earth.",
-      "sentence-jp": "インドは世界中で最も人口が密集している国の1つだ。"
+      "sentence-jp": "インドは世界中で最も人口が密集している国の1つだ。",
+      "cloze": {
+        "maskedText": "India is one of the most densely populated countries ____.",
+        "answerBase": "on earth",
+        "answerSurface": "on earth",
+        "choices": [
+          "on earth",
+          "in public",
+          "by chance",
+          "at best"
+        ]
+      }
     }
   ],
   "notes": [

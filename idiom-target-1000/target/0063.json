@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Maggie is known for her strong will; she would not easily give up her dreams.",
-      "sentence-jp": "マギーは強い意志で知られている。彼女は簡単に自分の夢をあきらめようとはしないだろう。"
+      "sentence-jp": "マギーは強い意志で知られている。彼女は簡単に自分の夢をあきらめようとはしないだろう。",
+      "cloze": {
+        "maskedText": "Maggie is known for her strong will; she would not easily ____ her dreams.",
+        "answerBase": "give up ~",
+        "answerSurface": "give up",
+        "choices": [
+          "give up",
+          "wake up",
+          "set up",
+          "find out"
+        ]
+      }
     }
   ],
   "notes": [

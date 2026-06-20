@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Acquiring knowledge is one thing, but applying it is another.",
-      "sentence-jp": "知識を得ることとそれを応用することは別物である。"
+      "sentence-jp": "知識を得ることとそれを応用することは別物である。",
+      "cloze": {
+        "maskedText": "____ knowledge is one thing, but applying it is another.",
+        "answerBase": "acquire",
+        "answerSurface": "Acquiring",
+        "choices": [
+          "Acquiring",
+          "Removing",
+          "Judging",
+          "Defining"
+        ]
+      }
     }
   ],
   "notes": []

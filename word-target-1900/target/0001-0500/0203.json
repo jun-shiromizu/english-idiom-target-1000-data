@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The cave paintings indicate that early humans had the idea of time.",
-      "sentence-jp": "その洞窟絵画は原始人が時間の概念を持っていたことを示している。"
+      "sentence-jp": "その洞窟絵画は原始人が時間の概念を持っていたことを示している。",
+      "cloze": {
+        "maskedText": "The cave paintings ____ that early humans had the idea of time.",
+        "answerBase": "indicate",
+        "answerSurface": "indicate",
+        "choices": [
+          "indicate",
+          "repeat",
+          "search",
+          "refuse"
+        ]
+      }
     }
   ],
   "notes": []

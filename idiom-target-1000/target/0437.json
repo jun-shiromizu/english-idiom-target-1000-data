@@ -12,7 +12,18 @@
         "break into ~"
       ],
       "example-sentence": "Unable to control herself, she burst into tears at the news.",
-      "sentence-jp": "彼女は自分を抑えることができず、その知らせを聞いて急に泣きだした。"
+      "sentence-jp": "彼女は自分を抑えることができず、その知らせを聞いて急に泣きだした。",
+      "cloze": {
+        "maskedText": "Unable to control herself, she ____ tears at the news.",
+        "answerBase": "burst into ~",
+        "answerSurface": "burst into",
+        "choices": [
+          "burst into",
+          "broke into",
+          "entered into",
+          "derived from"
+        ]
+      }
     }
   ],
   "notes": [

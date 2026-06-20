@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "My mother has been setting aside a fixed amount of money every month for a rainy day.",
-      "sentence-jp": "私の母は緊急時に備えて毎月決まった額のお金を蓄えてきている。"
+      "sentence-jp": "私の母は緊急時に備えて毎月決まった額のお金を蓄えてきている。",
+      "cloze": {
+        "maskedText": "My mother has been ____ a fixed amount of money every month for a rainy day.",
+        "answerBase": "set aside ~",
+        "answerSurface": "setting aside",
+        "choices": [
+          "setting aside",
+          "turning over",
+          "holding back",
+          "looking out for"
+        ]
+      }
     }
   ],
   "notes": [

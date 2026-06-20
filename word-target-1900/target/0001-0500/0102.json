@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "The article refers to Darwin's theory of evolution.",
-      "sentence-jp": "その記事はダーウィンの進化論に言及している。"
+      "sentence-jp": "その記事はダーウィンの進化論に言及している。",
+      "cloze": {
+        "maskedText": "The article ____ to Darwin's theory of evolution.",
+        "answerBase": "refer to",
+        "answerSurface": "refers",
+        "choices": [
+          "refers",
+          "belongs",
+          "listens",
+          "travels"
+        ]
+      }
     }
   ],
   "notes": []

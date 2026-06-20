@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The teacher attracted her students' attention by clapping her hands.",
-      "sentence-jp": "その教師は手をたたいて生徒たちの気を引きつけた。"
+      "sentence-jp": "その教師は手をたたいて生徒たちの気を引きつけた。",
+      "cloze": {
+        "maskedText": "The teacher ____ her students' attention by clapping her hands.",
+        "answerBase": "attract",
+        "answerSurface": "attracted",
+        "choices": [
+          "attracted",
+          "stored",
+          "carried",
+          "cancelled"
+        ]
+      }
     }
   ],
   "notes": []

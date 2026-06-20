@@ -13,7 +13,18 @@
         "occur"
       ],
       "example-sentence": "I believe more changes will come about in our way of life owing to global warming.",
-      "sentence-jp": "地球温暖化のために私たちの生活様式により多くの変化が起こるだろうと私は信じている。"
+      "sentence-jp": "地球温暖化のために私たちの生活様式により多くの変化が起こるだろうと私は信じている。",
+      "cloze": {
+        "maskedText": "I believe more changes will ____ in our way of life owing to global warming.",
+        "answerBase": "come about",
+        "answerSurface": "come about",
+        "choices": [
+          "come about",
+          "pass away",
+          "look over",
+          "hand in"
+        ]
+      }
     }
   ],
   "notes": [

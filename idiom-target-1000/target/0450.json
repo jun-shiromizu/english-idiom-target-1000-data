@@ -12,7 +12,18 @@
         "wind up"
       ],
       "example-sentence": "She spent hours looking for a present for her parents, but ended up buying nothing there.",
-      "sentence-jp": "彼女は両親へのプレゼントを探すのに何時間も費やしたが、結局そこで何も買わなかった。"
+      "sentence-jp": "彼女は両親へのプレゼントを探すのに何時間も費やしたが、結局そこで何も買わなかった。",
+      "cloze": {
+        "maskedText": "She spent hours looking for a present for her parents, but ____ buying nothing there.",
+        "answerBase": "end up",
+        "answerSurface": "ended up",
+        "choices": [
+          "ended up",
+          "cheered up",
+          "blew up",
+          "called up"
+        ]
+      }
     }
   ],
   "notes": [

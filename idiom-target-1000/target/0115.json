@@ -10,7 +10,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Would you mind informing me of your e-mail address so I can send you the photos from the trip?",
-      "sentence-jp": "旅行の写真を送れるように私にあなたのメールアドレスを知らせていただけますか。"
+      "sentence-jp": "旅行の写真を送れるように私にあなたのメールアドレスを知らせていただけますか。",
+      "cloze": {
+        "maskedText": "Would you mind ____ your e-mail address so I can send you the photos from the trip?",
+        "answerBase": "inform A of B",
+        "answerSurface": "informing me of",
+        "choices": [
+          "informing me of",
+          "reminding me of",
+          "turning me into",
+          "helping me with"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Today, many people regard English language ability as necessary.",
-      "sentence-jp": "今日，多くの人々は英語の能力を必要なものだと見なしている。"
+      "sentence-jp": "今日，多くの人々は英語の能力を必要なものだと見なしている。",
+      "cloze": {
+        "maskedText": "Today, many people ____ English language ability as necessary.",
+        "answerBase": "regard A as B",
+        "answerSurface": "regard",
+        "choices": [
+          "regard",
+          "search",
+          "publish",
+          "suffer"
+        ]
+      }
     }
   ],
   "notes": []

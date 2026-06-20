@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I have no idea what’s become of the old statue which used to be here.",
-      "sentence-jp": "以前ここにあった古い像がどうなったのか私にはまったくわからない。"
+      "sentence-jp": "以前ここにあった古い像がどうなったのか私にはまったくわからない。",
+      "cloze": {
+        "maskedText": "I have no idea what’s ____ the old statue which used to be here.",
+        "answerBase": "become of ~",
+        "answerSurface": "become of",
+        "choices": [
+          "become of",
+          "derived from",
+          "aimed at",
+          "interfered with"
+        ]
+      }
     }
   ],
   "notes": []

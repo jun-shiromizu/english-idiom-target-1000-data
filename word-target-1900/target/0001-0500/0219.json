@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Some websites may reveal their users' personal information by mistake.",
-      "sentence-jp": "一部のウェブサイトは誤って利用者の個人情報をもらすことがある。"
+      "sentence-jp": "一部のウェブサイトは誤って利用者の個人情報をもらすことがある。",
+      "cloze": {
+        "maskedText": "Some websites may ____ their users' personal information by mistake.",
+        "answerBase": "reveal",
+        "answerSurface": "reveal",
+        "choices": [
+          "reveal",
+          "ignore",
+          "measure",
+          "collect"
+        ]
+      }
     }
   ],
   "notes": []

@@ -10,7 +10,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I kept my promise to help Emily with her work.",
-      "sentence-jp": "私はエミリーの仕事を手伝うという約束を守った。"
+      "sentence-jp": "私はエミリーの仕事を手伝うという約束を守った。",
+      "cloze": {
+        "maskedText": "I ____ to help Emily with her work.",
+        "answerBase": "keep one's promise",
+        "answerSurface": "kept my promise",
+        "choices": [
+          "kept my promise",
+          "made my progress",
+          "did my best",
+          "lost my way"
+        ]
+      }
     }
   ],
   "notes": [

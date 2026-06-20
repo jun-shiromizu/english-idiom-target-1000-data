@@ -12,7 +12,18 @@
         "cope with ~"
       ],
       "example-sentence": "These two books deal with similar topics, but their conclusions are different from each other.",
-      "sentence-jp": "その 2 冊の本は似たような主題を扱っているが、結論は互いに異なっている。"
+      "sentence-jp": "その 2 冊の本は似たような主題を扱っているが、結論は互いに異なっている。",
+      "cloze": {
+        "maskedText": "These two books ____ similar topics, but their conclusions are different from each other.",
+        "answerBase": "deal with ~",
+        "answerSurface": "deal with",
+        "choices": [
+          "deal with",
+          "result from",
+          "count on",
+          "break into"
+        ]
+      }
     }
   ],
   "notes": [

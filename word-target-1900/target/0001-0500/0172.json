@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Her positive attitude toward the job led to her success.",
-      "sentence-jp": "彼女の仕事に対する積極的な態度は彼女の成功につながった。"
+      "sentence-jp": "彼女の仕事に対する積極的な態度は彼女の成功につながった。",
+      "cloze": {
+        "maskedText": "Her positive ____ toward the job led to her success.",
+        "answerBase": "attitude",
+        "answerSurface": "attitude",
+        "choices": [
+          "attitude",
+          "chapter",
+          "blanket",
+          "village"
+        ]
+      }
     }
   ],
   "notes": []

@@ -12,7 +12,18 @@
         "get rid of ~"
       ],
       "example-sentence": "We usually use a shredder to dispose of paper records containing personal information.",
-      "sentence-jp": "私たちは個人情報を含む紙の記録を処分するのに通常シュレッダーを使う。"
+      "sentence-jp": "私たちは個人情報を含む紙の記録を処分するのに通常シュレッダーを使う。",
+      "cloze": {
+        "maskedText": "We usually use a shredder to ____ paper records containing personal information.",
+        "answerBase": "dispose of ~",
+        "answerSurface": "dispose of",
+        "choices": [
+          "dispose of",
+          "approve of",
+          "part with",
+          "long for"
+        ]
+      }
     }
   ],
   "notes": [

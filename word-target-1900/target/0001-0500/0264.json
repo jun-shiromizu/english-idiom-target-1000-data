@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "In the meeting, there was a heated debate over the issue of gun control.",
-      "sentence-jp": "会議では，銃規制の問題に関する白熱した討論が行われた。"
+      "sentence-jp": "会議では，銃規制の問題に関する白熱した討論が行われた。",
+      "cloze": {
+        "maskedText": "In the meeting, there was a heated ____ over the issue of gun control.",
+        "answerBase": "debate",
+        "answerSurface": "debate",
+        "choices": [
+          "debate",
+          "journey",
+          "surface",
+          "package"
+        ]
+      }
     }
   ],
   "notes": []

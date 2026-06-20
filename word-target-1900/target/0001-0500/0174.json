@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Some aspects of language learning become more difficult with age.",
-      "sentence-jp": "言語学習のいくつかの側面は年齢とともにより難しくなる。"
+      "sentence-jp": "言語学習のいくつかの側面は年齢とともにより難しくなる。",
+      "cloze": {
+        "maskedText": "Some ____ of language learning become more difficult with age.",
+        "answerBase": "aspect",
+        "answerSurface": "aspects",
+        "choices": [
+          "aspects",
+          "garages",
+          "tickets",
+          "passengers"
+        ]
+      }
     }
   ],
   "notes": []

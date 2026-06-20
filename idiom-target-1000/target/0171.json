@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "comparative-expression",
       "example-sentence": "Today there are some workers who retire ahead of their retirement age.",
-      "sentence-jp": "今日では定年より先に退職する人もいる。"
+      "sentence-jp": "今日では定年より先に退職する人もいる。",
+      "cloze": {
+        "maskedText": "Today there are some workers who retire ____ their retirement age.",
+        "answerBase": "ahead of ~",
+        "answerSurface": "ahead of",
+        "choices": [
+          "ahead of",
+          "in spite of",
+          "instead of",
+          "owing to"
+        ]
+      }
     }
   ],
   "notes": []

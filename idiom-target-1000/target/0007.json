@@ -34,9 +34,9 @@
         "answerSurface": "at home",
         "choices": [
           "at home",
-          "at ease",
-          "comfortable",
-          "relaxed"
+          "on guard",
+          "at work",
+          "under pressure"
         ]
       }
     },
@@ -52,9 +52,9 @@
         "answerSurface": "at home in",
         "choices": [
           "at home in",
-          "familiar with",
-          "good at",
-          "interested in"
+          "popular with",
+          "present at",
+          "active on"
         ]
       }
     }

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Japan's real GDP increased by 1.9 percent last year.",
-      "sentence-jp": "日本の実質GDPは昨年1. 9パーセント増加した。"
+      "sentence-jp": "日本の実質GDPは昨年1. 9パーセント増加した。",
+      "cloze": {
+        "maskedText": "Japan's real GDP ____ by 1.9 percent last year.",
+        "answerBase": "increase",
+        "answerSurface": "increased",
+        "choices": [
+          "increased",
+          "decreased",
+          "fell",
+          "shrank"
+        ]
+      }
     }
   ],
   "notes": []

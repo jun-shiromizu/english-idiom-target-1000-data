@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Lively discussions may help promote better understanding among people.",
-      "sentence-jp": "活発な議論は人々の間のさらなる理解を促進する助けとなるかもしれない。"
+      "sentence-jp": "活発な議論は人々の間のさらなる理解を促進する助けとなるかもしれない。",
+      "cloze": {
+        "maskedText": "Lively discussions may help ____ better understanding among people.",
+        "answerBase": "promote",
+        "answerSurface": "promote",
+        "choices": [
+          "promote",
+          "borrow",
+          "divide",
+          "cancel"
+        ]
+      }
     }
   ],
   "notes": []

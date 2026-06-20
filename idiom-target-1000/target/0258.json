@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "The patient was very anxious to know if the doctor saw any sign of cancer in the X-rays.",
-      "sentence-jp": "その患者は医師がエックス線でなんらかの癌の兆候を見たのかとても知りたがった。"
+      "sentence-jp": "その患者は医師がエックス線でなんらかの癌の兆候を見たのかとても知りたがった。",
+      "cloze": {
+        "maskedText": "The patient was very ____ if the doctor saw any sign of cancer in the X-rays.",
+        "answerBase": "be anxious to do",
+        "answerSurface": "anxious to know",
+        "choices": [
+          "anxious to know",
+          "anxious about",
+          "bound to know",
+          "familiar with"
+        ]
+      }
     }
   ],
   "notes": [

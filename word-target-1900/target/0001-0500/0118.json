@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "You can achieve your goals by making a good plan.",
-      "sentence-jp": "よい計画を立てることによって，自分の目標を達成することができる。"
+      "sentence-jp": "よい計画を立てることによって，自分の目標を達成することができる。",
+      "cloze": {
+        "maskedText": "You can ____ your goals by making a good plan.",
+        "answerBase": "achieve",
+        "answerSurface": "achieve",
+        "choices": [
+          "achieve",
+          "delay",
+          "hide",
+          "forget"
+        ]
+      }
     }
   ],
   "notes": []

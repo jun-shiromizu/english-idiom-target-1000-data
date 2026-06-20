@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "I'm going to take a nap. Remember to wake me up at four, please.",
-      "sentence-jp": "私は昼寝をします。どうか, 忘れずに4時に私を起こしてください。"
+      "sentence-jp": "私は昼寝をします。どうか, 忘れずに4時に私を起こしてください。",
+      "cloze": {
+        "maskedText": "I'm going to take a nap. Remember ____ at four, please.",
+        "answerBase": "remember to do",
+        "answerSurface": "to wake me up",
+        "choices": [
+          "to wake me up",
+          "waking me up",
+          "seeing me on TV",
+          "applying for it"
+        ]
+      }
     }
   ],
   "notes": [

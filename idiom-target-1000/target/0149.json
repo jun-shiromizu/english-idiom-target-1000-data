@@ -13,7 +13,18 @@
         "generally"
       ],
       "example-sentence": "In general, childhood obesity is a problem for rich countries.",
-      "sentence-jp": "一般に, 小児肥満は豊かな国における問題だ。"
+      "sentence-jp": "一般に, 小児肥満は豊かな国における問題だ。",
+      "cloze": {
+        "maskedText": "____, childhood obesity is a problem for rich countries.",
+        "answerBase": "in general",
+        "answerSurface": "In general",
+        "choices": [
+          "In general",
+          "In a hurry",
+          "In detail",
+          "In turn"
+        ]
+      }
     },
     {
       "idiom-jp": "(名詞の後に置いて) 一般の",
@@ -23,7 +34,18 @@
         "at large"
       ],
       "example-sentence": "This study brutally reveals our attitude toward poverty in general in this country.",
-      "sentence-jp": "この研究はこの国の貧困に対する私たちの一般の姿勢を残酷なまでにあらわにしている。"
+      "sentence-jp": "この研究はこの国の貧困に対する私たちの一般の姿勢を残酷なまでにあらわにしている。",
+      "cloze": {
+        "maskedText": "This study brutally reveals our attitude toward poverty ____ in this country.",
+        "answerBase": "in general",
+        "answerSurface": "in general",
+        "choices": [
+          "in general",
+          "in public",
+          "in time",
+          "in a row"
+        ]
+      }
     }
   ],
   "notes": [

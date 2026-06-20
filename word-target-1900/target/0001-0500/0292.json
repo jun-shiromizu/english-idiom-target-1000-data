@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Government officials are not allowed to issue false information.",
-      "sentence-jp": "国家公務員は誤った情報を発表することは許されない。"
+      "sentence-jp": "国家公務員は誤った情報を発表することは許されない。",
+      "cloze": {
+        "maskedText": "Government officials are not allowed to issue ____ information.",
+        "answerBase": "false",
+        "answerSurface": "false",
+        "choices": [
+          "false",
+          "urban",
+          "actual",
+          "entire"
+        ]
+      }
     }
   ],
   "notes": []

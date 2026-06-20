@@ -16,7 +16,18 @@
         "equip A with B"
       ],
       "example-sentence": "This book provides readers with information on how to grow various kinds of vegetables.",
-      "sentence-jp": "この本は読者にさまざまな種類の野菜の栽培に関する情報を提供してくれる。"
+      "sentence-jp": "この本は読者にさまざまな種類の野菜の栽培に関する情報を提供してくれる。",
+      "cloze": {
+        "maskedText": "This book ____ readers with information on how to grow various kinds of vegetables.",
+        "answerBase": "provide A with B",
+        "answerSurface": "provides",
+        "choices": [
+          "provides",
+          "supplies",
+          "mistakes",
+          "distinguishes"
+        ]
+      }
     }
   ],
   "notes": [

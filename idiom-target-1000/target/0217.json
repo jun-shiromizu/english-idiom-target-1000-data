@@ -15,7 +15,18 @@
         "(every) once in a while"
       ],
       "example-sentence": "You're studying too hard, so you should try and take it easy from time to time.",
-      "sentence-jp": "あなたは勉強しすぎだから, ときどきはのんびりしようとすべきだ。"
+      "sentence-jp": "あなたは勉強しすぎだから, ときどきはのんびりしようとすべきだ。",
+      "cloze": {
+        "maskedText": "You're studying too hard, so you should try and take it easy ____.",
+        "answerBase": "from time to time",
+        "answerSurface": "from time to time",
+        "choices": [
+          "from time to time",
+          "all of a sudden",
+          "for good",
+          "in all"
+        ]
+      }
     }
   ],
   "notes": [

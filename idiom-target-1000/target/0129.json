@@ -15,7 +15,18 @@
         "on the spot"
       ],
       "example-sentence": "Oh, this is not what we've ordered. Take it back at once.",
-      "sentence-jp": "おっと, これは私たちが注文したものではありません。すぐに返しなさい。"
+      "sentence-jp": "おっと, これは私たちが注文したものではありません。すぐに返しなさい。",
+      "cloze": {
+        "maskedText": "Oh, this is not what we've ordered. Take it back ____.",
+        "answerBase": "at once",
+        "answerSurface": "at once",
+        "choices": [
+          "at once",
+          "at times",
+          "at all",
+          "at heart"
+        ]
+      }
     },
     {
       "idiom-jp": "同時に",
@@ -26,7 +37,18 @@
         "all at once"
       ],
       "example-sentence": "It's impossible to meet everyone's needs at once.",
-      "sentence-jp": "全員の要求に同時に応えることは不可能だ。"
+      "sentence-jp": "全員の要求に同時に応えることは不可能だ。",
+      "cloze": {
+        "maskedText": "It's impossible to meet everyone's needs ____.",
+        "answerBase": "at once",
+        "answerSurface": "at once",
+        "choices": [
+          "at once",
+          "at best",
+          "at hand",
+          "at night"
+        ]
+      }
     }
   ],
   "notes": []

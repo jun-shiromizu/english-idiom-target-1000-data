@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Miki was kind enough to come with the car to pick me up at the airport.",
-      "sentence-jp": "ミキは親切にも、空港で私を乗せるために車で来てくれた。"
+      "sentence-jp": "ミキは親切にも、空港で私を乗せるために車で来てくれた。",
+      "cloze": {
+        "maskedText": "Miki was kind enough to come with the car to ____ at the airport.",
+        "answerBase": "pick ~ up",
+        "answerSurface": "pick me up",
+        "choices": [
+          "pick me up",
+          "call me",
+          "follow me",
+          "leave me"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "We're all really looking forward to hearing from you soon.",
-      "sentence-jp": "私たちは皆、あなたから近々便りがあることを本当に楽しみにしています。"
+      "sentence-jp": "私たちは皆、あなたから近々便りがあることを本当に楽しみにしています。",
+      "cloze": {
+        "maskedText": "We're all really ____ hearing from you soon.",
+        "answerBase": "look forward to ~",
+        "answerSurface": "looking forward to",
+        "choices": [
+          "looking forward to",
+          "getting used to",
+          "paying attention to",
+          "objecting to"
+        ]
+      }
     }
   ],
   "notes": [

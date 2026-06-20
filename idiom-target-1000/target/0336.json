@@ -12,7 +12,18 @@
         "to and fro"
       ],
       "example-sentence": "In his 40s, Kenji used to travel back and forth between the United States and Japan.",
-      "sentence-jp": "ケンジは40代のころ、アメリカと日本を行ったり来たりしたものだ。"
+      "sentence-jp": "ケンジは40代のころ、アメリカと日本を行ったり来たりしたものだ。",
+      "cloze": {
+        "maskedText": "In his 40s, Kenji used to travel ____ between the United States and Japan.",
+        "answerBase": "back and forth",
+        "answerSurface": "back and forth",
+        "choices": [
+          "back and forth",
+          "at present",
+          "in a word",
+          "equal to"
+        ]
+      }
     }
   ],
   "notes": []

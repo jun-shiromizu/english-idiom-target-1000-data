@@ -12,7 +12,18 @@
         "make certain (~)"
       ],
       "example-sentence": "When you leave the room, make sure you've turned off the light.",
-      "sentence-jp": "部屋を出るときは電灯を消したことを確かめてください。"
+      "sentence-jp": "部屋を出るときは電灯を消したことを確かめてください。",
+      "cloze": {
+        "maskedText": "When you leave the room, ____ you've turned off the light.",
+        "answerBase": "make sure",
+        "answerSurface": "make sure",
+        "choices": [
+          "make sure",
+          "find out",
+          "take off",
+          "point out"
+        ]
+      }
     }
   ],
   "notes": [

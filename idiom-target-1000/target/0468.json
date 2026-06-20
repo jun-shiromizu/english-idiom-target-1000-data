@@ -10,7 +10,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "When you want to speak out for or against something, what you need most is the courage.",
-      "sentence-jp": "何かに対して賛成または反対をはっきり言いたいときに最も必要なものは勇気だ。"
+      "sentence-jp": "何かに対して賛成または反対をはっきり言いたいときに最も必要なものは勇気だ。",
+      "cloze": {
+        "maskedText": "When you want to ____ for or against something, what you need most is the courage.",
+        "answerBase": "speak out / speak up",
+        "answerSurface": "speak out",
+        "choices": [
+          "speak out",
+          "come out",
+          "drop out",
+          "sort out"
+        ]
+      }
     }
   ],
   "notes": [

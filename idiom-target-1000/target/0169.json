@@ -14,7 +14,18 @@
         "aside from ~"
       ],
       "example-sentence": "Apart from being very friendly to us all, David was also a very talented talker.",
-      "sentence-jp": "デイビッドは私たち全員にとても親切であることのほかに, 話がとても上手な人でもあった。"
+      "sentence-jp": "デイビッドは私たち全員にとても親切であることのほかに, 話がとても上手な人でもあった。",
+      "cloze": {
+        "maskedText": "____ being very friendly to us all, David was also a very talented talker.",
+        "answerBase": "apart from ~",
+        "answerSurface": "Apart from",
+        "choices": [
+          "Apart from",
+          "In spite of",
+          "Instead of",
+          "Because of"
+        ]
+      }
     },
     {
       "idiom-jp": "〜を除いては",
@@ -25,7 +36,18 @@
         "aside from ~"
       ],
       "example-sentence": "In the school I entered in America, I hardly knew anybody apart from my host sister.",
-      "sentence-jp": "私がアメリカで入学した学校では, 私はホストシスターを除いてはほとんど誰も知らなかった。"
+      "sentence-jp": "私がアメリカで入学した学校では, 私はホストシスターを除いてはほとんど誰も知らなかった。",
+      "cloze": {
+        "maskedText": "In the school I entered in America, I hardly knew anybody ____ my host sister.",
+        "answerBase": "apart from ~",
+        "answerSurface": "apart from",
+        "choices": [
+          "apart from",
+          "thanks to",
+          "ahead of",
+          "according to"
+        ]
+      }
     }
   ],
   "notes": [

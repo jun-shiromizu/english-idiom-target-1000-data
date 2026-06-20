@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Strict laws may prevent people from committing violent crimes.",
-      "sentence-jp": "厳しい法律は人々が凶悪犯罪を犯すのを妨げるかもしれない。"
+      "sentence-jp": "厳しい法律は人々が凶悪犯罪を犯すのを妨げるかもしれない。",
+      "cloze": {
+        "maskedText": "Strict laws may ____ people from committing violent crimes.",
+        "answerBase": "prevent A from doing",
+        "answerSurface": "prevent",
+        "choices": [
+          "prevent",
+          "allow",
+          "teach",
+          "remind"
+        ]
+      }
     }
   ],
   "notes": []

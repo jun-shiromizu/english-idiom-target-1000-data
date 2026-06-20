@@ -12,7 +12,18 @@
         "compare A to [with] B"
       ],
       "example-sentence": "Plutarch had a gloomy image of old age, likening it to autumn.",
-      "sentence-jp": "プルタルコスは老齢に陰鬱なイメージを持っており、それを秋にたとえた。"
+      "sentence-jp": "プルタルコスは老齢に陰鬱なイメージを持っており、それを秋にたとえた。",
+      "cloze": {
+        "maskedText": "Plutarch had a gloomy image of old age, ____ it to autumn.",
+        "answerBase": "liken A to B",
+        "answerSurface": "likening",
+        "choices": [
+          "likening",
+          "confining",
+          "forbidding",
+          "substituting"
+        ]
+      }
     }
   ],
   "notes": [

@@ -13,7 +13,18 @@
         "reduce ~ to ashes"
       ],
       "example-sentence": "Many houses were burned down in the fires that broke out after the big earthquake.",
-      "sentence-jp": "大地震の後に起きた火災で多くの家が全焼した。"
+      "sentence-jp": "大地震の後に起きた火災で多くの家が全焼した。",
+      "cloze": {
+        "maskedText": "Many houses were ____ in the fires that broke out after the big earthquake.",
+        "answerBase": "burn down (~)",
+        "answerSurface": "burned down",
+        "choices": [
+          "burned down",
+          "broken down",
+          "handed down",
+          "sorted out"
+        ]
+      }
     }
   ],
   "notes": [

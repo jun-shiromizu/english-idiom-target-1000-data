@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Some people prefer e-books to printed books.",
-      "sentence-jp": "印刷された本より電子書籍のほうを好む人がいる。"
+      "sentence-jp": "印刷された本より電子書籍のほうを好む人がいる。",
+      "cloze": {
+        "maskedText": "Some people ____ e-books to printed books.",
+        "answerBase": "prefer A to B",
+        "answerSurface": "prefer",
+        "choices": [
+          "prefer",
+          "invite",
+          "publish",
+          "search"
+        ]
+      }
     }
   ],
   "notes": []

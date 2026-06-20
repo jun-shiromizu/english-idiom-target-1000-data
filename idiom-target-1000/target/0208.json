@@ -14,7 +14,18 @@
         "above all things"
       ],
       "example-sentence": "The countries facing this economic problem include the US, Canada, and, above all, Japan.",
-      "sentence-jp": "この経済問題に直面している国にはアメリカ, カナダ, そしてとりわけ日本が含まれる。"
+      "sentence-jp": "この経済問題に直面している国にはアメリカ, カナダ, そしてとりわけ日本が含まれる。",
+      "cloze": {
+        "maskedText": "The countries facing this economic problem include the US, Canada, and, ____ , Japan.",
+        "answerBase": "above all (else)",
+        "answerSurface": "above all",
+        "choices": [
+          "above all",
+          "before long",
+          "by degrees",
+          "for good"
+        ]
+      }
     }
   ],
   "notes": []

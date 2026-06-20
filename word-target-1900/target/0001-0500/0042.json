@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The research results were in accord with the expectations of the team.",
-      "sentence-jp": "研究結果はチームの予想と一致していた。"
+      "sentence-jp": "研究結果はチームの予想と一致していた。",
+      "cloze": {
+        "maskedText": "The research results were ____ the expectations of the team.",
+        "answerBase": "in accord with",
+        "answerSurface": "in accord with",
+        "choices": [
+          "in accord with",
+          "far beyond",
+          "opposed by",
+          "free from"
+        ]
+      }
     }
   ],
   "notes": []

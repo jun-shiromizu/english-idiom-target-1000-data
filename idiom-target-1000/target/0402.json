@@ -9,14 +9,36 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I like bikes as they take up little space on the roads and are environmentally friendly.",
-      "sentence-jp": "道路ではほとんどスペースを取らず、環境に優しいので、私は自転車が好きだ。"
+      "sentence-jp": "道路ではほとんどスペースを取らず、環境に優しいので、私は自転車が好きだ。",
+      "cloze": {
+        "maskedText": "I like bikes as they ____ little space on the roads and are environmentally friendly.",
+        "answerBase": "take up ~",
+        "answerSurface": "take up",
+        "choices": [
+          "take up",
+          "take on",
+          "take to",
+          "take in"
+        ]
+      }
     },
     {
       "idiom-jp": "(仕事・趣味など)を始める",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "More and more people are taking up yoga in Japan these days.",
-      "sentence-jp": "最近、日本ではますます多くの人たちがヨガを始めている。"
+      "sentence-jp": "最近、日本ではますます多くの人たちがヨガを始めている。",
+      "cloze": {
+        "maskedText": "More and more people are ____ yoga in Japan these days.",
+        "answerBase": "take up ~",
+        "answerSurface": "taking up",
+        "choices": [
+          "taking up",
+          "taking on",
+          "taking to",
+          "taking in"
+        ]
+      }
     }
   ],
   "notes": [

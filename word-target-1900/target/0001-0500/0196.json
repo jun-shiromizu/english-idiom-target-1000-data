@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "He developed a novel theory concerning the human mind.",
-      "sentence-jp": "彼は人間の精神に関する斬新な理論を展開した。"
+      "sentence-jp": "彼は人間の精神に関する斬新な理論を展開した。",
+      "cloze": {
+        "maskedText": "He developed a ____ theory concerning the human mind.",
+        "answerBase": "novel",
+        "answerSurface": "novel",
+        "choices": [
+          "novel",
+          "formal",
+          "public",
+          "shallow"
+        ]
+      }
     }
   ],
   "notes": []

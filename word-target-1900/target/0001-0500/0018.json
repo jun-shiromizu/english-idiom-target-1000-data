@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "She described her physical condition to her doctor.",
-      "sentence-jp": "彼女は医師に自分の体調を説明した。"
+      "sentence-jp": "彼女は医師に自分の体調を説明した。",
+      "cloze": {
+        "maskedText": "She ____ her physical condition to her doctor.",
+        "answerBase": "describe",
+        "answerSurface": "described",
+        "choices": [
+          "described",
+          "hid",
+          "lent",
+          "compared"
+        ]
+      }
     }
   ],
   "notes": []

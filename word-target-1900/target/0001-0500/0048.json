@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Abnormal weather can have a negative effect on people's lives.",
-      "sentence-jp": "異常気象は人々の生活に悪影響を与えかねない。"
+      "sentence-jp": "異常気象は人々の生活に悪影響を与えかねない。",
+      "cloze": {
+        "maskedText": "Abnormal weather can have a negative ____ on people's lives.",
+        "answerBase": "effect",
+        "answerSurface": "effect",
+        "choices": [
+          "effect",
+          "route",
+          "pattern",
+          "topic"
+        ]
+      }
     }
   ],
   "notes": []

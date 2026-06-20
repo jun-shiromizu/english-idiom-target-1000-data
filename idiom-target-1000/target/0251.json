@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "In those days we needed tickets to buy clothing, and the same was true of most other necessities.",
-      "sentence-jp": "当時, 私たちには衣類を買うチケットが必要で, 同じことがほかのほとんどの必需品にも当てはまった。"
+      "sentence-jp": "当時, 私たちには衣類を買うチケットが必要で, 同じことがほかのほとんどの必需品にも当てはまった。",
+      "cloze": {
+        "maskedText": "In those days we needed tickets to buy clothing, and the same was ____ most other necessities.",
+        "answerBase": "be true of ~",
+        "answerSurface": "true of",
+        "choices": [
+          "true of",
+          "true to",
+          "familiar with",
+          "bound to"
+        ]
+      }
     }
   ],
   "notes": [

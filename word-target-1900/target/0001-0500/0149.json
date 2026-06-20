@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The famous reporter's work is an ideal model of journalism.",
-      "sentence-jp": "その有名な記者の仕事はジャーナリズムの理想的な模範である。"
+      "sentence-jp": "その有名な記者の仕事はジャーナリズムの理想的な模範である。",
+      "cloze": {
+        "maskedText": "The famous reporter's work is an ideal ____ of journalism.",
+        "answerBase": "model",
+        "answerSurface": "model",
+        "choices": [
+          "model",
+          "budget",
+          "shadow",
+          "stair"
+        ]
+      }
     }
   ],
   "notes": []

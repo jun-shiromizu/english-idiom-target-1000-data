@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Taxi drivers are generally familiar with local roads.",
-      "sentence-jp": "タクシーの運転手はたいてい地元の道路に精通している。"
+      "sentence-jp": "タクシーの運転手はたいてい地元の道路に精通している。",
+      "cloze": {
+        "maskedText": "Taxi drivers are generally ____ with local roads.",
+        "answerBase": "familiar with",
+        "answerSurface": "familiar",
+        "choices": [
+          "familiar",
+          "angry",
+          "careful",
+          "equal"
+        ]
+      }
     }
   ],
   "notes": []

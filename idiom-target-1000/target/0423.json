@@ -12,7 +12,18 @@
         "oppose"
       ],
       "example-sentence": "Many people today object to trapping methods that cause a lot of pain to wild animals.",
-      "sentence-jp": "今日、野生動物にひどい苦痛をもたらす捕獲方法に反対する人は多い。"
+      "sentence-jp": "今日、野生動物にひどい苦痛をもたらす捕獲方法に反対する人は多い。",
+      "cloze": {
+        "maskedText": "Many people today ____ trapping methods that cause a lot of pain to wild animals.",
+        "answerBase": "object to ~",
+        "answerSurface": "object to",
+        "choices": [
+          "object to",
+          "admit to",
+          "resort to",
+          "keep to"
+        ]
+      }
     }
   ],
   "notes": []

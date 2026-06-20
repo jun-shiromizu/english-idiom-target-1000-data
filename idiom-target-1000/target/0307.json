@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "You should look out for pickpockets especially when you are traveling alone.",
-      "sentence-jp": "特に一人旅をしているときにはスリに気をつけるべきだ。"
+      "sentence-jp": "特に一人旅をしているときにはスリに気をつけるべきだ。",
+      "cloze": {
+        "maskedText": "You should ____ pickpockets especially when you are traveling alone.",
+        "answerBase": "look out for ~",
+        "answerSurface": "look out for",
+        "choices": [
+          "look out for",
+          "count on",
+          "sit up",
+          "turn over"
+        ]
+      }
     }
   ],
   "notes": [

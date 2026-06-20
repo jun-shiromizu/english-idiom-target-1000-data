@@ -20,9 +20,9 @@
         "answerSurface": "on schedule",
         "choices": [
           "on schedule",
-          "on time",
-          "without delay",
-          "as usual"
+          "in public",
+          "on foot",
+          "by hand"
         ]
       }
     }

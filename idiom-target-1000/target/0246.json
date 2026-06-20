@@ -13,7 +13,18 @@
         "be involved in ~"
       ],
       "example-sentence": "This book raises discussions on wide issues concerned with gender equality.",
-      "sentence-jp": "この本は性の平等に関係した幅広い問題に関する議論を提起している。"
+      "sentence-jp": "この本は性の平等に関係した幅広い問題に関する議論を提起している。",
+      "cloze": {
+        "maskedText": "This book raises discussions on wide issues ____ gender equality.",
+        "answerBase": "be concerned with ~",
+        "answerSurface": "concerned with",
+        "choices": [
+          "concerned with",
+          "concerned about",
+          "free from",
+          "tired of"
+        ]
+      }
     }
   ],
   "notes": []

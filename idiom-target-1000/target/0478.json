@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "The clerk had to break off the conversation with me in order to wait on a customer.",
-      "sentence-jp": "その店員は顧客の応対をするために私との会話を急にやめなければならなかった。"
+      "sentence-jp": "その店員は顧客の応対をするために私との会話を急にやめなければならなかった。",
+      "cloze": {
+        "maskedText": "The clerk had to ____ the conversation with me in order to wait on a customer.",
+        "answerBase": "break off (~)",
+        "answerSurface": "break off",
+        "choices": [
+          "break off",
+          "take over",
+          "put in",
+          "show off"
+        ]
+      }
     }
   ],
   "notes": [

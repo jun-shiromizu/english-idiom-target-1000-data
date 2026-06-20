@@ -12,7 +12,18 @@
         "discover"
       ],
       "example-sentence": "If you are not feeling well, you'd better see a doctor to find out what is wrong.",
-      "sentence-jp": "もし具合が悪いのなら、どこがおかしいのかを見つけるためにも医者に診てもらったほうがいい。"
+      "sentence-jp": "もし具合が悪いのなら、どこがおかしいのかを見つけるためにも医者に診てもらったほうがいい。",
+      "cloze": {
+        "maskedText": "If you are not feeling well, you'd better see a doctor to ____ what is wrong.",
+        "answerBase": "find out ~",
+        "answerSurface": "find out",
+        "choices": [
+          "find out",
+          "give up",
+          "wake up",
+          "deal with"
+        ]
+      }
     }
   ],
   "notes": [

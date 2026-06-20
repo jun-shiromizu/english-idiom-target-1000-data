@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "My kid sister has been spending a lot of time brushing up on her English lately.",
-      "sentence-jp": "私の妹は最近多くの時間を英語をやり直すことに費やしている。"
+      "sentence-jp": "私の妹は最近多くの時間を英語をやり直すことに費やしている。",
+      "cloze": {
+        "maskedText": "My kid sister has been spending a lot of time ____ her English lately.",
+        "answerBase": "brush up on ~",
+        "answerSurface": "brushing up on",
+        "choices": [
+          "brushing up on",
+          "giving up on",
+          "falling behind in",
+          "putting off"
+        ]
+      }
     }
   ],
   "notes": [

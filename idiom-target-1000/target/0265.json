@@ -12,7 +12,18 @@
         "in one's way"
       ],
       "example-sentence": "We cannot process information in a neutral way when emotions get in the way of truth.",
-      "sentence-jp": "感情が真実の邪魔になるとき, 私たちは中立の立場で情報を処理することはできない。"
+      "sentence-jp": "感情が真実の邪魔になるとき, 私たちは中立の立場で情報を処理することはできない。",
+      "cloze": {
+        "maskedText": "We cannot process information in a neutral way when emotions get ____ truth.",
+        "answerBase": "in the way (of ~)",
+        "answerSurface": "in the way of",
+        "choices": [
+          "in the way of",
+          "on the way to",
+          "in the distance",
+          "inside out"
+        ]
+      }
     }
   ],
   "notes": [

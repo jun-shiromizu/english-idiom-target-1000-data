@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The professor predicted that the economy would recover.",
-      "sentence-jp": "教授は経済が回復するであろうと予測した。"
+      "sentence-jp": "教授は経済が回復するであろうと予測した。",
+      "cloze": {
+        "maskedText": "The professor ____ that the economy would recover.",
+        "answerBase": "predict",
+        "answerSurface": "predicted",
+        "choices": [
+          "predicted",
+          "borrowed",
+          "invited",
+          "damaged"
+        ]
+      }
     }
   ],
   "notes": []

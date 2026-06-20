@@ -9,7 +9,18 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "Thanks to this book, I finally understood what had happened all those years ago.",
-      "sentence-jp": "この本のおかげで, 私は過ぎ去りし日々に起きたことをついに理解した。"
+      "sentence-jp": "この本のおかげで, 私は過ぎ去りし日々に起きたことをついに理解した。",
+      "cloze": {
+        "maskedText": "____ this book, I finally understood what had happened all those years ago.",
+        "answerBase": "thanks to ~",
+        "answerSurface": "Thanks to",
+        "choices": [
+          "Thanks to",
+          "As for",
+          "Except for",
+          "Close to"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "His music represents a new form of rock music.",
-      "sentence-jp": "彼の音楽はロックミュージックの新しい形式を表している。"
+      "sentence-jp": "彼の音楽はロックミュージックの新しい形式を表している。",
+      "cloze": {
+        "maskedText": "His music ____ a new form of rock music.",
+        "answerBase": "represent",
+        "answerSurface": "represents",
+        "choices": [
+          "represents",
+          "follows",
+          "divides",
+          "damages"
+        ]
+      }
     }
   ],
   "notes": []

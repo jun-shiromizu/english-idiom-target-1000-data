@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Tweets were originally limited to 140 characters.",
-      "sentence-jp": "「ツイート」はもとは140文字までに限られていた。"
+      "sentence-jp": "「ツイート」はもとは140文字までに限られていた。",
+      "cloze": {
+        "maskedText": "Tweets were originally ____ 140 characters.",
+        "answerBase": "be limited to",
+        "answerSurface": "limited to",
+        "choices": [
+          "limited to",
+          "added to",
+          "exposed to",
+          "attached to"
+        ]
+      }
     }
   ],
   "notes": []

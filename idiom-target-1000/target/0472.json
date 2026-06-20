@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "It was in 1999 when Sony rolled out the first-generation AIBO.",
-      "sentence-jp": "ソニーが第1世代のAIBOを発売したのは1999年のことだった。"
+      "sentence-jp": "ソニーが第1世代のAIBOを発売したのは1999年のことだった。",
+      "cloze": {
+        "maskedText": "It was in 1999 when Sony ____ the first-generation AIBO.",
+        "answerBase": "roll out (~)",
+        "answerSurface": "rolled out",
+        "choices": [
+          "rolled out",
+          "ironed out",
+          "set off",
+          "showed off"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The police searched for the missing person all night.",
-      "sentence-jp": "警察は一晩中行方不明者を捜した。"
+      "sentence-jp": "警察は一晩中行方不明者を捜した。",
+      "cloze": {
+        "maskedText": "The police searched for the missing person all night.",
+        "answerBase": "search for",
+        "answerSurface": "searched for",
+        "choices": [
+          "searched for",
+          "depended on",
+          "waited for",
+          "agreed on"
+        ]
+      }
     }
   ],
   "notes": []

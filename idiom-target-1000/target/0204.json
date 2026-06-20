@@ -13,7 +13,18 @@
         "about"
       ],
       "example-sentence": "Mr. Yamada has often appeared on TV in connection with Japan's health care system.",
-      "sentence-jp": "山田さんは日本の保健医療制度に関連してテレビにしばしば出演してきた。"
+      "sentence-jp": "山田さんは日本の保健医療制度に関連してテレビにしばしば出演してきた。",
+      "cloze": {
+        "maskedText": "Mr. Yamada has often appeared on TV ____ Japan's health care system.",
+        "answerBase": "in connection with ~",
+        "answerSurface": "in connection with",
+        "choices": [
+          "in connection with",
+          "all over",
+          "as soon as",
+          "for good"
+        ]
+      }
     }
   ],
   "notes": []

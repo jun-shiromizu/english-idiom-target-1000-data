@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Recycling things is not only environmentally friendly but also economically sound.",
-      "sentence-jp": "物をリサイクルすることは, 環境に優しいだけでなく経済的にも健全である。"
+      "sentence-jp": "物をリサイクルすることは, 環境に優しいだけでなく経済的にも健全である。",
+      "cloze": {
+        "maskedText": "Recycling things is ____ environmentally friendly ____ economically sound.",
+        "answerBase": "not only A but also B",
+        "answerSurface": "not only / but also",
+        "choices": [
+          "not only / but also",
+          "either / or",
+          "both / and",
+          "whether / or"
+        ]
+      }
     }
   ],
   "notes": [

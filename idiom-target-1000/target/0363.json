@@ -10,7 +10,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Japan has so little oil that we are almost entirely dependent on imports.",
-      "sentence-jp": "日本にはほとんど石油がないので、私たちはほぼ全面的に輸入品に依存している。"
+      "sentence-jp": "日本にはほとんど石油がないので、私たちはほぼ全面的に輸入品に依存している。",
+      "cloze": {
+        "maskedText": "Japan has so little oil that we are almost entirely ____ imports.",
+        "answerBase": "be dependent on ~",
+        "answerSurface": "dependent on",
+        "choices": [
+          "dependent on",
+          "independent of",
+          "in order",
+          "looked down on"
+        ]
+      }
     }
   ],
   "notes": [

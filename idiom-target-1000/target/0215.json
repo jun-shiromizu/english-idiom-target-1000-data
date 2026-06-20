@@ -13,7 +13,18 @@
         "permanently"
       ],
       "example-sentence": "In most cases, when a language is gone, it is gone for good.",
-      "sentence-jp": "多くの場合, ある言語がなくなるとそれは永久に失われてしまう。"
+      "sentence-jp": "多くの場合, ある言語がなくなるとそれは永久に失われてしまう。",
+      "cloze": {
+        "maskedText": "In most cases, when a language is gone, it is gone ____.",
+        "answerBase": "for good",
+        "answerSurface": "for good",
+        "choices": [
+          "for good",
+          "in all",
+          "as well",
+          "before long"
+        ]
+      }
     }
   ],
   "notes": []

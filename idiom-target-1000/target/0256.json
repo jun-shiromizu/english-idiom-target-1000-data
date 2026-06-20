@@ -12,7 +12,18 @@
         "be sure to do"
       ],
       "example-sentence": "I know this kind of misunderstanding is bound to happen again in the future.",
-      "sentence-jp": "私はこの種の誤解は将来, きっと再び起こるとわかっている。"
+      "sentence-jp": "私はこの種の誤解は将来, きっと再び起こるとわかっている。",
+      "cloze": {
+        "maskedText": "I know this kind of misunderstanding is ____ happen again in the future.",
+        "answerBase": "be bound to do",
+        "answerSurface": "bound to",
+        "choices": [
+          "bound to",
+          "bound for",
+          "free from",
+          "familiar to"
+        ]
+      }
     }
   ],
   "notes": [

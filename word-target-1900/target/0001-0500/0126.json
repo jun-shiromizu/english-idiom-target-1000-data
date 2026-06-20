@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Scientists have proven that dinosaurs once existed.",
-      "sentence-jp": "科学者はかつて恐竜が存在したことを証明した。"
+      "sentence-jp": "科学者はかつて恐竜が存在したことを証明した。",
+      "cloze": {
+        "maskedText": "Scientists have ____ that dinosaurs once existed.",
+        "answerBase": "prove",
+        "answerSurface": "proven",
+        "choices": [
+          "proven",
+          "assumed",
+          "forgotten",
+          "hidden"
+        ]
+      }
     }
   ],
   "notes": []

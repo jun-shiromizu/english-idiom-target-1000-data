@@ -12,7 +12,18 @@
         "cause"
       ],
       "example-sentence": "Climate change has brought about rainfall shortages even in areas which used to be wet.",
-      "sentence-jp": "気候変動は以前に雨の多かった地域においてさえ降雨不足を引き起こしている。"
+      "sentence-jp": "気候変動は以前に雨の多かった地域においてさえ降雨不足を引き起こしている。",
+      "cloze": {
+        "maskedText": "Climate change has ____ rainfall shortages even in areas which used to be wet.",
+        "answerBase": "bring about ~",
+        "answerSurface": "brought about",
+        "choices": [
+          "brought about",
+          "resulted from",
+          "focused on",
+          "searched for"
+        ]
+      }
     }
   ],
   "notes": [

@@ -15,7 +15,18 @@
         "construct"
       ],
       "example-sentence": "A sign was put up in front of the station to advertise the new store.",
-      "sentence-jp": "その新しい店を宣伝するために駅の正面に看板が掲げられた。"
+      "sentence-jp": "その新しい店を宣伝するために駅の正面に看板が掲げられた。",
+      "cloze": {
+        "maskedText": "A sign was ____ in front of the station to advertise the new store.",
+        "answerBase": "put up ~",
+        "answerSurface": "put up",
+        "choices": [
+          "put up",
+          "brought up",
+          "called off",
+          "passed away"
+        ]
+      }
     },
     {
       "idiom-jp": "〜を泊める",
@@ -25,7 +36,18 @@
         "accommodate"
       ],
       "example-sentence": "The business school that was hosting me put me up at a nice hotel near the school.",
-      "sentence-jp": "私を招いてくれたビジネススクールは学校の近くのすばらしいホテルに私を泊まらせてくれた。"
+      "sentence-jp": "私を招いてくれたビジネススクールは学校の近くのすばらしいホテルに私を泊まらせてくれた。",
+      "cloze": {
+        "maskedText": "The business school that was hosting me ____ at a nice hotel near the school.",
+        "answerBase": "put up ~",
+        "answerSurface": "put me up",
+        "choices": [
+          "put me up",
+          "brought me up",
+          "looked me over",
+          "handed me in"
+        ]
+      }
     }
   ],
   "notes": [

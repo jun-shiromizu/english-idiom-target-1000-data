@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "The couple sat down on a lawn at a distance from each other.",
-      "sentence-jp": "そのカップルは互いに距離を置いて芝生に座った。"
+      "sentence-jp": "そのカップルは互いに距離を置いて芝生に座った。",
+      "cloze": {
+        "maskedText": "The couple sat down on a lawn ____ from each other.",
+        "answerBase": "at a distance",
+        "answerSurface": "at a distance",
+        "choices": [
+          "at a distance",
+          "in the distance",
+          "inside out",
+          "by now"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She has decided to memorize ten English words a day.",
-      "sentence-jp": "彼女は1日に10個の英単語を覚えることに決めた。"
+      "sentence-jp": "彼女は1日に10個の英単語を覚えることに決めた。",
+      "cloze": {
+        "maskedText": "She has ____ memorize ten English words a day.",
+        "answerBase": "decide to do",
+        "answerSurface": "decided to",
+        "choices": [
+          "decided to",
+          "refused to",
+          "pretended to",
+          "happened to"
+        ]
+      }
     }
   ],
   "notes": []

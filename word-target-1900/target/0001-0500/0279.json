@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The cognitive function of the brain involves mental activities such as memory and thinking.",
-      "sentence-jp": "脳の認知機能は記憶や思考などの精神活動を含む。"
+      "sentence-jp": "脳の認知機能は記憶や思考などの精神活動を含む。",
+      "cloze": {
+        "maskedText": "The ____ function of the brain involves mental activities such as memory and thinking.",
+        "answerBase": "cognitive",
+        "answerSurface": "cognitive",
+        "choices": [
+          "cognitive",
+          "rural",
+          "official",
+          "seasonal"
+        ]
+      }
     }
   ],
   "notes": []

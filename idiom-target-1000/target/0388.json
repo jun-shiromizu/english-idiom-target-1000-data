@@ -13,7 +13,18 @@
         "examine"
       ],
       "example-sentence": "My father’s going to go over the whole document to make sure it is perfect.",
-      "sentence-jp": "私の父は文書全体が完璧であることを確かめるためにそれに詳細に目を通すつもりだ。"
+      "sentence-jp": "私の父は文書全体が完璧であることを確かめるためにそれに詳細に目を通すつもりだ。",
+      "cloze": {
+        "maskedText": "My father’s going to ____ the whole document to make sure it is perfect.",
+        "answerBase": "go over ~",
+        "answerSurface": "go over",
+        "choices": [
+          "go over",
+          "go off",
+          "go out",
+          "look to"
+        ]
+      }
     },
     {
       "idiom-jp": "〜を復習する；〜を繰り返す",
@@ -24,7 +35,18 @@
         "repeat"
       ],
       "example-sentence": "Masato went over what he’d learned the night before the exam.",
-      "sentence-jp": "マサトは試験前夜に学習したことを復習した。"
+      "sentence-jp": "マサトは試験前夜に学習したことを復習した。",
+      "cloze": {
+        "maskedText": "Masato ____ what he’d learned the night before the exam.",
+        "answerBase": "go over ~",
+        "answerSurface": "went over",
+        "choices": [
+          "went over",
+          "went by",
+          "went off",
+          "looked to"
+        ]
+      }
     }
   ],
   "notes": [

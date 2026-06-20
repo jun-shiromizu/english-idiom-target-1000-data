@@ -15,7 +15,18 @@
         "pride oneself on ~"
       ],
       "example-sentence": "I’m one of those people who boast of having never been sick in many years.",
-      "sentence-jp": "私は、長年病気にかかっていないことを自慢する人々の1人だ。"
+      "sentence-jp": "私は、長年病気にかかっていないことを自慢する人々の1人だ。",
+      "cloze": {
+        "maskedText": "I’m one of those people who ____ having never been sick in many years.",
+        "answerBase": "boast of/about ~",
+        "answerSurface": "boast of",
+        "choices": [
+          "boast of",
+          "approve of",
+          "dispose of",
+          "part with"
+        ]
+      }
     }
   ],
   "notes": [

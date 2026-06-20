@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "You should always be careful when you fill out an application form.",
-      "sentence-jp": "申込書に書き込むときは常に注意深くすべきだ。"
+      "sentence-jp": "申込書に書き込むときは常に注意深くすべきだ。",
+      "cloze": {
+        "maskedText": "You should always be careful when you ____ an application form.",
+        "answerBase": "fill out ~",
+        "answerSurface": "fill out",
+        "choices": [
+          "fill out",
+          "point out",
+          "give out",
+          "sort out"
+        ]
+      }
     }
   ],
   "notes": [

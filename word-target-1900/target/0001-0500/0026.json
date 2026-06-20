@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Our team deals with complaints from our customers.",
-      "sentence-jp": "我がチームは顧客からの苦情を処理する。"
+      "sentence-jp": "我がチームは顧客からの苦情を処理する。",
+      "cloze": {
+        "maskedText": "Our team ____ complaints from our customers.",
+        "answerBase": "deal with",
+        "answerSurface": "deals with",
+        "choices": [
+          "deals with",
+          "belongs to",
+          "asks for",
+          "waits for"
+        ]
+      }
     }
   ],
   "notes": []

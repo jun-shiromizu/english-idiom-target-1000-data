@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The dictionary defines happiness as the basic feeling of joy or satisfaction.",
-      "sentence-jp": "その辞書は幸福を喜びまたは満足の基本的な感情と定義している。"
+      "sentence-jp": "その辞書は幸福を喜びまたは満足の基本的な感情と定義している。",
+      "cloze": {
+        "maskedText": "The dictionary ____ happiness as the basic feeling of joy or satisfaction.",
+        "answerBase": "define A as B",
+        "answerSurface": "defines",
+        "choices": [
+          "defines",
+          "stores",
+          "repairs",
+          "transports"
+        ]
+      }
     }
   ],
   "notes": []

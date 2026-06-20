@@ -12,7 +12,18 @@
         "be unfamiliar to ~"
       ],
       "example-sentence": "Homesickness is probably very familiar to anyone who has lived abroad for some time.",
-      "sentence-jp": "ホームシックはおそらく, しばらく海外に住んだことのある人なら誰にでも非常になじみのあるものであろう。"
+      "sentence-jp": "ホームシックはおそらく, しばらく海外に住んだことのある人なら誰にでも非常になじみのあるものであろう。",
+      "cloze": {
+        "maskedText": "Homesickness is probably very ____ anyone who has lived abroad for some time.",
+        "answerBase": "be familiar to ~",
+        "answerSurface": "familiar to",
+        "choices": [
+          "familiar to",
+          "familiar with",
+          "true to",
+          "bound for"
+        ]
+      }
     }
   ],
   "notes": [

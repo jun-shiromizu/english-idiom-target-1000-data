@@ -13,7 +13,18 @@
         "start"
       ],
       "example-sentence": "Soon after the party, Kana set about clearing the tables with her sister.",
-      "sentence-jp": "パーティーのすぐ後, カナは姉と一緒にテーブルの片づけを始めた。"
+      "sentence-jp": "パーティーのすぐ後, カナは姉と一緒にテーブルの片づけを始めた。",
+      "cloze": {
+        "maskedText": "Soon after the party, Kana ____ clearing the tables with her sister.",
+        "answerBase": "set about ~",
+        "answerSurface": "set about",
+        "choices": [
+          "set about",
+          "put off",
+          "brought up",
+          "looked over"
+        ]
+      }
     }
   ],
   "notes": []

@@ -13,7 +13,18 @@
         "accommodate A to B"
       ],
       "example-sentence": "Once in the room, I stood still for a second, letting my eyes adjust to the change of light.",
-      "sentence-jp": "私は部屋に入ると、少しの間じっと立って、目を明るさの変化に順応させた。"
+      "sentence-jp": "私は部屋に入ると、少しの間じっと立って、目を明るさの変化に順応させた。",
+      "cloze": {
+        "maskedText": "Once in the room, I stood still for a second, letting my eyes ____ the change of light.",
+        "answerBase": "adjust (A) to B",
+        "answerSurface": "adjust to",
+        "choices": [
+          "adjust to",
+          "compare with",
+          "expose to",
+          "attach to"
+        ]
+      }
     }
   ],
   "notes": []

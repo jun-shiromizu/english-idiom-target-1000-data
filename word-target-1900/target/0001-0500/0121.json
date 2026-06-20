@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "I suppose that his writing shows his true love of nature.",
-      "sentence-jp": "私は彼の書くものは彼の自然に対する真の愛を表していると思う。"
+      "sentence-jp": "私は彼の書くものは彼の自然に対する真の愛を表していると思う。",
+      "cloze": {
+        "maskedText": "I ____ that his writing shows his true love of nature.",
+        "answerBase": "suppose",
+        "answerSurface": "suppose",
+        "choices": [
+          "suppose",
+          "return",
+          "wander",
+          "measure"
+        ]
+      }
     }
   ],
   "notes": []

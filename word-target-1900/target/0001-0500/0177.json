@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "There is a strong link between unusual weather and global warming.",
-      "sentence-jp": "異常気象と地球温暖化との間には強い関連がある。"
+      "sentence-jp": "異常気象と地球温暖化との間には強い関連がある。",
+      "cloze": {
+        "maskedText": "There is a strong ____ between unusual weather and global warming.",
+        "answerBase": "link",
+        "answerSurface": "link",
+        "choices": [
+          "link",
+          "corner",
+          "window",
+          "village"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "We estimated our arrival to be 20 minutes late.",
-      "sentence-jp": "私たちは到着が20分遅れると推定した。"
+      "sentence-jp": "私たちは到着が20分遅れると推定した。",
+      "cloze": {
+        "maskedText": "We ____ our arrival to be 20 minutes late.",
+        "answerBase": "estimate",
+        "answerSurface": "estimated",
+        "choices": [
+          "estimated",
+          "invited",
+          "divided",
+          "lifted"
+        ]
+      }
     }
   ],
   "notes": []

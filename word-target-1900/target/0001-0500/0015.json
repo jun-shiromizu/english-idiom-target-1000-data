@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "You should store backups of data on the Internet regularly.",
-      "sentence-jp": "定期的にインターネット上にデータのバックアップを保存するべきだ。"
+      "sentence-jp": "定期的にインターネット上にデータのバックアップを保存するべきだ。",
+      "cloze": {
+        "maskedText": "You should ____ backups of data on the Internet regularly.",
+        "answerBase": "store",
+        "answerSurface": "store",
+        "choices": [
+          "store",
+          "erase",
+          "borrow",
+          "spread"
+        ]
+      }
     }
   ],
   "notes": []

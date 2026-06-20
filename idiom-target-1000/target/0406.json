@@ -12,7 +12,18 @@
         "understand"
       ],
       "example-sentence": "John spoke English so fast that we couldn’t make out what he was saying.",
-      "sentence-jp": "ジョンが英語を速く話したので、私たちは彼の言っていることを理解することができなかった。"
+      "sentence-jp": "ジョンが英語を速く話したので、私たちは彼の言っていることを理解することができなかった。",
+      "cloze": {
+        "maskedText": "John spoke English so fast that we couldn’t ____ what he was saying.",
+        "answerBase": "make out ~",
+        "answerSurface": "make out",
+        "choices": [
+          "make out",
+          "make for",
+          "meet with",
+          "provide for"
+        ]
+      }
     },
     {
       "idiom-jp": "[通例 can を伴って]〜を見分ける",
@@ -22,14 +33,36 @@
         "discern"
       ],
       "example-sentence": "Sam couldn’t make out her face in the twilight, but he thought she might be smiling.",
-      "sentence-jp": "たそがれ時にサムは彼女の顔を見分けることができなかったが、彼女はほほえんでいるかもしれないと思った。"
+      "sentence-jp": "たそがれ時にサムは彼女の顔を見分けることができなかったが、彼女はほほえんでいるかもしれないと思った。",
+      "cloze": {
+        "maskedText": "Sam couldn’t ____ her face in the twilight, but he thought she might be smiling.",
+        "answerBase": "make out ~",
+        "answerSurface": "make out",
+        "choices": [
+          "make out",
+          "make for",
+          "meet with",
+          "put down"
+        ]
+      }
     },
     {
       "idiom-jp": "(書類・小切手など)を作成する",
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "I made out a check for $25 and handed it to the salesperson.",
-      "sentence-jp": "私は25ドルの小切手を書き、それを店員に渡した。"
+      "sentence-jp": "私は25ドルの小切手を書き、それを店員に渡した。",
+      "cloze": {
+        "maskedText": "I ____ a check for $25 and handed it to the salesperson.",
+        "answerBase": "make out ~",
+        "answerSurface": "made out",
+        "choices": [
+          "made out",
+          "made for",
+          "met with",
+          "provided for"
+        ]
+      }
     }
   ],
   "notes": [

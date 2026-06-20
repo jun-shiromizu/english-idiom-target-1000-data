@@ -13,7 +13,18 @@
         "hang on to ~"
       ],
       "example-sentence": "The child clung to his mother more tightly when he was spoken to by a neighbor.",
-      "sentence-jp": "その子供は近所の人に話しかけられたとき、さらにしっかりと母親にくっついた。"
+      "sentence-jp": "その子供は近所の人に話しかけられたとき、さらにしっかりと母親にくっついた。",
+      "cloze": {
+        "maskedText": "The child ____ his mother more tightly when he was spoken to by a neighbor.",
+        "answerBase": "cling to ~",
+        "answerSurface": "clung to",
+        "choices": [
+          "clung to",
+          "stuck to",
+          "rested on",
+          "looked out for"
+        ]
+      }
     }
   ],
   "notes": [

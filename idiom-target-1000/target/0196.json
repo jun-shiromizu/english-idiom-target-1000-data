@@ -13,7 +13,18 @@
         "build"
       ],
       "example-sentence": "Putting a model airplane together by yourself is easy.",
-      "sentence-jp": "自分で模型飛行機を組み立てることは簡単だ。"
+      "sentence-jp": "自分で模型飛行機を組み立てることは簡単だ。",
+      "cloze": {
+        "maskedText": "____ by yourself is easy.",
+        "answerBase": "put together ~",
+        "answerSurface": "Putting a model airplane together",
+        "choices": [
+          "Putting a model airplane together",
+          "Putting a model airplane off",
+          "Putting a model airplane in",
+          "Putting a model airplane away"
+        ]
+      }
     }
   ],
   "notes": [

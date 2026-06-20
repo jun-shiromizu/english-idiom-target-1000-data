@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The mother feeds her baby every time he cries.",
-      "sentence-jp": "その母親は，赤ん坊が泣くたびにその子にお乳を与える。"
+      "sentence-jp": "その母親は，赤ん坊が泣くたびにその子にお乳を与える。",
+      "cloze": {
+        "maskedText": "The mother ____ her baby every time he cries.",
+        "answerBase": "feed",
+        "answerSurface": "feeds",
+        "choices": [
+          "feeds",
+          "joins",
+          "matches",
+          "orders"
+        ]
+      }
     }
   ],
   "notes": []

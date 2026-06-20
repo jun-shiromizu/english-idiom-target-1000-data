@@ -12,7 +12,18 @@
         "keep [go] on doing"
       ],
       "example-sentence": "The air became cooler as we kept climbing the mountain.",
-      "sentence-jp": "私たちが山を登り続けるにつれて空気が冷たくなってきた。"
+      "sentence-jp": "私たちが山を登り続けるにつれて空気が冷たくなってきた。",
+      "cloze": {
+        "maskedText": "The air became cooler as we ____ the mountain.",
+        "answerBase": "keep doing",
+        "answerSurface": "kept climbing",
+        "choices": [
+          "kept climbing",
+          "started leaving",
+          "finished crossing",
+          "avoided seeing"
+        ]
+      }
     }
   ],
   "notes": []

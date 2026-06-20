@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "A phrase like \"it's similar to\" is useful for explaining words.",
-      "sentence-jp": "「それは～に似ている」のような句は語の説明をするのに役立つ。"
+      "sentence-jp": "「それは～に似ている」のような句は語の説明をするのに役立つ。",
+      "cloze": {
+        "maskedText": "A ____ like \"it's similar to\" is useful for explaining words.",
+        "answerBase": "phrase",
+        "answerSurface": "phrase",
+        "choices": [
+          "phrase",
+          "garage",
+          "village",
+          "machine"
+        ]
+      }
     }
   ],
   "notes": []

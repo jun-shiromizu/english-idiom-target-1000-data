@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "I’m tied up at the moment but will be free by five.",
-      "sentence-jp": "私は今忙しくて動けないが、5時までには手が空くだろう。"
+      "sentence-jp": "私は今忙しくて動けないが、5時までには手が空くだろう。",
+      "cloze": {
+        "maskedText": "I’m ____ at the moment but will be free by five.",
+        "answerBase": "tie up (~)",
+        "answerSurface": "tied up",
+        "choices": [
+          "tied up",
+          "cheered up",
+          "shut up",
+          "blown up"
+        ]
+      }
     }
   ],
   "notes": [

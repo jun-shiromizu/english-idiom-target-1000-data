@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "The beautiful forests surrounding those houses abound in mushrooms and berries.",
-      "sentence-jp": "あの家々を囲んでいる美しい森はキノコとベリーが豊富だ。"
+      "sentence-jp": "あの家々を囲んでいる美しい森はキノコとベリーが豊富だ。",
+      "cloze": {
+        "maskedText": "The beautiful forests surrounding those houses ____ mushrooms and berries.",
+        "answerBase": "abound in ~",
+        "answerSurface": "abound in",
+        "choices": [
+          "abound in",
+          "result from",
+          "care about",
+          "prepare for"
+        ]
+      }
     }
   ],
   "notes": [

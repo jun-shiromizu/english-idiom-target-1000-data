@@ -12,7 +12,18 @@
         "come to light"
       ],
       "example-sentence": "As I looked around, a tall man suddenly came out from behind the building and ran away.",
-      "sentence-jp": "私が辺りを見回すと、背の高い男が突然建物の裏手から現れ、逃げていった。"
+      "sentence-jp": "私が辺りを見回すと、背の高い男が突然建物の裏手から現れ、逃げていった。",
+      "cloze": {
+        "maskedText": "As I looked around, a tall man suddenly ____ from behind the building and ran away.",
+        "answerBase": "come out",
+        "answerSurface": "came out",
+        "choices": [
+          "came out",
+          "broke down",
+          "spoke out",
+          "sorted out"
+        ]
+      }
     }
   ],
   "notes": [

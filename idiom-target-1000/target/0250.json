@@ -12,7 +12,18 @@
         "be unfamiliar with ~"
       ],
       "example-sentence": "Most Americans are familiar with the Gettysburg Address by Abraham Lincoln.",
-      "sentence-jp": "ほとんどのアメリカ人はエイブラハム・リンカンによるゲティスバーグの演説をよく知っている。"
+      "sentence-jp": "ほとんどのアメリカ人はエイブラハム・リンカンによるゲティスバーグの演説をよく知っている。",
+      "cloze": {
+        "maskedText": "Most Americans are ____ the Gettysburg Address by Abraham Lincoln.",
+        "answerBase": "be familiar with ~",
+        "answerSurface": "familiar with",
+        "choices": [
+          "familiar with",
+          "familiar to",
+          "true of",
+          "tired from"
+        ]
+      }
     }
   ],
   "notes": [

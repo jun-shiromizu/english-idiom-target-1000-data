@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Watch out, Yuka! There’s a big car coming toward you!",
-      "sentence-jp": "ユカ、気をつけて！大きな車があなたのほうに向かっているよ！"
+      "sentence-jp": "ユカ、気をつけて！大きな車があなたのほうに向かっているよ！",
+      "cloze": {
+        "maskedText": "____, Yuka! There’s a big car coming toward you!",
+        "answerBase": "watch out",
+        "answerSurface": "Watch out",
+        "choices": [
+          "Watch out",
+          "Look out",
+          "Sit up",
+          "Stay up"
+        ]
+      }
     }
   ],
   "notes": []

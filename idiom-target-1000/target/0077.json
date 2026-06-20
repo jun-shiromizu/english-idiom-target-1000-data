@@ -9,14 +9,36 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "The boy worked on while all the others took a short break.",
-      "sentence-jp": "その少年はほかの全員が短い休憩をとっている間に働き続けた。"
+      "sentence-jp": "その少年はほかの全員が短い休憩をとっている間に働き続けた。",
+      "cloze": {
+        "maskedText": "The boy ____ while all the others took a short break.",
+        "answerBase": "work on",
+        "answerSurface": "worked on",
+        "choices": [
+          "worked on",
+          "turned up",
+          "sat down",
+          "broke in"
+        ]
+      }
     },
     {
       "idiom-jp": "〜に取り組む；〜を手がける；〜に影響を与える；(薬などが)〜に効く",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Many scientists today are working on AI technology to make our lives better.",
-      "sentence-jp": "今日の多くの科学者たちは、私たちの生活をよりよいものにするためにAI技術に取り組んでいる。"
+      "sentence-jp": "今日の多くの科学者たちは、私たちの生活をよりよいものにするためにAI技術に取り組んでいる。",
+      "cloze": {
+        "maskedText": "Many scientists today are ____ AI technology to make our lives better.",
+        "answerBase": "work on ~",
+        "answerSurface": "working on",
+        "choices": [
+          "working on",
+          "turning off",
+          "filling out",
+          "giving away"
+        ]
+      }
     }
   ],
   "notes": [

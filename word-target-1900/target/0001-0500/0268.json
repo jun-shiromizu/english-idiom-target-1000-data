@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "It is difficult to reach a balance between individual freedom and national security.",
-      "sentence-jp": "個人の自由と国家の安全との均衡に達するのは困難である。"
+      "sentence-jp": "個人の自由と国家の安全との均衡に達するのは困難である。",
+      "cloze": {
+        "maskedText": "It is difficult to reach a ____ between individual freedom and national security.",
+        "answerBase": "balance",
+        "answerSurface": "balance",
+        "choices": [
+          "balance",
+          "chapter",
+          "garden",
+          "machine"
+        ]
+      }
     }
   ],
   "notes": []

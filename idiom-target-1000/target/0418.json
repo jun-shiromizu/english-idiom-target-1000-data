@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "The coffee shop was located just next to the railroad station.",
-      "sentence-jp": "喫茶店は鉄道駅のすぐ隣に位置していた。"
+      "sentence-jp": "喫茶店は鉄道駅のすぐ隣に位置していた。",
+      "cloze": {
+        "maskedText": "The coffee shop was located just ____ the railroad station.",
+        "answerBase": "next to ~",
+        "answerSurface": "next to",
+        "choices": [
+          "next to",
+          "up to",
+          "at large",
+          "by way of"
+        ]
+      }
     },
     {
       "idiom-jp": "[否定を表す語の前に置いて]ほとんど〜",
@@ -19,7 +30,18 @@
         "almost"
       ],
       "example-sentence": "I’ve heard of Chad but know next to nothing about it.",
-      "sentence-jp": "私はチャドという国のことを聞いたことはあるが、その国についてはほとんど何も知らない。"
+      "sentence-jp": "私はチャドという国のことを聞いたことはあるが、その国についてはほとんど何も知らない。",
+      "cloze": {
+        "maskedText": "I’ve heard of Chad but know ____ nothing about it.",
+        "answerBase": "next to ~",
+        "answerSurface": "next to",
+        "choices": [
+          "next to",
+          "up to",
+          "all but",
+          "at large"
+        ]
+      }
     }
   ],
   "notes": []

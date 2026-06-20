@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "I share my office space with other people.",
-      "sentence-jp": "私はほかの人々と事務所スペースを共用している。"
+      "sentence-jp": "私はほかの人々と事務所スペースを共用している。",
+      "cloze": {
+        "maskedText": "I ____ my office space with other people.",
+        "answerBase": "share",
+        "answerSurface": "share",
+        "choices": [
+          "share",
+          "compare",
+          "exchange",
+          "decorate"
+        ]
+      }
     }
   ],
   "notes": []

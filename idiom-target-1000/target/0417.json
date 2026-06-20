@@ -9,7 +9,18 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "We discussed at length the plan for the coming school festival.",
-      "sentence-jp": "私たちは来る学園祭の計画を詳細に話し合った。"
+      "sentence-jp": "私たちは来る学園祭の計画を詳細に話し合った。",
+      "cloze": {
+        "maskedText": "We discussed ____ the plan for the coming school festival.",
+        "answerBase": "at length",
+        "answerSurface": "at length",
+        "choices": [
+          "at length",
+          "at large",
+          "on end",
+          "in effect"
+        ]
+      }
     },
     {
       "idiom-jp": "とうとう、ついに",
@@ -20,7 +31,18 @@
         "eventually"
       ],
       "example-sentence": "At length the door opened and a young woman came in.",
-      "sentence-jp": "とうとうドアが開き、若い女性が入ってきた。"
+      "sentence-jp": "とうとうドアが開き、若い女性が入ってきた。",
+      "cloze": {
+        "maskedText": "____ the door opened and a young woman came in.",
+        "answerBase": "at length",
+        "answerSurface": "At length",
+        "choices": [
+          "At length",
+          "At large",
+          "In effect",
+          "By way of"
+        ]
+      }
     }
   ],
   "notes": [

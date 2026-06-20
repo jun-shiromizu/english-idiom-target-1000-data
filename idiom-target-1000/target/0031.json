@@ -12,7 +12,18 @@
         "be on the point of doing"
       ],
       "example-sentence": "He was just about to go out when she called.",
-      "sentence-jp": "彼女が電話をかけてきたとき、彼は今にも出かけようとしていた。"
+      "sentence-jp": "彼女が電話をかけてきたとき、彼は今にも出かけようとしていた。",
+      "cloze": {
+        "maskedText": "He was just ____ go out when she called.",
+        "answerBase": "be about to do",
+        "answerSurface": "about to",
+        "choices": [
+          "about to",
+          "eager to",
+          "willing to",
+          "likely to"
+        ]
+      }
     }
   ],
   "notes": []

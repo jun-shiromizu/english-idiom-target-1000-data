@@ -12,7 +12,18 @@
         "in haste"
       ],
       "example-sentence": "Tom was in such a hurry to get to the airport that he left without the gift from us.",
-      "sentence-jp": "トムは空港に行くのにとても急いでいたので, 私たちからの贈り物を忘れていった。"
+      "sentence-jp": "トムは空港に行くのにとても急いでいたので, 私たちからの贈り物を忘れていった。",
+      "cloze": {
+        "maskedText": "Tom was ____ to get to the airport that he left without the gift from us.",
+        "answerBase": "in a hurry",
+        "answerSurface": "in such a hurry",
+        "choices": [
+          "in such a hurry",
+          "in fact",
+          "in detail",
+          "in public"
+        ]
+      }
     }
   ],
   "notes": [

@@ -12,7 +12,18 @@
         "keep abreast of [with] ~"
       ],
       "example-sentence": "We need to make constant efforts to keep pace with what's happening in the world.",
-      "sentence-jp": "私たちは世界で起きていることに遅れずにいくために絶えざる努力をする必要がある。"
+      "sentence-jp": "私たちは世界で起きていることに遅れずにいくために絶えざる努力をする必要がある。",
+      "cloze": {
+        "maskedText": "We need to make constant efforts to ____ what's happening in the world.",
+        "answerBase": "keep pace with ~",
+        "answerSurface": "keep pace with",
+        "choices": [
+          "keep pace with",
+          "agree to",
+          "apply for",
+          "correspond with"
+        ]
+      }
     }
   ],
   "notes": [

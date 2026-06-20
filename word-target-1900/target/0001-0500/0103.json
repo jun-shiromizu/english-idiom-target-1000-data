@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The car slowed down as it approached the curve.",
-      "sentence-jp": "その車はカーブに近づくと速度を落とした。"
+      "sentence-jp": "その車はカーブに近づくと速度を落とした。",
+      "cloze": {
+        "maskedText": "The car slowed down as it ____ the curve.",
+        "answerBase": "approach",
+        "answerSurface": "approached",
+        "choices": [
+          "approached",
+          "avoided",
+          "crossed",
+          "painted"
+        ]
+      }
     }
   ],
   "notes": []

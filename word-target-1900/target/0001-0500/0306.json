@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Communication styles vary from culture to culture.",
-      "sentence-jp": "コミュニケーションの方法は文化によりさまざまである。"
+      "sentence-jp": "コミュニケーションの方法は文化によりさまざまである。",
+      "cloze": {
+        "maskedText": "Communication styles ____ from culture to culture.",
+        "answerBase": "vary from A to B",
+        "answerSurface": "vary",
+        "choices": [
+          "vary",
+          "travel",
+          "belong",
+          "suffer"
+        ]
+      }
     }
   ],
   "notes": []

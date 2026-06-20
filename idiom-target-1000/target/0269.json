@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "\"You don't like reading fiction very much, do you?\" \"On the contrary, I love it.\"",
-      "sentence-jp": "『あなたはフィクションを読むのはあまり好きじゃないでしょう』『それどころか, 大好きです』"
+      "sentence-jp": "『あなたはフィクションを読むのはあまり好きじゃないでしょう』『それどころか, 大好きです』",
+      "cloze": {
+        "maskedText": "\"You don't like reading fiction very much, do you?\" \"____, I love it.\"",
+        "answerBase": "on the contrary",
+        "answerSurface": "On the contrary",
+        "choices": [
+          "On the contrary",
+          "As a matter of fact",
+          "By chance",
+          "For now"
+        ]
+      }
     }
   ],
   "notes": []

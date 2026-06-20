@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I stayed up all night watching the tennis matches on TV last night.",
-      "sentence-jp": "私は昨夜テレビでテニスの試合を見ながら一晩中起きていた。"
+      "sentence-jp": "私は昨夜テレビでテニスの試合を見ながら一晩中起きていた。",
+      "cloze": {
+        "maskedText": "I ____ all night watching the tennis matches on TV last night.",
+        "answerBase": "stay up",
+        "answerSurface": "stayed up",
+        "choices": [
+          "stayed up",
+          "sat up",
+          "watched out",
+          "turned over"
+        ]
+      }
     }
   ],
   "notes": []

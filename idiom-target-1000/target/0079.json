@@ -12,7 +12,18 @@
         "switch on (~)"
       ],
       "example-sentence": "When I turned on the TV, our team had already scored two goals.",
-      "sentence-jp": "私がテレビをつけたとき、私たちのチームはすでに2ゴール入れていた。"
+      "sentence-jp": "私がテレビをつけたとき、私たちのチームはすでに2ゴール入れていた。",
+      "cloze": {
+        "maskedText": "When I ____ the TV, our team had already scored two goals.",
+        "answerBase": "turn on ~",
+        "answerSurface": "turned on",
+        "choices": [
+          "turned on",
+          "turned off",
+          "picked up",
+          "filled in"
+        ]
+      }
     }
   ],
   "notes": [

@@ -12,7 +12,18 @@
         "cancel"
       ],
       "example-sentence": "The scheduled football game had to be called off because of the bad weather.",
-      "sentence-jp": "悪天候のため, 予定していたフットボールの試合は中止されなければならなかった。"
+      "sentence-jp": "悪天候のため, 予定していたフットボールの試合は中止されなければならなかった。",
+      "cloze": {
+        "maskedText": "The scheduled football game had to be ____ because of the bad weather.",
+        "answerBase": "call off ~",
+        "answerSurface": "called off",
+        "choices": [
+          "called off",
+          "handed in",
+          "looked into",
+          "put together"
+        ]
+      }
     }
   ],
   "notes": []

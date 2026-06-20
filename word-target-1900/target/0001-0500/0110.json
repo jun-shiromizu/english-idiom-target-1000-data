@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Some scientists claim that coffee lowers the risk of heart disease.",
-      "sentence-jp": "コーヒーは心疾患のリスクを減らすと主張する科学者がいる。"
+      "sentence-jp": "コーヒーは心疾患のリスクを減らすと主張する科学者がいる。",
+      "cloze": {
+        "maskedText": "Some scientists ____ that coffee lowers the risk of heart disease.",
+        "answerBase": "claim",
+        "answerSurface": "claim",
+        "choices": [
+          "claim",
+          "borrow",
+          "invite",
+          "wander"
+        ]
+      }
     }
   ],
   "notes": []

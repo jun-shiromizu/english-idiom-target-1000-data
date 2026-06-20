@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The teacher wondered why John didn't attend today's class.",
-      "sentence-jp": "教師はなぜジョンが今日の授業に出席していないのかなと思った。"
+      "sentence-jp": "教師はなぜジョンが今日の授業に出席していないのかなと思った。",
+      "cloze": {
+        "maskedText": "The teacher ____ why John didn't attend today's class.",
+        "answerBase": "wonder",
+        "answerSurface": "wondered",
+        "choices": [
+          "wondered",
+          "proved",
+          "lifted",
+          "packed"
+        ]
+      }
     }
   ],
   "notes": []

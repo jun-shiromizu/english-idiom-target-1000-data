@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Most people associate a lack of sleep with common health problems.",
-      "sentence-jp": "たいていの人は睡眠不足をよくある健康問題と結び付けて考える。"
+      "sentence-jp": "たいていの人は睡眠不足をよくある健康問題と結び付けて考える。",
+      "cloze": {
+        "maskedText": "Most people ____ a lack of sleep with common health problems.",
+        "answerBase": "associate A with B",
+        "answerSurface": "associate",
+        "choices": [
+          "associate",
+          "exchange",
+          "replace",
+          "repeat"
+        ]
+      }
     }
   ],
   "notes": []

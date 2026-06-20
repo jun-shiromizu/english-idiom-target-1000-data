@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "To read books critically, good reasoning is indispensable on the readers’ part.",
-      "sentence-jp": "本を批評的に読むためには読者側での十分な論証が欠かせない。"
+      "sentence-jp": "本を批評的に読むためには読者側での十分な論証が欠かせない。",
+      "cloze": {
+        "maskedText": "To read books critically, good reasoning is indispensable ____.",
+        "answerBase": "on one’s part",
+        "answerSurface": "on the readers’ part",
+        "choices": [
+          "on the readers’ part",
+          "for the time being",
+          "around the corner",
+          "in theory"
+        ]
+      }
     }
   ],
   "notes": [

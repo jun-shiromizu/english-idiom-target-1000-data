@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "He argues that the country needs new energy policies.",
-      "sentence-jp": "彼はその国は新しいエネルギー政策を必要としていると主張する。"
+      "sentence-jp": "彼はその国は新しいエネルギー政策を必要としていると主張する。",
+      "cloze": {
+        "maskedText": "He ____ that the country needs new energy policies.",
+        "answerBase": "argue",
+        "answerSurface": "argues",
+        "choices": [
+          "argues",
+          "arrives",
+          "belongs",
+          "listens"
+        ]
+      }
     }
   ],
   "notes": []

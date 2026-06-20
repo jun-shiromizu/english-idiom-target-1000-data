@@ -13,7 +13,18 @@
         "purposely"
       ],
       "example-sentence": "I made that harsh comment on purpose to see how he'd respond to it.",
-      "sentence-jp": "私は彼がどのように反応するかを見るためにわざとあんな厳しいコメントをした。"
+      "sentence-jp": "私は彼がどのように反応するかを見るためにわざとあんな厳しいコメントをした。",
+      "cloze": {
+        "maskedText": "I made that harsh comment ____ to see how he'd respond to it.",
+        "answerBase": "on purpose",
+        "answerSurface": "on purpose",
+        "choices": [
+          "on purpose",
+          "right away",
+          "by degrees",
+          "above all"
+        ]
+      }
     }
   ],
   "notes": []

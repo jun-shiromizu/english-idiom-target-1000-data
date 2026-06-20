@@ -15,7 +15,18 @@
         "view A as B"
       ],
       "example-sentence": "Most of us treat pets with huge affection, looking on them as our beloved companions.",
-      "sentence-jp": "私たちのほとんどはペットを私たちの愛する仲間と見なして, 大きな愛情をもって扱う。"
+      "sentence-jp": "私たちのほとんどはペットを私たちの愛する仲間と見なして, 大きな愛情をもって扱う。",
+      "cloze": {
+        "maskedText": "Most of us treat pets with huge affection, ____ them as our beloved companions.",
+        "answerBase": "look on A as B",
+        "answerSurface": "looking on",
+        "choices": [
+          "looking on",
+          "thinking of",
+          "taking",
+          "distinguishing"
+        ]
+      }
     }
   ],
   "notes": []

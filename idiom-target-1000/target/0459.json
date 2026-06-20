@@ -9,14 +9,36 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "It was on July 23, 1962, when the baseball legend Jackie Robinson stepped up to a microphone, not home plate.",
-      "sentence-jp": "野球の伝説的人物、ジャッキー・ロビンソンが本塁ではなくマイクに近づいたのは、1962年7月23日のことだった。"
+      "sentence-jp": "野球の伝説的人物、ジャッキー・ロビンソンが本塁ではなくマイクに近づいたのは、1962年7月23日のことだった。",
+      "cloze": {
+        "maskedText": "It was on July 23, 1962, when the baseball legend Jackie Robinson ____ to a microphone, not home plate.",
+        "answerBase": "step up (~)",
+        "answerSurface": "stepped up",
+        "choices": [
+          "stepped up",
+          "blew up",
+          "ended up",
+          "ran across"
+        ]
+      }
     },
     {
       "idiom-jp": "(量・速度など)を増す；(活動など)を促進する",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "During the epidemic, his factory was asked to step up the production of face masks.",
-      "sentence-jp": "伝染病の流行中、彼の工場はマスクの生産を増やすように依頼された。"
+      "sentence-jp": "伝染病の流行中、彼の工場はマスクの生産を増やすように依頼された。",
+      "cloze": {
+        "maskedText": "During the epidemic, his factory was asked to ____ the production of face masks.",
+        "answerBase": "step up (~)",
+        "answerSurface": "step up",
+        "choices": [
+          "step up",
+          "cut down on",
+          "sum up",
+          "shut up"
+        ]
+      }
     }
   ],
   "notes": [

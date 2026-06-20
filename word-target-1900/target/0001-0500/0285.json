@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He devoted his entire life to helping people in need.",
-      "sentence-jp": "彼は困っている人々を助けるために全人生をささげた。"
+      "sentence-jp": "彼は困っている人々を助けるために全人生をささげた。",
+      "cloze": {
+        "maskedText": "He devoted his ____ life to helping people in need.",
+        "answerBase": "entire",
+        "answerSurface": "entire",
+        "choices": [
+          "entire",
+          "careful",
+          "plastic",
+          "mobile"
+        ]
+      }
     }
   ],
   "notes": []

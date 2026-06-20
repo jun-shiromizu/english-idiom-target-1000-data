@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The little girl attempted to convince her parents to buy her a toy.",
-      "sentence-jp": "その小さな女の子は自分におもちゃを買ってくれるように両親を説得しようと試みた。"
+      "sentence-jp": "その小さな女の子は自分におもちゃを買ってくれるように両親を説得しようと試みた。",
+      "cloze": {
+        "maskedText": "The little girl ____ to convince her parents to buy her a toy.",
+        "answerBase": "attempt to do",
+        "answerSurface": "attempted",
+        "choices": [
+          "attempted",
+          "agreed",
+          "learned",
+          "returned"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "He drew a conclusion from a series of experiments.",
-      "sentence-jp": "彼は一連の実験から1つの結論を出した。"
+      "sentence-jp": "彼は一連の実験から1つの結論を出した。",
+      "cloze": {
+        "maskedText": "He ____ a conclusion from a series of experiments.",
+        "answerBase": "draw",
+        "answerSurface": "drew",
+        "choices": [
+          "drew",
+          "hid",
+          "borrowed",
+          "closed"
+        ]
+      }
     }
   ],
   "notes": []

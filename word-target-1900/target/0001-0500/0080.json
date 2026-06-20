@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Some people believe that AI robots are likely to replace most workers.",
-      "sentence-jp": "AIロボットが大半の労働者に取って代わりそうだと思っている人がいる。"
+      "sentence-jp": "AIロボットが大半の労働者に取って代わりそうだと思っている人がいる。",
+      "cloze": {
+        "maskedText": "Some people believe that AI robots are ____ to replace most workers.",
+        "answerBase": "be likely to do",
+        "answerSurface": "likely",
+        "choices": [
+          "likely",
+          "unable",
+          "careful",
+          "eager"
+        ]
+      }
     }
   ],
   "notes": []

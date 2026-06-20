@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Exercising has an important influence on one's health.",
-      "sentence-jp": "運動することは人の健康に重大な影響を与える。"
+      "sentence-jp": "運動することは人の健康に重大な影響を与える。",
+      "cloze": {
+        "maskedText": "Exercising has an important ____ on one's health.",
+        "answerBase": "influence",
+        "answerSurface": "influence",
+        "choices": [
+          "influence",
+          "holiday",
+          "entrance",
+          "expense"
+        ]
+      }
     }
   ],
   "notes": []

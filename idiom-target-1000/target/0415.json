@@ -14,7 +14,18 @@
         "in practice"
       ],
       "example-sentence": "When we describe what we see, we in effect describe ourselves.",
-      "sentence-jp": "私たちが見えるものを描写するときは、事実上自分自身を描写しているのだ。"
+      "sentence-jp": "私たちが見えるものを描写するときは、事実上自分自身を描写しているのだ。",
+      "cloze": {
+        "maskedText": "When we describe what we see, we ____ describe ourselves.",
+        "answerBase": "in effect",
+        "answerSurface": "in effect",
+        "choices": [
+          "in effect",
+          "at large",
+          "at length",
+          "next to"
+        ]
+      }
     },
     {
       "idiom-jp": "(法律などが)実施されて",
@@ -24,7 +35,18 @@
         "in force"
       ],
       "example-sentence": "This law has been in effect for the past ten years.",
-      "sentence-jp": "この法律は過去10年間施行されている。"
+      "sentence-jp": "この法律は過去10年間施行されている。",
+      "cloze": {
+        "maskedText": "This law has been ____ for the past ten years.",
+        "answerBase": "in effect",
+        "answerSurface": "in effect",
+        "choices": [
+          "in effect",
+          "at length",
+          "on end",
+          "up to"
+        ]
+      }
     }
   ],
   "notes": [

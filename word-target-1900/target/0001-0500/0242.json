@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "People often follow the latest fashion in order to look more attractive.",
-      "sentence-jp": "人々はもっと魅力的に見えるように最新の流行を追うことが多い。"
+      "sentence-jp": "人々はもっと魅力的に見えるように最新の流行を追うことが多い。",
+      "cloze": {
+        "maskedText": "People often follow the latest ____ in order to look more attractive.",
+        "answerBase": "fashion",
+        "answerSurface": "fashion",
+        "choices": [
+          "fashion",
+          "lecture",
+          "surface",
+          "machine"
+        ]
+      }
     }
   ],
   "notes": []

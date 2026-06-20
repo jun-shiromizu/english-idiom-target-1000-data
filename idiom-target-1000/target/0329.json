@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "The amount of food waste in Japan is said to be equivalent to 30 percent of its domestic food production.",
-      "sentence-jp": "日本の食品ロスの量は国内の食品生産量の30%に等しいと言われている。"
+      "sentence-jp": "日本の食品ロスの量は国内の食品生産量の30%に等しいと言われている。",
+      "cloze": {
+        "maskedText": "The amount of food waste in Japan is said to be ____ 30 percent of its domestic food production.",
+        "answerBase": "be equivalent to ~",
+        "answerSurface": "equivalent to",
+        "choices": [
+          "equivalent to",
+          "essential to",
+          "apt to",
+          "in a word"
+        ]
+      }
     }
   ],
   "notes": [

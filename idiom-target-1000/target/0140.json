@@ -12,7 +12,18 @@
         "anything but ~"
       ],
       "example-sentence": "We spent long hours discussing the matter, but it still remains far from settled.",
-      "sentence-jp": "私たちはその問題について長い時間議論したが, 依然として解決からはほど遠いままだ。"
+      "sentence-jp": "私たちはその問題について長い時間議論したが, 依然として解決からはほど遠いままだ。",
+      "cloze": {
+        "maskedText": "We spent long hours discussing the matter, but it still remains ____ settled.",
+        "answerBase": "far from ~",
+        "answerSurface": "far from",
+        "choices": [
+          "far from",
+          "close to",
+          "similar to",
+          "ready for"
+        ]
+      }
     }
   ],
   "notes": [

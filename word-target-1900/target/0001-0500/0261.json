@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Historically speaking, conflicts over resources often led to war.",
-      "sentence-jp": "歴史的に見ると，資源をめぐる争いがしばしば戦争へと発展した。"
+      "sentence-jp": "歴史的に見ると，資源をめぐる争いがしばしば戦争へと発展した。",
+      "cloze": {
+        "maskedText": "Historically speaking, ____ over resources often led to war.",
+        "answerBase": "conflict",
+        "answerSurface": "conflicts",
+        "choices": [
+          "conflicts",
+          "lectures",
+          "blankets",
+          "machines"
+        ]
+      }
     }
   ],
   "notes": []

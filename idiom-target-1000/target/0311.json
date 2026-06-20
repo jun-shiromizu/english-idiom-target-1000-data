@@ -12,7 +12,18 @@
         "go back to ~"
       ],
       "example-sentence": "Research reveals the first evidence of tool production dates back to about 2.5 million years ago.",
-      "sentence-jp": "道具製作の最初の証拠は約250万年前にさかのぼると研究で明らかになっている。"
+      "sentence-jp": "道具製作の最初の証拠は約250万年前にさかのぼると研究で明らかになっている。",
+      "cloze": {
+        "maskedText": "Research reveals the first evidence of tool production ____ about 2.5 million years ago.",
+        "answerBase": "date back to ~",
+        "answerSurface": "dates back to",
+        "choices": [
+          "dates back to",
+          "rests on",
+          "counts on",
+          "stands out from"
+        ]
+      }
     }
   ],
   "notes": []

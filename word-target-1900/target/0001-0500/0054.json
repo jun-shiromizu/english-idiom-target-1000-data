@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She often expresses her view on welfare for the elderly.",
-      "sentence-jp": "彼女は高齢者のための福祉に関してよく自分の見解を述べる。"
+      "sentence-jp": "彼女は高齢者のための福祉に関してよく自分の見解を述べる。",
+      "cloze": {
+        "maskedText": "She often expresses her ____ on welfare for the elderly.",
+        "answerBase": "view",
+        "answerSurface": "view",
+        "choices": [
+          "view",
+          "ticket",
+          "habit",
+          "shelf"
+        ]
+      }
     }
   ],
   "notes": []

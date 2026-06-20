@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Now that you mention it, I do remember seeing her on TV quite often.",
-      "sentence-jp": "そう言われてみると, 私は頻繁にテレビで彼女を見たことを確かに覚えています。"
+      "sentence-jp": "そう言われてみると, 私は頻繁にテレビで彼女を見たことを確かに覚えています。",
+      "cloze": {
+        "maskedText": "Now that you mention it, I do ____ her on TV quite often.",
+        "answerBase": "remember doing",
+        "answerSurface": "remember seeing",
+        "choices": [
+          "remember seeing",
+          "remember to see",
+          "agree with",
+          "apply for"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She completed the task of making a sales presentation.",
-      "sentence-jp": "彼女は販売企画の説明を行うという仕事をやり遂げた。"
+      "sentence-jp": "彼女は販売企画の説明を行うという仕事をやり遂げた。",
+      "cloze": {
+        "maskedText": "She completed the ____ of making a sales presentation.",
+        "answerBase": "task",
+        "answerSurface": "task",
+        "choices": [
+          "task",
+          "river",
+          "custom",
+          "shelter"
+        ]
+      }
     }
   ],
   "notes": []

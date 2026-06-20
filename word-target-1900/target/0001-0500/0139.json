@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The man survived the traffic accident.",
-      "sentence-jp": "その男性はその交通事故で生き残った。"
+      "sentence-jp": "その男性はその交通事故で生き残った。",
+      "cloze": {
+        "maskedText": "The man ____ the traffic accident.",
+        "answerBase": "survive",
+        "answerSurface": "survived",
+        "choices": [
+          "survived",
+          "caused",
+          "copied",
+          "designed"
+        ]
+      }
     }
   ],
   "notes": []

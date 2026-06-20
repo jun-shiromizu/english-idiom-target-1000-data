@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Young people should treat their elders with respect.",
-      "sentence-jp": "若者は敬意をもって年上の人を処遇するべきである。"
+      "sentence-jp": "若者は敬意をもって年上の人を処遇するべきである。",
+      "cloze": {
+        "maskedText": "Young people should ____ their elders with respect.",
+        "answerBase": "treat",
+        "answerSurface": "treat",
+        "choices": [
+          "treat",
+          "blame",
+          "copy",
+          "greet"
+        ]
+      }
     }
   ],
   "notes": []

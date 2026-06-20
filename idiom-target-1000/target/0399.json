@@ -13,7 +13,18 @@
         "understand"
       ],
       "example-sentence": "I often hear Americans take in a third of their calories at restaurants.",
-      "sentence-jp": "アメリカ人はレストランでカロリーの3分の1を取るとよく聞く。"
+      "sentence-jp": "アメリカ人はレストランでカロリーの3分の1を取るとよく聞く。",
+      "cloze": {
+        "maskedText": "I often hear Americans ____ a third of their calories at restaurants.",
+        "answerBase": "take in ~",
+        "answerSurface": "take in",
+        "choices": [
+          "take in",
+          "take on",
+          "take to",
+          "take up"
+        ]
+      }
     },
     {
       "idiom-jp": "〜をだます",
@@ -23,14 +34,36 @@
         "deceive"
       ],
       "example-sentence": "He had a hard time believing her this time because he’d been taken in by her before.",
-      "sentence-jp": "彼は以前彼女にだまされたことがあるので、今回彼女のことを信じるのに苦労した。"
+      "sentence-jp": "彼は以前彼女にだまされたことがあるので、今回彼女のことを信じるのに苦労した。",
+      "cloze": {
+        "maskedText": "He had a hard time believing her this time because he’d been ____ by her before.",
+        "answerBase": "take in ~",
+        "answerSurface": "taken in",
+        "choices": [
+          "taken in",
+          "taken on",
+          "turned down",
+          "made out"
+        ]
+      }
     },
     {
       "idiom-jp": "〜を見物する",
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "We decided to take in a few more sights while we were there.",
-      "sentence-jp": "私たちはそこにいる間、さらにいくつかの名所を見物することにした。"
+      "sentence-jp": "私たちはそこにいる間、さらにいくつかの名所を見物することにした。",
+      "cloze": {
+        "maskedText": "We decided to ____ a few more sights while we were there.",
+        "answerBase": "take in ~",
+        "answerSurface": "take in",
+        "choices": [
+          "take in",
+          "take on",
+          "turn in",
+          "make for"
+        ]
+      }
     }
   ],
   "notes": [

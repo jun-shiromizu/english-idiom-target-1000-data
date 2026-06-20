@@ -13,7 +13,18 @@
         "undoubtedly"
       ],
       "example-sentence": "In terms of popularity, soccer is no doubt the No. 1 sport in Japan today.",
-      "sentence-jp": "人気に関しては, サッカーはおそらく今日の日本において1番のスポーツだろう。"
+      "sentence-jp": "人気に関しては, サッカーはおそらく今日の日本において1番のスポーツだろう。",
+      "cloze": {
+        "maskedText": "In terms of popularity, soccer is ____ the No. 1 sport in Japan today.",
+        "answerBase": "no doubt",
+        "answerSurface": "no doubt",
+        "choices": [
+          "no doubt",
+          "no longer",
+          "by hand",
+          "at random"
+        ]
+      }
     }
   ],
   "notes": [

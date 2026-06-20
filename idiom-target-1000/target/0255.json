@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "This train is bound for San Francisco.",
-      "sentence-jp": "この列車はサンフランシスコ行きだ。"
+      "sentence-jp": "この列車はサンフランシスコ行きだ。",
+      "cloze": {
+        "maskedText": "This train is ____ San Francisco.",
+        "answerBase": "be bound for ~",
+        "answerSurface": "bound for",
+        "choices": [
+          "bound for",
+          "bound to",
+          "free to do",
+          "true of"
+        ]
+      }
     }
   ],
   "notes": [

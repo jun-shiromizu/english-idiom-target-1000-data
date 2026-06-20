@@ -14,7 +14,18 @@
         "right now"
       ],
       "example-sentence": "Mr. Ohta, there's a man here at the reception who says he has to see you right away.",
-      "sentence-jp": "太田さま, 今すぐあなたにお会いしたいと言っている男性が, こちら受付にいらっしゃいます。"
+      "sentence-jp": "太田さま, 今すぐあなたにお会いしたいと言っている男性が, こちら受付にいらっしゃいます。",
+      "cloze": {
+        "maskedText": "Mr. Ohta, there's a man here at the reception who says he has to see you ____.",
+        "answerBase": "right away",
+        "answerSurface": "right away",
+        "choices": [
+          "right away",
+          "on purpose",
+          "for the most part",
+          "by degrees"
+        ]
+      }
     }
   ],
   "notes": []

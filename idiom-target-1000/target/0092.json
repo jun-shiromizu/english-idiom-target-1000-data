@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "It is really difficult to admit that we have made a mistake.",
-      "sentence-jp": "間違いをしたことを認めるのは本当に難しい。"
+      "sentence-jp": "間違いをしたことを認めるのは本当に難しい。",
+      "cloze": {
+        "maskedText": "It is really difficult to admit that we have ____.",
+        "answerBase": "make a mistake",
+        "answerSurface": "made a mistake",
+        "choices": [
+          "made a mistake",
+          "made progress",
+          "taken place",
+          "paid attention"
+        ]
+      }
     }
   ],
   "notes": []

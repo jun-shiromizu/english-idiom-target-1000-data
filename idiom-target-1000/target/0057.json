@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Zuri is an exchange student from Kenya who majors in Japanese Studies.",
-      "sentence-jp": "ズリは日本学を専攻するケニアからの交換留学生だ。"
+      "sentence-jp": "ズリは日本学を専攻するケニアからの交換留学生だ。",
+      "cloze": {
+        "maskedText": "Zuri is an exchange student from Kenya who ____ Japanese Studies.",
+        "answerBase": "major in ~",
+        "answerSurface": "majors in",
+        "choices": [
+          "majors in",
+          "graduates from",
+          "belongs to",
+          "succeeds in"
+        ]
+      }
     }
   ],
   "notes": [

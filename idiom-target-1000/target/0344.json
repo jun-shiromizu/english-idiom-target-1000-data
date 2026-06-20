@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "She made some small mistakes, but all in all, I think she’s done a good job.",
-      "sentence-jp": "彼女はいくつかの小さな間違いをしたが、全体的にはうまくこなしたと私は思う。"
+      "sentence-jp": "彼女はいくつかの小さな間違いをしたが、全体的にはうまくこなしたと私は思う。",
+      "cloze": {
+        "maskedText": "She made some small mistakes, but ____ , I think she’s done a good job.",
+        "answerBase": "all in all",
+        "answerSurface": "all in all",
+        "choices": [
+          "all in all",
+          "in theory",
+          "at the moment",
+          "as it were"
+        ]
+      }
     }
   ],
   "notes": [

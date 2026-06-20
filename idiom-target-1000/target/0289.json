@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "Last weekend I participated in a beach cleanup activity as a volunteer.",
-      "sentence-jp": "先週末, 私はボランティアとして海岸の清掃活動に参加した。"
+      "sentence-jp": "先週末, 私はボランティアとして海岸の清掃活動に参加した。",
+      "cloze": {
+        "maskedText": "Last weekend I ____ a beach cleanup activity as a volunteer.",
+        "answerBase": "participate in ~",
+        "answerSurface": "participated in",
+        "choices": [
+          "participated in",
+          "took part in",
+          "compensated for",
+          "looked after"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Recycling is an effective way to help the environment.",
-      "sentence-jp": "リサイクルは自然環境を助ける効果的な方法である。"
+      "sentence-jp": "リサイクルは自然環境を助ける効果的な方法である。",
+      "cloze": {
+        "maskedText": "Recycling is an effective way to help the ____.",
+        "answerBase": "environment",
+        "answerSurface": "environment",
+        "choices": [
+          "environment",
+          "vehicle",
+          "audience",
+          "laboratory"
+        ]
+      }
     }
   ],
   "notes": []

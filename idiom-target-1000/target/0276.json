@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "\"Who has won first prize?\" \"Well, as a matter of fact, I have.\"",
-      "sentence-jp": "『誰が1等賞を取りましたか』『じつは, 実を言うと, 私です』"
+      "sentence-jp": "『誰が1等賞を取りましたか』『じつは, 実を言うと, 私です』",
+      "cloze": {
+        "maskedText": "\"Who has won first prize?\" \"Well, ____ , I have.\"",
+        "answerBase": "as a matter of fact",
+        "answerSurface": "as a matter of fact",
+        "choices": [
+          "as a matter of fact",
+          "as a matter of course",
+          "on the contrary",
+          "by chance"
+        ]
+      }
     }
   ],
   "notes": [

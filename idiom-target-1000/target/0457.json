@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "If I had known your telephone number, I would have called you up.",
-      "sentence-jp": "もしあなたの電話番号を知っていたら、あなたに電話をかけただろうに。"
+      "sentence-jp": "もしあなたの電話番号を知っていたら、あなたに電話をかけただろうに。",
+      "cloze": {
+        "maskedText": "If I had known your telephone number, I would have ____.",
+        "answerBase": "call up (~)",
+        "answerSurface": "called you up",
+        "choices": [
+          "called you up",
+          "tied you up",
+          "cheered you up",
+          "shut you up"
+        ]
+      }
     }
   ],
   "notes": [

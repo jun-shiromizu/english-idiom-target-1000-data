@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "For one thing, the seats are too soft; for another, they are too small for us.",
-      "sentence-jp": "1つには, 座席が柔らかすぎる。もう1つには, それらは私たちには小さすぎる。"
+      "sentence-jp": "1つには, 座席が柔らかすぎる。もう1つには, それらは私たちには小さすぎる。",
+      "cloze": {
+        "maskedText": "____, the seats are too soft; for another, they are too small for us.",
+        "answerBase": "for one thing",
+        "answerSurface": "For one thing",
+        "choices": [
+          "For one thing",
+          "After all",
+          "In public",
+          "By mistake"
+        ]
+      }
     }
   ],
   "notes": [

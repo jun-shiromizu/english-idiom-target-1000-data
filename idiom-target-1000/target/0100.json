@@ -13,7 +13,18 @@
         "attend to ~"
       ],
       "example-sentence": "Everybody, please pay attention to what I am going to say!",
-      "sentence-jp": "皆さん、私がこれから言うことに注意を払ってください！"
+      "sentence-jp": "皆さん、私がこれから言うことに注意を払ってください！",
+      "cloze": {
+        "maskedText": "Everybody, please ____ what I am going to say!",
+        "answerBase": "pay attention to ~",
+        "answerSurface": "pay attention to",
+        "choices": [
+          "pay attention to",
+          "make room for",
+          "look forward to",
+          "take part in"
+        ]
+      }
     }
   ],
   "notes": [

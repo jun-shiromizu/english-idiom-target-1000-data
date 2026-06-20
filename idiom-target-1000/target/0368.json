@@ -12,7 +12,18 @@
         "respect"
       ],
       "example-sentence": "I look up to this movie star, who is also working for world peace.",
-      "sentence-jp": "私はこの映画スターを尊敬しているが、彼は世界平和のためにも活動している。"
+      "sentence-jp": "私はこの映画スターを尊敬しているが、彼は世界平和のためにも活動している。",
+      "cloze": {
+        "maskedText": "I ____ this movie star, who is also working for world peace.",
+        "answerBase": "look up to ~",
+        "answerSurface": "look up to",
+        "choices": [
+          "look up to",
+          "look down on",
+          "call for",
+          "break up"
+        ]
+      }
     }
   ],
   "notes": [

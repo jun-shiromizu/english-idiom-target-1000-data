@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "A group is not just a collection of individual talents.",
-      "sentence-jp": "集団は単なる個々の才能の集まりではない。"
+      "sentence-jp": "集団は単なる個々の才能の集まりではない。",
+      "cloze": {
+        "maskedText": "A group is not just a collection of ____ talents.",
+        "answerBase": "individual",
+        "answerSurface": "individual",
+        "choices": [
+          "individual",
+          "distant",
+          "shallow",
+          "central"
+        ]
+      }
     }
   ],
   "notes": []

@@ -14,7 +14,18 @@
         "come up with ~"
       ],
       "example-sentence": "Bill hit on a good answer to the question while he was taking a bath.",
-      "sentence-jp": "ビルはお風呂に入っている間にその問題に対するよい答えを思いついた。"
+      "sentence-jp": "ビルはお風呂に入っている間にその問題に対するよい答えを思いついた。",
+      "cloze": {
+        "maskedText": "Bill ____ a good answer to the question while he was taking a bath.",
+        "answerBase": "hit on ~",
+        "answerSurface": "hit on",
+        "choices": [
+          "hit on",
+          "occurred to",
+          "dawned on",
+          "agreed to"
+        ]
+      }
     }
   ],
   "notes": [

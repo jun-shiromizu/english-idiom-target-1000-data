@@ -13,7 +13,18 @@
         "be bored with [of] ~"
       ],
       "example-sentence": "I'm really tired of having the same thing for lunch every day.",
-      "sentence-jp": "私は昼食に毎日同じものを食べることに本当に飽きている。"
+      "sentence-jp": "私は昼食に毎日同じものを食べることに本当に飽きている。",
+      "cloze": {
+        "maskedText": "I'm really ____ having the same thing for lunch every day.",
+        "answerBase": "be tired of ~",
+        "answerSurface": "tired of",
+        "choices": [
+          "tired of",
+          "tired from",
+          "free of",
+          "bound to"
+        ]
+      }
     }
   ],
   "notes": [

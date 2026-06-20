@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "I don't need to point out that the food you eat has a direct impact on your health.",
-      "sentence-jp": "あなたの食べるものがあなたの健康に直接影響するということを私が指摘する必要はない。"
+      "sentence-jp": "あなたの食べるものがあなたの健康に直接影響するということを私が指摘する必要はない。",
+      "cloze": {
+        "maskedText": "I don't need to ____ that the food you eat has a direct impact on your health.",
+        "answerBase": "point out ~",
+        "answerSurface": "point out",
+        "choices": [
+          "point out",
+          "figure out",
+          "bring about",
+          "pick out"
+        ]
+      }
     }
   ],
   "notes": [

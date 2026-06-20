@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "During the test, the student marked his answers with a pencil.",
-      "sentence-jp": "テスト中に，その生徒は鉛筆で自分の解答に印をつけた。"
+      "sentence-jp": "テスト中に，その生徒は鉛筆で自分の解答に印をつけた。",
+      "cloze": {
+        "maskedText": "During the test, the student ____ his answers with a pencil.",
+        "answerBase": "mark",
+        "answerSurface": "marked",
+        "choices": [
+          "marked",
+          "folded",
+          "copied",
+          "forgot"
+        ]
+      }
     }
   ],
   "notes": []

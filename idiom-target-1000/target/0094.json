@@ -13,7 +13,18 @@
         "determine"
       ],
       "example-sentence": "Have you made up your mind which subjects you will take this school year?",
-      "sentence-jp": "この学年度にどの科目をとるか決めましたか。"
+      "sentence-jp": "この学年度にどの科目をとるか決めましたか。",
+      "cloze": {
+        "maskedText": "Have you ____ which subjects you will take this school year?",
+        "answerBase": "make up one's mind",
+        "answerSurface": "made up your mind",
+        "choices": [
+          "made up your mind",
+          "made a difference",
+          "kept your word",
+          "had your way"
+        ]
+      }
     }
   ],
   "notes": [

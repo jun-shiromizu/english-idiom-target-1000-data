@@ -13,7 +13,18 @@
         "in effect"
       ],
       "example-sentence": "We thought everything was going on smoothly, but in reality, we were all mistaken.",
-      "sentence-jp": "私たちは, すべてのことが順調にいっていると考えていたが, 実際には私たちは全員間違っていた。"
+      "sentence-jp": "私たちは, すべてのことが順調にいっていると考えていたが, 実際には私たちは全員間違っていた。",
+      "cloze": {
+        "maskedText": "We thought everything was going on smoothly, but ____ , we were all mistaken.",
+        "answerBase": "in reality",
+        "answerSurface": "in reality",
+        "choices": [
+          "in reality",
+          "in detail",
+          "in advance",
+          "in return"
+        ]
+      }
     }
   ],
   "notes": [

@@ -12,7 +12,18 @@
         "go astray"
       ],
       "example-sentence": "If you get lost in a foreign country, do not hesitate to ask somebody for help.",
-      "sentence-jp": "もし外国で道に迷ったら、躊躇せず誰かに助けを求めなさい。"
+      "sentence-jp": "もし外国で道に迷ったら、躊躇せず誰かに助けを求めなさい。",
+      "cloze": {
+        "maskedText": "If you ____ in a foreign country, do not hesitate to ask somebody for help.",
+        "answerBase": "get lost",
+        "answerSurface": "get lost",
+        "choices": [
+          "get lost",
+          "get together",
+          "get over",
+          "get in"
+        ]
+      }
     }
   ],
   "notes": [

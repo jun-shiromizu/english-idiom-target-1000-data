@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Technological change will create new ways of living.",
-      "sentence-jp": "技術の変化は新たな生活様式を創り出す。"
+      "sentence-jp": "技術の変化は新たな生活様式を創り出す。",
+      "cloze": {
+        "maskedText": "Technological change will ____ new ways of living.",
+        "answerBase": "create",
+        "answerSurface": "create",
+        "choices": [
+          "create",
+          "destroy",
+          "ignore",
+          "delay"
+        ]
+      }
     }
   ],
   "notes": []

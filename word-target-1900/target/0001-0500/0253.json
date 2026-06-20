@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Too much rain can be bad for farmers and their crops.",
-      "sentence-jp": "雨が多すぎるのは農家の人たちとその作物にとって悪いかもしれない。"
+      "sentence-jp": "雨が多すぎるのは農家の人たちとその作物にとって悪いかもしれない。",
+      "cloze": {
+        "maskedText": "Too much rain can be bad for farmers and their ____.",
+        "answerBase": "crop",
+        "answerSurface": "crops",
+        "choices": [
+          "crops",
+          "bridges",
+          "signals",
+          "payments"
+        ]
+      }
     }
   ],
   "notes": []

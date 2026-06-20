@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Carbon dioxide contributes to global climate change.",
-      "sentence-jp": "二酸化炭素は地球の気候変動の一因となる。"
+      "sentence-jp": "二酸化炭素は地球の気候変動の一因となる。",
+      "cloze": {
+        "maskedText": "Carbon dioxide ____ to global climate change.",
+        "answerBase": "contribute to",
+        "answerSurface": "contributes",
+        "choices": [
+          "contributes",
+          "belongs",
+          "travels",
+          "measures"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "$ 1 is almost equal to 100 yen.",
-      "sentence-jp": "1ドルはほぼ100円に等しい。"
+      "sentence-jp": "1ドルはほぼ100円に等しい。",
+      "cloze": {
+        "maskedText": "$ 1 is almost ____ to 100 yen.",
+        "answerBase": "equal to",
+        "answerSurface": "equal",
+        "choices": [
+          "equal",
+          "similar",
+          "official",
+          "familiar"
+        ]
+      }
     }
   ],
   "notes": []

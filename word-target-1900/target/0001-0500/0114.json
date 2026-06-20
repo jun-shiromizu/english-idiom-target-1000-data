@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "All citizens should advance their knowledge of global ecology.",
-      "sentence-jp": "すべての市民は地球生態学の知識を深めるべきだ。"
+      "sentence-jp": "すべての市民は地球生態学の知識を深めるべきだ。",
+      "cloze": {
+        "maskedText": "All citizens should ____ their knowledge of global ecology.",
+        "answerBase": "advance",
+        "answerSurface": "advance",
+        "choices": [
+          "advance",
+          "ignore",
+          "borrow",
+          "freeze"
+        ]
+      }
     }
   ],
   "notes": []

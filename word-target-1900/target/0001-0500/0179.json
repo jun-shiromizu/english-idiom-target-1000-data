@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "The English word \"cool\" has a positive meaning.",
-      "sentence-jp": "英語の\"cool\"は肯定的な意味を持つ。"
+      "sentence-jp": "英語の\"cool\"は肯定的な意味を持つ。",
+      "cloze": {
+        "maskedText": "The English word \"cool\" has a ____ meaning.",
+        "answerBase": "positive",
+        "answerSurface": "positive",
+        "choices": [
+          "positive",
+          "formal",
+          "private",
+          "narrow"
+        ]
+      }
     }
   ],
   "notes": []

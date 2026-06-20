@@ -15,7 +15,18 @@
         "at the end of the day"
       ],
       "example-sentence": "In the end, we decided to go to the beach for a swim.",
-      "sentence-jp": "結局, 私たちは泳ぎに海辺へ行くことに決めた。"
+      "sentence-jp": "結局, 私たちは泳ぎに海辺へ行くことに決めた。",
+      "cloze": {
+        "maskedText": "____, we decided to go to the beach for a swim.",
+        "answerBase": "in the end",
+        "answerSurface": "In the end",
+        "choices": [
+          "In the end",
+          "In contrast",
+          "In advance",
+          "In particular"
+        ]
+      }
     }
   ],
   "notes": []

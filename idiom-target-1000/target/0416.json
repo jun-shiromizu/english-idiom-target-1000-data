@@ -13,14 +13,36 @@
         "just about ~"
       ],
       "example-sentence": "He was all but broke after shopping at the department store yesterday.",
-      "sentence-jp": "昨日デパートで買い物をした後、彼は一文無しも同然だった。"
+      "sentence-jp": "昨日デパートで買い物をした後、彼は一文無しも同然だった。",
+      "cloze": {
+        "maskedText": "He was ____ broke after shopping at the department store yesterday.",
+        "answerBase": "all but ~",
+        "answerSurface": "all but",
+        "choices": [
+          "all but",
+          "at large",
+          "at length",
+          "next to"
+        ]
+      }
     },
     {
       "idiom-jp": "〜以外すべて",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "All but Peter were unable to get to class on time because the bus was not running.",
-      "sentence-jp": "ピーター以外の全員はバスが動いていなかったので授業に時間どおりには着けなかった。"
+      "sentence-jp": "ピーター以外の全員はバスが動いていなかったので授業に時間どおりには着けなかった。",
+      "cloze": {
+        "maskedText": "____ Peter were unable to get to class on time because the bus was not running.",
+        "answerBase": "all but ~",
+        "answerSurface": "All but",
+        "choices": [
+          "All but",
+          "Up to",
+          "Next to",
+          "By way of"
+        ]
+      }
     }
   ],
   "notes": [

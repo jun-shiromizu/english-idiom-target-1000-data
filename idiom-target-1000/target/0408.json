@@ -9,14 +9,36 @@
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "With her father in the hospital, she’s the only worker to provide for her family of four.",
-      "sentence-jp": "父親が入院しているので、彼女は4人家族を扶養するただ1人の働き手だ。"
+      "sentence-jp": "父親が入院しているので、彼女は4人家族を扶養するただ1人の働き手だ。",
+      "cloze": {
+        "maskedText": "With her father in the hospital, she’s the only worker to ____ her family of four.",
+        "answerBase": "provide for ~",
+        "answerSurface": "provide for",
+        "choices": [
+          "provide for",
+          "put down",
+          "run over",
+          "set out"
+        ]
+      }
     },
     {
       "idiom-jp": "〜に備える；(法律が)〜を規定する",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "In our rapidly graying society, we need more people who provide for the care of the elderly.",
-      "sentence-jp": "急速に高齢化する社会において、私たちには老人介護に備える人がもっと必要だ。"
+      "sentence-jp": "急速に高齢化する社会において、私たちには老人介護に備える人がもっと必要だ。",
+      "cloze": {
+        "maskedText": "In our rapidly graying society, we need more people who ____ the care of the elderly.",
+        "answerBase": "provide for ~",
+        "answerSurface": "provide for",
+        "choices": [
+          "provide for",
+          "put down",
+          "run over",
+          "turn it in"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The aim of the meeting is to make a budget for next year.",
-      "sentence-jp": "その会合の目的は翌年の予算を立てることである。"
+      "sentence-jp": "その会合の目的は翌年の予算を立てることである。",
+      "cloze": {
+        "maskedText": "The ____ of the meeting is to make a budget for next year.",
+        "answerBase": "aim",
+        "answerSurface": "aim",
+        "choices": [
+          "aim",
+          "rain",
+          "track",
+          "crop"
+        ]
+      }
     }
   ],
   "notes": []

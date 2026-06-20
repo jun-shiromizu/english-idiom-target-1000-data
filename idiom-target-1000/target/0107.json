@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "We had better make reservations early if we want to travel during the holiday season.",
-      "sentence-jp": "私たちは休暇シーズン中に旅行をしたいのなら, 早く予約したほうがいい。"
+      "sentence-jp": "私たちは休暇シーズン中に旅行をしたいのなら, 早く予約したほうがいい。",
+      "cloze": {
+        "maskedText": "We ____ make reservations early if we want to travel during the holiday season.",
+        "answerBase": "had better do",
+        "answerSurface": "had better",
+        "choices": [
+          "had better",
+          "used to",
+          "happen to",
+          "pretend to"
+        ]
+      }
     }
   ],
   "notes": [

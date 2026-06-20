@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "He united the whole country through his powerful and thoughtful speeches.",
-      "sentence-jp": "彼はその力強く思慮深い演説で全国民を団結させた。"
+      "sentence-jp": "彼はその力強く思慮深い演説で全国民を団結させた。",
+      "cloze": {
+        "maskedText": "He ____ the whole country through his powerful and thoughtful speeches.",
+        "answerBase": "unite",
+        "answerSurface": "united",
+        "choices": [
+          "united",
+          "measured",
+          "ignored",
+          "protected"
+        ]
+      }
     }
   ],
   "notes": []

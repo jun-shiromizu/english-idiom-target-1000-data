@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Imagine that you won the lottery.",
-      "sentence-jp": "宝くじが当たったと想像しなさい。"
+      "sentence-jp": "宝くじが当たったと想像しなさい。",
+      "cloze": {
+        "maskedText": "____ that you won the lottery.",
+        "answerBase": "imagine",
+        "answerSurface": "Imagine",
+        "choices": [
+          "Imagine",
+          "Promise",
+          "Reveal",
+          "Collect"
+        ]
+      }
     }
   ],
   "notes": []

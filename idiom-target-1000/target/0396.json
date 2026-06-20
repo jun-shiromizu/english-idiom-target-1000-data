@@ -9,14 +9,36 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "John traveled through Syria before deciding to settle down in a small village in Spain.",
-      "sentence-jp": "ジョンはスペインの小さな村に定住すると決める前にシリアをくまなく旅行した。"
+      "sentence-jp": "ジョンはスペインの小さな村に定住すると決める前にシリアをくまなく旅行した。",
+      "cloze": {
+        "maskedText": "John traveled through Syria before deciding to ____ in a small village in Spain.",
+        "answerBase": "settle down",
+        "answerSurface": "settle down",
+        "choices": [
+          "settle down",
+          "live on",
+          "look to",
+          "put out"
+        ]
+      }
     },
     {
       "idiom-jp": "(腰を据えて)始める",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "We were just settling down to dinner when there was a call from Eita, my friend.",
-      "sentence-jp": "友人のエイタから電話がかかってきたとき、私たちはちょうど夕食を始めるところだった。"
+      "sentence-jp": "友人のエイタから電話がかかってきたとき、私たちはちょうど夕食を始めるところだった。",
+      "cloze": {
+        "maskedText": "We were just ____ to dinner when there was a call from Eita, my friend.",
+        "answerBase": "settle down",
+        "answerSurface": "settling down",
+        "choices": [
+          "settling down",
+          "looking up",
+          "going over",
+          "putting out"
+        ]
+      }
     }
   ],
   "notes": [

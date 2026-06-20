@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Solar power is considered to be a clean source of energy.",
-      "sentence-jp": "太陽光熱はクリーンなエネルギー源であると見なされている。"
+      "sentence-jp": "太陽光熱はクリーンなエネルギー源であると見なされている。",
+      "cloze": {
+        "maskedText": "Solar power is considered to be a clean ____ of energy.",
+        "answerBase": "source",
+        "answerSurface": "source",
+        "choices": [
+          "source",
+          "branch",
+          "customer",
+          "schedule"
+        ]
+      }
     }
   ],
   "notes": []

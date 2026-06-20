@@ -18,7 +18,18 @@
         "on occasion(s)"
       ],
       "example-sentence": "Old friends of mine from elementary school send me e-mails every once in a while.",
-      "sentence-jp": "小学校からの古い友人たちはときどき私にEメールを送ってくれる。"
+      "sentence-jp": "小学校からの古い友人たちはときどき私にEメールを送ってくれる。",
+      "cloze": {
+        "maskedText": "Old friends of mine from elementary school send me e-mails ____.",
+        "answerBase": "(every) once in a while",
+        "answerSurface": "every once in a while",
+        "choices": [
+          "every once in a while",
+          "all of a sudden",
+          "for good",
+          "in all"
+        ]
+      }
     }
   ],
   "notes": []

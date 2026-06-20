@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Melinda believed in Santa Claus until she became ten years old.",
-      "sentence-jp": "メリンダは 10 歳になるまでサンタクロースの存在を信じていた。"
+      "sentence-jp": "メリンダは 10 歳になるまでサンタクロースの存在を信じていた。",
+      "cloze": {
+        "maskedText": "Melinda ____ Santa Claus until she became ten years old.",
+        "answerBase": "believe in ~",
+        "answerSurface": "believed in",
+        "choices": [
+          "believed in",
+          "heard from",
+          "suffered from",
+          "prepared for"
+        ]
+      }
     }
   ],
   "notes": [

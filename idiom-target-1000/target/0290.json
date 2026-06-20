@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "Many young fathers are taking part in child rearing these days.",
-      "sentence-jp": "最近では多くの若い父親たちが子育てに参加している。"
+      "sentence-jp": "最近では多くの若い父親たちが子育てに参加している。",
+      "cloze": {
+        "maskedText": "Many young fathers are ____ child rearing these days.",
+        "answerBase": "take part in ~",
+        "answerSurface": "taking part in",
+        "choices": [
+          "taking part in",
+          "participating in",
+          "showing up in",
+          "giving way to"
+        ]
+      }
     }
   ],
   "notes": []

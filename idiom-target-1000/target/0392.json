@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "In the world today, a great many people have to live on a very inadequate diet.",
-      "sentence-jp": "今日の世界では、非常に多くの人々が著しく不適切な食事を常食としなければならない。"
+      "sentence-jp": "今日の世界では、非常に多くの人々が著しく不適切な食事を常食としなければならない。",
+      "cloze": {
+        "maskedText": "In the world today, a great many people have to ____ a very inadequate diet.",
+        "answerBase": "live on (~)",
+        "answerSurface": "live on",
+        "choices": [
+          "live on",
+          "look to",
+          "put out",
+          "settle down"
+        ]
+      }
     },
     {
       "idiom-jp": "(〜の収入・金額)で生活する",
@@ -19,14 +30,36 @@
         "live off ~"
       ],
       "example-sentence": "Few couples can afford to live on one person’s earnings, especially if they have children.",
-      "sentence-jp": "ほとんどの夫婦は、特に子供がいるなら、1人分の収入で生活する余裕はない。"
+      "sentence-jp": "ほとんどの夫婦は、特に子供がいるなら、1人分の収入で生活する余裕はない。",
+      "cloze": {
+        "maskedText": "Few couples can afford to ____ one person’s earnings, especially if they have children.",
+        "answerBase": "live on (~)",
+        "answerSurface": "live on",
+        "choices": [
+          "live on",
+          "look to",
+          "put out",
+          "go over"
+        ]
+      }
     },
     {
       "idiom-jp": "生き続ける",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "The name of this Edo era’s great artist lives on today in many museums around the world.",
-      "sentence-jp": "この江戸時代の偉大な画家の名前は、今日も世界中の多くの美術館で生き続けている。"
+      "sentence-jp": "この江戸時代の偉大な画家の名前は、今日も世界中の多くの美術館で生き続けている。",
+      "cloze": {
+        "maskedText": "The name of this Edo era’s great artist ____ today in many museums around the world.",
+        "answerBase": "live on (~)",
+        "answerSurface": "lives on",
+        "choices": [
+          "lives on",
+          "looks to",
+          "goes over",
+          "settles down"
+        ]
+      }
     }
   ],
   "notes": [

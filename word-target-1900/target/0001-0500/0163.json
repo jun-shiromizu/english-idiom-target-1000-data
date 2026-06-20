@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Technology will make the efficient use of natural resources possible.",
-      "sentence-jp": "科学技術は天然資源の効率的な利用を可能にするだろう。"
+      "sentence-jp": "科学技術は天然資源の効率的な利用を可能にするだろう。",
+      "cloze": {
+        "maskedText": "Technology will make the efficient use of natural ____ possible.",
+        "answerBase": "resource",
+        "answerSurface": "resources",
+        "choices": [
+          "resources",
+          "lectures",
+          "windows",
+          "corners"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Most legal systems are based on a belief in human rights.",
-      "sentence-jp": "たいていの法律制度は人権に対する信念に基づく。"
+      "sentence-jp": "たいていの法律制度は人権に対する信念に基づく。",
+      "cloze": {
+        "maskedText": "Most ____ systems are based on a belief in human rights.",
+        "answerBase": "legal",
+        "answerSurface": "legal",
+        "choices": [
+          "legal",
+          "mobile",
+          "actual",
+          "ordinary"
+        ]
+      }
     }
   ],
   "notes": []

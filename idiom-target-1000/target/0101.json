@@ -14,7 +14,18 @@
         "attend to ~"
       ],
       "example-sentence": "We should take care of our health by eating healthy food and doing regular exercise.",
-      "sentence-jp": "私たちは健康的な食事をし、定期的な運動をすることで健康に気を配るべきだ。"
+      "sentence-jp": "私たちは健康的な食事をし、定期的な運動をすることで健康に気を配るべきだ。",
+      "cloze": {
+        "maskedText": "We should ____ our health by eating healthy food and doing regular exercise.",
+        "answerBase": "take care of ~",
+        "answerSurface": "take care of",
+        "choices": [
+          "take care of",
+          "look forward to",
+          "get rid of",
+          "ask for"
+        ]
+      }
     }
   ],
   "notes": [

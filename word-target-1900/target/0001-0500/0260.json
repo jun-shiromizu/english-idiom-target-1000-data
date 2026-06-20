@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Many societies try their best to prevent children from being victims of crime.",
-      "sentence-jp": "多くの社会は，子供が犯罪の犠牲者になるのを防ごうと最善を尽くしている。"
+      "sentence-jp": "多くの社会は，子供が犯罪の犠牲者になるのを防ごうと最善を尽くしている。",
+      "cloze": {
+        "maskedText": "Many societies try their best to prevent children from being victims of ____.",
+        "answerBase": "crime",
+        "answerSurface": "crime",
+        "choices": [
+          "crime",
+          "nature",
+          "fashion",
+          "traffic"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The Olympic Games originated in ancient times in Greece.",
-      "sentence-jp": "オリンピックは古代にギリシャで始まった。"
+      "sentence-jp": "オリンピックは古代にギリシャで始まった。",
+      "cloze": {
+        "maskedText": "The Olympic Games originated in ____ times in Greece.",
+        "answerBase": "ancient",
+        "answerSurface": "ancient",
+        "choices": [
+          "ancient",
+          "regular",
+          "formal",
+          "cheerful"
+        ]
+      }
     }
   ],
   "notes": []

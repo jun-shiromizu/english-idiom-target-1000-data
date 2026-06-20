@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Your language can affect your way of thinking.",
-      "sentence-jp": "あなたの使う言語はあなたの考え方に影響を及ぼす可能性がある。"
+      "sentence-jp": "あなたの使う言語はあなたの考え方に影響を及ぼす可能性がある。",
+      "cloze": {
+        "maskedText": "Your language can ____ your way of thinking.",
+        "answerBase": "affect",
+        "answerSurface": "affect",
+        "choices": [
+          "affect",
+          "replace",
+          "avoid",
+          "locate"
+        ]
+      }
     }
   ],
   "notes": []

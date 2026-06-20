@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The mixing of races may be necessary for allowing Japanese society to function.",
-      "sentence-jp": "人種の混合は日本社会を機能させるために必要かもしれない。"
+      "sentence-jp": "人種の混合は日本社会を機能させるために必要かもしれない。",
+      "cloze": {
+        "maskedText": "The mixing of ____ may be necessary for allowing Japanese society to function.",
+        "answerBase": "race",
+        "answerSurface": "races",
+        "choices": [
+          "races",
+          "bridges",
+          "signals",
+          "tickets"
+        ]
+      }
     }
   ],
   "notes": []

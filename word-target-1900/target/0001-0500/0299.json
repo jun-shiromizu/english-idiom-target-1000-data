@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Nearly half of the world's population lives in urban areas.",
-      "sentence-jp": "世界の人口の半分近くは都市圏に住んでいる。"
+      "sentence-jp": "世界の人口の半分近くは都市圏に住んでいる。",
+      "cloze": {
+        "maskedText": "Nearly half of the world's population lives in ____ areas.",
+        "answerBase": "urban",
+        "answerSurface": "urban",
+        "choices": [
+          "urban",
+          "actual",
+          "moral",
+          "legal"
+        ]
+      }
     }
   ],
   "notes": []

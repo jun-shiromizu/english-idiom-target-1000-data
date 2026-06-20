@@ -15,7 +15,18 @@
         "concerning"
       ],
       "example-sentence": "The committee had a heated debate as to whether the construction of the park should be delayed.",
-      "sentence-jp": "委員会は公園の建設を遅らせるべきかということに関して、激しい議論をした。"
+      "sentence-jp": "委員会は公園の建設を遅らせるべきかということに関して、激しい議論をした。",
+      "cloze": {
+        "maskedText": "The committee had a heated debate ____ whether the construction of the park should be delayed.",
+        "answerBase": "as to ~",
+        "answerSurface": "as to",
+        "choices": [
+          "as to",
+          "as for",
+          "with all",
+          "by all means"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Jane was already financially independent of her parents before she finished university.",
-      "sentence-jp": "ジェーンは大学を卒業する前にすでに経済的に両親から自立していた。"
+      "sentence-jp": "ジェーンは大学を卒業する前にすでに経済的に両親から自立していた。",
+      "cloze": {
+        "maskedText": "Jane was already financially ____ her parents before she finished university.",
+        "answerBase": "be independent of ~",
+        "answerSurface": "independent of",
+        "choices": [
+          "independent of",
+          "dependent on",
+          "out of sight",
+          "looked up to"
+        ]
+      }
     }
   ],
   "notes": [

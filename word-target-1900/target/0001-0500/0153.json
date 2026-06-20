@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Men and women seem to handle emotions quite differently.",
-      "sentence-jp": "男性と女性はまったく異なったやり方で感情に対処するように思える。"
+      "sentence-jp": "男性と女性はまったく異なったやり方で感情に対処するように思える。",
+      "cloze": {
+        "maskedText": "Men and women seem to handle ____ quite differently.",
+        "answerBase": "emotion",
+        "answerSurface": "emotions",
+        "choices": [
+          "emotions",
+          "curtains",
+          "tickets",
+          "schedules"
+        ]
+      }
     }
   ],
   "notes": []

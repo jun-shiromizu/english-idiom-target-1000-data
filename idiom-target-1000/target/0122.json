@@ -12,7 +12,18 @@
         "as a consequence (of ~)"
       ],
       "example-sentence": "The child fell ill and, as a result, her mother had to stay home to take care of her.",
-      "sentence-jp": "その子供は病気になり, 結果として母親は彼女の世話をするために家にいなければならなかった。"
+      "sentence-jp": "その子供は病気になり, 結果として母親は彼女の世話をするために家にいなければならなかった。",
+      "cloze": {
+        "maskedText": "The child fell ill and, ____ , her mother had to stay home to take care of her.",
+        "answerBase": "as a result",
+        "answerSurface": "as a result",
+        "choices": [
+          "as a result",
+          "by the way",
+          "for example",
+          "at any rate"
+        ]
+      }
     }
   ],
   "notes": []

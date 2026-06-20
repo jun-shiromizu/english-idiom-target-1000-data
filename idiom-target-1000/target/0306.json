@@ -10,7 +10,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "There is no doubt that all human relationships rest on mutual respect and trust.",
-      "sentence-jp": "すべての人間関係は相互の敬意と信頼の上に成り立っていることは間違いない。"
+      "sentence-jp": "すべての人間関係は相互の敬意と信頼の上に成り立っていることは間違いない。",
+      "cloze": {
+        "maskedText": "There is no doubt that all human relationships ____ mutual respect and trust.",
+        "answerBase": "rest on ~",
+        "answerSurface": "rest on",
+        "choices": [
+          "rest on",
+          "count on",
+          "stick out",
+          "date back to"
+        ]
+      }
     }
   ],
   "notes": [

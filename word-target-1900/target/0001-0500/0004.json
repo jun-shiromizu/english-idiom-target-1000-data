@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Her silence means that she does not agree with you.",
-      "sentence-jp": "彼女の沈黙は彼女があなたに同意していないことを意味する。"
+      "sentence-jp": "彼女の沈黙は彼女があなたに同意していないことを意味する。",
+      "cloze": {
+        "maskedText": "Her silence ____ that she does not agree with you.",
+        "answerBase": "mean",
+        "answerSurface": "means",
+        "choices": [
+          "means",
+          "changes",
+          "breaks",
+          "wastes"
+        ]
+      }
     }
   ],
   "notes": []

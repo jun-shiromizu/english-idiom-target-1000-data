@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "The story was so moving that the children could not hold back their tears.",
-      "sentence-jp": "その物語はとても感動的だったので、子供たちは涙を抑えることができなかった。"
+      "sentence-jp": "その物語はとても感動的だったので、子供たちは涙を抑えることができなかった。",
+      "cloze": {
+        "maskedText": "The story was so moving that the children could not ____ their tears.",
+        "answerBase": "hold back ~",
+        "answerSurface": "hold back",
+        "choices": [
+          "hold back",
+          "set aside",
+          "feel sorry for",
+          "stand out"
+        ]
+      }
     }
   ],
   "notes": [

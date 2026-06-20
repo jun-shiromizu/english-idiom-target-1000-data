@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "It's a well-known fact that those who enjoy smoking often suffer from lung diseases.",
-      "sentence-jp": "愛煙家の人々がしばしば肺の病気に苦しむことはよく知られた事実だ。"
+      "sentence-jp": "愛煙家の人々がしばしば肺の病気に苦しむことはよく知られた事実だ。",
+      "cloze": {
+        "maskedText": "It's a well-known fact that those who enjoy smoking often ____ lung diseases.",
+        "answerBase": "suffer from ~",
+        "answerSurface": "suffer from",
+        "choices": [
+          "suffer from",
+          "recover from",
+          "look for",
+          "think of"
+        ]
+      }
     }
   ],
   "notes": [

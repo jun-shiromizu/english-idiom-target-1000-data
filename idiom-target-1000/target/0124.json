@@ -9,7 +9,18 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "We tend to keep doing things as usual until some serious changes occur.",
-      "sentence-jp": "私たちは何か深刻な変化が起きるまでいつもどおりに物事をし続ける傾向がある。"
+      "sentence-jp": "私たちは何か深刻な変化が起きるまでいつもどおりに物事をし続ける傾向がある。",
+      "cloze": {
+        "maskedText": "We tend to keep doing things ____ until some serious changes occur.",
+        "answerBase": "as usual",
+        "answerSurface": "as usual",
+        "choices": [
+          "as usual",
+          "at random",
+          "by hand",
+          "in private"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Jim, I really admire you for how easily you’ve adapted to your new way of life here.",
-      "sentence-jp": "ジム、私はあなたが簡単にここでの新しい生活様式に順応したことに本当に感心しています。"
+      "sentence-jp": "ジム、私はあなたが簡単にここでの新しい生活様式に順応したことに本当に感心しています。",
+      "cloze": {
+        "maskedText": "Jim, I really admire you for how easily you’ve ____ your new way of life here.",
+        "answerBase": "adapt to ~",
+        "answerSurface": "adapted to",
+        "choices": [
+          "adapted to",
+          "added to",
+          "objected to",
+          "resorted to"
+        ]
+      }
     }
   ],
   "notes": [

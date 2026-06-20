@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Women's status in the Japanese workplace has improved slowly over the decades.",
-      "sentence-jp": "日本の職場における女性の地位はこの数十年間で緩やかに向上した。"
+      "sentence-jp": "日本の職場における女性の地位はこの数十年間で緩やかに向上した。",
+      "cloze": {
+        "maskedText": "Women's ____ in the Japanese workplace has improved slowly over the decades.",
+        "answerBase": "status",
+        "answerSurface": "status",
+        "choices": [
+          "status",
+          "traffic",
+          "surface",
+          "lecture"
+        ]
+      }
     }
   ],
   "notes": []

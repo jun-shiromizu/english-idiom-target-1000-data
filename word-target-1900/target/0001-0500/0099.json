@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "You should always look for correct information before starting a report.",
-      "sentence-jp": "報告書を書く前にはいつも正しい情報を探すべきだ。"
+      "sentence-jp": "報告書を書く前にはいつも正しい情報を探すべきだ。",
+      "cloze": {
+        "maskedText": "You should always look for ____ information before starting a report.",
+        "answerBase": "correct",
+        "answerSurface": "correct",
+        "choices": [
+          "correct",
+          "central",
+          "helpful",
+          "average"
+        ]
+      }
     }
   ],
   "notes": []

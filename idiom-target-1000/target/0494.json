@@ -12,7 +12,18 @@
         "prevent A from B"
       ],
       "example-sentence": "When she appeared at the door, I found it hard to keep my voice from rising in a happy shout.",
-      "sentence-jp": "彼女が戸口に現れたとき、私は自分の声がうれしい叫びで高くなるのを抑えるのが難しかった。"
+      "sentence-jp": "彼女が戸口に現れたとき、私は自分の声がうれしい叫びで高くなるのを抑えるのが難しかった。",
+      "cloze": {
+        "maskedText": "When she appeared at the door, I found it hard to ____ my voice from rising in a happy shout.",
+        "answerBase": "keep A from B",
+        "answerSurface": "keep",
+        "choices": [
+          "keep",
+          "discourage",
+          "forbid",
+          "prohibit"
+        ]
+      }
     }
   ],
   "notes": [

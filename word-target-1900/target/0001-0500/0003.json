@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Light exercise improves thinking ability.",
-      "sentence-jp": "軽い運動は思考力を向上させる。"
+      "sentence-jp": "軽い運動は思考力を向上させる。",
+      "cloze": {
+        "maskedText": "Light exercise ____ thinking ability.",
+        "answerBase": "improve",
+        "answerSurface": "improves",
+        "choices": [
+          "improves",
+          "weakens",
+          "limits",
+          "ignores"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She seems to have a great interest in classical music.",
-      "sentence-jp": "彼女はクラシック音楽に大いに興味があるようだ。"
+      "sentence-jp": "彼女はクラシック音楽に大いに興味があるようだ。",
+      "cloze": {
+        "maskedText": "She seems to have a great ____ in classical music.",
+        "answerBase": "interest",
+        "answerSurface": "interest",
+        "choices": [
+          "interest",
+          "mistake",
+          "silence",
+          "battle"
+        ]
+      }
     }
   ],
   "notes": []

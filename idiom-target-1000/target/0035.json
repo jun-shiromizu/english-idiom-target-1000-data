@@ -12,7 +12,18 @@
         "come to ~"
       ],
       "example-sentence": "The damage from the recent typhoon is estimated to amount to billions of yen.",
-      "sentence-jp": "先ごろの台風の被害は総額数十億円になると推計されている。"
+      "sentence-jp": "先ごろの台風の被害は総額数十億円になると推計されている。",
+      "cloze": {
+        "maskedText": "The damage from the recent typhoon is estimated to ____ billions of yen.",
+        "answerBase": "amount to ~",
+        "answerSurface": "amount to",
+        "choices": [
+          "amount to",
+          "depend on",
+          "come from",
+          "belong to"
+        ]
+      }
     }
   ],
   "notes": [

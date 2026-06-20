@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Sadly, her aunt died of a rare lung disease in her late 40s.",
-      "sentence-jp": "悲しいことに、彼女のおばは 40 代後半に珍しい肺の病気で亡くなった。"
+      "sentence-jp": "悲しいことに、彼女のおばは 40 代後半に珍しい肺の病気で亡くなった。",
+      "cloze": {
+        "maskedText": "Sadly, her aunt ____ a rare lung disease in her late 40s.",
+        "answerBase": "die of ~",
+        "answerSurface": "died of",
+        "choices": [
+          "died of",
+          "suffered from",
+          "complained of",
+          "recovered from"
+        ]
+      }
     }
   ],
   "notes": [

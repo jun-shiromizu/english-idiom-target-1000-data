@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "She wanted me to agree with her point of view, but I couldn't.",
-      "sentence-jp": "彼女は私に彼女の考え方に同意してほしかったが, 私にはできなかった。"
+      "sentence-jp": "彼女は私に彼女の考え方に同意してほしかったが, 私にはできなかった。",
+      "cloze": {
+        "maskedText": "She wanted me to ____ her point of view, but I couldn't.",
+        "answerBase": "agree with ~",
+        "answerSurface": "agree with",
+        "choices": [
+          "agree with",
+          "agree to",
+          "apply for",
+          "correspond to"
+        ]
+      }
     }
   ],
   "notes": []

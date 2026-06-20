@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "A millionaire from China owns this hotel.",
-      "sentence-jp": "中国の富豪がこのホテルを所有している。"
+      "sentence-jp": "中国の富豪がこのホテルを所有している。",
+      "cloze": {
+        "maskedText": "A millionaire from China ____ this hotel.",
+        "answerBase": "own",
+        "answerSurface": "owns",
+        "choices": [
+          "owns",
+          "rents",
+          "leaves",
+          "enters"
+        ]
+      }
     }
   ],
   "notes": []

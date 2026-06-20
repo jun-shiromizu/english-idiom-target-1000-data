@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The man could not bear his stomachache.",
-      "sentence-jp": "その男性は胃の痛みに耐えることができなかった。"
+      "sentence-jp": "その男性は胃の痛みに耐えることができなかった。",
+      "cloze": {
+        "maskedText": "The man could not ____ his stomachache.",
+        "answerBase": "bear",
+        "answerSurface": "bear",
+        "choices": [
+          "bear",
+          "examine",
+          "cure",
+          "mention"
+        ]
+      }
     }
   ],
   "notes": []

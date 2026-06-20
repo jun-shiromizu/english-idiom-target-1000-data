@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "I have decided to ignore any advice from others and trust my judgment.",
-      "sentence-jp": "私は他人からのどんな忠告も無視して自分の判断を信頼することに決めた。"
+      "sentence-jp": "私は他人からのどんな忠告も無視して自分の判断を信頼することに決めた。",
+      "cloze": {
+        "maskedText": "I have decided to ignore any advice from others and ____ my judgment.",
+        "answerBase": "trust",
+        "answerSurface": "trust",
+        "choices": [
+          "trust",
+          "measure",
+          "survey",
+          "bury"
+        ]
+      }
     }
   ],
   "notes": []

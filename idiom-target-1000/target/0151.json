@@ -12,7 +12,18 @@
         "publicly"
       ],
       "example-sentence": "I think children should be taught how to behave in public when they are very young.",
-      "sentence-jp": "子供たちは人前でどのように振る舞うべきか, とても幼いうちに教えられるべきだと私は考える。"
+      "sentence-jp": "子供たちは人前でどのように振る舞うべきか, とても幼いうちに教えられるべきだと私は考える。",
+      "cloze": {
+        "maskedText": "I think children should be taught how to behave ____ when they are very young.",
+        "answerBase": "in public",
+        "answerSurface": "in public",
+        "choices": [
+          "in public",
+          "in fact",
+          "in charge",
+          "in debt"
+        ]
+      }
     }
   ],
   "notes": [

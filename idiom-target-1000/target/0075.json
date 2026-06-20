@@ -13,7 +13,18 @@
         "select"
       ],
       "example-sentence": "Yumi, can you come along with me and help me pick out a birthday present for John?",
-      "sentence-jp": "ユミ、私と一緒に来て、ジョンの誕生日プレゼントを選ぶのを手伝ってくれますか。"
+      "sentence-jp": "ユミ、私と一緒に来て、ジョンの誕生日プレゼントを選ぶのを手伝ってくれますか。",
+      "cloze": {
+        "maskedText": "Yumi, can you come along with me and help me ____ a birthday present for John?",
+        "answerBase": "pick out ~",
+        "answerSurface": "pick out",
+        "choices": [
+          "pick out",
+          "fill out",
+          "point to",
+          "care for"
+        ]
+      }
     }
   ],
   "notes": [

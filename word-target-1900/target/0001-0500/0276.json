@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The website is now keeping track of its number of visitors.",
-      "sentence-jp": "そのウェブサイトは現在，訪問者数の経過を追っている。"
+      "sentence-jp": "そのウェブサイトは現在，訪問者数の経過を追っている。",
+      "cloze": {
+        "maskedText": "The website is now keeping ____ of its number of visitors.",
+        "answerBase": "keep track of",
+        "answerSurface": "track",
+        "choices": [
+          "track",
+          "charge",
+          "surface",
+          "status"
+        ]
+      }
     }
   ],
   "notes": []

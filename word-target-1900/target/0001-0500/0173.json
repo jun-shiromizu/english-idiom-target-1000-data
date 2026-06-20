@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The mayor visited the site of the upcoming new airport.",
-      "sentence-jp": "市長はまもなく開港する新空港の用地を視察した。"
+      "sentence-jp": "市長はまもなく開港する新空港の用地を視察した。",
+      "cloze": {
+        "maskedText": "The mayor visited the ____ of the upcoming new airport.",
+        "answerBase": "site",
+        "answerSurface": "site",
+        "choices": [
+          "site",
+          "curtain",
+          "lecture",
+          "surface"
+        ]
+      }
     }
   ],
   "notes": []

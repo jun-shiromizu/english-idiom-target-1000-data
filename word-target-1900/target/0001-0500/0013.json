@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The Road Traffic Law requires you to wear a seat belt.",
-      "sentence-jp": "道路交通法はあなたがシートベルトを着用することを要求する。"
+      "sentence-jp": "道路交通法はあなたがシートベルトを着用することを要求する。",
+      "cloze": {
+        "maskedText": "The Road Traffic Law ____ you to wear a seat belt.",
+        "answerBase": "require",
+        "answerSurface": "requires",
+        "choices": [
+          "requires",
+          "excuses",
+          "spares",
+          "forbids"
+        ]
+      }
     }
   ],
   "notes": []

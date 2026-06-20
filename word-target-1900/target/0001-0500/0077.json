@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Digital technology has significantly changed people's ways of living.",
-      "sentence-jp": "デジタル技術は人々の生活様式を大いに変えた。"
+      "sentence-jp": "デジタル技術は人々の生活様式を大いに変えた。",
+      "cloze": {
+        "maskedText": "Digital ____ has significantly changed people's ways of living.",
+        "answerBase": "technology",
+        "answerSurface": "technology",
+        "choices": [
+          "technology",
+          "ceremony",
+          "mountain",
+          "furniture"
+        ]
+      }
     }
   ],
   "notes": []

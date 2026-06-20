@@ -12,7 +12,18 @@
         "relaxed"
       ],
       "example-sentence": "I feel at ease with this lady.",
-      "sentence-jp": "私はこの女性といるとくつろいでいられる。"
+      "sentence-jp": "私はこの女性といるとくつろいでいられる。",
+      "cloze": {
+        "maskedText": "I feel ____ with this lady.",
+        "answerBase": "at (one’s) ease",
+        "answerSurface": "at ease",
+        "choices": [
+          "at ease",
+          "ill at ease",
+          "in sight",
+          "out of order"
+        ]
+      }
     }
   ],
   "notes": [

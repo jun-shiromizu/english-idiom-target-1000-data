@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "We appreciate your support; without it, we couldn't have succeeded in our new project.",
-      "sentence-jp": "私たちはあなたの支援に感謝しています。それがなければ、私たちは新プロジェクトを成功させられなかったでしょう。"
+      "sentence-jp": "私たちはあなたの支援に感謝しています。それがなければ、私たちは新プロジェクトを成功させられなかったでしょう。",
+      "cloze": {
+        "maskedText": "We appreciate your support; without it, we couldn't have ____ our new project.",
+        "answerBase": "succeed in ~",
+        "answerSurface": "succeeded in",
+        "choices": [
+          "succeeded in",
+          "focused on",
+          "resulted from",
+          "brought about"
+        ]
+      }
     }
   ],
   "notes": [

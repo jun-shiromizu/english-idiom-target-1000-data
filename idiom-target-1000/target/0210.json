@@ -13,7 +13,18 @@
         "nevertheless"
       ],
       "example-sentence": "My mother has a lot of faults, but I love her all the same.",
-      "sentence-jp": "私の母にはたくさんの欠点があるが, それでもやはり私は母のことを愛している。"
+      "sentence-jp": "私の母にはたくさんの欠点があるが, それでもやはり私は母のことを愛している。",
+      "cloze": {
+        "maskedText": "My mother has a lot of faults, but I love her ____.",
+        "answerBase": "all the same",
+        "answerSurface": "all the same",
+        "choices": [
+          "all the same",
+          "in all",
+          "for good",
+          "above all"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The burning of fossil fuels is partly responsible for global warming.",
-      "sentence-jp": "化石燃料を燃やすことは地球温暖化の一因である。"
+      "sentence-jp": "化石燃料を燃やすことは地球温暖化の一因である。",
+      "cloze": {
+        "maskedText": "The burning of fossil ____ is partly responsible for global warming.",
+        "answerBase": "fuel",
+        "answerSurface": "fuels",
+        "choices": [
+          "fuels",
+          "bridges",
+          "garages",
+          "signals"
+        ]
+      }
     }
   ],
   "notes": []

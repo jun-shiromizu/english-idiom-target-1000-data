@@ -16,7 +16,18 @@
         "what is more"
       ],
       "example-sentence": "In addition to being a novelist himself, Soseki taught literature at a university.",
-      "sentence-jp": "漱石は自身が小説家であったことに加えて, 大学で文学を教えた。"
+      "sentence-jp": "漱石は自身が小説家であったことに加えて, 大学で文学を教えた。",
+      "cloze": {
+        "maskedText": "____ being a novelist himself, Soseki taught literature at a university.",
+        "answerBase": "in addition to ~",
+        "answerSurface": "In addition to",
+        "choices": [
+          "In addition to",
+          "As for",
+          "Instead of",
+          "According to"
+        ]
+      }
     }
   ],
   "notes": []

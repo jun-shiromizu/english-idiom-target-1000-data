@@ -12,7 +12,18 @@
         "repeatedly"
       ],
       "example-sentence": "Late last night, curled up in bed, I read a letter from her over and over.",
-      "sentence-jp": "昨夜遅くにベッドで丸くなり, 彼女からの手紙を何度も繰り返し読んだ。"
+      "sentence-jp": "昨夜遅くにベッドで丸くなり, 彼女からの手紙を何度も繰り返し読んだ。",
+      "cloze": {
+        "maskedText": "Late last night, curled up in bed, I read a letter from her ____.",
+        "answerBase": "over and over (again)",
+        "answerSurface": "over and over",
+        "choices": [
+          "over and over",
+          "all the same",
+          "right away",
+          "by degrees"
+        ]
+      }
     }
   ],
   "notes": []

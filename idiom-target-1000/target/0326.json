@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "In the aging society we are living in today, elevators are essential to urban living.",
-      "sentence-jp": "今日私たちが生きている高齢化社会では、エレベーターは都会生活に不可欠だ。"
+      "sentence-jp": "今日私たちが生きている高齢化社会では、エレベーターは都会生活に不可欠だ。",
+      "cloze": {
+        "maskedText": "In the aging society we are living in today, elevators are ____ urban living.",
+        "answerBase": "be essential to ~",
+        "answerSurface": "essential to",
+        "choices": [
+          "essential to",
+          "equal to",
+          "apt to",
+          "in a word"
+        ]
+      }
     }
   ],
   "notes": []

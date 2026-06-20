@@ -12,7 +12,18 @@
         "confess"
       ],
       "example-sentence": "Wherever you are, it’s never fun to admit to having done something embarrassing.",
-      "sentence-jp": "どこにいようと、何か恥ずかしいことをしてしまったことを認めるのは決して楽しいことではない。"
+      "sentence-jp": "どこにいようと、何か恥ずかしいことをしてしまったことを認めるのは決して楽しいことではない。",
+      "cloze": {
+        "maskedText": "Wherever you are, it’s never fun to ____ having done something embarrassing.",
+        "answerBase": "admit to ~",
+        "answerSurface": "admit to",
+        "choices": [
+          "admit to",
+          "object to",
+          "resort to",
+          "keep to"
+        ]
+      }
     }
   ],
   "notes": [

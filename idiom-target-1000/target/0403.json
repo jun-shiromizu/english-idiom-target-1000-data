@@ -13,14 +13,36 @@
         "refuse"
       ],
       "example-sentence": "The project team was disappointed to hear that their proposal was turned down.",
-      "sentence-jp": "プロジェクトチームは彼らの提案が却下されたと聞いてがっかりした。"
+      "sentence-jp": "プロジェクトチームは彼らの提案が却下されたと聞いてがっかりした。",
+      "cloze": {
+        "maskedText": "The project team was disappointed to hear that their proposal was ____.",
+        "answerBase": "turn down ~",
+        "answerSurface": "turned down",
+        "choices": [
+          "turned down",
+          "turned in",
+          "made out",
+          "met with"
+        ]
+      }
     },
     {
       "idiom-jp": "(音量・火力など)を小さくする",
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Mayu turned her car radio down so she could hear the announcement better.",
-      "sentence-jp": "マユはアナウンスがよく聞こえるようにカーラジオの音を小さくした。"
+      "sentence-jp": "マユはアナウンスがよく聞こえるようにカーラジオの音を小さくした。",
+      "cloze": {
+        "maskedText": "Mayu ____ her car radio down so she could hear the announcement better.",
+        "answerBase": "turn down ~",
+        "answerSurface": "turned",
+        "choices": [
+          "turned",
+          "made",
+          "met",
+          "provided"
+        ]
+      }
     }
   ],
   "notes": [

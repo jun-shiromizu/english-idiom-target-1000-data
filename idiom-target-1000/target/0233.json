@@ -9,7 +9,18 @@
       "partOfSpeech": "preposition",
       "choiceType": "prepositional-phrase",
       "example-sentence": "Since I'm not a math person, I find it kind of hard to keep up with the rest of the class.",
-      "sentence-jp": "私は数学ができるほうではないので, クラスのみんなに遅れずについていくのは少し難しいと感じる。"
+      "sentence-jp": "私は数学ができるほうではないので, クラスのみんなに遅れずについていくのは少し難しいと感じる。",
+      "cloze": {
+        "maskedText": "Since I'm not a math person, I find it kind of hard to ____ the rest of the class.",
+        "answerBase": "keep up with ~",
+        "answerSurface": "keep up with",
+        "choices": [
+          "keep up with",
+          "agree with",
+          "apply to",
+          "occur to"
+        ]
+      }
     }
   ],
   "notes": [

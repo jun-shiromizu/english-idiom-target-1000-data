@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "My sister is expected to graduate from university next spring.",
-      "sentence-jp": "来春、私の姉は大学を卒業する予定だ。"
+      "sentence-jp": "来春、私の姉は大学を卒業する予定だ。",
+      "cloze": {
+        "maskedText": "My sister is expected to ____ university next spring.",
+        "answerBase": "graduate from ~",
+        "answerSurface": "graduate from",
+        "choices": [
+          "graduate from",
+          "major in",
+          "return to",
+          "apply to"
+        ]
+      }
     }
   ],
   "notes": [

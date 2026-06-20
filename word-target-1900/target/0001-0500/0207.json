@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "One study surveyed 100 cancer patients who tried the new drug.",
-      "sentence-jp": "ある研究は新薬を試した100人の癌患者を調査した。"
+      "sentence-jp": "ある研究は新薬を試した100人の癌患者を調査した。",
+      "cloze": {
+        "maskedText": "One study ____ 100 cancer patients who tried the new drug.",
+        "answerBase": "survey",
+        "answerSurface": "surveyed",
+        "choices": [
+          "surveyed",
+          "ignored",
+          "ordered",
+          "transported"
+        ]
+      }
     }
   ],
   "notes": []

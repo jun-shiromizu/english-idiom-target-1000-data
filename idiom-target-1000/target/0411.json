@@ -12,7 +12,18 @@
         "set off"
       ],
       "example-sentence": "It is essential that you check the weather forecast before you set out for mountain climbing.",
-      "sentence-jp": "登山に出発する前には天気予報を確認することが極めて重要だ。"
+      "sentence-jp": "登山に出発する前には天気予報を確認することが極めて重要だ。",
+      "cloze": {
+        "maskedText": "It is essential that you check the weather forecast before you ____ for mountain climbing.",
+        "answerBase": "set out (~)",
+        "answerSurface": "set out",
+        "choices": [
+          "set out",
+          "run over",
+          "put down",
+          "make for"
+        ]
+      }
     },
     {
       "idiom-jp": "(set out to do で)…し始める",
@@ -23,7 +34,18 @@
         "begin"
       ],
       "example-sentence": "It was in the 1860s that Edison set out to invent a new kind of artificial light.",
-      "sentence-jp": "エジソンが新しい種類の人工光を発明し始めたのは1860年代のことだった。"
+      "sentence-jp": "エジソンが新しい種類の人工光を発明し始めたのは1860年代のことだった。",
+      "cloze": {
+        "maskedText": "It was in the 1860s that Edison ____ invent a new kind of artificial light.",
+        "answerBase": "set out (~)",
+        "answerSurface": "set out to",
+        "choices": [
+          "set out to",
+          "was due to",
+          "ran over",
+          "put it down"
+        ]
+      }
     },
     {
       "idiom-jp": "〜を並べる；〜を設計する",
@@ -33,7 +55,18 @@
         "lay out ~"
       ],
       "example-sentence": "James set out his notebook and textbook, all ready for the lecture to begin.",
-      "sentence-jp": "ジェームズはノートと教科書を並べ、講義開始の準備は万端だった。"
+      "sentence-jp": "ジェームズはノートと教科書を並べ、講義開始の準備は万端だった。",
+      "cloze": {
+        "maskedText": "James ____ his notebook and textbook, all ready for the lecture to begin.",
+        "answerBase": "set out (~)",
+        "answerSurface": "set out",
+        "choices": [
+          "set out",
+          "put down",
+          "ran over",
+          "met with"
+        ]
+      }
     }
   ],
   "notes": [

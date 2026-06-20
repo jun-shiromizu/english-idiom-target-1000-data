@@ -12,7 +12,18 @@
         "be concerned about [for] ~"
       ],
       "example-sentence": "People in that area are always anxious about the possibility of another big earthquake in the future.",
-      "sentence-jp": "その地域の人々は常に将来のさらなる大地震の可能性を心配している。"
+      "sentence-jp": "その地域の人々は常に将来のさらなる大地震の可能性を心配している。",
+      "cloze": {
+        "maskedText": "People in that area are always ____ the possibility of another big earthquake in the future.",
+        "answerBase": "be anxious about ~",
+        "answerSurface": "anxious about",
+        "choices": [
+          "anxious about",
+          "anxious to know",
+          "concerned with",
+          "free from"
+        ]
+      }
     }
   ],
   "notes": [

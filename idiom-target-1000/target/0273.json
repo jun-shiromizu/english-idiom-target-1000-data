@@ -13,7 +13,18 @@
         "as luck would have it"
       ],
       "example-sentence": "Purely by chance, a friend from junior high and I were volunteering at the same organization.",
-      "sentence-jp": "中学時代の友人と私はまったく偶然に同じ組織でボランティアをしていた。"
+      "sentence-jp": "中学時代の友人と私はまったく偶然に同じ組織でボランティアをしていた。",
+      "cloze": {
+        "maskedText": "Purely ____ , a friend from junior high and I were volunteering at the same organization.",
+        "answerBase": "by chance",
+        "answerSurface": "by chance",
+        "choices": [
+          "by chance",
+          "by any chance",
+          "for now",
+          "at a distance"
+        ]
+      }
     }
   ],
   "notes": []

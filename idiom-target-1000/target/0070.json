@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "The biologist has been carrying out long-term research into the behavior of belugas.",
-      "sentence-jp": "その生物学者はベルーガの生態について長期的調査を行ってきた。"
+      "sentence-jp": "その生物学者はベルーガの生態について長期的調査を行ってきた。",
+      "cloze": {
+        "maskedText": "The biologist has been ____ long-term research into the behavior of belugas.",
+        "answerBase": "carry out ~",
+        "answerSurface": "carrying out",
+        "choices": [
+          "carrying out",
+          "finding out",
+          "growing up",
+          "picking up"
+        ]
+      }
     }
   ],
   "notes": [

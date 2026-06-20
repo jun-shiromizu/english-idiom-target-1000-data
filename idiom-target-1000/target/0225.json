@@ -12,7 +12,18 @@
         "consent to ~"
       ],
       "example-sentence": "Those who attended the meeting all agreed to the proposal that a new factory be built.",
-      "sentence-jp": "その会議に出席した人たちは皆, 新しい工場を建てるという提案に同意した。"
+      "sentence-jp": "その会議に出席した人たちは皆, 新しい工場を建てるという提案に同意した。",
+      "cloze": {
+        "maskedText": "Those who attended the meeting all ____ the proposal that a new factory be built.",
+        "answerBase": "agree to ~",
+        "answerSurface": "agreed to",
+        "choices": [
+          "agreed to",
+          "agreed with",
+          "applied for",
+          "corresponded to"
+        ]
+      }
     }
   ],
   "notes": [

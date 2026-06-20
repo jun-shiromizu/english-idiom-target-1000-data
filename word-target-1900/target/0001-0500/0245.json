@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "In contrast to the other leader, he spoke directly to the people.",
-      "sentence-jp": "もう1人の指導者とは対照的に，彼は国民に直接話しかけた。"
+      "sentence-jp": "もう1人の指導者とは対照的に，彼は国民に直接話しかけた。",
+      "cloze": {
+        "maskedText": "In ____ to the other leader, he spoke directly to the people.",
+        "answerBase": "in contrast to",
+        "answerSurface": "contrast",
+        "choices": [
+          "contrast",
+          "response",
+          "company",
+          "service"
+        ]
+      }
     }
   ],
   "notes": []

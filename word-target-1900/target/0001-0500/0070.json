@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Laughter plays an important role in strengthening personal relationships.",
-      "sentence-jp": "笑いは人間関係を強化するうえで重要な役割を果たす。"
+      "sentence-jp": "笑いは人間関係を強化するうえで重要な役割を果たす。",
+      "cloze": {
+        "maskedText": "Laughter plays an important ____ in strengthening personal relationships.",
+        "answerBase": "role",
+        "answerSurface": "role",
+        "choices": [
+          "role",
+          "window",
+          "garage",
+          "pocket"
+        ]
+      }
     }
   ],
   "notes": []

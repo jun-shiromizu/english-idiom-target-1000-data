@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The author's novels often deal with the subject of space travel.",
-      "sentence-jp": "その著者の小説はしばしば宇宙旅行の話題を扱っている。"
+      "sentence-jp": "その著者の小説はしばしば宇宙旅行の話題を扱っている。",
+      "cloze": {
+        "maskedText": "The author's novels often deal with the ____ of space travel.",
+        "answerBase": "subject",
+        "answerSurface": "subject",
+        "choices": [
+          "subject",
+          "wallet",
+          "signal",
+          "curtain"
+        ]
+      }
     }
   ],
   "notes": []

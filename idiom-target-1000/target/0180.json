@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I knew from the beginning something was wrong with him.",
-      "sentence-jp": "私は最初から彼はどこか調子が悪いとわかっていた。"
+      "sentence-jp": "私は最初から彼はどこか調子が悪いとわかっていた。",
+      "cloze": {
+        "maskedText": "I knew from the beginning something was ____ him.",
+        "answerBase": "Something is wrong with ~",
+        "answerSurface": "wrong with",
+        "choices": [
+          "wrong with",
+          "close to",
+          "ready for",
+          "known by"
+        ]
+      }
     }
   ],
   "notes": [

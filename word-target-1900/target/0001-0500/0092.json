@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "There are various ways to achieve your goals.",
-      "sentence-jp": "あなたの目標を達成するさまざまな方法がある。"
+      "sentence-jp": "あなたの目標を達成するさまざまな方法がある。",
+      "cloze": {
+        "maskedText": "There are ____ ways to achieve your goals.",
+        "answerBase": "various",
+        "answerSurface": "various",
+        "choices": [
+          "various",
+          "nervous",
+          "empty",
+          "frozen"
+        ]
+      }
     }
   ],
   "notes": []

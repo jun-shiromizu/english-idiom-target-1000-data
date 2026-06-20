@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She needs to improve her cooking skills to become a chef.",
-      "sentence-jp": "彼女は料理長になるために調理の技能を向上させる必要がある。"
+      "sentence-jp": "彼女は料理長になるために調理の技能を向上させる必要がある。",
+      "cloze": {
+        "maskedText": "She needs to improve her cooking ____ to become a chef.",
+        "answerBase": "skill",
+        "answerSurface": "skills",
+        "choices": [
+          "skills",
+          "markets",
+          "secrets",
+          "visitors"
+        ]
+      }
     }
   ],
   "notes": []

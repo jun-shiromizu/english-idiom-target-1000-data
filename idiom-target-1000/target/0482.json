@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "The other day a very kind man let me cut in in front of him in a convenience store.",
-      "sentence-jp": "先日、コンビニでとても親切な男性が私を彼の前に割り込ませてくれた。"
+      "sentence-jp": "先日、コンビニでとても親切な男性が私を彼の前に割り込ませてくれた。",
+      "cloze": {
+        "maskedText": "The other day a very kind man let me ____ in front of him in a convenience store.",
+        "answerBase": "cut in",
+        "answerSurface": "cut in",
+        "choices": [
+          "cut in",
+          "drop in",
+          "pass on",
+          "adjust to"
+        ]
+      }
     }
   ],
   "notes": [

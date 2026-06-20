@@ -12,7 +12,18 @@
         "overcome"
       ],
       "example-sentence": "Erika used to be afraid of heights, but she has gotten over her fear now.",
-      "sentence-jp": "エリカは以前は高い所が怖かったが, 今ではその恐怖を克服している。"
+      "sentence-jp": "エリカは以前は高い所が怖かったが, 今ではその恐怖を克服している。",
+      "cloze": {
+        "maskedText": "Erika used to be afraid of heights, but she has ____ her fear now.",
+        "answerBase": "get over ~",
+        "answerSurface": "gotten over",
+        "choices": [
+          "gotten over",
+          "looked into",
+          "handed in",
+          "put together"
+        ]
+      }
     }
   ],
   "notes": [

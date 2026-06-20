@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The politician made a short statement to the press.",
-      "sentence-jp": "その政治家は報道機関に対し短い声明を出した。"
+      "sentence-jp": "その政治家は報道機関に対し短い声明を出した。",
+      "cloze": {
+        "maskedText": "The politician made a short ____ to the press.",
+        "answerBase": "statement",
+        "answerSurface": "statement",
+        "choices": [
+          "statement",
+          "helmet",
+          "vacation",
+          "railway"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "People who love shopping often desire to buy the latest goods.",
-      "sentence-jp": "買い物が大好きな人々はたいてい最新の商品を買いたいと強く望む。"
+      "sentence-jp": "買い物が大好きな人々はたいてい最新の商品を買いたいと強く望む。",
+      "cloze": {
+        "maskedText": "People who love shopping often ____ to buy the latest goods.",
+        "answerBase": "desire to do",
+        "answerSurface": "desire",
+        "choices": [
+          "desire",
+          "pretend",
+          "refuse",
+          "hesitate"
+        ]
+      }
     }
   ],
   "notes": []

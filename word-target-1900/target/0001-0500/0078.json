@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Chopsticks are an important part of Asian culture.",
-      "sentence-jp": "箸はアジア文化の重要な一部である。"
+      "sentence-jp": "箸はアジア文化の重要な一部である。",
+      "cloze": {
+        "maskedText": "Chopsticks are an important part of Asian ____.",
+        "answerBase": "culture",
+        "answerSurface": "culture",
+        "choices": [
+          "culture",
+          "traffic",
+          "luggage",
+          "distance"
+        ]
+      }
     }
   ],
   "notes": []

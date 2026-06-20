@@ -10,7 +10,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "In some parts of the world - the Middle East, for example - people are very expressive.",
-      "sentence-jp": "例えば中東など, 世界の場所によっては, 人々はとても表情豊かである。"
+      "sentence-jp": "例えば中東など, 世界の場所によっては, 人々はとても表情豊かである。",
+      "cloze": {
+        "maskedText": "In some parts of the world - the Middle East, ____ - people are very expressive.",
+        "answerBase": "for example",
+        "answerSurface": "for example",
+        "choices": [
+          "for example",
+          "for a while",
+          "in the end",
+          "at best"
+        ]
+      }
     }
   ],
   "notes": [

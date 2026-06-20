@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "I am certain that she will get a promotion at work.",
-      "sentence-jp": "彼女は仕事で昇進すると私は確信している。"
+      "sentence-jp": "彼女は仕事で昇進すると私は確信している。",
+      "cloze": {
+        "maskedText": "I am ____ that she will get a promotion at work.",
+        "answerBase": "certain",
+        "answerSurface": "certain",
+        "choices": [
+          "certain",
+          "curious",
+          "nervous",
+          "polite"
+        ]
+      }
     }
   ],
   "notes": []

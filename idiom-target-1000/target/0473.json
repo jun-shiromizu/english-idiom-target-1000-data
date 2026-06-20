@@ -12,7 +12,18 @@
         "sort out ~"
       ],
       "example-sentence": "It took them some time to iron out their differences of opinion.",
-      "sentence-jp": "彼らが意見の違いを調整するのにはしばらく時間がかかった。"
+      "sentence-jp": "彼らが意見の違いを調整するのにはしばらく時間がかかった。",
+      "cloze": {
+        "maskedText": "It took them some time to ____ their differences of opinion.",
+        "answerBase": "iron out ~",
+        "answerSurface": "iron out",
+        "choices": [
+          "iron out",
+          "roll out",
+          "set off",
+          "give off"
+        ]
+      }
     }
   ],
   "notes": [

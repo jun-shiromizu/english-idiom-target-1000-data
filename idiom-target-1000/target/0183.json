@@ -12,7 +12,18 @@
         "continue"
       ],
       "example-sentence": "My father says he wants to carry on working past his retirement age.",
-      "sentence-jp": "私の父は定年を過ぎても働き続けたいと言っている。"
+      "sentence-jp": "私の父は定年を過ぎても働き続けたいと言っている。",
+      "cloze": {
+        "maskedText": "My father says he wants to ____ working past his retirement age.",
+        "answerBase": "carry on (~)",
+        "answerSurface": "carry on",
+        "choices": [
+          "carry on",
+          "look into",
+          "come by",
+          "pass away"
+        ]
+      }
     }
   ],
   "notes": [

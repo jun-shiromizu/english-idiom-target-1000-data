@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She compared the Japanese economy with the U.S. economy.",
-      "sentence-jp": "彼女は日本経済をアメリカ経済と比較した。"
+      "sentence-jp": "彼女は日本経済をアメリカ経済と比較した。",
+      "cloze": {
+        "maskedText": "She ____ the Japanese economy with the U.S. economy.",
+        "answerBase": "compare",
+        "answerSurface": "compared",
+        "choices": [
+          "compared",
+          "separated",
+          "replaced",
+          "ignored"
+        ]
+      }
     }
   ],
   "notes": []

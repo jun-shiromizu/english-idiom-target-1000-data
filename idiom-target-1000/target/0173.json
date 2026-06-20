@@ -9,7 +9,18 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "Right now I'm studying hard in preparation for the term exams, which begin next week.",
-      "sentence-jp": "現在, 私は来週始まる期末試験に備えて一生懸命勉強している。"
+      "sentence-jp": "現在, 私は来週始まる期末試験に備えて一生懸命勉強している。",
+      "cloze": {
+        "maskedText": "Right now I'm studying hard ____ the term exams, which begin next week.",
+        "answerBase": "in preparation for ~",
+        "answerSurface": "in preparation for",
+        "choices": [
+          "in preparation for",
+          "in addition to",
+          "in memory of",
+          "in place of"
+        ]
+      }
     }
   ],
   "notes": []

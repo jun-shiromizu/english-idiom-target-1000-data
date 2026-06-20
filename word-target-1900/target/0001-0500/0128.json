@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "The salesperson mentioned the features of his company's products.",
-      "sentence-jp": "その販売員は自社製品の特徴に言及した。"
+      "sentence-jp": "その販売員は自社製品の特徴に言及した。",
+      "cloze": {
+        "maskedText": "The salesperson ____ the features of his company's products.",
+        "answerBase": "mention",
+        "answerSurface": "mentioned",
+        "choices": [
+          "mentioned",
+          "measured",
+          "covered",
+          "damaged"
+        ]
+      }
     }
   ],
   "notes": []

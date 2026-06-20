@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "Scientists are trying to figure out how the universe came into being.",
-      "sentence-jp": "科学者たちはどのように宇宙が出現したのかを理解しようとしている。"
+      "sentence-jp": "科学者たちはどのように宇宙が出現したのかを理解しようとしている。",
+      "cloze": {
+        "maskedText": "Scientists are trying to ____ how the universe came into being.",
+        "answerBase": "figure out ~",
+        "answerSurface": "figure out",
+        "choices": [
+          "figure out",
+          "point out",
+          "turn off",
+          "bring in"
+        ]
+      }
     }
   ],
   "notes": [

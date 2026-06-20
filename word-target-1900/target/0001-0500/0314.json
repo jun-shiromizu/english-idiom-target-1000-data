@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The airline adopted a new cost-saving measure.",
-      "sentence-jp": "その航空会社は新しい経費削減策を採用した。"
+      "sentence-jp": "その航空会社は新しい経費削減策を採用した。",
+      "cloze": {
+        "maskedText": "The airline ____ a new cost-saving measure.",
+        "answerBase": "adopt",
+        "answerSurface": "adopted",
+        "choices": [
+          "adopted",
+          "ignored",
+          "rejected",
+          "borrowed"
+        ]
+      }
     }
   ],
   "notes": []

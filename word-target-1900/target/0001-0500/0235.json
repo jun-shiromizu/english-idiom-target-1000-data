@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "I learned from my father how to wind this mechanical watch.",
-      "sentence-jp": "私はこの機械式腕時計のねじを巻く方法を父から学んだ。"
+      "sentence-jp": "私はこの機械式腕時計のねじを巻く方法を父から学んだ。",
+      "cloze": {
+        "maskedText": "I learned from my father how to ____ this mechanical watch.",
+        "answerBase": "wind",
+        "answerSurface": "wind",
+        "choices": [
+          "wind",
+          "drop",
+          "bury",
+          "compare"
+        ]
+      }
     }
   ],
   "notes": []

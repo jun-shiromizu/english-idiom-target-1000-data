@@ -9,21 +9,54 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Sota always tries to look up new words in his dictionary whenever they come up.",
-      "sentence-jp": "ソウタは新しい単語が出てくるといつでも辞書でそれらを調べようとしている。"
+      "sentence-jp": "ソウタは新しい単語が出てくるといつでも辞書でそれらを調べようとしている。",
+      "cloze": {
+        "maskedText": "Sota always tries to ____ new words in his dictionary whenever they come up.",
+        "answerBase": "look up ~",
+        "answerSurface": "look up",
+        "choices": [
+          "look up",
+          "look to",
+          "go over",
+          "put out"
+        ]
+      }
     },
     {
       "idiom-jp": "(人)を訪ねる",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Be sure to look us up when you’re in town.",
-      "sentence-jp": "町に来たときにはぜひ私たちを訪ねてください。"
+      "sentence-jp": "町に来たときにはぜひ私たちを訪ねてください。",
+      "cloze": {
+        "maskedText": "Be sure to ____ when you’re in town.",
+        "answerBase": "look up ~",
+        "answerSurface": "look us up",
+        "choices": [
+          "look us up",
+          "look us to",
+          "go us over",
+          "put us out"
+        ]
+      }
     },
     {
       "idiom-jp": "[通例 be looking up で](景気などが)上向く[好転する]",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "According to the statistics, things seem to be finally looking up.",
-      "sentence-jp": "統計によれば、事態はようやく好転しつつあるように思われる。"
+      "sentence-jp": "統計によれば、事態はようやく好転しつつあるように思われる。",
+      "cloze": {
+        "maskedText": "According to the statistics, things seem to be finally ____.",
+        "answerBase": "look up ~",
+        "answerSurface": "looking up",
+        "choices": [
+          "looking up",
+          "looking to",
+          "going over",
+          "settling down"
+        ]
+      }
     }
   ],
   "notes": [

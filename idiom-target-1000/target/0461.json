@@ -12,7 +12,18 @@
         "slow up (~)"
       ],
       "example-sentence": "I had the right of way, but this big luxury car just didn’t slow down.",
-      "sentence-jp": "私に先行権があったが、この大型高級車はとにかく速度を落とさなかった。"
+      "sentence-jp": "私に先行権があったが、この大型高級車はとにかく速度を落とさなかった。",
+      "cloze": {
+        "maskedText": "I had the right of way, but this big luxury car just didn’t ____.",
+        "answerBase": "slow down (~)",
+        "answerSurface": "slow down",
+        "choices": [
+          "slow down",
+          "break down",
+          "come out",
+          "speak out"
+        ]
+      }
     }
   ],
   "notes": [

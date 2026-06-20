@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Japan will face many problems that result from the declining population.",
-      "sentence-jp": "日本は人口減少から生じる多くの問題に直面するだろう。"
+      "sentence-jp": "日本は人口減少から生じる多くの問題に直面するだろう。",
+      "cloze": {
+        "maskedText": "Japan will face many problems that ____ the declining population.",
+        "answerBase": "result from ~",
+        "answerSurface": "result from",
+        "choices": [
+          "result from",
+          "lead to",
+          "depend on",
+          "turn into"
+        ]
+      }
     }
   ],
   "notes": [

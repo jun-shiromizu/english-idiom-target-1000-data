@@ -13,7 +13,18 @@
         "abruptly"
       ],
       "example-sentence": "All of a sudden, the electricity went out, and we were left in the dark.",
-      "sentence-jp": "突然停電し, 私たちは暗闇の中に取り残された。"
+      "sentence-jp": "突然停電し, 私たちは暗闇の中に取り残された。",
+      "cloze": {
+        "maskedText": "____, the electricity went out, and we were left in the dark.",
+        "answerBase": "all of a sudden",
+        "answerSurface": "All of a sudden",
+        "choices": [
+          "All of a sudden",
+          "For the most part",
+          "In advance",
+          "As a rule"
+        ]
+      }
     }
   ],
   "notes": [

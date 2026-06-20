@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Can I have a few days to think it over before deciding?",
-      "sentence-jp": "決める前にそのことについてよく考えるために数日いただけますか。"
+      "sentence-jp": "決める前にそのことについてよく考えるために数日いただけますか。",
+      "cloze": {
+        "maskedText": "Can I have a few days to ____ before deciding?",
+        "answerBase": "think ~ over",
+        "answerSurface": "think it over",
+        "choices": [
+          "think it over",
+          "point it out",
+          "pick it up",
+          "turn it off"
+        ]
+      }
     }
   ],
   "notes": [

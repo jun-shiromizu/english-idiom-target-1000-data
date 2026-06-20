@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "This electronic device can handle many tasks such as storing data.",
-      "sentence-jp": "この電子機器はデータの保存など多くのタスクを処理することができる。"
+      "sentence-jp": "この電子機器はデータの保存など多くのタスクを処理することができる。",
+      "cloze": {
+        "maskedText": "This electronic ____ can handle many tasks such as storing data.",
+        "answerBase": "device",
+        "answerSurface": "device",
+        "choices": [
+          "device",
+          "chapter",
+          "shelter",
+          "journey"
+        ]
+      }
     }
   ],
   "notes": []

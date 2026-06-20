@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The country has had fast growth over the last few decades.",
-      "sentence-jp": "その国は過去数十年間にわたって急成長を遂げてきた。"
+      "sentence-jp": "その国は過去数十年間にわたって急成長を遂げてきた。",
+      "cloze": {
+        "maskedText": "The country has had fast growth over the last few ____.",
+        "answerBase": "decade",
+        "answerSurface": "decades",
+        "choices": [
+          "decades",
+          "villages",
+          "windows",
+          "suitcases"
+        ]
+      }
     }
   ],
   "notes": []

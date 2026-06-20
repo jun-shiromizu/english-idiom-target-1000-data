@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I think Sakamoto Ryoma was true to his philosophy all his life, and I respect him for that.",
-      "sentence-jp": "坂本龍馬は生涯自分の哲学に忠実だったと私は思うし, 私はそのことで彼を尊敬している。"
+      "sentence-jp": "坂本龍馬は生涯自分の哲学に忠実だったと私は思うし, 私はそのことで彼を尊敬している。",
+      "cloze": {
+        "maskedText": "I think Sakamoto Ryoma was ____ his philosophy all his life, and I respect him for that.",
+        "answerBase": "be true to ~",
+        "answerSurface": "true to",
+        "choices": [
+          "true to",
+          "true of",
+          "familiar to",
+          "free from"
+        ]
+      }
     }
   ],
   "notes": [

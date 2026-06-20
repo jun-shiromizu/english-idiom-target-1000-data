@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The company shifted its manufacturing base to India.",
-      "sentence-jp": "その会社は製造拠点をインドに移した。"
+      "sentence-jp": "その会社は製造拠点をインドに移した。",
+      "cloze": {
+        "maskedText": "The company ____ its manufacturing base to India.",
+        "answerBase": "shift",
+        "answerSurface": "shifted",
+        "choices": [
+          "shifted",
+          "measured",
+          "repeated",
+          "released"
+        ]
+      }
     }
   ],
   "notes": []

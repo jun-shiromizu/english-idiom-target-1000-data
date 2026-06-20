@@ -12,7 +12,18 @@
         "switch off (~)"
       ],
       "example-sentence": "In the room we were told to turn off our smartphones and put them on the desk.",
-      "sentence-jp": "私たちは、部屋ではスマートフォンの電源を切って机の上に置くように言われた。"
+      "sentence-jp": "私たちは、部屋ではスマートフォンの電源を切って机の上に置くように言われた。",
+      "cloze": {
+        "maskedText": "In the room we were told to ____ our smartphones and put them on the desk.",
+        "answerBase": "turn off ~",
+        "answerSurface": "turn off",
+        "choices": [
+          "turn off",
+          "turn on",
+          "give up",
+          "look over"
+        ]
+      }
     }
   ],
   "notes": [

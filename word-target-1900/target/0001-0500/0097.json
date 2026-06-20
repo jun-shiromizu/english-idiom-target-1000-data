@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Write your name in the blank space at the bottom of the paper.",
-      "sentence-jp": "用紙下部の空欄に名前を記入しなさい。"
+      "sentence-jp": "用紙下部の空欄に名前を記入しなさい。",
+      "cloze": {
+        "maskedText": "Write your name in the ____ space at the bottom of the paper.",
+        "answerBase": "blank",
+        "answerSurface": "blank",
+        "choices": [
+          "blank",
+          "fancy",
+          "steady",
+          "curved"
+        ]
+      }
     }
   ],
   "notes": []

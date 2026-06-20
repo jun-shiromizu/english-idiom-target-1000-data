@@ -12,21 +12,54 @@
         "amount to ~"
       ],
       "example-sentence": "Your total comes to $347, but you can also pay in euros or yen here.",
-      "sentence-jp": "総額は347ドルになりますが、ここではユーロか円でもお支払いになれます。"
+      "sentence-jp": "総額は347ドルになりますが、ここではユーロか円でもお支払いになれます。",
+      "cloze": {
+        "maskedText": "Your total ____ $347, but you can also pay in euros or yen here.",
+        "answerBase": "come to (~)",
+        "answerSurface": "comes to",
+        "choices": [
+          "comes to",
+          "goes by",
+          "gives out",
+          "holds up"
+        ]
+      }
     },
     {
       "idiom-jp": "(come to do で)…するようになる",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "A friend of mine says he’s come to realize he doesn’t have the talent to become a writer.",
-      "sentence-jp": "私の友人は、自分が作家になる才能はないとわかるようになったと言っている。"
+      "sentence-jp": "私の友人は、自分が作家になる才能はないとわかるようになったと言っている。",
+      "cloze": {
+        "maskedText": "A friend of mine says he’s ____ realize he doesn’t have the talent to become a writer.",
+        "answerBase": "come to (~)",
+        "answerSurface": "come to",
+        "choices": [
+          "come to",
+          "go on",
+          "look up",
+          "settle down"
+        ]
+      }
     },
     {
       "idiom-jp": "意識を回復する、正気に戻る",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "When he came to, he looked up and saw a spreading mushroom-shaped cloud.",
-      "sentence-jp": "彼が意識を回復したとき、見上げるとキノコの形をした雲が広がっているのが見えた。"
+      "sentence-jp": "彼が意識を回復したとき、見上げるとキノコの形をした雲が広がっているのが見えた。",
+      "cloze": {
+        "maskedText": "When he ____ , he looked up and saw a spreading mushroom-shaped cloud.",
+        "answerBase": "come to (~)",
+        "answerSurface": "came to",
+        "choices": [
+          "came to",
+          "came across",
+          "went off",
+          "looked up"
+        ]
+      }
     }
   ],
   "notes": [

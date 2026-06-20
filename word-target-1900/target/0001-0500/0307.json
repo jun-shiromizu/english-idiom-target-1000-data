@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "When listening to music, chemicals are released into the brain.",
-      "sentence-jp": "音楽を聞いているとき，化学物質が脳内に放出される。"
+      "sentence-jp": "音楽を聞いているとき，化学物質が脳内に放出される。",
+      "cloze": {
+        "maskedText": "When listening to music, chemicals are ____ into the brain.",
+        "answerBase": "release",
+        "answerSurface": "released",
+        "choices": [
+          "released",
+          "covered",
+          "divided",
+          "examined"
+        ]
+      }
     }
   ],
   "notes": []

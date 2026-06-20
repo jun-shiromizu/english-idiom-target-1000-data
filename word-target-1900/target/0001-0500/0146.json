@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The government is changing its free-market policy.",
-      "sentence-jp": "政府は自由市場政策を変更しつつある。"
+      "sentence-jp": "政府は自由市場政策を変更しつつある。",
+      "cloze": {
+        "maskedText": "The government is changing its free-market ____.",
+        "answerBase": "policy",
+        "answerSurface": "policy",
+        "choices": [
+          "policy",
+          "gallery",
+          "pocket",
+          "texture"
+        ]
+      }
     }
   ],
   "notes": []

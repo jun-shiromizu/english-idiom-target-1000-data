@@ -15,7 +15,18 @@
         "in principle"
       ],
       "example-sentence": "As a rule, they don't allow us to take pictures in here; it is specially permitted today.",
-      "sentence-jp": "普通は私たちがここで写真を撮ることは許されていない。今日は特別に許可されているのだ。"
+      "sentence-jp": "普通は私たちがここで写真を撮ることは許されていない。今日は特別に許可されているのだ。",
+      "cloze": {
+        "maskedText": "____, they don't allow us to take pictures in here; it is specially permitted today.",
+        "answerBase": "as a (general) rule",
+        "answerSurface": "As a rule",
+        "choices": [
+          "As a rule",
+          "All of a sudden",
+          "In all",
+          "Above all"
+        ]
+      }
     }
   ],
   "notes": []
