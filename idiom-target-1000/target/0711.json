@@ -14,7 +14,18 @@
         "without"
       ],
       "example-sentence": "If it were not for music, our lives would be dull and boring.",
-      "sentence-jp": "もし音楽がなければ、私たちの生活は退屈でつまらないだろう。"
+      "sentence-jp": "もし音楽がなければ、私たちの生活は退屈でつまらないだろう。",
+      "cloze": {
+        "maskedText": "____ music, our lives would be dull and boring.",
+        "answerBase": "if it were not for ~",
+        "answerSurface": "If it were not for",
+        "choices": [
+          "If it were not for",
+          "In the way",
+          "With ease",
+          "Not all that"
+        ]
+      }
     }
   ],
   "notes": [

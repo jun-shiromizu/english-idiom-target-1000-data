@@ -14,7 +14,18 @@
         "arrest"
       ],
       "example-sentence": "The law decrees that dogs running loose be rounded up for the safety of the public.",
-      "sentence-jp": "法律は、公衆の安全のためにつながれていない犬は駆り集められるべきだと定めている。"
+      "sentence-jp": "法律は、公衆の安全のためにつながれていない犬は駆り集められるべきだと定めている。",
+      "cloze": {
+        "maskedText": "The law decrees that dogs running loose be ____ for the safety of the public.",
+        "answerBase": "round up ~",
+        "answerSurface": "rounded up",
+        "choices": [
+          "rounded up",
+          "singled out",
+          "ruled out",
+          "worked out"
+        ]
+      }
     }
   ],
   "notes": [

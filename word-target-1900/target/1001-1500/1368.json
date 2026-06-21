@@ -12,5 +12,11 @@
       "sentence-jp": "あなたの心臓を守るために，脂肪の摂取量を減らしなさい。"
     }
   ],
+  "cloze": {
+    "maskedText": "Reduce your salt ____ to stay healthy.",
+    "answerBase": "intake",
+    "answerSurface": "intake",
+    "choices": ["intake", "feast", "gear", "tomb"]
+  },
   "notes": []
 }

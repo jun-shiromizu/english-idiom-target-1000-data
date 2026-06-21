@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "A car is an absolute necessity for people living in the countryside.",
-      "sentence-jp": "田舎に住んでいる人々にとって車は絶対に必要なものである。"
+      "sentence-jp": "田舎に住んでいる人々にとって車は絶対に必要なものである。",
+      "cloze": {
+        "maskedText": "A car is an ____ necessity for people living in the countryside.",
+        "answerBase": "absolute",
+        "answerSurface": "absolute",
+        "choices": [
+          "absolute",
+          "rational",
+          "sophisticated",
+          "remote"
+        ]
+      }
     }
   ],
   "notes": []

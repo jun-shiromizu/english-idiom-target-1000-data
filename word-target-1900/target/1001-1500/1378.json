@@ -12,5 +12,11 @@
       "sentence-jp": "太陽崇拝は世界中の神話で見られる。"
     }
   ],
+  "cloze": {
+    "maskedText": "The temple was built for the ____ of the goddess.",
+    "answerBase": "worship",
+    "answerSurface": "worship",
+    "choices": ["worship", "destiny", "kidney", "formula"]
+  },
   "notes": []
 }

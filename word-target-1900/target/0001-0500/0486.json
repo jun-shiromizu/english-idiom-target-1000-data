@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "quantity-expression",
       "example-sentence": "My annual medical checkup is coming up soon.",
-      "sentence-jp": "年に1度の健康診断がもうすぐやってくる。"
+      "sentence-jp": "年に1度の健康診断がもうすぐやってくる。",
+      "cloze": {
+        "maskedText": "My ____ medical checkup is coming up soon.",
+        "answerBase": "annual",
+        "answerSurface": "annual",
+        "choices": [
+          "annual",
+          "plastic",
+          "nervous",
+          "average"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Those who drive hybrid cars get the privilege of free parking here.",
-      "sentence-jp": "ハイブリッド車を運転する人はここで無料駐車の特権を得る。"
+      "sentence-jp": "ハイブリッド車を運転する人はここで無料駐車の特権を得る。",
+      "cloze": {
+        "maskedText": "Those who drive ____ cars get the privilege of free parking here.",
+        "answerBase": "hybrid",
+        "answerSurface": "hybrid",
+        "choices": ["hybrid", "ridiculous", "sensory", "voluntary"]
+      }
     }
   ],
   "notes": []

@@ -12,5 +12,11 @@
       "sentence-jp": "日本は過去1世紀の間に大きな人口統計学的変化を経験してきている。"
     }
   ],
+  "cloze": {
+    "maskedText": "The report highlights major ____ changes in the city.",
+    "answerBase": "demographic",
+    "answerSurface": "demographic",
+    "choices": ["demographic", "cosmetic", "interior", "wireless"]
+  },
   "notes": []
 }

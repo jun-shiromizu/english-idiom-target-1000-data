@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "We have sufficient financial resources to launch a new business.",
-      "sentence-jp": "私たちは新しいビジネスを始めるのに十分な資金源を持っている。"
+      "sentence-jp": "私たちは新しいビジネスを始めるのに十分な資金源を持っている。",
+      "cloze": {
+        "maskedText": "We have sufficient financial resources to ____ a new business.",
+        "answerBase": "launch",
+        "answerSurface": "launch",
+        "choices": [
+          "launch",
+          "monitor",
+          "eliminate",
+          "import"
+        ]
+      }
     }
   ],
   "notes": []

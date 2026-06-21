@@ -12,5 +12,11 @@
       "sentence-jp": "男性は電話で，その部屋の空間レイアウトを説明した。"
     }
   ],
+  "cloze": {
+    "maskedText": "Children develop ____ awareness through play.",
+    "answerBase": "spatial",
+    "answerSurface": "spatial",
+    "choices": ["spatial", "divine", "tidy", "fierce"]
+  },
   "notes": []
 }

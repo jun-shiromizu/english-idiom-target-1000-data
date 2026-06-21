@@ -12,5 +12,11 @@
       "sentence-jp": "その会社は高品質な化粧品で有名である。"
     }
   ],
+  "cloze": {
+    "maskedText": "The company is famous for its ____ products.",
+    "answerBase": "cosmetic",
+    "answerSurface": "cosmetic",
+    "choices": ["cosmetic", "interior", "demographic", "ongoing"]
+  },
   "notes": []
 }

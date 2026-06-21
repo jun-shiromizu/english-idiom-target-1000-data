@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He had his driver's license taken away for speeding.",
-      "sentence-jp": "彼はスピード違反で運転免許を取り上げられた。"
+      "sentence-jp": "彼はスピード違反で運転免許を取り上げられた。",
+      "cloze": {
+        "maskedText": "He had his driver's ____ taken away for speeding.",
+        "answerBase": "license",
+        "answerSurface": "license",
+        "choices": [
+          "license",
+          "heritage",
+          "wisdom",
+          "motor"
+        ]
+      }
     }
   ],
   "notes": []

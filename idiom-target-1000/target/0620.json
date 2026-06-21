@@ -13,7 +13,18 @@
         "by [in] virtue of ~"
       ],
       "example-sentence": "Today’s lecture was on the possibility of getting rid of mosquitoes by means of genetic engineering.",
-      "sentence-jp": "今日の講義は遺伝子工学を用いて蚊を駆除する可能性についてであった。"
+      "sentence-jp": "今日の講義は遺伝子工学を用いて蚊を駆除する可能性についてであった。",
+      "cloze": {
+        "maskedText": "Today’s lecture was on the possibility of getting rid of mosquitoes ____ genetic engineering.",
+        "answerBase": "by means of ~",
+        "answerSurface": "by means of",
+        "choices": [
+          "by means of",
+          "for the sake of",
+          "for fear of",
+          "as opposed to"
+        ]
+      }
     }
   ],
   "notes": [

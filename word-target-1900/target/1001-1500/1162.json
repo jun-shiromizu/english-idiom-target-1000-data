@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Soil full of microbes can help plants grow strong.",
-      "sentence-jp": "微生物をたくさん含む土壌は植物が丈夫に育つのを助ける。"
+      "sentence-jp": "微生物をたくさん含む土壌は植物が丈夫に育つのを助ける。",
+      "cloze": {
+        "maskedText": "Soil full of ____ can help plants grow strong.",
+        "answerBase": "microbe",
+        "answerSurface": "microbes",
+        "choices": ["microbes", "deadlines", "recessions", "sculptures"]
+      }
     }
   ],
   "notes": []

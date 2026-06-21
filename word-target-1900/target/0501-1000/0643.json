@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The symptoms of cholera are similar to those of Ebola fever.",
-      "sentence-jp": "コレラの症状はエボラ出血熱の症状に似ている。"
+      "sentence-jp": "コレラの症状はエボラ出血熱の症状に似ている。",
+      "cloze": {
+        "maskedText": "The ____ of cholera are similar to those of Ebola fever.",
+        "answerBase": "symptom",
+        "answerSurface": "symptoms",
+        "choices": [
+          "symptoms",
+          "tones",
+          "sums",
+          "burdens"
+        ]
+      }
     }
   ],
   "notes": []

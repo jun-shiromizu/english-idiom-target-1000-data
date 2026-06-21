@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The travel agent asked whether I wanted to go by air or by sea.",
-      "sentence-jp": "その旅行業者は私が飛行機で行きたいのか船で行きたいのか尋ねた。"
+      "sentence-jp": "その旅行業者は私が飛行機で行きたいのか船で行きたいのか尋ねた。",
+      "cloze": {
+        "maskedText": "The travel ____ asked whether I wanted to go by air or by sea.",
+        "answerBase": "agent",
+        "answerSurface": "agent",
+        "choices": [
+          "agent",
+          "editor",
+          "row",
+          "session"
+        ]
+      }
     }
   ],
   "notes": []

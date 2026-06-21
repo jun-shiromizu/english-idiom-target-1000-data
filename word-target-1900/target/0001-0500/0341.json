@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "I have set myself a target of walking 10, 000 steps a day.",
-      "sentence-jp": "私は1日に1万歩歩くという目標を自分に課した。"
+      "sentence-jp": "私は1日に1万歩歩くという目標を自分に課した。",
+      "cloze": {
+        "maskedText": "I have set myself a ____ of walking 10,000 steps a day.",
+        "answerBase": "target",
+        "answerSurface": "target",
+        "choices": [
+          "target",
+          "window",
+          "garage",
+          "village"
+        ]
+      }
     }
   ],
   "notes": []

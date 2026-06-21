@@ -12,5 +12,11 @@
       "sentence-jp": "その運動選手のけがは彼にプロスポーツをやめることを強いた。"
     }
   ],
+  "cloze": {
+    "maskedText": "The evidence ____ him to admit the truth.",
+    "answerBase": "compel",
+    "answerSurface": "compelled",
+    "choices": ["compelled", "preceded", "revived", "whispered"]
+  },
   "notes": []
 }

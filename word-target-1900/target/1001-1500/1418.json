@@ -12,5 +12,11 @@
       "sentence-jp": "アメリカには世界中から来た多くの人々が住んでいる。"
     }
   ],
+  "cloze": {
+    "maskedText": "Many rare birds ____ this island.",
+    "answerBase": "inhabit",
+    "answerSurface": "inhabit",
+    "choices": ["inhabit", "refresh", "scratch", "sigh"]
+  },
   "notes": []
 }

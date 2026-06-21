@@ -9,7 +9,18 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "Construction of the building has been under way for some time now.",
-      "sentence-jp": "その建物の建設は今すでにかなりの間進行中だ。"
+      "sentence-jp": "その建物の建設は今すでにかなりの間進行中だ。",
+      "cloze": {
+        "maskedText": "Construction of the building has been ____ for some time now.",
+        "answerBase": "under way",
+        "answerSurface": "under way",
+        "choices": [
+          "under way",
+          "under construction",
+          "of late",
+          "out of breath"
+        ]
+      }
     }
   ],
   "notes": [

@@ -12,7 +12,18 @@
         "be rich in ~"
       ],
       "example-sentence": "Seaweeds, frequently used in Japanese cooking, are abundant in vitamins and minerals.",
-      "sentence-jp": "日本料理で頻繁に使われる海藻にはビタミンとミネラルが豊富である。"
+      "sentence-jp": "日本料理で頻繁に使われる海藻にはビタミンとミネラルが豊富である。",
+      "cloze": {
+        "maskedText": "Seaweeds, frequently used in Japanese cooking, are ____ vitamins and minerals.",
+        "answerBase": "be abundant in ~",
+        "answerSurface": "abundant in",
+        "choices": [
+          "abundant in",
+          "absorbed in",
+          "involved in",
+          "guilty of"
+        ]
+      }
     }
   ],
   "notes": [

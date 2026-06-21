@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "At first, I didn’t think it would be difficult; if anything, I took it to be simple.",
-      "sentence-jp": "最初、私はそれが難しいとは思わなかった。どちらかと言えば、それは簡単だと思った。"
+      "sentence-jp": "最初、私はそれが難しいとは思わなかった。どちらかと言えば、それは簡単だと思った。",
+      "cloze": {
+        "maskedText": "At first, I didn’t think it would be difficult; ____, I took it to be simple.",
+        "answerBase": "if anything",
+        "answerSurface": "if anything",
+        "choices": [
+          "if anything",
+          "for all I know",
+          "on second thought",
+          "more often than not"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She stirred her tea with a spoon.",
-      "sentence-jp": "彼女はスプーンで紅茶をかき混ぜた。"
+      "sentence-jp": "彼女はスプーンで紅茶をかき混ぜた。",
+      "cloze": {
+        "maskedText": "She ____ her tea with a spoon.",
+        "answerBase": "stir",
+        "answerSurface": "stirred",
+        "choices": [
+          "stirred",
+          "soaked",
+          "poured",
+          "scooped"
+        ]
+      }
     }
   ],
   "notes": []

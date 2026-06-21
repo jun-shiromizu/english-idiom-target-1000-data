@@ -12,7 +12,18 @@
         "on the rise"
       ],
       "example-sentence": "We don’t know why various kinds of allergies are on the increase these days.",
-      "sentence-jp": "なぜ近ごろはさまざまなアレルギーが増加中であるのか、私たちにはわからない。"
+      "sentence-jp": "なぜ近ごろはさまざまなアレルギーが増加中であるのか、私たちにはわからない。",
+      "cloze": {
+        "maskedText": "We don’t know why various kinds of allergies are ____ these days.",
+        "answerBase": "on the increase",
+        "answerSurface": "on the increase",
+        "choices": [
+          "on the increase",
+          "on display",
+          "on our guard",
+          "under way"
+        ]
+      }
     }
   ],
   "notes": [

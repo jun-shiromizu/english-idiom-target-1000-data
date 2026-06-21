@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The doctor recommended that she eat more meat and eggs.",
-      "sentence-jp": "医師は彼女が肉と卵をもっと食べるように勧めた。"
+      "sentence-jp": "医師は彼女が肉と卵をもっと食べるように勧めた。",
+      "cloze": {
+        "maskedText": "The doctor ____ that she eat more meat and eggs.",
+        "answerBase": "recommend",
+        "answerSurface": "recommended",
+        "choices": [
+          "recommended",
+          "happened",
+          "counted",
+          "jumped"
+        ]
+      }
     }
   ],
   "notes": []

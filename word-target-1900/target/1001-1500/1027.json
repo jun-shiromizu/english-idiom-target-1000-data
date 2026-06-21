@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Emma logs on to her e-mail account many times a day.",
-      "sentence-jp": "エマは1日に何回もEメールのアカウントにログオンする。"
+      "sentence-jp": "エマは1日に何回もEメールのアカウントにログオンする。",
+      "cloze": {
+        "maskedText": "Emma ____ on to her e-mail account many times a day.",
+        "answerBase": "log",
+        "answerSurface": "logs",
+        "choices": ["logs", "bends", "bows", "equips"]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "She is in a gloomy mood as it has been raining for three days.",
-      "sentence-jp": "3日間雨が降り続いているので，彼女は陰気な気分だ。"
+      "sentence-jp": "3日間雨が降り続いているので，彼女は陰気な気分だ。",
+      "cloze": {
+        "maskedText": "She is in a ____ mood as it has been raining for three days.",
+        "answerBase": "gloomy",
+        "answerSurface": "gloomy",
+        "choices": [
+          "gloomy",
+          "cheerful",
+          "modest",
+          "formal"
+        ]
+      }
     }
   ],
   "notes": []

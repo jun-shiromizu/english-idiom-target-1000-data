@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She was frustrated by people's selfish behavior on the crowded train.",
-      "sentence-jp": "彼女は混雑した電車で人々の自分勝手な行動にいら立った。"
+      "sentence-jp": "彼女は混雑した電車で人々の自分勝手な行動にいら立った。",
+      "cloze": {
+        "maskedText": "She was ____ by people's selfish behavior on the crowded train.",
+        "answerBase": "frustrate",
+        "answerSurface": "frustrated",
+        "choices": [
+          "frustrated",
+          "derived",
+          "greeted",
+          "assigned"
+        ]
+      }
     }
   ],
   "notes": []

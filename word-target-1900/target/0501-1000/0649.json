@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She considered it an honor to give a speech at the wedding.",
-      "sentence-jp": "彼女は結婚式でスピーチをすることを光栄だと思った。"
+      "sentence-jp": "彼女は結婚式でスピーチをすることを光栄だと思った。",
+      "cloze": {
+        "maskedText": "She considered it an ____ to give a speech at the wedding.",
+        "answerBase": "honor",
+        "answerSurface": "honor",
+        "choices": [
+          "honor",
+          "sequence",
+          "symptom",
+          "incident"
+        ]
+      }
     }
   ],
   "notes": []

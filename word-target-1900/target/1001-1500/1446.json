@@ -12,5 +12,11 @@
       "sentence-jp": "彼女の新しい小説は読者から良好な反応を得ている。"
     }
   ],
+  "cloze": {
+    "maskedText": "The film received a warm ____ from critics.",
+    "answerBase": "reception",
+    "answerSurface": "reception",
+    "choices": ["reception", "transaction", "mutation", "fragment"]
+  },
   "notes": []
 }

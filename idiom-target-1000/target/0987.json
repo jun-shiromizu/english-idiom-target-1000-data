@@ -12,7 +12,18 @@
         "in the flesh"
       ],
       "example-sentence": "In that study, thousands of people were polled either in person or online.",
-      "sentence-jp": "その研究では、数千人が直接またはオンラインで世論調査を受けた。"
+      "sentence-jp": "その研究では、数千人が直接またはオンラインで世論調査を受けた。",
+      "cloze": {
+        "maskedText": "In that study, thousands of people were polled either ____ or online.",
+        "answerBase": "in person",
+        "answerSurface": "in person",
+        "choices": [
+          "in person",
+          "in a row",
+          "in retrospect",
+          "for nothing"
+        ]
+      }
     }
   ],
   "notes": [

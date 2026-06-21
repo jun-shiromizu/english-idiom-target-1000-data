@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "I admire the poet for his unique description of human existence.",
-      "sentence-jp": "私は人間存在に関する特異な描写ゆえにその詩人に敬服する。"
+      "sentence-jp": "私は人間存在に関する特異な描写ゆえにその詩人に敬服する。",
+      "cloze": {
+        "maskedText": "I ____ the poet for his unique description of human existence.",
+        "answerBase": "admire",
+        "answerSurface": "admire",
+        "choices": [
+          "admire",
+          "pretend",
+          "resist",
+          "assist"
+        ]
+      }
     }
   ],
   "notes": []

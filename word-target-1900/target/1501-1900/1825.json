@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "When spectators are excited, they often cannot restrain themselves.",
-      "sentence-jp": "観衆は興奮しているとき，たいてい自制することができない。"
+      "sentence-jp": "観衆は興奮しているとき，たいてい自制することができない。",
+      "cloze": {
+        "maskedText": "When spectators are excited, they often cannot ____ themselves.",
+        "answerBase": "restrain",
+        "answerSurface": "restrain",
+        "choices": [
+          "restrain",
+          "describe",
+          "reward",
+          "compare"
+        ]
+      }
     }
   ],
   "notes": []

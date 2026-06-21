@@ -12,7 +12,18 @@
         "A comes home to B"
       ],
       "example-sentence": "This incident brought home the importance of studying hard to Mayu.",
-      "sentence-jp": "この出来事は一生懸命勉強することの重要性をマユに痛感させた。"
+      "sentence-jp": "この出来事は一生懸命勉強することの重要性をマユに痛感させた。",
+      "cloze": {
+        "maskedText": "This incident ____ the importance of studying hard to Mayu.",
+        "answerBase": "bring A home to B",
+        "answerSurface": "brought home",
+        "choices": [
+          "brought home",
+          "ascribed",
+          "imposed",
+          "read between"
+        ]
+      }
     }
   ],
   "notes": [

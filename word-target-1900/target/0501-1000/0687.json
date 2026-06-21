@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The police are collecting relevant information for solving the case.",
-      "sentence-jp": "警察はその事件を解決するために関連情報を集めている。"
+      "sentence-jp": "警察はその事件を解決するために関連情報を集めている。",
+      "cloze": {
+        "maskedText": "The police are collecting ____ information for solving the case.",
+        "answerBase": "relevant",
+        "answerSurface": "relevant",
+        "choices": [
+          "relevant",
+          "principal",
+          "equivalent",
+          "frequent"
+        ]
+      }
     }
   ],
   "notes": []

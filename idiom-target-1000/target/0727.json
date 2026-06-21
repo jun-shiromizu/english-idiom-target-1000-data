@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "It is true his grandmother is in her mid-90s, but she is still going very strong.",
-      "sentence-jp": "確かに彼の祖母は90代半ばだが、今なお非常に元気だ。"
+      "sentence-jp": "確かに彼の祖母は90代半ばだが、今なお非常に元気だ。",
+      "cloze": {
+        "maskedText": "____ his grandmother is in her mid-90s, but she is still going very strong.",
+        "answerBase": "(It is) True ~, but ...",
+        "answerSurface": "It is true",
+        "choices": [
+          "It is true",
+          "It is high time that",
+          "It was not until",
+          "It is no use"
+        ]
+      }
     }
   ],
   "notes": [

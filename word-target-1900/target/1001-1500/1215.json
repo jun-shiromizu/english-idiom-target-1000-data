@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "His repeated mistakes forced us to cast doubt on his ability.",
-      "sentence-jp": "彼の度重なる失敗のせいで，私たちは彼の能力に疑問を投げかけざるを得なかった。"
+      "sentence-jp": "彼の度重なる失敗のせいで，私たちは彼の能力に疑問を投げかけざるを得なかった。",
+      "cloze": {
+        "maskedText": "His repeated mistakes forced us to ____ doubt on his ability.",
+        "answerBase": "cast",
+        "answerSurface": "cast",
+        "choices": ["cast", "scatter", "tempt", "withdraw"]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "She asked me to keep her company until her parents came home.",
-      "sentence-jp": "彼女は私に両親が帰宅するまで彼女と一緒にいてほしいと頼んだ。"
+      "sentence-jp": "彼女は私に両親が帰宅するまで彼女と一緒にいてほしいと頼んだ。",
+      "cloze": {
+        "maskedText": "She asked me to ____ until her parents came home.",
+        "answerBase": "keep ~ company",
+        "answerSurface": "keep her company",
+        "choices": [
+          "keep her company",
+          "keep track of her",
+          "keep abreast of her",
+          "live up to her"
+        ]
+      }
     }
   ],
   "notes": [

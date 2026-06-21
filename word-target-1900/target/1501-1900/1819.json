@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Illegal money may corrupt politicians.",
-      "sentence-jp": "違法な金は政治家を堕落させることもある。"
+      "sentence-jp": "違法な金は政治家を堕落させることもある。",
+      "cloze": {
+        "maskedText": "Illegal money may ____ politicians.",
+        "answerBase": "corrupt",
+        "answerSurface": "corrupt",
+        "choices": [
+          "corrupt",
+          "educate",
+          "observe",
+          "release"
+        ]
+      }
     }
   ],
   "notes": []

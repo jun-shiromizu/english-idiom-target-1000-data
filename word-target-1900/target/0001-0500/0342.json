@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Correct grammar is an important element in essay writing.",
-      "sentence-jp": "正しい文法は小論文作成の重要な要素である。"
+      "sentence-jp": "正しい文法は小論文作成の重要な要素である。",
+      "cloze": {
+        "maskedText": "Correct grammar is an important ____ in essay writing.",
+        "answerBase": "element",
+        "answerSurface": "element",
+        "choices": [
+          "element",
+          "journey",
+          "traffic",
+          "surface"
+        ]
+      }
     }
   ],
   "notes": []

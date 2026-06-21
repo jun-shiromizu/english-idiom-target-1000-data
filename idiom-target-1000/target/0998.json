@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "You are welcome to use my dictionary, such as it is.",
-      "sentence-jp": "大したものではないですが、私の辞書を自由にお使いください。"
+      "sentence-jp": "大したものではないですが、私の辞書を自由にお使いください。",
+      "cloze": {
+        "maskedText": "You are welcome to use my dictionary, ____.",
+        "answerBase": "such as it is",
+        "answerSurface": "such as it is",
+        "choices": [
+          "such as it is",
+          "as such",
+          "only too",
+          "to date"
+        ]
+      }
     }
   ],
   "notes": [

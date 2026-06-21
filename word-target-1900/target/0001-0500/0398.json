@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Typical Hollywood movies feature big name actors.",
-      "sentence-jp": "典型的なハリウッド映画は大物俳優を主役にする。"
+      "sentence-jp": "典型的なハリウッド映画は大物俳優を主役にする。",
+      "cloze": {
+        "maskedText": "____ Hollywood movies feature big name actors.",
+        "answerBase": "typical",
+        "answerSurface": "Typical",
+        "choices": [
+          "Typical",
+          "Constant",
+          "Domestic",
+          "Visual"
+        ]
+      }
     }
   ],
   "notes": []

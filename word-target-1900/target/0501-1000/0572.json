@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "In former British colonies such as Australia, they drive on the left.",
-      "sentence-jp": "オーストラリアなどのかつてのイギリス植民地では，車は左側を走行する。"
+      "sentence-jp": "オーストラリアなどのかつてのイギリス植民地では，車は左側を走行する。",
+      "cloze": {
+        "maskedText": "In former British ____ such as Australia, they drive on the left.",
+        "answerBase": "colony",
+        "answerSurface": "colonies",
+        "choices": [
+          "colonies",
+          "clients",
+          "welfares",
+          "treasures"
+        ]
+      }
     }
   ],
   "notes": []

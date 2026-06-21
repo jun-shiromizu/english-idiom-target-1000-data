@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The government announced a new policy on agriculture.",
-      "sentence-jp": "政府は農業に関する新しい政策を発表した。"
+      "sentence-jp": "政府は農業に関する新しい政策を発表した。",
+      "cloze": {
+        "maskedText": "The government ____ a new policy on agriculture.",
+        "answerBase": "announce",
+        "answerSurface": "announced",
+        "choices": [
+          "announced",
+          "balanced",
+          "visited",
+          "dropped"
+        ]
+      }
     }
   ],
   "notes": []

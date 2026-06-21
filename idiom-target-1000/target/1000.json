@@ -13,7 +13,18 @@
         "so far"
       ],
       "example-sentence": "Scientists are eagerly trying to develop a vaccine for the new virus, but to no avail to date.",
-      "sentence-jp": "科学者たちはその新型ウイルスのワクチンを熱心に開発しようとしているが、現在までのところ、そのかいはない。"
+      "sentence-jp": "科学者たちはその新型ウイルスのワクチンを熱心に開発しようとしているが、現在までのところ、そのかいはない。",
+      "cloze": {
+        "maskedText": "Scientists are eagerly trying to develop a vaccine for the new virus, but to no avail ____.",
+        "answerBase": "to date",
+        "answerSurface": "to date",
+        "choices": [
+          "to date",
+          "for a change",
+          "on second thought",
+          "down the road"
+        ]
+      }
     }
   ],
   "notes": []

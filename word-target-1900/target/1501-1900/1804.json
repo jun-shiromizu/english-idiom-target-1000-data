@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Much of the rain penetrated deep into the ground.",
-      "sentence-jp": "雨の多くは地中深くに浸透した。"
+      "sentence-jp": "雨の多くは地中深くに浸透した。",
+      "cloze": {
+        "maskedText": "Much of the rain ____ deep into the ground.",
+        "answerBase": "penetrate",
+        "answerSurface": "penetrated",
+        "choices": [
+          "penetrated",
+          "rested",
+          "vanished",
+          "arrived"
+        ]
+      }
     }
   ],
   "notes": []

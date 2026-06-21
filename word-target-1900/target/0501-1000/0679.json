@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "To receive verbal messages clearly, you need good listening skills.",
-      "sentence-jp": "言葉によるメッセージをはっきりと受け取るには，すぐれた聞き取りの技能が必要である。"
+      "sentence-jp": "言葉によるメッセージをはっきりと受け取るには，すぐれた聞き取りの技能が必要である。",
+      "cloze": {
+        "maskedText": "To receive ____ messages clearly, you need good listening skills.",
+        "answerBase": "verbal",
+        "answerSurface": "verbal",
+        "choices": [
+          "verbal",
+          "internal",
+          "solid",
+          "remote"
+        ]
+      }
     }
   ],
   "notes": []

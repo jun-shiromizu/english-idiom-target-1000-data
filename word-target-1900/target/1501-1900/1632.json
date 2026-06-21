@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "As towns and cities sprawl, fields and forests shrink.",
-      "sentence-jp": "町や市が不規則に広がるにつれ，野原や森は縮小する。"
+      "sentence-jp": "町や市が不規則に広がるにつれ，野原や森は縮小する。",
+      "cloze": {
+        "maskedText": "As towns and cities ____, fields and forests shrink.",
+        "answerBase": "sprawl",
+        "answerSurface": "sprawl",
+        "choices": [
+          "sprawl",
+          "compete",
+          "recover",
+          "pause"
+        ]
+      }
     }
   ],
   "notes": []

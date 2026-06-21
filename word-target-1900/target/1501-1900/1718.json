@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The power failure rendered the laboratory useless.",
-      "sentence-jp": "停電は実験室を使えなくした。"
+      "sentence-jp": "停電は実験室を使えなくした。",
+      "cloze": {
+        "maskedText": "The power failure ____ the laboratory useless.",
+        "answerBase": "render",
+        "answerSurface": "rendered",
+        "choices": [
+          "rendered",
+          "found",
+          "kept",
+          "showed"
+        ]
+      }
     }
   ],
   "notes": []

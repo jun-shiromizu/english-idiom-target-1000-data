@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Higher prices will offset the increased cost of materials.",
-      "sentence-jp": "価格の上昇は材料費の増加を相殺することになる。"
+      "sentence-jp": "価格の上昇は材料費の増加を相殺することになる。",
+      "cloze": {
+        "maskedText": "Higher prices will ____ the increased cost of materials.",
+        "answerBase": "offset",
+        "answerSurface": "offset",
+        "choices": [
+          "offset",
+          "announce",
+          "protect",
+          "admire"
+        ]
+      }
     }
   ],
   "notes": []

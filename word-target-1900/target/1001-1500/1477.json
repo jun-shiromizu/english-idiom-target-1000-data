@@ -12,5 +12,11 @@
       "sentence-jp": "昨年は5.2パーセントの税収があった。"
     }
   ],
+  "cloze": {
+    "maskedText": "Tourism brings in a lot of local ____.",
+    "answerBase": "revenue",
+    "answerSurface": "revenue",
+    "choices": ["revenue", "spectator", "collision", "vacuum"]
+  },
   "notes": []
 }

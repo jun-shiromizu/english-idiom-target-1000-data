@@ -12,5 +12,11 @@
       "sentence-jp": "先月，私は自分のスマートフォンの契約を更新した。"
     }
   ],
+  "cloze": {
+    "maskedText": "You need to ____ your passport before it expires.",
+    "answerBase": "renew",
+    "answerSurface": "renew",
+    "choices": ["renew", "startle", "strain", "dare"]
+  },
   "notes": []
 }

@@ -12,7 +12,18 @@
         "look the other way on ~"
       ],
       "example-sentence": "His parents were widely criticized for turning a blind eye to his antisocial behavior.",
-      "sentence-jp": "彼の両親は彼の反社会的行為を見て見ぬふりをして多くの人に非難された。"
+      "sentence-jp": "彼の両親は彼の反社会的行為を見て見ぬふりをして多くの人に非難された。",
+      "cloze": {
+        "maskedText": "His parents were widely criticized for ____ his antisocial behavior.",
+        "answerBase": "turn a blind eye to ~",
+        "answerSurface": "turning a blind eye to",
+        "choices": [
+          "turning a blind eye to",
+          "taking office as",
+          "paying a visit to",
+          "sticking around for"
+        ]
+      }
     }
   ],
   "notes": [

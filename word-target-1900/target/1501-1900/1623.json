@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The boy was clinging to his mother at the clinic.",
-      "sentence-jp": "その男の子は診療所で母親にしがみついていた。"
+      "sentence-jp": "その男の子は診療所で母親にしがみついていた。",
+      "cloze": {
+        "maskedText": "The boy was ____ to his mother at the clinic.",
+        "answerBase": "cling",
+        "answerSurface": "clinging",
+        "choices": [
+          "clinging",
+          "talking",
+          "waving",
+          "smiling"
+        ]
+      }
     }
   ],
   "notes": []

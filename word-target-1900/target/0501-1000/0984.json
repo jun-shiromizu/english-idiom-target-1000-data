@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She always adopts a neutral position in a debate.",
-      "sentence-jp": "彼女は討論でいつも中立の立場をとる。"
+      "sentence-jp": "彼女は討論でいつも中立の立場をとる。",
+      "cloze": {
+        "maskedText": "She always adopts a ____ position in a debate.",
+        "answerBase": "neutral",
+        "answerSurface": "neutral",
+        "choices": ["neutral", "magnetic", "polar", "passive"]
+      }
     }
   ],
   "notes": []

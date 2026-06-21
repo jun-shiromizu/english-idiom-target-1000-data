@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Believe it or not, obesity also occurs even among those living in poverty.",
-      "sentence-jp": "まさかと思うような話だが、肥満は貧しい生活をしている人々の間でさえも起きる。"
+      "sentence-jp": "まさかと思うような話だが、肥満は貧しい生活をしている人々の間でさえも起きる。",
+      "cloze": {
+        "maskedText": "____, obesity also occurs even among those living in poverty.",
+        "answerBase": "believe it or not",
+        "answerSurface": "Believe it or not",
+        "choices": [
+          "Believe it or not",
+          "No wonder",
+          "It happens that",
+          "If only"
+        ]
+      }
     }
   ],
   "notes": [

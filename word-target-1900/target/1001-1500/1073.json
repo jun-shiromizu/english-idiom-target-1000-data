@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Organic foods are produced without chemical pesticides.",
-      "sentence-jp": "有機食品は化学殺虫剤を使わずに作られる。"
+      "sentence-jp": "有機食品は化学殺虫剤を使わずに作られる。",
+      "cloze": {
+        "maskedText": "Organic foods are produced without chemical ____.",
+        "answerBase": "pesticide",
+        "answerSurface": "pesticides",
+        "choices": ["pesticides", "curves", "files", "virtues"]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "She made the sensible decision of consulting her lawyer.",
-      "sentence-jp": "彼女は弁護士に相談するという賢明な決断をした。"
+      "sentence-jp": "彼女は弁護士に相談するという賢明な決断をした。",
+      "cloze": {
+        "maskedText": "She made the ____ decision of consulting her lawyer.",
+        "answerBase": "sensible",
+        "answerSurface": "sensible",
+        "choices": ["sensible", "noble", "tense", "indigenous"]
+      }
     }
   ],
   "notes": []

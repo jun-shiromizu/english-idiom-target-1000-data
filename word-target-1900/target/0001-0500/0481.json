@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "The temperature varies only within a narrow range in a cave.",
-      "sentence-jp": "洞窟の中では気温は狭い範囲内でしか変動しない。"
+      "sentence-jp": "洞窟の中では気温は狭い範囲内でしか変動しない。",
+      "cloze": {
+        "maskedText": "The temperature varies only within a ____ range in a cave.",
+        "answerBase": "narrow",
+        "answerSurface": "narrow",
+        "choices": [
+          "narrow",
+          "formal",
+          "gentle",
+          "curious"
+        ]
+      }
     }
   ],
   "notes": []

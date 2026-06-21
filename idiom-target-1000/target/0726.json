@@ -12,7 +12,18 @@
         "needless to say"
       ],
       "example-sentence": "It goes without saying that nothing is more important than our health.",
-      "sentence-jp": "健康ほど重要なものはないということは言うまでもない。"
+      "sentence-jp": "健康ほど重要なものはないということは言うまでもない。",
+      "cloze": {
+        "maskedText": "____ nothing is more important than our health.",
+        "answerBase": "It goes without saying that ...",
+        "answerSurface": "It goes without saying that",
+        "choices": [
+          "It goes without saying that",
+          "Suffice it to say that",
+          "Chances are",
+          "It happens that"
+        ]
+      }
     }
   ],
   "notes": [

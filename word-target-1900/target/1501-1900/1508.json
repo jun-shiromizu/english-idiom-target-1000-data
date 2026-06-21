@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Animals usually do not invade the territories of other animals.",
-      "sentence-jp": "動物はたいていほかの動物の縄張りを侵略しない。"
+      "sentence-jp": "動物はたいていほかの動物の縄張りを侵略しない。",
+      "cloze": {
+        "maskedText": "Animals usually do not ____ the territories of other animals.",
+        "answerBase": "invade",
+        "answerSurface": "invade",
+        "choices": [
+          "invade",
+          "ignore",
+          "inherit",
+          "inhabit"
+        ]
+      }
     }
   ],
   "notes": []

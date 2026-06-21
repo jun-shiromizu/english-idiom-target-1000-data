@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "They did not know why the secret information leaked to outsiders.",
-      "sentence-jp": "彼らはなぜ部外者に機密情報が漏れたのかわからなかった。"
+      "sentence-jp": "彼らはなぜ部外者に機密情報が漏れたのかわからなかった。",
+      "cloze": {
+        "maskedText": "They did not know why the secret information ____ to outsiders.",
+        "answerBase": "leak",
+        "answerSurface": "leaked",
+        "choices": [
+          "leaked",
+          "belonged",
+          "pointed",
+          "returned"
+        ]
+      }
     }
   ],
   "notes": []

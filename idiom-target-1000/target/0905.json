@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "In most countries of the world, people legally come of age at 18.",
-      "sentence-jp": "世界のほとんどの国では、18歳で法的に成人になる。"
+      "sentence-jp": "世界のほとんどの国では、18歳で法的に成人になる。",
+      "cloze": {
+        "maskedText": "In most countries of the world, people legally ____ at 18.",
+        "answerBase": "come of age",
+        "answerSurface": "come of age",
+        "choices": [
+          "come of age",
+          "come to light",
+          "come in handy",
+          "hold true"
+        ]
+      }
     }
   ],
   "notes": [

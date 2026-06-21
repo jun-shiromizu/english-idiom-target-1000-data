@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "The mass media blamed the politician for not listening to the voices of the people.",
-      "sentence-jp": "マスメディアは、国民の声に耳を傾けないことでその政治家を非難した。"
+      "sentence-jp": "マスメディアは、国民の声に耳を傾けないことでその政治家を非難した。",
+      "cloze": {
+        "maskedText": "The mass media ____ the politician for not listening to the voices of the people.",
+        "answerBase": "blame A for B",
+        "answerSurface": "blamed",
+        "choices": [
+          "blamed",
+          "punished",
+          "forgave",
+          "accused"
+        ]
+      }
     }
   ],
   "notes": [

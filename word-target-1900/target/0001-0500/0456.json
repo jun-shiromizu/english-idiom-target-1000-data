@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Racial diversity is a major part of American society.",
-      "sentence-jp": "人種的多様性はアメリカ社会の主要な一部である。"
+      "sentence-jp": "人種的多様性はアメリカ社会の主要な一部である。",
+      "cloze": {
+        "maskedText": "Racial ____ is a major part of American society.",
+        "answerBase": "diversity",
+        "answerSurface": "diversity",
+        "choices": [
+          "diversity",
+          "sandwich",
+          "corridor",
+          "baggage"
+        ]
+      }
     }
   ],
   "notes": []

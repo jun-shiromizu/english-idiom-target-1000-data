@@ -13,7 +13,18 @@
         "take ~ into consideration"
       ],
       "example-sentence": "Our big mistake was that we hadn’t taken the traffic conditions into account.",
-      "sentence-jp": "私たちの大きな失敗は交通状況を考慮に入れなかったことだった。"
+      "sentence-jp": "私たちの大きな失敗は交通状況を考慮に入れなかったことだった。",
+      "cloze": {
+        "maskedText": "Our big mistake was that we hadn’t taken the traffic conditions ____.",
+        "answerBase": "take ~ into account",
+        "answerSurface": "into account",
+        "choices": [
+          "into account",
+          "for granted",
+          "hold of",
+          "great pains"
+        ]
+      }
     }
   ],
   "notes": [

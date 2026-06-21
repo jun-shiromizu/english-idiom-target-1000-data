@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She cannot bend her right elbow due to her injury.",
-      "sentence-jp": "彼女はけがのせいで右ひじを曲げることができない。"
+      "sentence-jp": "彼女はけがのせいで右ひじを曲げることができない。",
+      "cloze": {
+        "maskedText": "She cannot ____ her right elbow due to her injury.",
+        "answerBase": "bend",
+        "answerSurface": "bend",
+        "choices": ["bend", "govern", "blend", "equip"]
+      }
     }
   ],
   "notes": []

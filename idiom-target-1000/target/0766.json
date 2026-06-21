@@ -9,7 +9,18 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "Now that the decision has been made, we will be obliged to accept it.",
-      "sentence-jp": "決定が下された以上、私たちはそれを受け入れざるを得ないだろう。"
+      "sentence-jp": "決定が下された以上、私たちはそれを受け入れざるを得ないだろう。",
+      "cloze": {
+        "maskedText": "____ the decision has been made, we will be obliged to accept it.",
+        "answerBase": "now that ...",
+        "answerSurface": "Now that",
+        "choices": [
+          "Now that",
+          "By the time",
+          "In case",
+          "As long as"
+        ]
+      }
     }
   ],
   "notes": [

@@ -12,5 +12,11 @@
       "sentence-jp": "彼らは皆，彼女の心からの謝罪を受け入れた。"
     }
   ],
+  "cloze": {
+    "maskedText": "Please accept my ____ thanks.",
+    "answerBase": "sincere",
+    "answerSurface": "sincere",
+    "choices": ["sincere", "dim", "spatial", "tidy"]
+  },
   "notes": []
 }

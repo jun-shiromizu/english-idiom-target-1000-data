@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The politician succeeded in unifying the country.",
-      "sentence-jp": "その政治家は国を統一することに成功した。"
+      "sentence-jp": "その政治家は国を統一することに成功した。",
+      "cloze": {
+        "maskedText": "The politician succeeded in ____ the country.",
+        "answerBase": "unify",
+        "answerSurface": "unifying",
+        "choices": [
+          "unifying",
+          "visiting",
+          "naming",
+          "limiting"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "The little boy seems very timid without his mother.",
-      "sentence-jp": "その小さな男の子は母親がいないととても臆病に見える。"
+      "sentence-jp": "その小さな男の子は母親がいないととても臆病に見える。",
+      "cloze": {
+        "maskedText": "The little boy seems very ____ without his mother.",
+        "answerBase": "timid",
+        "answerSurface": "timid",
+        "choices": [
+          "timid",
+          "furious",
+          "reckless",
+          "abrupt"
+        ]
+      }
     }
   ],
   "notes": []

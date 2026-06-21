@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Many people still smoke despite the health hazards of cigarettes.",
-      "sentence-jp": "多くの人がタバコの健康に対する危険性にもかかわらずいまだに喫煙している。"
+      "sentence-jp": "多くの人がタバコの健康に対する危険性にもかかわらずいまだに喫煙している。",
+      "cloze": {
+        "maskedText": "Many people still smoke despite the health ____ of cigarettes.",
+        "answerBase": "hazard",
+        "answerSurface": "hazards",
+        "choices": [
+          "hazards",
+          "schedules",
+          "chapters",
+          "memories"
+        ]
+      }
     }
   ],
   "notes": []

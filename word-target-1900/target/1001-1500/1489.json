@@ -12,5 +12,11 @@
       "sentence-jp": "彼は金銭的価値のほとんどない物には興味がない。"
     }
   ],
+  "cloze": {
+    "maskedText": "The reward was small in ____ terms.",
+    "answerBase": "monetary",
+    "answerSurface": "monetary",
+    "choices": ["monetary", "neat", "spontaneous", "naked"]
+  },
   "notes": []
 }

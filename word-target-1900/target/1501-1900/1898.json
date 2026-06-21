@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "While walking in the snow, his toes became numb with the cold.",
-      "sentence-jp": "雪の中を歩いている間に，彼のつま先は寒さで麻痺した。"
+      "sentence-jp": "雪の中を歩いている間に，彼のつま先は寒さで麻痺した。",
+      "cloze": {
+        "maskedText": "While walking in the snow, his toes became ____ with the cold.",
+        "answerBase": "numb",
+        "answerSurface": "numb",
+        "choices": [
+          "numb",
+          "eager",
+          "zealous",
+          "timid"
+        ]
+      }
     }
   ],
   "notes": []

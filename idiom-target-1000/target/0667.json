@@ -12,7 +12,18 @@
         "cannot ~ (...) enough"
       ],
       "example-sentence": "You cannot be too careful when you drive in stormy weather.",
-      "sentence-jp": "荒れた天気の中で運転するときはいくら注意してもしすぎることはない。"
+      "sentence-jp": "荒れた天気の中で運転するときはいくら注意してもしすぎることはない。",
+      "cloze": {
+        "maskedText": "You ____ when you drive in stormy weather.",
+        "answerBase": "cannot ~ too (...)",
+        "answerSurface": "cannot be too careful",
+        "choices": [
+          "cannot be too careful",
+          "cannot help laughing at myself",
+          "feel like wearing even at work",
+          "were used to performing in front of many people"
+        ]
+      }
     }
   ],
   "notes": []

@@ -12,5 +12,11 @@
       "sentence-jp": "私たちの猫は人に慣れているが，ときどき見知らぬ人を怖がる。"
     }
   ],
+  "cloze": {
+    "maskedText": "The deer became quite ____ around people.",
+    "answerBase": "tame",
+    "answerSurface": "tame",
+    "choices": ["tame", "acute", "monetary", "loyal"]
+  },
   "notes": []
 }

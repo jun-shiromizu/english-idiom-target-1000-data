@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Foreign workers in Japan easily get access to Japanese health insurance.",
-      "sentence-jp": "日本在住の外国人労働者は容易に日本の健康保険を利用することができる。"
+      "sentence-jp": "日本在住の外国人労働者は容易に日本の健康保険を利用することができる。",
+      "cloze": {
+        "maskedText": "Foreign workers in Japan easily get access to Japanese health ____.",
+        "answerBase": "insurance",
+        "answerSurface": "insurance",
+        "choices": [
+          "insurance",
+          "priority",
+          "logic",
+          "minimum"
+        ]
+      }
     }
   ],
   "notes": []

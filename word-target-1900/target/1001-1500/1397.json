@@ -12,5 +12,11 @@
       "sentence-jp": "日本はエネルギー資源が乏しい国である。"
     }
   ],
+  "cloze": {
+    "maskedText": "Clean water is ____ in the desert.",
+    "answerBase": "scarce",
+    "answerSurface": "scarce",
+    "choices": ["scarce", "worthwhile", "obscure", "vocal"]
+  },
   "notes": []
 }

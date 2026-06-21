@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "I am accustomed to hearing criticism from the media.",
-      "sentence-jp": "私はマスコミからの批判を聞くのに慣れている。"
+      "sentence-jp": "私はマスコミからの批判を聞くのに慣れている。",
+      "cloze": {
+        "maskedText": "I am ____ to hearing criticism from the media.",
+        "answerBase": "accustom",
+        "answerSurface": "accustomed",
+        "choices": ["accustomed", "flourished", "clicked", "cast"]
+      }
     }
   ],
   "notes": []

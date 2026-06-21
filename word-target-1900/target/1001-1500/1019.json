@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The news story highlights the problems of children using smartphones.",
-      "sentence-jp": "そのニュース記事は子供のスマホ使用がはらむ問題を強調している。"
+      "sentence-jp": "そのニュース記事は子供のスマホ使用がはらむ問題を強調している。",
+      "cloze": {
+        "maskedText": "The news story ____ the problems of children using smartphones.",
+        "answerBase": "highlight",
+        "answerSurface": "highlights",
+        "choices": ["highlights", "forbids", "quotes", "distracts"]
+      }
     }
   ],
   "notes": []

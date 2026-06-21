@@ -10,7 +10,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I’d like to dwell on this point further because it’s so important.",
-      "sentence-jp": "この点は非常に重要なので、さらにこのことを詳しく論じたい。"
+      "sentence-jp": "この点は非常に重要なので、さらにこのことを詳しく論じたい。",
+      "cloze": {
+        "maskedText": "I’d like to ____ this point further because it’s so important.",
+        "answerBase": "dwell on ~ / dwell upon ~",
+        "answerSurface": "dwell on",
+        "choices": [
+          "dwell on",
+          "tell on",
+          "embark on",
+          "indulge in"
+        ]
+      }
     },
     {
       "idiom-jp": "〜をくよくよ[つくづく]考える、〜にこだわる",
@@ -20,7 +31,18 @@
         "have ~ on one’s mind"
       ],
       "example-sentence": "It is futile to dwell on the problems of today; instead, let’s try to have unlimited optimism.",
-      "sentence-jp": "今日の問題についてくよくよ考えても無益だ。代わりに、無限の楽観主義を持つようにしよう。"
+      "sentence-jp": "今日の問題についてくよくよ考えても無益だ。代わりに、無限の楽観主義を持つようにしよう。",
+      "cloze": {
+        "maskedText": "It is futile to ____ the problems of today; instead, let’s try to have unlimited optimism.",
+        "answerBase": "dwell on ~ / dwell upon ~",
+        "answerSurface": "dwell on",
+        "choices": [
+          "dwell on",
+          "embark on",
+          "refrain from",
+          "single out"
+        ]
+      }
     }
   ],
   "notes": []

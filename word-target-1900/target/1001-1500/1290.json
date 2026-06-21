@@ -12,5 +12,11 @@
       "sentence-jp": "脳は老化すると，その生まれながらの言語能力の一部を失う。"
     }
   ],
+  "cloze": {
+    "maskedText": "Humans have an ____ ability to learn language.",
+    "answerBase": "innate",
+    "answerSurface": "innate",
+    "choices": ["innate", "wireless", "steep", "trivial"]
+  },
   "notes": []
 }

@@ -10,7 +10,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "They loved each other and were content with what little they had.",
-      "sentence-jp": "彼らは互いに愛し合っており、少ないながらもあるもので満足していた。"
+      "sentence-jp": "彼らは互いに愛し合っており、少ないながらもあるもので満足していた。",
+      "cloze": {
+        "maskedText": "They loved each other and were ____ what little they had.",
+        "answerBase": "be content with ~ / be contented with ~",
+        "answerSurface": "content with",
+        "choices": [
+          "content with",
+          "equipped with",
+          "confronted with",
+          "worthy of"
+        ]
+      }
     }
   ],
   "notes": [

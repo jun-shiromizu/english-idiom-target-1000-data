@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "He couldn’t have looked her straight in the eye if he’d had any evil intent on her.",
-      "sentence-jp": "彼がもし彼女に対して悪意を持っていたなら、彼は彼女の目を正視することができなかっただろう。"
+      "sentence-jp": "彼がもし彼女に対して悪意を持っていたなら、彼は彼女の目を正視することができなかっただろう。",
+      "cloze": {
+        "maskedText": "He couldn’t have ____ straight in the eye if he’d had any evil intent on her.",
+        "answerBase": "look ~ in the eye(s)",
+        "answerSurface": "looked her",
+        "choices": [
+          "looked her",
+          "taken her",
+          "let her",
+          "kept her"
+        ]
+      }
     }
   ],
   "notes": [

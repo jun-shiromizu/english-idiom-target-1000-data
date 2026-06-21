@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "His passion for skateboarding is such that he practices it every day.",
-      "sentence-jp": "スケートボードに対する彼の情熱は相当なもので，彼は毎日その練習をしている。"
+      "sentence-jp": "スケートボードに対する彼の情熱は相当なもので，彼は毎日その練習をしている。",
+      "cloze": {
+        "maskedText": "His ____ for skateboarding is such that he practices it every day.",
+        "answerBase": "passion",
+        "answerSurface": "passion",
+        "choices": ["passion", "budget", "lecture", "region"]
+      }
     }
   ],
   "notes": []

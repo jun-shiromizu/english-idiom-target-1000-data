@@ -12,5 +12,11 @@
       "sentence-jp": "川にごみを投棄するのは違法である。"
     }
   ],
+  "cloze": {
+    "maskedText": "Do not ____ trash in this area.",
+    "answerBase": "dump",
+    "answerSurface": "dump",
+    "choices": ["dump", "strip", "soar", "glow"]
+  },
   "notes": []
 }

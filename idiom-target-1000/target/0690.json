@@ -12,7 +12,18 @@
         "that much + 比較級"
       ],
       "example-sentence": "Yui got all the more nervous because she had to speak in English.",
-      "sentence-jp": "ユイは英語で話さなければならなかったのでますます緊張した。"
+      "sentence-jp": "ユイは英語で話さなければならなかったのでますます緊張した。",
+      "cloze": {
+        "maskedText": "Yui got ____ nervous because she had to speak in English.",
+        "answerBase": "all the + comparative",
+        "answerSurface": "all the more",
+        "choices": [
+          "all the more",
+          "that much harder",
+          "much less speak it",
+          "what is more"
+        ]
+      }
     }
   ],
   "notes": [

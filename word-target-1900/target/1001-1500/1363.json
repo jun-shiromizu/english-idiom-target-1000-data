@@ -12,5 +12,11 @@
       "sentence-jp": "私は彼が今ボストンに住んでいるといううわさを聞いた。"
     }
   ],
+  "cloze": {
+    "maskedText": "A ____ spread that the store was closing.",
+    "answerBase": "rumor",
+    "answerSurface": "rumor",
+    "choices": ["rumor", "spectrum", "destiny", "tomb"]
+  },
   "notes": []
 }

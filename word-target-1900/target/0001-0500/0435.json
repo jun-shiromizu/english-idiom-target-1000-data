@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Doing volunteer activities can inspire people to help others.",
-      "sentence-jp": "ボランティア活動をすることは，他人を助けるように人を奮起させ得る。"
+      "sentence-jp": "ボランティア活動をすることは，他人を助けるように人を奮起させ得る。",
+      "cloze": {
+        "maskedText": "Doing volunteer activities can ____ people to help others.",
+        "answerBase": "inspire",
+        "answerSurface": "inspire",
+        "choices": [
+          "inspire",
+          "lock",
+          "divide",
+          "ignore"
+        ]
+      }
     }
   ],
   "notes": []

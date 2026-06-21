@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "I never see you without thinking of my mother.",
-      "sentence-jp": "私はあなたに会うと必ず母のことを思い浮かべます。"
+      "sentence-jp": "私はあなたに会うと必ず母のことを思い浮かべます。",
+      "cloze": {
+        "maskedText": "I never see you without ____ of my mother.",
+        "answerBase": "never do without ~",
+        "answerSurface": "thinking",
+        "choices": [
+          "thinking",
+          "regretting",
+          "saying",
+          "believing"
+        ]
+      }
     }
   ],
   "notes": [

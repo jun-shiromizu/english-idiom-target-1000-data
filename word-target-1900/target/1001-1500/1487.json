@@ -12,5 +12,11 @@
       "sentence-jp": "身体障害者のために駐車スペースが用意されている。"
     }
   ],
+  "cloze": {
+    "maskedText": "The building has access for ____ visitors.",
+    "answerBase": "disabled",
+    "answerSurface": "disabled",
+    "choices": ["disabled", "drastic", "monetary", "partial"]
+  },
   "notes": []
 }

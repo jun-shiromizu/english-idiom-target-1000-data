@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Anxiety can take a toll on our mental and physical health.",
-      "sentence-jp": "不安は私たちの精神と肉体の健康に損害を及ぼしかねない。"
+      "sentence-jp": "不安は私たちの精神と肉体の健康に損害を及ぼしかねない。",
+      "cloze": {
+        "maskedText": "Anxiety can take a ____ on our mental and physical health.",
+        "answerBase": "toll",
+        "answerSurface": "toll",
+        "choices": [
+          "toll",
+          "seat",
+          "turn",
+          "meal"
+        ]
+      }
     }
   ],
   "notes": []

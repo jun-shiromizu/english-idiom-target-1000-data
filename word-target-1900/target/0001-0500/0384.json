@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Many companies are making advances in artificial intelligence.",
-      "sentence-jp": "多くの企業が人工知能において進歩している。"
+      "sentence-jp": "多くの企業が人工知能において進歩している。",
+      "cloze": {
+        "maskedText": "Many companies are making advances in ____ intelligence.",
+        "answerBase": "artificial",
+        "answerSurface": "artificial",
+        "choices": [
+          "artificial",
+          "domestic",
+          "rural",
+          "biological"
+        ]
+      }
     }
   ],
   "notes": []

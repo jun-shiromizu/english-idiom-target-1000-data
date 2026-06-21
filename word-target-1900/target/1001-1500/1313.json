@@ -12,5 +12,11 @@
       "sentence-jp": "私は彼女の耳に黙っているようにささやいた。"
     }
   ],
+  "cloze": {
+    "maskedText": "She ____ that the baby was asleep.",
+    "answerBase": "whisper",
+    "answerSurface": "whispered",
+    "choices": ["whispered", "yelled", "deposited", "outlined"]
+  },
   "notes": []
 }

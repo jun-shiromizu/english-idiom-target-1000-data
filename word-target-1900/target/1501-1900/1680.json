@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "They are making vigorous efforts to complete the new project.",
-      "sentence-jp": "彼らは新しいプロジェクトを完了するために精力的な努力をしている。"
+      "sentence-jp": "彼らは新しいプロジェクトを完了するために精力的な努力をしている。",
+      "cloze": {
+        "maskedText": "They are making ____ efforts to complete the new project.",
+        "answerBase": "vigorous",
+        "answerSurface": "vigorous",
+        "choices": [
+          "vigorous",
+          "minor",
+          "formal",
+          "distant"
+        ]
+      }
     }
   ],
   "notes": []

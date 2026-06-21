@@ -12,5 +12,11 @@
       "sentence-jp": "彼女はトーナメント中にすばらしい勝利を収めた。"
     }
   ],
+  "cloze": {
+    "maskedText": "Winning the championship was a personal ____.",
+    "answerBase": "triumph",
+    "answerSurface": "triumph",
+    "choices": ["triumph", "sphere", "county", "treaty"]
+  },
   "notes": []
 }

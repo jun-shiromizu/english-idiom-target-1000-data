@@ -12,5 +12,11 @@
       "sentence-jp": "その会社の株価が急上昇した。"
     }
   ],
+  "cloze": {
+    "maskedText": "Prices began to ____ after the shortage.",
+    "answerBase": "soar",
+    "answerSurface": "soar",
+    "choices": ["soar", "clarify", "dump", "refine"]
+  },
   "notes": []
 }

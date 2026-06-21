@@ -12,5 +12,11 @@
       "sentence-jp": "昨夜2隻の船による衝突があった。"
     }
   ],
+  "cloze": {
+    "maskedText": "The accident involved a ____ between two trucks.",
+    "answerBase": "collision",
+    "answerSurface": "collision",
+    "choices": ["collision", "triumph", "county", "revenue"]
+  },
   "notes": []
 }

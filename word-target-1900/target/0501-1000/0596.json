@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Giving a tip at a restaurant is a habit alien to most Japanese people.",
-      "sentence-jp": "レストランでチップを渡すことはたいていの日本人にとって異質の習慣である。"
+      "sentence-jp": "レストランでチップを渡すことはたいていの日本人にとって異質の習慣である。",
+      "cloze": {
+        "maskedText": "Giving a tip at a restaurant is a habit ____ to most Japanese people.",
+        "answerBase": "alien",
+        "answerSurface": "alien",
+        "choices": [
+          "alien",
+          "visible",
+          "precise",
+          "aggressive"
+        ]
+      }
     }
   ],
   "notes": []

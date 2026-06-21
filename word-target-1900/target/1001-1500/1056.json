@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Using your creative faculties might help you solve the problem.",
-      "sentence-jp": "創造力を使うことはあなたがその問題を解決する助けになるかもしれない。"
+      "sentence-jp": "創造力を使うことはあなたがその問題を解決する助けになるかもしれない。",
+      "cloze": {
+        "maskedText": "Using your creative ____ might help you solve the problem.",
+        "answerBase": "faculty",
+        "answerSurface": "faculties",
+        "choices": ["faculties", "premises", "compliments", "molecules"]
+      }
     }
   ],
   "notes": []

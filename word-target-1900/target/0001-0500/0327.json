@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Some kinds of food can be preserved for years by canning.",
-      "sentence-jp": "ある種の食品は缶詰めにすることによって何年も保存することができる。"
+      "sentence-jp": "ある種の食品は缶詰めにすることによって何年も保存することができる。",
+      "cloze": {
+        "maskedText": "Some kinds of food can be ____ for years by canning.",
+        "answerBase": "preserve",
+        "answerSurface": "preserved",
+        "choices": [
+          "preserved",
+          "divided",
+          "released",
+          "examined"
+        ]
+      }
     }
   ],
   "notes": []

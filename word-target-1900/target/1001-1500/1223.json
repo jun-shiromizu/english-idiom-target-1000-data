@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Jason's loud voice irritates her.",
-      "sentence-jp": "ジェイソンの大声は彼女をいらいらさせる。"
+      "sentence-jp": "ジェイソンの大声は彼女をいらいらさせる。",
+      "cloze": {
+        "maskedText": "Jason's loud voice ____ her.",
+        "answerBase": "irritate",
+        "answerSurface": "irritates",
+        "choices": ["irritates", "enforces", "suspends", "revises"]
+      }
     }
   ],
   "notes": []

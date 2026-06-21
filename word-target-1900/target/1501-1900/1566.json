@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Dogs can detect odors that humans cannot notice.",
-      "sentence-jp": "犬は人間が気づくことのできないにおいを感知することができる。"
+      "sentence-jp": "犬は人間が気づくことのできないにおいを感知することができる。",
+      "cloze": {
+        "maskedText": "Dogs can detect ____ that humans cannot notice.",
+        "answerBase": "odor",
+        "answerSurface": "odors",
+        "choices": [
+          "odors",
+          "signals",
+          "sounds",
+          "voices"
+        ]
+      }
     }
   ],
   "notes": []

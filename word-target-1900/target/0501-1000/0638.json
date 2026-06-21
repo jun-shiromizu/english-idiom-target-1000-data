@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "We must figure out measures to eliminate crime from society.",
-      "sentence-jp": "私たちは社会から犯罪を取り除く方策を考え出さなくてはならない。"
+      "sentence-jp": "私たちは社会から犯罪を取り除く方策を考え出さなくてはならない。",
+      "cloze": {
+        "maskedText": "We must figure out measures to ____ crime from society.",
+        "answerBase": "eliminate",
+        "answerSurface": "eliminate",
+        "choices": [
+          "eliminate",
+          "calculate",
+          "monitor",
+          "ease"
+        ]
+      }
     }
   ],
   "notes": []

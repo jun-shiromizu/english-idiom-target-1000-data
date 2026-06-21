@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "We made a contract with a five-year duration with the company.",
-      "sentence-jp": "私たちはその会社と5年継続の契約を結んだ。"
+      "sentence-jp": "私たちはその会社と5年継続の契約を結んだ。",
+      "cloze": {
+        "maskedText": "We made a contract with a five-year ____ with the company.",
+        "answerBase": "duration",
+        "answerSurface": "duration",
+        "choices": [
+          "duration",
+          "painting",
+          "audience",
+          "mountain"
+        ]
+      }
     }
   ],
   "notes": []

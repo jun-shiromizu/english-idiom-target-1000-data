@@ -13,7 +13,18 @@
         "keep [stay] away (from ~)"
       ],
       "example-sentence": "In the interview, the politician shied away from any question concerning his private life.",
-      "sentence-jp": "インタビューで、その政治家は私生活に関するどんな質問も避けた。"
+      "sentence-jp": "インタビューで、その政治家は私生活に関するどんな質問も避けた。",
+      "cloze": {
+        "maskedText": "In the interview, the politician ____ any question concerning his private life.",
+        "answerBase": "shy away (from ~)",
+        "answerSurface": "shied away from",
+        "choices": [
+          "shied away from",
+          "got away with",
+          "missed out on",
+          "caught on to"
+        ]
+      }
     }
   ],
   "notes": []

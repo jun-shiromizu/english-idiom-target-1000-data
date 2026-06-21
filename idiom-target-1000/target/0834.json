@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Whether you love or hate it, AI is definitely here to stay.",
-      "sentence-jp": "好むと好まざるとにかかわらず、人工知能は確実に定着している。"
+      "sentence-jp": "好むと好まざるとにかかわらず、人工知能は確実に定着している。",
+      "cloze": {
+        "maskedText": "Whether you love or hate it, AI is definitely ____.",
+        "answerBase": "be here to stay",
+        "answerSurface": "here to stay",
+        "choices": [
+          "here to stay",
+          "at odds",
+          "no match",
+          "worth doing"
+        ]
+      }
     }
   ],
   "notes": []

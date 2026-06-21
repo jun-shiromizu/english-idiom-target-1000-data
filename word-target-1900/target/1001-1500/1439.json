@@ -12,5 +12,11 @@
       "sentence-jp": "この治療の目的はあなたの生活の質を豊かにすることである。"
     }
   ],
+  "cloze": {
+    "maskedText": "Travel can ____ your understanding of other cultures.",
+    "answerBase": "enrich",
+    "answerSurface": "enrich",
+    "choices": ["enrich", "strip", "soar", "dispose"]
+  },
   "notes": []
 }

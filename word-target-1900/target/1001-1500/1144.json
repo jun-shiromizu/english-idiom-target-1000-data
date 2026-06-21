@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The output of this product has decreased due to the factory closure.",
-      "sentence-jp": "この製品の生産高は工場の閉鎖が原因で減少した。"
+      "sentence-jp": "この製品の生産高は工場の閉鎖が原因で減少した。",
+      "cloze": {
+        "maskedText": "The ____ of this product has decreased due to the factory closure.",
+        "answerBase": "output",
+        "answerSurface": "output",
+        "choices": ["output", "caution", "consensus", "fiber"]
+      }
     }
   ],
   "notes": []

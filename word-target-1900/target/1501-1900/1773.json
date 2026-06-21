@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "I paid the annual premium for my car insurance.",
-      "sentence-jp": "私は自動車保険の年間保険料を支払った。"
+      "sentence-jp": "私は自動車保険の年間保険料を支払った。",
+      "cloze": {
+        "maskedText": "I paid the annual ____ for my car insurance.",
+        "answerBase": "premium",
+        "answerSurface": "premium",
+        "choices": [
+          "premium",
+          "blanket",
+          "puzzle",
+          "gallery"
+        ]
+      }
     }
   ],
   "notes": []

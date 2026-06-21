@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Knowing a few words of the country you travel to goes a long way to make your trip more enjoyable.",
-      "sentence-jp": "旅行する国の言葉を少し知っていることは、あなたの旅をより楽しいものにするのに大いに役立つ。"
+      "sentence-jp": "旅行する国の言葉を少し知っていることは、あなたの旅をより楽しいものにするのに大いに役立つ。",
+      "cloze": {
+        "maskedText": "Knowing a few words of the country you travel to ____ make your trip more enjoyable.",
+        "answerBase": "go a long way to do",
+        "answerSurface": "goes a long way to",
+        "choices": [
+          "goes a long way to",
+          "falls short of",
+          "comes to terms with",
+          "puts it to"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "quantity-expression",
       "example-sentence": "A handful of giant corporations dominate the worldwide industry of computer services.",
-      "sentence-jp": "一握りの巨大企業が世界中のコンピューターサービス産業を独占している。"
+      "sentence-jp": "一握りの巨大企業が世界中のコンピューターサービス産業を独占している。",
+      "cloze": {
+        "maskedText": "____ giant corporations dominate the worldwide industry of computer services.",
+        "answerBase": "a handful of ~",
+        "answerSurface": "A handful of",
+        "choices": [
+          "A handful of",
+          "By way of",
+          "In spite of",
+          "On behalf of"
+        ]
+      }
     }
   ],
   "notes": [

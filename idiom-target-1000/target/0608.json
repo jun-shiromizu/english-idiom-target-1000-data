@@ -9,7 +9,18 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "In the presence of many strangers, I felt very tense and acted as if I was an idiot.",
-      "sentence-jp": "大勢の知らない人たちの面前で、私はひどく緊張してばかみたいに振る舞った。"
+      "sentence-jp": "大勢の知らない人たちの面前で、私はひどく緊張してばかみたいに振る舞った。",
+      "cloze": {
+        "maskedText": "____ many strangers, I felt very tense and acted as if I was an idiot.",
+        "answerBase": "in the presence of ~",
+        "answerSurface": "In the presence of",
+        "choices": [
+          "In the presence of",
+          "In honor of",
+          "In light of",
+          "At the sight of"
+        ]
+      }
     }
   ],
   "notes": [

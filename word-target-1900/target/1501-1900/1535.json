@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "He confessed to the judge that he did the crime.",
-      "sentence-jp": "彼は裁判官に自分がその罪を犯したと白状した。"
+      "sentence-jp": "彼は裁判官に自分がその罪を犯したと白状した。",
+      "cloze": {
+        "maskedText": "He ____ to the judge that he did the crime.",
+        "answerBase": "confess",
+        "answerSurface": "confessed",
+        "choices": [
+          "confessed",
+          "referred",
+          "admitted",
+          "responded"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She is inclined to be very optimistic about her future.",
-      "sentence-jp": "彼女は自分の将来についてとても楽観的な傾向がある。"
+      "sentence-jp": "彼女は自分の将来についてとても楽観的な傾向がある。",
+      "cloze": {
+        "maskedText": "She is ____ to be very optimistic about her future.",
+        "answerBase": "inclined",
+        "answerSurface": "inclined",
+        "choices": ["inclined", "vague", "dense", "exotic"]
+      }
     }
   ],
   "notes": []

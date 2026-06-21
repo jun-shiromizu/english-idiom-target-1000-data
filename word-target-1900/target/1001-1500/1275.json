@@ -12,5 +12,11 @@
       "sentence-jp": "今や彼は両親の同意なしで結婚することができる年齢である。"
     }
   ],
+  "cloze": {
+    "maskedText": "They cannot use your photo without your ____.",
+    "answerBase": "consent",
+    "answerSurface": "consent",
+    "choices": ["consent", "intuition", "debris", "hierarchy"]
+  },
   "notes": []
 }

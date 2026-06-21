@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "We must find an effective way to tackle this task.",
-      "sentence-jp": "私たちはこの任務に取り組むための効果的な方法を見つけなければならない。"
+      "sentence-jp": "私たちはこの任務に取り組むための効果的な方法を見つけなければならない。",
+      "cloze": {
+        "maskedText": "We must find an effective way to ____ this task.",
+        "answerBase": "tackle",
+        "answerSurface": "tackle",
+        "choices": ["tackle", "venture", "thrive", "withdraw"]
+      }
     }
   ],
   "notes": []

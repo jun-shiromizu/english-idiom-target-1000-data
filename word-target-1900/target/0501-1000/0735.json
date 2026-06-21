@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Japan reformed its educational system after World War II.",
-      "sentence-jp": "日本は第二次世界大戦後に教育制度を改革した。"
+      "sentence-jp": "日本は第二次世界大戦後に教育制度を改革した。",
+      "cloze": {
+        "maskedText": "Japan ____ its educational system after World War II.",
+        "answerBase": "reform",
+        "answerSurface": "reformed",
+        "choices": [
+          "reformed",
+          "protested",
+          "sustained",
+          "assigned"
+        ]
+      }
     }
   ],
   "notes": []

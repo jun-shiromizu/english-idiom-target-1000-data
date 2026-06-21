@@ -12,5 +12,11 @@
       "sentence-jp": "彼女は65歳で退職者年金を受け取り始めた。"
     }
   ],
+  "cloze": {
+    "maskedText": "She lives on a small retirement ____.",
+    "answerBase": "pension",
+    "answerSurface": "pension",
+    "choices": ["pension", "appetite", "impulse", "script"]
+  },
   "notes": []
 }

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Many consumers believe that there is a close correlation between price and quality.",
-      "sentence-jp": "多くの消費者は，価格と品質の間には密接な相関関係があると考えている。"
+      "sentence-jp": "多くの消費者は，価格と品質の間には密接な相関関係があると考えている。",
+      "cloze": {
+        "maskedText": "Many consumers believe that there is a close ____ between price and quality.",
+        "answerBase": "correlation",
+        "answerSurface": "correlation",
+        "choices": [
+          "correlation",
+          "usage",
+          "fortune",
+          "primate"
+        ]
+      }
     }
   ],
   "notes": []

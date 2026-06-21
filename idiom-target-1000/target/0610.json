@@ -13,7 +13,18 @@
         "in consideration of ~"
       ],
       "example-sentence": "In light of the structure and function of the body, apes are almost identical to us humans.",
-      "sentence-jp": "体の構造と機能から見て、類人猿は我々人類とほとんど同じだ。"
+      "sentence-jp": "体の構造と機能から見て、類人猿は我々人類とほとんど同じだ。",
+      "cloze": {
+        "maskedText": "____ the structure and function of the body, apes are almost identical to us humans.",
+        "answerBase": "in (the) light of ~",
+        "answerSurface": "In light of",
+        "choices": [
+          "In light of",
+          "In favor of",
+          "In charge of",
+          "In exchange for"
+        ]
+      }
     }
   ],
   "notes": [

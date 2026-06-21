@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "He deduced their relationship from their conversation.",
-      "sentence-jp": "彼は彼らの会話からその関係性を推測した。"
+      "sentence-jp": "彼は彼らの会話からその関係性を推測した。",
+      "cloze": {
+        "maskedText": "He ____ their relationship from their conversation.",
+        "answerBase": "deduce",
+        "answerSurface": "deduced",
+        "choices": [
+          "deduced",
+          "borrowed",
+          "damaged",
+          "repaired"
+        ]
+      }
     }
   ],
   "notes": []

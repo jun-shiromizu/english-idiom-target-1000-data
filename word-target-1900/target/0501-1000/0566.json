@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "You need an occasional break from your daily routine.",
-      "sentence-jp": "あなたは決まり切った日々の仕事からときにはひと休みが必要だ。"
+      "sentence-jp": "あなたは決まり切った日々の仕事からときにはひと休みが必要だ。",
+      "cloze": {
+        "maskedText": "You need an occasional break from your daily ____.",
+        "answerBase": "routine",
+        "answerSurface": "routine",
+        "choices": [
+          "routine",
+          "democracy",
+          "corporation",
+          "stereotype"
+        ]
+      }
     }
   ],
   "notes": []

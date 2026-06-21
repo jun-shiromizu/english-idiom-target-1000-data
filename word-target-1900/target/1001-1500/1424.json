@@ -12,5 +12,11 @@
       "sentence-jp": "私たちは自分自身の才能を過小評価するべきでない。"
     }
   ],
+  "cloze": {
+    "maskedText": "Never ____ your opponent's strength.",
+    "answerBase": "underestimate",
+    "answerSurface": "underestimate",
+    "choices": ["underestimate", "soar", "glow", "flock"]
+  },
   "notes": []
 }

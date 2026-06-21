@@ -12,5 +12,11 @@
       "sentence-jp": "医師は彼女に5日分の風邪薬の錠剤を出した。"
     }
   ],
+  "cloze": {
+    "maskedText": "Take one ____ after each meal.",
+    "answerBase": "pill",
+    "answerSurface": "pill",
+    "choices": ["pill", "outlet", "dairy", "patch"]
+  },
   "notes": []
 }

@@ -12,5 +12,11 @@
       "sentence-jp": "彼女は家がきちんと片づいていないのを我慢できない。"
     }
   ],
+  "cloze": {
+    "maskedText": "Please keep your room ____.",
+    "answerBase": "tidy",
+    "answerSurface": "tidy",
+    "choices": ["tidy", "monetary", "sole", "naked"]
+  },
   "notes": []
 }

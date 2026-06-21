@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "The panelists discussed the pros and cons of using English as the sole language for higher education.",
-      "sentence-jp": "パネリストたちは高等教育において唯一の言語として英語を使うことの賛否を議論した。"
+      "sentence-jp": "パネリストたちは高等教育において唯一の言語として英語を使うことの賛否を議論した。",
+      "cloze": {
+        "maskedText": "The panelists discussed ____ of using English as the sole language for higher education.",
+        "answerBase": "the pros and cons",
+        "answerSurface": "the pros and cons",
+        "choices": [
+          "the pros and cons",
+          "a case in point",
+          "a white elephant",
+          "the elephant in the room"
+        ]
+      }
     }
   ],
   "notes": [

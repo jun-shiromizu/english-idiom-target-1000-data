@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "The mother detected a subtle change in her daughter's attitude.",
-      "sentence-jp": "母親は娘の態度に微妙な変化を感じ取った。"
+      "sentence-jp": "母親は娘の態度に微妙な変化を感じ取った。",
+      "cloze": {
+        "maskedText": "The mother detected a ____ change in her daughter's attitude.",
+        "answerBase": "subtle",
+        "answerSurface": "subtle",
+        "choices": [
+          "subtle",
+          "federal",
+          "primitive",
+          "remote"
+        ]
+      }
     }
   ],
   "notes": []

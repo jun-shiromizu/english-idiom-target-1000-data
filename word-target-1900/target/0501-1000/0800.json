@@ -9,7 +9,18 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "The opening ceremony of the Olympics will be broadcast via satellite.",
-      "sentence-jp": "オリンピックの開会式の模様は衛星経由で放送される。"
+      "sentence-jp": "オリンピックの開会式の模様は衛星経由で放送される。",
+      "cloze": {
+        "maskedText": "The opening ceremony of the Olympics will be broadcast ____ satellite.",
+        "answerBase": "via",
+        "answerSurface": "via",
+        "choices": [
+          "via",
+          "eager",
+          "pure",
+          "royal"
+        ]
+      }
     }
   ],
   "notes": []

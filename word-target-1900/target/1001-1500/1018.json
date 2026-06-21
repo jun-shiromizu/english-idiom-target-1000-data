@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "I disputed the reviews that said the movie was good.",
-      "sentence-jp": "私はその映画がすぐれていると言っている批評に異議を唱えた。"
+      "sentence-jp": "私はその映画がすぐれていると言っている批評に異議を唱えた。",
+      "cloze": {
+        "maskedText": "I ____ the reviews that said the movie was good.",
+        "answerBase": "dispute",
+        "answerSurface": "disputed",
+        "choices": ["disputed", "excluded", "forecasted", "installed"]
+      }
     }
   ],
   "notes": []

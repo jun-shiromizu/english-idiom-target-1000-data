@@ -10,7 +10,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Modern photography as we know it came into being around the year 1865.",
-      "sentence-jp": "私たちが知っている現代の写真技術は1865年ごろ出現した。"
+      "sentence-jp": "私たちが知っている現代の写真技術は1865年ごろ出現した。",
+      "cloze": {
+        "maskedText": "Modern photography as we know it ____ around the year 1865.",
+        "answerBase": "come into being / come into existence",
+        "answerSurface": "came into being",
+        "choices": [
+          "came into being",
+          "came true",
+          "did good",
+          "got in touch"
+        ]
+      }
     }
   ],
   "notes": [

@@ -13,7 +13,18 @@
         "cross one’s fingers"
       ],
       "example-sentence": "I’m keeping my fingers crossed that next Saturday is a perfect day for a picnic.",
-      "sentence-jp": "次の土曜日がピクニックにうってつけの日になることを祈っています。"
+      "sentence-jp": "次の土曜日がピクニックにうってつけの日になることを祈っています。",
+      "cloze": {
+        "maskedText": "I’m ____ that next Saturday is a perfect day for a picnic.",
+        "answerBase": "keep one’s fingers crossed",
+        "answerSurface": "keeping my fingers crossed",
+        "choices": [
+          "keeping my fingers crossed",
+          "calling it a day",
+          "losing face",
+          "driving at it"
+        ]
+      }
     }
   ],
   "notes": [

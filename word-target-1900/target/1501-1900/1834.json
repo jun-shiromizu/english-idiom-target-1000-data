@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "She suspects that her friend resents her remarks.",
-      "sentence-jp": "彼女は友人が自分の発言に憤慨しているのではないかと思っている。"
+      "sentence-jp": "彼女は友人が自分の発言に憤慨しているのではないかと思っている。",
+      "cloze": {
+        "maskedText": "She suspects that her friend ____ her remarks.",
+        "answerBase": "resent",
+        "answerSurface": "resents",
+        "choices": [
+          "resents",
+          "copies",
+          "admits",
+          "watches"
+        ]
+      }
     }
   ],
   "notes": []

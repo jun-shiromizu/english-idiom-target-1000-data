@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Most electricity in Japan is generated at thermal power stations.",
-      "sentence-jp": "日本のほとんどの電力は火力発電所で生み出される。"
+      "sentence-jp": "日本のほとんどの電力は火力発電所で生み出される。",
+      "cloze": {
+        "maskedText": "Most electricity in Japan is generated at ____ power stations.",
+        "answerBase": "thermal",
+        "answerSurface": "thermal",
+        "choices": [
+          "thermal",
+          "distant",
+          "casual",
+          "private"
+        ]
+      }
     }
   ],
   "notes": []

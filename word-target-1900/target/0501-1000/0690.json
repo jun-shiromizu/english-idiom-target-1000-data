@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "The accident caused permanent damage to the man's back.",
-      "sentence-jp": "その事故はその男性の背中に永続的な損傷を与えた。"
+      "sentence-jp": "その事故はその男性の背中に永続的な損傷を与えた。",
+      "cloze": {
+        "maskedText": "The accident caused ____ damage to the man's back.",
+        "answerBase": "permanent",
+        "answerSurface": "permanent",
+        "choices": [
+          "permanent",
+          "remote",
+          "rational",
+          "frequent"
+        ]
+      }
     }
   ],
   "notes": []

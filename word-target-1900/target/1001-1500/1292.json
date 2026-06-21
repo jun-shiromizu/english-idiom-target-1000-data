@@ -12,5 +12,11 @@
       "sentence-jp": "有毒な化学薬品は排水溝に流してはならない。"
     }
   ],
+  "cloze": {
+    "maskedText": "The factory released ____ gas into the air.",
+    "answerBase": "toxic",
+    "answerSurface": "toxic",
+    "choices": ["toxic", "mild", "humble", "wireless"]
+  },
   "notes": []
 }

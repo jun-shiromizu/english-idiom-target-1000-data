@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The book combines facts with fictions.",
-      "sentence-jp": "その本は事実をフィクションと結び付けている。"
+      "sentence-jp": "その本は事実をフィクションと結び付けている。",
+      "cloze": {
+        "maskedText": "The book ____ facts with fictions.",
+        "answerBase": "combine A with B",
+        "answerSurface": "combines",
+        "choices": [
+          "combines",
+          "judges",
+          "stores",
+          "covers"
+        ]
+      }
     }
   ],
   "notes": []

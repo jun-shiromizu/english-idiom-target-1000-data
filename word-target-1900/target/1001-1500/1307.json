@@ -12,5 +12,11 @@
       "sentence-jp": "フライト中にスマートフォンを使うことは安全規則に違反する可能性がある。"
     }
   ],
+  "cloze": {
+    "maskedText": "Parking here may ____ city rules.",
+    "answerBase": "violate",
+    "answerSurface": "violate",
+    "choices": ["violate", "revive", "confine", "whisper"]
+  },
   "notes": []
 }

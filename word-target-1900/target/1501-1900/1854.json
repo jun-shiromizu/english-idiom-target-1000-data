@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Tutankhamen is the greatest discovery in Egyptian archaeology.",
-      "sentence-jp": "ツタンカーメンはエジプト考古学における最も偉大な発見である。"
+      "sentence-jp": "ツタンカーメンはエジプト考古学における最も偉大な発見である。",
+      "cloze": {
+        "maskedText": "Tutankhamen is the greatest discovery in Egyptian ____.",
+        "answerBase": "archaeology",
+        "answerSurface": "archaeology",
+        "choices": [
+          "archaeology",
+          "medicine",
+          "geometry",
+          "economics"
+        ]
+      }
     }
   ],
   "notes": []

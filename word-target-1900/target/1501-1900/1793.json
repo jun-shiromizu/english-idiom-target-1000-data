@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He has enough information for starting preliminary investigations.",
-      "sentence-jp": "彼は予備の調査を始めるのに十分な情報を持っている。"
+      "sentence-jp": "彼は予備の調査を始めるのに十分な情報を持っている。",
+      "cloze": {
+        "maskedText": "He has enough information for starting ____ investigations.",
+        "answerBase": "preliminary",
+        "answerSurface": "preliminary",
+        "choices": [
+          "preliminary",
+          "wooden",
+          "cheerful",
+          "annual"
+        ]
+      }
     }
   ],
   "notes": []

@@ -12,5 +12,11 @@
       "sentence-jp": "その患者は今日は水分をとることだけが許可されている。"
     }
   ],
+  "cloze": {
+    "maskedText": "The nurse checked the amount of ____ the patient drank.",
+    "answerBase": "fluid",
+    "answerSurface": "fluid",
+    "choices": ["fluid", "cattle", "script", "temper"]
+  },
   "notes": []
 }

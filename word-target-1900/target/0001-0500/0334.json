@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The Thames flows through London and the Seine through Paris.",
-      "sentence-jp": "テムズ川はロンドン市内を貫いて流れ，セーヌ川はパリ市内を流れる。"
+      "sentence-jp": "テムズ川はロンドン市内を貫いて流れ，セーヌ川はパリ市内を流れる。",
+      "cloze": {
+        "maskedText": "The Thames ____ through London and the Seine through Paris.",
+        "answerBase": "flow through",
+        "answerSurface": "flows",
+        "choices": [
+          "flows",
+          "stands",
+          "argues",
+          "waits"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Advanced medical techniques may cure certain types of cancer.",
-      "sentence-jp": "先進医療技術はある種の癌を治すことがある。"
+      "sentence-jp": "先進医療技術はある種の癌を治すことがある。",
+      "cloze": {
+        "maskedText": "Advanced medical techniques may ____ certain types of cancer.",
+        "answerBase": "cure",
+        "answerSurface": "cure",
+        "choices": [
+          "cure",
+          "decorate",
+          "compare",
+          "deliver"
+        ]
+      }
     }
   ],
   "notes": []

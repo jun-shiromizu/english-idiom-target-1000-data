@@ -12,5 +12,11 @@
       "sentence-jp": "彼女はバッグを前後に振りながら歩いていた。"
     }
   ],
+  "cloze": {
+    "maskedText": "He ____ the bat and missed the ball.",
+    "answerBase": "swing",
+    "answerSurface": "swung",
+    "choices": ["swung", "confined", "depicted", "prolonged"]
+  },
   "notes": []
 }

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "I’m glad my mother never knew how high I dared to climb.",
-      "sentence-jp": "私がどんなに高い所に登ろうとしたのかを母がまったく知らなくてよかったと思う。"
+      "sentence-jp": "私がどんなに高い所に登ろうとしたのかを母がまったく知らなくてよかったと思う。",
+      "cloze": {
+        "maskedText": "I’m glad my mother never knew how high I ____ climb.",
+        "answerBase": "dare to do",
+        "answerSurface": "dared to",
+        "choices": [
+          "dared to",
+          "had yet to",
+          "managed to",
+          "used to"
+        ]
+      }
     }
   ],
   "notes": [

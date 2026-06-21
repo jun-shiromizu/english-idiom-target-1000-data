@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Each member of the royal family has official duties to do.",
-      "sentence-jp": "王室の各人が行うべき公務を抱えている。"
+      "sentence-jp": "王室の各人が行うべき公務を抱えている。",
+      "cloze": {
+        "maskedText": "Each member of the ____ family has official duties to do.",
+        "answerBase": "royal",
+        "answerSurface": "royal",
+        "choices": [
+          "royal",
+          "pure",
+          "eager",
+          "adequate"
+        ]
+      }
     }
   ],
   "notes": []

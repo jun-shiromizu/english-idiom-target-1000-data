@@ -12,7 +12,18 @@
         "You’re (very [most]) welcome."
       ],
       "example-sentence": "“Thank you very much for your help. I really appreciate it.” “My pleasure.”",
-      "sentence-jp": "「手伝ってくれてありがとう。本当に感謝しています」「どういたしまして」"
+      "sentence-jp": "「手伝ってくれてありがとう。本当に感謝しています」「どういたしまして」",
+      "cloze": {
+        "maskedText": "“Thank you very much for your help. I really appreciate it.” “____”",
+        "answerBase": "My pleasure.",
+        "answerSurface": "My pleasure.",
+        "choices": [
+          "My pleasure.",
+          "I’m afraid not.",
+          "Think again.",
+          "How come?"
+        ]
+      }
     }
   ],
   "notes": [

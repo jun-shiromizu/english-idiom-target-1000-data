@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The child was repeatedly tapping the smartphone screen.",
-      "sentence-jp": "その子供はスマートフォンの画面を繰り返し軽くたたいていた。"
+      "sentence-jp": "その子供はスマートフォンの画面を繰り返し軽くたたいていた。",
+      "cloze": {
+        "maskedText": "The child was repeatedly ____ the smartphone screen.",
+        "answerBase": "tap",
+        "answerSurface": "tapping",
+        "choices": ["tapping", "splitting", "citing", "distracting"]
+      }
     }
   ],
   "notes": []

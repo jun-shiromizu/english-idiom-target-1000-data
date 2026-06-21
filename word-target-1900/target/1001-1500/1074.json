@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She got into a panic when she couldn't find her credit card.",
-      "sentence-jp": "彼女はクレジットカードが見つからなかったときパニックに陥った。"
+      "sentence-jp": "彼女はクレジットカードが見つからなかったときパニックに陥った。",
+      "cloze": {
+        "maskedText": "She got into a ____ when she couldn't find her credit card.",
+        "answerBase": "panic",
+        "answerSurface": "panic",
+        "choices": ["panic", "clinic", "fabric", "fancy"]
+      }
     }
   ],
   "notes": []

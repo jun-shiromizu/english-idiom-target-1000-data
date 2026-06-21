@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The country has isolated itself from the rest of the world.",
-      "sentence-jp": "その国は世界の他の国々から自ら孤立した。"
+      "sentence-jp": "その国は世界の他の国々から自ら孤立した。",
+      "cloze": {
+        "maskedText": "The country has ____ itself from the rest of the world.",
+        "answerBase": "isolate",
+        "answerSurface": "isolated",
+        "choices": [
+          "isolated",
+          "restricted",
+          "admired",
+          "secured"
+        ]
+      }
     }
   ],
   "notes": []

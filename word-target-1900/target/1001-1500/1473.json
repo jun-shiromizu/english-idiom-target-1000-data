@@ -12,5 +12,11 @@
       "sentence-jp": "ロケットエンジンは宇宙空間の真空の中で作動することができる。"
     }
   ],
+  "cloze": {
+    "maskedText": "Sound cannot travel through a ____.",
+    "answerBase": "vacuum",
+    "answerSurface": "vacuum",
+    "choices": ["vacuum", "ally", "interval", "spectator"]
+  },
   "notes": []
 }

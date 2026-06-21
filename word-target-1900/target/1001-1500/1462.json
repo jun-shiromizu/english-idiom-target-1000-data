@@ -12,5 +12,11 @@
       "sentence-jp": "その教授はついに生物学における大発見をした。"
     }
   ],
+  "cloze": {
+    "maskedText": "The discovery was a major scientific ____.",
+    "answerBase": "breakthrough",
+    "answerSurface": "breakthrough",
+    "choices": ["breakthrough", "spectator", "vacuum", "collision"]
+  },
   "notes": []
 }

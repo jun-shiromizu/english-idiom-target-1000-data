@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He plugged in the game console and started playing immediately.",
-      "sentence-jp": "彼はゲーム機のプラグを電源に差し込み，すぐにゲームを始めた。"
+      "sentence-jp": "彼はゲーム機のプラグを電源に差し込み，すぐにゲームを始めた。",
+      "cloze": {
+        "maskedText": "He ____ in the game console and started playing immediately.",
+        "answerBase": "plug",
+        "answerSurface": "plugged",
+        "choices": [
+          "plugged",
+          "boxed",
+          "sorted",
+          "wrapped"
+        ]
+      }
     }
   ],
   "notes": []

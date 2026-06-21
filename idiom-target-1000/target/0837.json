@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "I was no match for Makoto at Japanese chess, and he beat me in three games in a row.",
-      "sentence-jp": "私は将棋ではとてもマコトにはかなわず、彼は3局連続して私を打ち負かした。"
+      "sentence-jp": "私は将棋ではとてもマコトにはかなわず、彼は3局連続して私を打ち負かした。",
+      "cloze": {
+        "maskedText": "I was ____ Makoto at Japanese chess, and he beat me in three games in a row.",
+        "answerBase": "be no match for ~",
+        "answerSurface": "no match for",
+        "choices": [
+          "no match for",
+          "susceptible to",
+          "committed to",
+          "eligible for"
+        ]
+      }
     }
   ],
   "notes": [

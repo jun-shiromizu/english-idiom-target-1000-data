@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She accomplished a feat of winning three championships in a row.",
-      "sentence-jp": "彼女は3回連続して優勝するという偉業を成し遂げた。"
+      "sentence-jp": "彼女は3回連続して優勝するという偉業を成し遂げた。",
+      "cloze": {
+        "maskedText": "She accomplished a ____ of winning three championships in a row.",
+        "answerBase": "feat",
+        "answerSurface": "feat",
+        "choices": [
+          "feat",
+          "corner",
+          "traffic",
+          "fashion"
+        ]
+      }
     }
   ],
   "notes": []

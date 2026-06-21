@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The city plans to convert the library into an art gallery.",
-      "sentence-jp": "市はその図書館を美術館に変えることを計画している。"
+      "sentence-jp": "市はその図書館を美術館に変えることを計画している。",
+      "cloze": {
+        "maskedText": "The city plans to ____ the library into an art gallery.",
+        "answerBase": "convert",
+        "answerSurface": "convert",
+        "choices": [
+          "convert",
+          "peer",
+          "greet",
+          "derive"
+        ]
+      }
     }
   ],
   "notes": []

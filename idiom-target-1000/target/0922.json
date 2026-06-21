@@ -12,7 +12,18 @@
         "have still to do"
       ],
       "example-sentence": "Mariko says that though she speaks some French, she has yet to visit France.",
-      "sentence-jp": "マリコはフランス語を少しだけ話すが、まだフランスを訪問してはいないと言う。"
+      "sentence-jp": "マリコはフランス語を少しだけ話すが、まだフランスを訪問してはいないと言う。",
+      "cloze": {
+        "maskedText": "Mariko says that though she speaks some French, she ____ visit France.",
+        "answerBase": "have yet to do",
+        "answerSurface": "has yet to",
+        "choices": [
+          "has yet to",
+          "dares to",
+          "is about to",
+          "used to"
+        ]
+      }
     }
   ],
   "notes": []

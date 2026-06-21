@@ -12,5 +12,11 @@
       "sentence-jp": "東京スカイツリーは東京の最も新しい目印の1つである。"
     }
   ],
+  "cloze": {
+    "maskedText": "The tower has become a city ____.",
+    "answerBase": "landmark",
+    "answerSurface": "landmark",
+    "choices": ["landmark", "revenue", "blade", "behalf"]
+  },
   "notes": []
 }

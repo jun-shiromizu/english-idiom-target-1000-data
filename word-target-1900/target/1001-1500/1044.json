@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "I had sympathy for my injured friend.",
-      "sentence-jp": "私はけがをした友人に同情した。"
+      "sentence-jp": "私はけがをした友人に同情した。",
+      "cloze": {
+        "maskedText": "I had ____ for my injured friend.",
+        "answerBase": "sympathy",
+        "answerSurface": "sympathy",
+        "choices": ["sympathy", "input", "joint", "nutrition"]
+      }
     }
   ],
   "notes": []

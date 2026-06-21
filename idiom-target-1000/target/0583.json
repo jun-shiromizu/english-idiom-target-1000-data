@@ -13,7 +13,18 @@
         "be (greatly) indebted (to A) for B"
       ],
       "example-sentence": "I am grateful to my parents for making me what I am today.",
-      "sentence-jp": "私を今日の私にしてくれたことで両親に感謝している。"
+      "sentence-jp": "私を今日の私にしてくれたことで両親に感謝している。",
+      "cloze": {
+        "maskedText": "I am ____ my parents for making me what I am today.",
+        "answerBase": "be grateful (to A) for B",
+        "answerSurface": "grateful to",
+        "choices": [
+          "grateful to",
+          "particular about",
+          "wary of",
+          "suitable for"
+        ]
+      }
     }
   ],
   "notes": []

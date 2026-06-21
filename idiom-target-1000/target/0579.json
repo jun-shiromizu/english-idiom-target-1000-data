@@ -13,7 +13,18 @@
         "be confident of [about] ~"
       ],
       "example-sentence": "He was ruled innocent; we’d been convinced of his innocence from the beginning.",
-      "sentence-jp": "彼に無罪の判決が下った。私たちは最初から彼の無実を確信していた。"
+      "sentence-jp": "彼に無罪の判決が下った。私たちは最初から彼の無実を確信していた。",
+      "cloze": {
+        "maskedText": "He was ruled innocent; we’d been ____ his innocence from the beginning.",
+        "answerBase": "be convinced of ~",
+        "answerSurface": "convinced of",
+        "choices": [
+          "convinced of",
+          "guilty of",
+          "ignorant of",
+          "worthy of"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Humans and apes are fairly close cousins, from an evolutionary point of view.",
-      "sentence-jp": "進化論的な視点からは、人類と類人猿はかなり近いいとこ同士だ。"
+      "sentence-jp": "進化論的な視点からは、人類と類人猿はかなり近いいとこ同士だ。",
+      "cloze": {
+        "maskedText": "Humans and apes are fairly close cousins, ____.",
+        "answerBase": "from ~ point of view",
+        "answerSurface": "from an evolutionary point of view",
+        "choices": [
+          "from an evolutionary point of view",
+          "from April 1 on",
+          "for sure",
+          "without fail"
+        ]
+      }
     }
   ],
   "notes": [

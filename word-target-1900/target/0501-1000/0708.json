@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She has devoted a lot of her time to the team's project.",
-      "sentence-jp": "彼女は自分の時間の多くをチームのプロジェクトにささげてきた。"
+      "sentence-jp": "彼女は自分の時間の多くをチームのプロジェクトにささげてきた。",
+      "cloze": {
+        "maskedText": "She has ____ a lot of her time to the team's project.",
+        "answerBase": "devote",
+        "answerSurface": "devoted",
+        "choices": [
+          "devoted",
+          "detected",
+          "possessed",
+          "melted"
+        ]
+      }
     }
   ],
   "notes": []

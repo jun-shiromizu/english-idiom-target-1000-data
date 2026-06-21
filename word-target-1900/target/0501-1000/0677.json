@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Carbon is an essential component of all living cells.",
-      "sentence-jp": "炭素はすべての生細胞に不可欠な構成要素である。"
+      "sentence-jp": "炭素はすべての生細胞に不可欠な構成要素である。",
+      "cloze": {
+        "maskedText": "Carbon is an essential ____ of all living cells.",
+        "answerBase": "component",
+        "answerSurface": "component",
+        "choices": [
+          "component",
+          "discount",
+          "patent",
+          "dialogue"
+        ]
+      }
     }
   ],
   "notes": []

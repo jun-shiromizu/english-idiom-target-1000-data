@@ -12,5 +12,11 @@
       "sentence-jp": "政府は起こり得るインフルエンザの流行を警告した。"
     }
   ],
+  "cloze": {
+    "maskedText": "The country prepared for a flu ____.",
+    "answerBase": "epidemic",
+    "answerSurface": "epidemic",
+    "choices": ["epidemic", "parliament", "cluster", "dignity"]
+  },
   "notes": []
 }

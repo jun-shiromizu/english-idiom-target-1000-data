@@ -12,5 +12,11 @@
       "sentence-jp": "彼は自分の病気に民間療法をいくつか試した。"
     }
   ],
+  "cloze": {
+    "maskedText": "There is no quick ____ for this problem.",
+    "answerBase": "remedy",
+    "answerSurface": "remedy",
+    "choices": ["remedy", "headline", "internship", "census"]
+  },
   "notes": []
 }

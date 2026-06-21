@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "The scientist explored the subject of clean energy in his research.",
-      "sentence-jp": "その科学者は彼の研究においてクリーンエネルギーのテーマを探究した。"
+      "sentence-jp": "その科学者は彼の研究においてクリーンエネルギーのテーマを探究した。",
+      "cloze": {
+        "maskedText": "The scientist ____ the subject of clean energy in his research.",
+        "answerBase": "explore",
+        "answerSurface": "explored",
+        "choices": [
+          "explored",
+          "rented",
+          "trusted",
+          "balanced"
+        ]
+      }
     }
   ],
   "notes": []

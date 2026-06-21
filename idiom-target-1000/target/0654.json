@@ -13,7 +13,18 @@
         "recently"
       ],
       "example-sentence": "I haven’t seen or heard anything from Charlie of late.",
-      "sentence-jp": "最近私はチャーリーに会っていないし、彼からは何の連絡もない。"
+      "sentence-jp": "最近私はチャーリーに会っていないし、彼からは何の連絡もない。",
+      "cloze": {
+        "maskedText": "I haven’t seen or heard anything from Charlie ____.",
+        "answerBase": "of late",
+        "answerSurface": "of late",
+        "choices": [
+          "of late",
+          "for sure",
+          "without fail",
+          "out of breath"
+        ]
+      }
     }
   ],
   "notes": []

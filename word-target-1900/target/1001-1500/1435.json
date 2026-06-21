@@ -12,5 +12,11 @@
       "sentence-jp": "彼の遺言は自分の財産を処分する方法を示していた。"
     }
   ],
+  "cloze": {
+    "maskedText": "We need to ____ of the broken chairs.",
+    "answerBase": "dispose",
+    "answerSurface": "dispose",
+    "choices": ["dispose", "distort", "abolish", "clarify"]
+  },
   "notes": []
 }

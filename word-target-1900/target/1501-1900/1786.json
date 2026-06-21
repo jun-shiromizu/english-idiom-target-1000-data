@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Jane has a strong maternal instinct, so she wants a baby.",
-      "sentence-jp": "ジェーンには強い母性本能があり，それで赤ん坊を欲しがっている。"
+      "sentence-jp": "ジェーンには強い母性本能があり，それで赤ん坊を欲しがっている。",
+      "cloze": {
+        "maskedText": "Jane has a strong ____ instinct, so she wants a baby.",
+        "answerBase": "maternal",
+        "answerSurface": "maternal",
+        "choices": [
+          "maternal",
+          "coastal",
+          "chemical",
+          "annual"
+        ]
+      }
     }
   ],
   "notes": []

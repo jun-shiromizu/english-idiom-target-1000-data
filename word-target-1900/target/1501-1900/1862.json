@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The government granted the company a subsidy for their new business.",
-      "sentence-jp": "政府はその会社に新事業のための補助金を与えた。"
+      "sentence-jp": "政府はその会社に新事業のための補助金を与えた。",
+      "cloze": {
+        "maskedText": "The government granted the company a ____ for their new business.",
+        "answerBase": "subsidy",
+        "answerSurface": "subsidy",
+        "choices": [
+          "subsidy",
+          "lecture",
+          "backyard",
+          "corridor"
+        ]
+      }
     }
   ],
   "notes": []

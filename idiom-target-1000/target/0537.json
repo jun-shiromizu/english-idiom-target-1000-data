@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "I think the news media are making too much of the results of the latest health study.",
-      "sentence-jp": "報道機関は最新の健康に関する調査結果を重要視しすぎていると思う。"
+      "sentence-jp": "報道機関は最新の健康に関する調査結果を重要視しすぎていると思う。",
+      "cloze": {
+        "maskedText": "I think the news media are ____ the results of the latest health study.",
+        "answerBase": "make much of ~",
+        "answerSurface": "making too much of",
+        "choices": [
+          "making too much of",
+          "making use of",
+          "taking control of",
+          "having access to"
+        ]
+      }
     }
   ],
   "notes": [

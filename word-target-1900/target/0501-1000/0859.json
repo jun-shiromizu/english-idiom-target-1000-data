@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Students need a clear incentive to study.",
-      "sentence-jp": "生徒たちは勉強するための明らかな動機づけを必要とする。"
+      "sentence-jp": "生徒たちは勉強するための明らかな動機づけを必要とする。",
+      "cloze": {
+        "maskedText": "Students need a clear ____ to study.",
+        "answerBase": "incentive",
+        "answerSurface": "incentive",
+        "choices": ["incentive", "barrier", "citizen", "shadow"]
+      }
     }
   ],
   "notes": []

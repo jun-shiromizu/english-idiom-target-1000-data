@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She is required to take at least six classes every semester.",
-      "sentence-jp": "彼女は毎学期に少なくとも6つの授業を取ることが求められている。"
+      "sentence-jp": "彼女は毎学期に少なくとも6つの授業を取ることが求められている。",
+      "cloze": {
+        "maskedText": "She is required to take at least six classes every ____.",
+        "answerBase": "semester",
+        "answerSurface": "semester",
+        "choices": ["semester", "formation", "sensation", "privilege"]
+      }
     }
   ],
   "notes": []

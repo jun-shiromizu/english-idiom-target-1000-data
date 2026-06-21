@@ -12,5 +12,11 @@
       "sentence-jp": "コーヒーは世界で最も貴重な商品の1つである。"
     }
   ],
+  "cloze": {
+    "maskedText": "Oil is a valuable ____ on global markets.",
+    "answerBase": "commodity",
+    "answerSurface": "commodity",
+    "choices": ["commodity", "fraction", "monument", "consent"]
+  },
   "notes": []
 }

@@ -12,5 +12,11 @@
       "sentence-jp": "ドライブに行くときは彼女がいつも夫を誘導する。"
     }
   ],
+  "cloze": {
+    "maskedText": "He used a map to ____ through the forest.",
+    "answerBase": "navigate",
+    "answerSurface": "navigate",
+    "choices": ["navigate", "contradict", "sigh", "diagnose"]
+  },
   "notes": []
 }

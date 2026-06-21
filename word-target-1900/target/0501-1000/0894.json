@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Polar bears are perfectly adapted to live in their harsh environment.",
-      "sentence-jp": "ホッキョクグマは自らの厳しい環境で生息するのに完全に適応している。"
+      "sentence-jp": "ホッキョクグマは自らの厳しい環境で生息するのに完全に適応している。",
+      "cloze": {
+        "maskedText": "Polar bears are perfectly adapted to live in their ____ environment.",
+        "answerBase": "harsh",
+        "answerSurface": "harsh",
+        "choices": ["harsh", "gentle", "modest", "casual"]
+      }
     }
   ],
   "notes": []

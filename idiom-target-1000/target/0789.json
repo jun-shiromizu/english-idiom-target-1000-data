@@ -12,7 +12,18 @@
         "sharp"
       ],
       "example-sentence": "She’d promised me that she’d visit me around two, and she really did so at two on the dot.",
-      "sentence-jp": "彼女は2時ごろに私を訪問すると約束し、実際に2時ちょうどに訪ねてきた。"
+      "sentence-jp": "彼女は2時ごろに私を訪問すると約束し、実際に2時ちょうどに訪ねてきた。",
+      "cloze": {
+        "maskedText": "She’d promised me that she’d visit me around two, and she really did so at two ____.",
+        "answerBase": "on the dot",
+        "answerSurface": "on the dot",
+        "choices": [
+          "on the dot",
+          "from scratch",
+          "at the wheel",
+          "behind the times"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Research in physics may give us clues to understanding the universe.",
-      "sentence-jp": "物理学の研究は宇宙を理解する手がかりを私たちに与えるかもしれない。"
+      "sentence-jp": "物理学の研究は宇宙を理解する手がかりを私たちに与えるかもしれない。",
+      "cloze": {
+        "maskedText": "Research in physics may give us ____ to understanding the universe.",
+        "answerBase": "clue",
+        "answerSurface": "clues",
+        "choices": [
+          "clues",
+          "frames",
+          "viruses",
+          "shelters"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "At the news that she’d passed the entrance exam, she was beside herself with joy.",
-      "sentence-jp": "彼女は自分が入学試験に合格したという知らせを聞き、うれしさで我を忘れた。"
+      "sentence-jp": "彼女は自分が入学試験に合格したという知らせを聞き、うれしさで我を忘れた。",
+      "cloze": {
+        "maskedText": "At the news that she’d passed the entrance exam, she was ____ joy.",
+        "answerBase": "be beside oneself (with ~)",
+        "answerSurface": "beside herself with",
+        "choices": [
+          "beside herself with",
+          "committed to",
+          "eligible for",
+          "intent on"
+        ]
+      }
     }
   ],
   "notes": [

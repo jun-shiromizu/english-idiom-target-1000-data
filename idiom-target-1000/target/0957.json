@@ -13,7 +13,18 @@
         "irrespective of ~"
       ],
       "example-sentence": "Regardless of the weather, we’ll hold the tennis tournament as planned.",
-      "sentence-jp": "天候にかかわらず、我々は予定どおりテニストーナメントを開催するつもりだ。"
+      "sentence-jp": "天候にかかわらず、我々は予定どおりテニストーナメントを開催するつもりだ。",
+      "cloze": {
+        "maskedText": "____ the weather, we’ll hold the tennis tournament as planned.",
+        "answerBase": "regardless of ~",
+        "answerSurface": "Regardless of",
+        "choices": [
+          "Regardless of",
+          "In accordance with",
+          "In proportion to",
+          "In the wake of"
+        ]
+      }
     }
   ],
   "notes": []

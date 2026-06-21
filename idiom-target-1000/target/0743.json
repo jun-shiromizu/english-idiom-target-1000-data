@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "It is humans’ activities that are to blame for this climate change we’re seeing.",
-      "sentence-jp": "私たちが目の当たりにしているこの気候変動に対して責めを負うべきなのは、人類の活動である。"
+      "sentence-jp": "私たちが目の当たりにしているこの気候変動に対して責めを負うべきなのは、人類の活動である。",
+      "cloze": {
+        "maskedText": "It is humans’ activities that are ____ this climate change we’re seeing.",
+        "answerBase": "be to blame (for ~)",
+        "answerSurface": "to blame for",
+        "choices": [
+          "to blame for",
+          "entitled to",
+          "supposed to",
+          "forced to"
+        ]
+      }
     }
   ],
   "notes": []

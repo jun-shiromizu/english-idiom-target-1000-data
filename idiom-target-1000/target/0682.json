@@ -13,7 +13,18 @@
         "as such"
       ],
       "example-sentence": "Time has no value in itself; the value lies in how we make use of it.",
-      "sentence-jp": "時間はそれ自体では何の価値もない。私たちが時間をどのように活用するかということに価値がある。"
+      "sentence-jp": "時間はそれ自体では何の価値もない。私たちが時間をどのように活用するかということに価値がある。",
+      "cloze": {
+        "maskedText": "Time has no value ____; the value lies in how we make use of it.",
+        "answerBase": "in itself",
+        "answerSurface": "in itself",
+        "choices": [
+          "in itself",
+          "to himself",
+          "on display",
+          "under way"
+        ]
+      }
     }
   ],
   "notes": [

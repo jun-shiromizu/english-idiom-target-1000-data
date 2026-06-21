@@ -12,5 +12,11 @@
       "sentence-jp": "彼女は息子が無事だと聞いて安堵のため息をついた。"
     }
   ],
+  "cloze": {
+    "maskedText": "He could only ____ in disappointment.",
+    "answerBase": "sigh",
+    "answerSurface": "sigh",
+    "choices": ["sigh", "depart", "spray", "designate"]
+  },
   "notes": []
 }

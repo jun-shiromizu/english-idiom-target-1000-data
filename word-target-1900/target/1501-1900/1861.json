@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The newly married couple are complements to each other.",
-      "sentence-jp": "その新婚の夫婦はお互いを補完する存在である。"
+      "sentence-jp": "その新婚の夫婦はお互いを補完する存在である。",
+      "cloze": {
+        "maskedText": "The newly married couple are ____ to each other.",
+        "answerBase": "complement",
+        "answerSurface": "complements",
+        "choices": [
+          "complements",
+          "villages",
+          "documents",
+          "landscapes"
+        ]
+      }
     }
   ],
   "notes": []

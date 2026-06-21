@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "When we are busy, we tend to neglect our health.",
-      "sentence-jp": "私たちは忙しいとき，健康をおろそかにする傾向がある。"
+      "sentence-jp": "私たちは忙しいとき，健康をおろそかにする傾向がある。",
+      "cloze": {
+        "maskedText": "When we are busy, we tend to ____ our health.",
+        "answerBase": "neglect",
+        "answerSurface": "neglect",
+        "choices": [
+          "neglect",
+          "collapse",
+          "owe",
+          "sustain"
+        ]
+      }
     }
   ],
   "notes": []

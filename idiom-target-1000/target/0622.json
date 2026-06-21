@@ -10,7 +10,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "On behalf of everyone on the team, I would like to express our thanks to you, Kate.",
-      "sentence-jp": "チーム全員を代表して、ケイト、あなたにお礼を申し上げたいと思います。"
+      "sentence-jp": "チーム全員を代表して、ケイト、あなたにお礼を申し上げたいと思います。",
+      "cloze": {
+        "maskedText": "____ everyone on the team, I would like to express our thanks to you, Kate.",
+        "answerBase": "on behalf of ~ / in behalf of ~",
+        "answerSurface": "On behalf of",
+        "choices": [
+          "On behalf of",
+          "With regard to",
+          "In part",
+          "At work"
+        ]
+      }
     }
   ],
   "notes": [

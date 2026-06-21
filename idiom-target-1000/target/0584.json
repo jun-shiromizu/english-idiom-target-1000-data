@@ -10,7 +10,18 @@
       "partOfSpeech": "preposition",
       "choiceType": "prepositional-phrase",
       "example-sentence": "The artist was not particular about the kind of food he ate when working.",
-      "sentence-jp": "その芸術家は、作業中は食べ物の種類についてやかましくなかった。"
+      "sentence-jp": "その芸術家は、作業中は食べ物の種類についてやかましくなかった。",
+      "cloze": {
+        "maskedText": "The artist was not ____ the kind of food he ate when working.",
+        "answerBase": "be particular about ~ / be particular over ~",
+        "answerSurface": "particular about",
+        "choices": [
+          "particular about",
+          "grateful to",
+          "wary of",
+          "in terms of"
+        ]
+      }
     }
   ],
   "notes": [

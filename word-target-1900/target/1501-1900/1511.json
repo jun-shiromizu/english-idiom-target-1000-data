@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "It takes three to four hours to digest meat and fish.",
-      "sentence-jp": "肉や魚を消化するには3，4時間かかる。"
+      "sentence-jp": "肉や魚を消化するには3，4時間かかる。",
+      "cloze": {
+        "maskedText": "It takes three to four hours to ____ meat and fish.",
+        "answerBase": "digest",
+        "answerSurface": "digest",
+        "choices": [
+          "digest",
+          "preserve",
+          "consume",
+          "observe"
+        ]
+      }
     }
   ],
   "notes": []

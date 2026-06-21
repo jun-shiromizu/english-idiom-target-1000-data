@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Sales of new cars helped boost the nation's economy.",
-      "sentence-jp": "新車の販売はその国の経済を押し上げる助けとなった。"
+      "sentence-jp": "新車の販売はその国の経済を押し上げる助けとなった。",
+      "cloze": {
+        "maskedText": "Sales of new cars helped ____ the nation's economy.",
+        "answerBase": "boost",
+        "answerSurface": "boost",
+        "choices": [
+          "boost",
+          "wed",
+          "correspond",
+          "interrupt"
+        ]
+      }
     }
   ],
   "notes": []

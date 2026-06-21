@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "His sister is a professional translator, and an excellent one at that.",
-      "sentence-jp": "彼の姉はプロの翻訳家で、それも優秀な翻訳家だ。"
+      "sentence-jp": "彼の姉はプロの翻訳家で、それも優秀な翻訳家だ。",
+      "cloze": {
+        "maskedText": "His sister is a professional translator, and ____ at that.",
+        "answerBase": "..., and ~ at that",
+        "answerSurface": "an excellent one",
+        "choices": [
+          "an excellent one",
+          "what with overwork",
+          "just about any sort",
+          "on the condition"
+        ]
+      }
     }
   ],
   "notes": [

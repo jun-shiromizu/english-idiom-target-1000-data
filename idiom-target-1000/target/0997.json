@@ -10,7 +10,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Before I’d jogged even a few kilometers, I was already getting sort of out of breath.",
-      "sentence-jp": "2、3キロも走らないうちに、私はすでにちょっと息が切れ始めていた。"
+      "sentence-jp": "2、3キロも走らないうちに、私はすでにちょっと息が切れ始めていた。",
+      "cloze": {
+        "maskedText": "Before I’d jogged even a few kilometers, I was already getting ____ out of breath.",
+        "answerBase": "sort of / kind of",
+        "answerSurface": "sort of",
+        "choices": [
+          "sort of",
+          "only too",
+          "for all I know",
+          "by and large"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "People with a large vocabulary may experience more success in the workplace.",
-      "sentence-jp": "語彙の豊富な人は職場でより大きな成功を収めるかもしれない。"
+      "sentence-jp": "語彙の豊富な人は職場でより大きな成功を収めるかもしれない。",
+      "cloze": {
+        "maskedText": "People with a large ____ may experience more success in the workplace.",
+        "answerBase": "vocabulary",
+        "answerSurface": "vocabulary",
+        "choices": [
+          "vocabulary",
+          "agriculture",
+          "psychology",
+          "atmosphere"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Much as I tried, I could not recall her physical appearance.",
-      "sentence-jp": "何度もやってはみたが，私は彼女の容姿を思い出すことができなかった。"
+      "sentence-jp": "何度もやってはみたが，私は彼女の容姿を思い出すことができなかった。",
+      "cloze": {
+        "maskedText": "Much as I tried, I could not ____ her physical appearance.",
+        "answerBase": "recall",
+        "answerSurface": "recall",
+        "choices": [
+          "recall",
+          "damage",
+          "measure",
+          "survey"
+        ]
+      }
     }
   ],
   "notes": []

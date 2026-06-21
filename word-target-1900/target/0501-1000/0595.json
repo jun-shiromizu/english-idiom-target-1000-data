@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Britain is a society with a rich ethnic diversity.",
-      "sentence-jp": "イギリスは豊かな民族的多様性を有する社会である。"
+      "sentence-jp": "イギリスは豊かな民族的多様性を有する社会である。",
+      "cloze": {
+        "maskedText": "Britain is a society with a rich ____ diversity.",
+        "answerBase": "ethnic",
+        "answerSurface": "ethnic",
+        "choices": [
+          "ethnic",
+          "brief",
+          "exact",
+          "initial"
+        ]
+      }
     }
   ],
   "notes": []

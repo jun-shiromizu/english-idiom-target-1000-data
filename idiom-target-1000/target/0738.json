@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "To operate this machine, all you have to do is press this button.",
-      "sentence-jp": "この機械を操作するには、ただこのボタンを押しさえすればよい。"
+      "sentence-jp": "この機械を操作するには、ただこのボタンを押しさえすればよい。",
+      "cloze": {
+        "maskedText": "To operate this machine, all you have to do is ____ this button.",
+        "answerBase": "All one has to do is (to) do.",
+        "answerSurface": "press",
+        "choices": [
+          "press",
+          "push",
+          "touch",
+          "hit"
+        ]
+      }
     }
   ],
   "notes": [

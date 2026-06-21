@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Fear is such an intense emotion that you can feel your heart pumping fast.",
-      "sentence-jp": "恐怖は非常に強烈な感情なので，自分の心臓が速く鼓動するのを感じることができる。"
+      "sentence-jp": "恐怖は非常に強烈な感情なので，自分の心臓が速く鼓動するのを感じることができる。",
+      "cloze": {
+        "maskedText": "Fear is such an ____ emotion that you can feel your heart pumping fast.",
+        "answerBase": "intense",
+        "answerSurface": "intense",
+        "choices": [
+          "intense",
+          "mere",
+          "rude",
+          "raw"
+        ]
+      }
     }
   ],
   "notes": []

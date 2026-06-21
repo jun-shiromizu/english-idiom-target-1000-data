@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She placed the ladder in a vertical position.",
-      "sentence-jp": "彼女ははしごを垂直の位置に置いた。"
+      "sentence-jp": "彼女ははしごを垂直の位置に置いた。",
+      "cloze": {
+        "maskedText": "She placed the ladder in a ____ position.",
+        "answerBase": "vertical",
+        "answerSurface": "vertical",
+        "choices": ["vertical", "indigenous", "hybrid", "ridiculous"]
+      }
     }
   ],
   "notes": []

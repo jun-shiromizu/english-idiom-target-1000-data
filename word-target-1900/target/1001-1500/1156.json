@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Tea is sometimes combined with the scent of various flowers.",
-      "sentence-jp": "茶はさまざまな花の香りと組み合わされることがある。"
+      "sentence-jp": "茶はさまざまな花の香りと組み合わされることがある。",
+      "cloze": {
+        "maskedText": "Tea is sometimes combined with the ____ of various flowers.",
+        "answerBase": "scent",
+        "answerSurface": "scent",
+        "choices": ["scent", "beverage", "supplement", "diabetes"]
+      }
     }
   ],
   "notes": []

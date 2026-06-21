@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "I tried in vain to persuade him to get along with his father.",
-      "sentence-jp": "私は，彼を説得して父親とよい関係を築かせようとしたが無駄だった。"
+      "sentence-jp": "私は，彼を説得して父親とよい関係を築かせようとしたが無駄だった。",
+      "cloze": {
+        "maskedText": "I tried ____ to persuade him to get along with his father.",
+        "answerBase": "vain",
+        "answerSurface": "in vain",
+        "choices": [
+          "in vain",
+          "in sheer",
+          "in explicit",
+          "in affluent"
+        ]
+      }
     }
   ],
   "notes": []

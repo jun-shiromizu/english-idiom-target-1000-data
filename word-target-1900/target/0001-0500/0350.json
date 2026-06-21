@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Under no circumstances should you give anyone your credit card's PIN.",
-      "sentence-jp": "どんな状況下でも自分のクレジットカードの暗証番号をだれにも教えてはいけない。"
+      "sentence-jp": "どんな状況下でも自分のクレジットカードの暗証番号をだれにも教えてはいけない。",
+      "cloze": {
+        "maskedText": "Under no ____ should you give anyone your credit card's PIN.",
+        "answerBase": "circumstance",
+        "answerSurface": "circumstances",
+        "choices": [
+          "circumstances",
+          "lectures",
+          "signals",
+          "payments"
+        ]
+      }
     }
   ],
   "notes": []

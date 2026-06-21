@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Users of this Internet service must follow certain guidelines.",
-      "sentence-jp": "このインターネットサービスのユーザーは一定の指針に従わねばならない。"
+      "sentence-jp": "このインターネットサービスのユーザーは一定の指針に従わねばならない。",
+      "cloze": {
+        "maskedText": "Users of this Internet service must follow certain ____.",
+        "answerBase": "guideline",
+        "answerSurface": "guidelines",
+        "choices": [
+          "guidelines",
+          "opponents",
+          "glances",
+          "tissues"
+        ]
+      }
     }
   ],
   "notes": []

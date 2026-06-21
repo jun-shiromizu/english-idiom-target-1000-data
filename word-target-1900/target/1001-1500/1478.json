@@ -12,5 +12,11 @@
       "sentence-jp": "多くの国際条約がカナダで調印されてきた。"
     }
   ],
+  "cloze": {
+    "maskedText": "The two countries signed a peace ____.",
+    "answerBase": "treaty",
+    "answerSurface": "treaty",
+    "choices": ["treaty", "sphere", "bargain", "spectator"]
+  },
   "notes": []
 }

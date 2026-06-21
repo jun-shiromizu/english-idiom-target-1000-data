@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Before the play, the actors put on costumes and makeup.",
-      "sentence-jp": "芝居の前に，役者たちは衣装を身につけ化粧をした。"
+      "sentence-jp": "芝居の前に，役者たちは衣装を身につけ化粧をした。",
+      "cloze": {
+        "maskedText": "Before the play, the actors put on costumes and ____.",
+        "answerBase": "makeup",
+        "answerSurface": "makeup",
+        "choices": [
+          "makeup",
+          "uniforms",
+          "furniture",
+          "equipment"
+        ]
+      }
     }
   ],
   "notes": []

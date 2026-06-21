@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "After her remark, there was an awkward silence.",
-      "sentence-jp": "彼女の発言の後，気まずい沈黙があった。"
+      "sentence-jp": "彼女の発言の後，気まずい沈黙があった。",
+      "cloze": {
+        "maskedText": "After her remark, there was an ____ silence.",
+        "answerBase": "awkward",
+        "answerSurface": "awkward",
+        "choices": ["awkward", "brilliant", "oral", "valid"]
+      }
     }
   ],
   "notes": []

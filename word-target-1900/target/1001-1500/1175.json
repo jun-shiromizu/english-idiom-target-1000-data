@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "They had lunch on the balcony, with a view of the mountain scenery.",
-      "sentence-jp": "彼らは山の景色の展望がきくバルコニーで昼食をとった。"
+      "sentence-jp": "彼らは山の景色の展望がきくバルコニーで昼食をとった。",
+      "cloze": {
+        "maskedText": "They had lunch on the balcony, with a view of the mountain ____.",
+        "answerBase": "scenery",
+        "answerSurface": "scenery",
+        "choices": ["scenery", "plot", "tablet", "deadline"]
+      }
     }
   ],
   "notes": []

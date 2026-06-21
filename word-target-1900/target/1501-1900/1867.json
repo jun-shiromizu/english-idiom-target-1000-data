@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Our college reunion will be held next month.",
-      "sentence-jp": "私たちの大学の同窓会が来月行われる。"
+      "sentence-jp": "私たちの大学の同窓会が来月行われる。",
+      "cloze": {
+        "maskedText": "Our college ____ will be held next month.",
+        "answerBase": "reunion",
+        "answerSurface": "reunion",
+        "choices": [
+          "reunion",
+          "factory",
+          "vaccine",
+          "basement"
+        ]
+      }
     }
   ],
   "notes": []

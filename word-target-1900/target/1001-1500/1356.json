@@ -12,5 +12,11 @@
       "sentence-jp": "花粉症は主に木や花の花粉によって引き起こされる。"
     }
   ],
+  "cloze": {
+    "maskedText": "Spring ____ makes her allergies worse.",
+    "answerBase": "pollen",
+    "answerSurface": "pollen",
+    "choices": ["pollen", "cluster", "parliament", "dose"]
+  },
   "notes": []
 }

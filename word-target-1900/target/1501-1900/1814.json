@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "I used to dread going to the dentist as a child.",
-      "sentence-jp": "私は子供のころ歯医者に行くのをひどく恐れていた。"
+      "sentence-jp": "私は子供のころ歯医者に行くのをひどく恐れていた。",
+      "cloze": {
+        "maskedText": "I used to ____ going to the dentist as a child.",
+        "answerBase": "dread",
+        "answerSurface": "dread",
+        "choices": [
+          "dread",
+          "prefer",
+          "suggest",
+          "risk"
+        ]
+      }
     }
   ],
   "notes": []

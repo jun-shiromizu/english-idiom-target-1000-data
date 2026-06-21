@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Statistics show that Japanese women give birth to fewer than two children in their lifetime.",
-      "sentence-jp": "統計は日本人女性が生涯で2人未満の子供を産むことを示している。"
+      "sentence-jp": "統計は日本人女性が生涯で2人未満の子供を産むことを示している。",
+      "cloze": {
+        "maskedText": "Statistics show that Japanese women ____ fewer than two children in their lifetime.",
+        "answerBase": "give birth to ~",
+        "answerSurface": "give birth to",
+        "choices": [
+          "give birth to",
+          "give rise to",
+          "catch sight of",
+          "put emphasis on"
+        ]
+      }
     }
   ],
   "notes": []

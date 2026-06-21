@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Many Japanese have received major awards in the domain of physics.",
-      "sentence-jp": "多くの日本人が物理学の分野で主要な賞を受賞している。"
+      "sentence-jp": "多くの日本人が物理学の分野で主要な賞を受賞している。",
+      "cloze": {
+        "maskedText": "Many Japanese have received major awards in the ____ of physics.",
+        "answerBase": "domain",
+        "answerSurface": "domain",
+        "choices": [
+          "domain",
+          "margin",
+          "realm",
+          "stake"
+        ]
+      }
     }
   ],
   "notes": []

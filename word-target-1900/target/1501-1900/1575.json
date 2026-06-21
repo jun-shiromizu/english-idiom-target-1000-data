@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The writer's manuscript has been kept in the university library.",
-      "sentence-jp": "その作家の原稿は大学の図書館に保管されている。"
+      "sentence-jp": "その作家の原稿は大学の図書館に保管されている。",
+      "cloze": {
+        "maskedText": "The writer's ____ has been kept in the university library.",
+        "answerBase": "manuscript",
+        "answerSurface": "manuscript",
+        "choices": [
+          "manuscript",
+          "biography",
+          "magazine",
+          "dictionary"
+        ]
+      }
     }
   ],
   "notes": []

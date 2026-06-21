@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "John is always punctual for appointments.",
-      "sentence-jp": "ジョンはいつも約束の時間を守る。"
+      "sentence-jp": "ジョンはいつも約束の時間を守る。",
+      "cloze": {
+        "maskedText": "John is always ____ for appointments.",
+        "answerBase": "punctual",
+        "answerSurface": "punctual",
+        "choices": [
+          "punctual",
+          "friendly",
+          "nervous",
+          "fragile"
+        ]
+      }
     }
   ],
   "notes": []

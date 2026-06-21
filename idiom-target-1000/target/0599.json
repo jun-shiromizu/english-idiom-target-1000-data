@@ -10,7 +10,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Today one in five adults over 25 has never been married, in contrast to roughly one in ten in 1950.",
-      "sentence-jp": "1950年のほぼ10人に1人と違って、今日では25歳以上の成人の5人に1人が結婚の経験がない。"
+      "sentence-jp": "1950年のほぼ10人に1人と違って、今日では25歳以上の成人の5人に1人が結婚の経験がない。",
+      "cloze": {
+        "maskedText": "Today one in five adults over 25 has never been married, ____ roughly one in ten in 1950.",
+        "answerBase": "in contrast to ~ / in contrast with ~",
+        "answerSurface": "in contrast to",
+        "choices": [
+          "in contrast to",
+          "in terms of",
+          "in danger of",
+          "by surprise"
+        ]
+      }
     }
   ],
   "notes": [

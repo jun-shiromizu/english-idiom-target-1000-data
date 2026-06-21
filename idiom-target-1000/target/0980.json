@@ -15,7 +15,18 @@
         "(further) along the road"
       ],
       "example-sentence": "If you leave the situation as it is, I fear you’ll have a big problem down the road.",
-      "sentence-jp": "もし状況を今のままにしておけば、あなたはやがて大きな問題を抱えるだろうと私は懸念している。"
+      "sentence-jp": "もし状況を今のままにしておけば、あなたはやがて大きな問題を抱えるだろうと私は懸念している。",
+      "cloze": {
+        "maskedText": "If you leave the situation as it is, I fear you’ll have a big problem ____.",
+        "answerBase": "down the road",
+        "answerSurface": "down the road",
+        "choices": [
+          "down the road",
+          "by and large",
+          "all along",
+          "first hand"
+        ]
+      }
     }
   ],
   "notes": [

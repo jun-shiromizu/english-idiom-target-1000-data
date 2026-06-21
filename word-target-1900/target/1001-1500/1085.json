@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "She is such a brilliant violinist that she can play any type of music.",
-      "sentence-jp": "彼女はとてもすばらしいバイオリン奏者で，どんな種類の音楽も演奏することができる。"
+      "sentence-jp": "彼女はとてもすばらしいバイオリン奏者で，どんな種類の音楽も演奏することができる。",
+      "cloze": {
+        "maskedText": "She is such a ____ violinist that she can play any type of music.",
+        "answerBase": "brilliant",
+        "answerSurface": "brilliant",
+        "choices": ["brilliant", "subsequent", "indifferent", "pregnant"]
+      }
     }
   ],
   "notes": []

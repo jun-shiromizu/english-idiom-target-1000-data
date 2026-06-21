@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Members of the store are entitled to a five percent discount.",
-      "sentence-jp": "その店の会員は5%の割引を受ける権利がある。"
+      "sentence-jp": "その店の会員は5%の割引を受ける権利がある。",
+      "cloze": {
+        "maskedText": "Members of the store are ____ to a five percent discount.",
+        "answerBase": "entitle",
+        "answerSurface": "entitled",
+        "choices": [
+          "entitled",
+          "accustomed",
+          "invited",
+          "restricted"
+        ]
+      }
     }
   ],
   "notes": []

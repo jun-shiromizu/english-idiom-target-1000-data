@@ -10,7 +10,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "While waiting, I visited a nearby wine bar that was popular with English residents of Paris.",
-      "sentence-jp": "待っている間、私はパリ在住のイギリス人に人気がある近くのワインバーを訪れた。"
+      "sentence-jp": "待っている間、私はパリ在住のイギリス人に人気がある近くのワインバーを訪れた。",
+      "cloze": {
+        "maskedText": "While waiting, I visited a nearby wine bar that was ____ English residents of Paris.",
+        "answerBase": "be popular with ~ / be popular among ~",
+        "answerSurface": "popular with",
+        "choices": [
+          "popular with",
+          "busy with",
+          "equipped with",
+          "content with"
+        ]
+      }
     }
   ],
   "notes": []

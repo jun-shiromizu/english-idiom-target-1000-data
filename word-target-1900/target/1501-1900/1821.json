@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "I often browse through scientific journals when I have time.",
-      "sentence-jp": "私は時間があるとき，よく科学誌を拾い読みする。"
+      "sentence-jp": "私は時間があるとき，よく科学誌を拾い読みする。",
+      "cloze": {
+        "maskedText": "I often ____ through scientific journals when I have time.",
+        "answerBase": "browse",
+        "answerSurface": "browse",
+        "choices": [
+          "browse",
+          "travel",
+          "look",
+          "wander"
+        ]
+      }
     }
   ],
   "notes": []

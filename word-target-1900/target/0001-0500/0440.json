@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "British society consists of a variety of cultures.",
-      "sentence-jp": "イギリス社会は多様な文化から成る。"
+      "sentence-jp": "イギリス社会は多様な文化から成る。",
+      "cloze": {
+        "maskedText": "British society ____ of a variety of cultures.",
+        "answerBase": "consist",
+        "answerSurface": "consists",
+        "choices": [
+          "consists",
+          "collects",
+          "travels",
+          "argues"
+        ]
+      }
     }
   ],
   "notes": []

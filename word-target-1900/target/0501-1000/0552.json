@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The Prime Minister's explanations were sometimes inconsistent.",
-      "sentence-jp": "総理大臣の説明はときに首尾一貫していなかった。"
+      "sentence-jp": "総理大臣の説明はときに首尾一貫していなかった。",
+      "cloze": {
+        "maskedText": "The Prime ____'s explanations were sometimes inconsistent.",
+        "answerBase": "minister",
+        "answerSurface": "Minister",
+        "choices": [
+          "Minister",
+          "Fellow",
+          "Candidate",
+          "Weapon"
+        ]
+      }
     }
   ],
   "notes": []

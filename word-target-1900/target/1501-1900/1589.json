@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "The rescue of victims requires swift action.",
-      "sentence-jp": "被害者の救出は素早い行動を必要とする。"
+      "sentence-jp": "被害者の救出は素早い行動を必要とする。",
+      "cloze": {
+        "maskedText": "The rescue of victims requires ____ action.",
+        "answerBase": "swift",
+        "answerSurface": "swift",
+        "choices": [
+          "swift",
+          "feminine",
+          "hollow",
+          "accidental"
+        ]
+      }
     }
   ],
   "notes": []

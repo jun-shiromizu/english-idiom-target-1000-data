@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "I twisted one of my knee joints while running.",
-      "sentence-jp": "私はランニング中に片方のひざの関節をひねった。"
+      "sentence-jp": "私はランニング中に片方のひざの関節をひねった。",
+      "cloze": {
+        "maskedText": "I twisted one of my knee ____ while running.",
+        "answerBase": "joint",
+        "answerSurface": "joints",
+        "choices": ["joints", "premises", "adolescents", "particles"]
+      }
     }
   ],
   "notes": []

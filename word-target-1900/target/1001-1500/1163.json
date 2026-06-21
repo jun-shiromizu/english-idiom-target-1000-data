@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Drinking in excess will weaken your immune system.",
-      "sentence-jp": "過度の飲酒は体の免疫系を弱めることになる。"
+      "sentence-jp": "過度の飲酒は体の免疫系を弱めることになる。",
+      "cloze": {
+        "maskedText": "Drinking in ____ will weaken your immune system.",
+        "answerBase": "excess",
+        "answerSurface": "excess",
+        "choices": ["excess", "fame", "mess", "plot"]
+      }
     }
   ],
   "notes": []

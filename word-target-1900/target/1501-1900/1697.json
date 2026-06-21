@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "His arrogant behavior isolates him from everyone else.",
-      "sentence-jp": "彼の横柄な態度は彼をほかのすべての人から孤立させる。"
+      "sentence-jp": "彼の横柄な態度は彼をほかのすべての人から孤立させる。",
+      "cloze": {
+        "maskedText": "His ____ behavior isolates him from everyone else.",
+        "answerBase": "arrogant",
+        "answerSurface": "arrogant",
+        "choices": [
+          "arrogant",
+          "gentle",
+          "ordinary",
+          "silent"
+        ]
+      }
     }
   ],
   "notes": []

@@ -12,7 +12,18 @@
         "release"
       ],
       "example-sentence": "Mary let go of her mother’s hand when they were skating, and then she had a fall.",
-      "sentence-jp": "メアリーはスケートをしていたときに母親の手を放し、そして転倒した。"
+      "sentence-jp": "メアリーはスケートをしていたときに母親の手を放し、そして転倒した。",
+      "cloze": {
+        "maskedText": "Mary ____ her mother’s hand when they were skating, and then she had a fall.",
+        "answerBase": "let go of ~",
+        "answerSurface": "let go of",
+        "choices": [
+          "let go of",
+          "took hold of",
+          "kept track of",
+          "lived up to"
+        ]
+      }
     }
   ],
   "notes": [

@@ -12,5 +12,11 @@
       "sentence-jp": "その作家はノーベル文学賞の受賞者である。"
     }
   ],
+  "cloze": {
+    "maskedText": "She was the ____ of a generous scholarship.",
+    "answerBase": "recipient",
+    "answerSurface": "recipient",
+    "choices": ["recipient", "commodity", "motive", "drill"]
+  },
   "notes": []
 }

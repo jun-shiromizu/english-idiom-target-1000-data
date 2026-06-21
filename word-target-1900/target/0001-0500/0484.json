@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "We should take proper measures to prevent accidents on highways.",
-      "sentence-jp": "私たちは幹線道路での事故を防ぐために適切な対策をとるべきである。"
+      "sentence-jp": "私たちは幹線道路での事故を防ぐために適切な対策をとるべきである。",
+      "cloze": {
+        "maskedText": "We should take ____ measures to prevent accidents on highways.",
+        "answerBase": "proper",
+        "answerSurface": "proper",
+        "choices": [
+          "proper",
+          "hungry",
+          "weekly",
+          "silent"
+        ]
+      }
     }
   ],
   "notes": []

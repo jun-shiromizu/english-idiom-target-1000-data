@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "If you work without a break, you become more prone to error.",
-      "sentence-jp": "休憩を取らずに働いていると，間違いをもっと犯しやすくなる。"
+      "sentence-jp": "休憩を取らずに働いていると，間違いをもっと犯しやすくなる。",
+      "cloze": {
+        "maskedText": "If you work without a break, you become more ____ to error.",
+        "answerBase": "prone",
+        "answerSurface": "prone",
+        "choices": [
+          "prone",
+          "susceptible",
+          "vain",
+          "legitimate"
+        ]
+      }
     }
   ],
   "notes": []

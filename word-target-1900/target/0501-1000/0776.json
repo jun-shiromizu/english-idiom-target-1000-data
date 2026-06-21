@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The usage of English grammar is changing with the times.",
-      "sentence-jp": "英文法の用法は時代とともに変化している。"
+      "sentence-jp": "英文法の用法は時代とともに変化している。",
+      "cloze": {
+        "maskedText": "The ____ of English grammar is changing with the times.",
+        "answerBase": "usage",
+        "answerSurface": "usage",
+        "choices": [
+          "usage",
+          "sector",
+          "primate",
+          "correlation"
+        ]
+      }
     }
   ],
   "notes": []

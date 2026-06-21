@@ -12,5 +12,11 @@
       "sentence-jp": "その知らせを聞くとすぐに，彼女は非常に深い悲しみを感じた。"
     }
   ],
+  "cloze": {
+    "maskedText": "He was overcome with ____ after the loss.",
+    "answerBase": "grief",
+    "answerSurface": "grief",
+    "choices": ["grief", "gear", "cuisine", "signature"]
+  },
   "notes": []
 }

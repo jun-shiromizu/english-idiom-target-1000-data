@@ -12,5 +12,11 @@
       "sentence-jp": "彼女が市長に再選されることは十分にありそうだ。"
     }
   ],
+  "cloze": {
+    "maskedText": "It is ____ that rain will fall tonight.",
+    "answerBase": "probable",
+    "answerSurface": "probable",
+    "choices": ["probable", "worthwhile", "hostile", "static"]
+  },
   "notes": []
 }

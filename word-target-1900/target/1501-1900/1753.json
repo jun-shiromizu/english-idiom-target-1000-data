@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The soldiers saluted the queen in her carriage.",
-      "sentence-jp": "兵士たちは馬車の中の女王に敬礼した。"
+      "sentence-jp": "兵士たちは馬車の中の女王に敬礼した。",
+      "cloze": {
+        "maskedText": "The soldiers saluted the queen in her ____.",
+        "answerBase": "carriage",
+        "answerSurface": "carriage",
+        "choices": [
+          "carriage",
+          "lecture",
+          "factory",
+          "village"
+        ]
+      }
     }
   ],
   "notes": []

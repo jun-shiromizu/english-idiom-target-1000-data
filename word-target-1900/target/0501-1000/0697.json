@@ -8,8 +8,19 @@
       "idiom-jp": "無礼な（⇔ polite 礼儀正しい）；粗野な",
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
-      "example-sentence": "To talk without making any eye contact is a rude behavior.",
-      "sentence-jp": "アイコンアクトをまったくせずに話をすることは無礼な行為である。"
+      "example-sentence": "To talk without making any eye contact is rude behavior.",
+      "sentence-jp": "アイコンタクトをまったくせずに話をすることは無礼な行為である。",
+      "cloze": {
+        "maskedText": "To talk without making any eye contact is ____ behavior.",
+        "answerBase": "rude",
+        "answerSurface": "rude",
+        "choices": [
+          "rude",
+          "raw",
+          "mere",
+          "meaningful"
+        ]
+      }
     }
   ],
   "notes": []

@@ -10,7 +10,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "quantity-expression",
       "example-sentence": "There were as many as 100 people at the lecture yesterday.",
-      "sentence-jp": "昨日の講義には100人もの数の人がいた。"
+      "sentence-jp": "昨日の講義には100人もの数の人がいた。",
+      "cloze": {
+        "maskedText": "There were ____ 100 people at the lecture yesterday.",
+        "answerBase": "as many as ~ / as much as ~",
+        "answerSurface": "as many as",
+        "choices": [
+          "as many as",
+          "as good as",
+          "what is more",
+          "worse still"
+        ]
+      }
     }
   ],
   "notes": [

@@ -12,5 +12,11 @@
       "sentence-jp": "その国は紛争地帯に平和維持軍を派遣した。"
     }
   ],
+  "cloze": {
+    "maskedText": "Additional ____ were sent to the border.",
+    "answerBase": "troop",
+    "answerSurface": "troops",
+    "choices": ["troops", "criteria", "nightmares", "doses"]
+  },
   "notes": []
 }

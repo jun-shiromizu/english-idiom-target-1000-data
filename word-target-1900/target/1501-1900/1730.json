@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Frequent use of smartphones may impair normal brain function.",
-      "sentence-jp": "スマートフォンの頻繁な使用は正常な脳の働きを損なうかもしれない。"
+      "sentence-jp": "スマートフォンの頻繁な使用は正常な脳の働きを損なうかもしれない。",
+      "cloze": {
+        "maskedText": "Frequent use of smartphones may ____ normal brain function.",
+        "answerBase": "impair",
+        "answerSurface": "impair",
+        "choices": [
+          "impair",
+          "restore",
+          "observe",
+          "support"
+        ]
+      }
     }
   ],
   "notes": []

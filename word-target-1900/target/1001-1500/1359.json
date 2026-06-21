@@ -12,5 +12,11 @@
       "sentence-jp": "メアリーは毎朝ビタミンCを一服服用している。"
     }
   ],
+  "cloze": {
+    "maskedText": "Take one ____ of this medicine after meals.",
+    "answerBase": "dose",
+    "answerSurface": "dose",
+    "choices": ["dose", "agenda", "chaos", "pollen"]
+  },
   "notes": []
 }

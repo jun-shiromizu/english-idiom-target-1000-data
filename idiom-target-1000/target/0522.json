@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "My mother and I took turns looking after my father when he was in hospital.",
-      "sentence-jp": "母と私は、父が入院中、父の世話を交代でした。"
+      "sentence-jp": "母と私は、父が入院中、父の世話を交代でした。",
+      "cloze": {
+        "maskedText": "My mother and I ____ looking after my father when he was in hospital.",
+        "answerBase": "take turns",
+        "answerSurface": "took turns",
+        "choices": [
+          "took turns",
+          "took a chance",
+          "shook hands",
+          "changed hands"
+        ]
+      }
     }
   ],
   "notes": [

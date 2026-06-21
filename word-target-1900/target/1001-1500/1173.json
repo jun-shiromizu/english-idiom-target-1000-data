@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Every time she returns home, she visits her grandmother's grave.",
-      "sentence-jp": "故郷に戻るたびに彼女は祖母の墓にお参りする。"
+      "sentence-jp": "故郷に戻るたびに彼女は祖母の墓にお参りする。",
+      "cloze": {
+        "maskedText": "Every time she returns home, she visits her grandmother's ____.",
+        "answerBase": "grave",
+        "answerSurface": "grave",
+        "choices": ["grave", "plot", "tablet", "fiber"]
+      }
     }
   ],
   "notes": []

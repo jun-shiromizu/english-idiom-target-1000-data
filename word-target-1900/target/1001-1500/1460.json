@@ -12,5 +12,11 @@
       "sentence-jp": "その新しい店は買い物客にとって複雑な迷路のようである。"
     }
   ],
+  "cloze": {
+    "maskedText": "The garden was designed like a ____.",
+    "answerBase": "maze",
+    "answerSurface": "maze",
+    "choices": ["maze", "curse", "pill", "reception"]
+  },
   "notes": []
 }

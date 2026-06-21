@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "The doctor recommended that my father take moderate exercise every day.",
-      "sentence-jp": "医師は私の父に毎日適度な運動をするように勧めた。"
+      "sentence-jp": "医師は私の父に毎日適度な運動をするように勧めた。",
+      "cloze": {
+        "maskedText": "The doctor recommended that my father take ____ exercise every day.",
+        "answerBase": "moderate",
+        "answerSurface": "moderate",
+        "choices": ["moderate", "dynamic", "brilliant", "medieval"]
+      }
     }
   ],
   "notes": []

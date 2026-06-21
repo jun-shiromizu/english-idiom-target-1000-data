@@ -12,7 +12,18 @@
         "persuade ~ to do"
       ],
       "example-sentence": "We tried hard to talk Saki into joining our sports team, but it was in vain.",
-      "sentence-jp": "私たちは精一杯サキを説得して私たちの運動部に入部させようとしたが、だめだった。"
+      "sentence-jp": "私たちは精一杯サキを説得して私たちの運動部に入部させようとしたが、だめだった。",
+      "cloze": {
+        "maskedText": "We tried hard to ____ Saki into joining our sports team, but it was in vain.",
+        "answerBase": "talk A into B",
+        "answerSurface": "talk",
+        "choices": [
+          "talk",
+          "present",
+          "diagnose",
+          "congratulate"
+        ]
+      }
     }
   ],
   "notes": [

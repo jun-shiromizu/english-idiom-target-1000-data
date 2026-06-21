@@ -12,5 +12,11 @@
       "sentence-jp": "私たちの進行中のプロジェクトの成功は関係者にかかっている。"
     }
   ],
+  "cloze": {
+    "maskedText": "The police are conducting an ____ investigation.",
+    "answerBase": "ongoing",
+    "answerSurface": "ongoing",
+    "choices": ["ongoing", "mild", "wireless", "prehistoric"]
+  },
   "notes": []
 }

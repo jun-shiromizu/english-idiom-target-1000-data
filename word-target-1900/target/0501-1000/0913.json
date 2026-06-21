@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The government promised to restore the economy to a healthy state.",
-      "sentence-jp": "政府は経済を健全な状態に回復させると約束した。"
+      "sentence-jp": "政府は経済を健全な状態に回復させると約束した。",
+      "cloze": {
+        "maskedText": "The government promised to ____ the economy to a healthy state.",
+        "answerBase": "restore",
+        "answerSurface": "restore",
+        "choices": ["restore", "trigger", "retain", "scan"]
+      }
     }
   ],
   "notes": []

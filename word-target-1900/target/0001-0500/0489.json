@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Australia has taken strict measures against illegal imports.",
-      "sentence-jp": "オーストラリアは不正輸入に対して厳しい対策をとってきた。"
+      "sentence-jp": "オーストラリアは不正輸入に対して厳しい対策をとってきた。",
+      "cloze": {
+        "maskedText": "Australia has taken ____ measures against illegal imports.",
+        "answerBase": "strict",
+        "answerSurface": "strict",
+        "choices": [
+          "strict",
+          "wooden",
+          "central",
+          "pleasant"
+        ]
+      }
     }
   ],
   "notes": []

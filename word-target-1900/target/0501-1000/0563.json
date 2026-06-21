@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Poor children tend to suffer educational and social disadvantages.",
-      "sentence-jp": "貧しい子供たちは教育的・社会的不利を被る傾向がある。"
+      "sentence-jp": "貧しい子供たちは教育的・社会的不利を被る傾向がある。",
+      "cloze": {
+        "maskedText": "Poor children tend to suffer educational and social ____.",
+        "answerBase": "disadvantage",
+        "answerSurface": "disadvantages",
+        "choices": [
+          "disadvantages",
+          "calendars",
+          "suitcases",
+          "umbrellas"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He was determined to take revenge on his political enemies.",
-      "sentence-jp": "彼は彼の政敵に復讐する決意を固めた。"
+      "sentence-jp": "彼は彼の政敵に復讐する決意を固めた。",
+      "cloze": {
+        "maskedText": "He was determined to take ____ on his political enemies.",
+        "answerBase": "revenge",
+        "answerSurface": "revenge",
+        "choices": [
+          "revenge",
+          "action",
+          "control",
+          "charge"
+        ]
+      }
     }
   ],
   "notes": []

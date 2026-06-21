@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He referred to the glossary to understand Shakespeare.",
-      "sentence-jp": "彼はシェークスピアを理解するために用語小辞典を参照した。"
+      "sentence-jp": "彼はシェークスピアを理解するために用語小辞典を参照した。",
+      "cloze": {
+        "maskedText": "He referred to the ____ to understand Shakespeare.",
+        "answerBase": "glossary",
+        "answerSurface": "glossary",
+        "choices": [
+          "glossary",
+          "calendar",
+          "balcony",
+          "cemetery"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "A large portion of the United States population reads e-books.",
-      "sentence-jp": "アメリカ国民の大部分が電子書籍を読む。"
+      "sentence-jp": "アメリカ国民の大部分が電子書籍を読む。",
+      "cloze": {
+        "maskedText": "A large ____ of the United States population reads e-books.",
+        "answerBase": "portion",
+        "answerSurface": "portion",
+        "choices": ["portion", "channel", "mirror", "bottle"]
+      }
     }
   ],
   "notes": []

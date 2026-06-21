@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Human brains are capable of processing information faster than computers.",
-      "sentence-jp": "人間の脳はコンピューターより速く情報を処理することができる。"
+      "sentence-jp": "人間の脳はコンピューターより速く情報を処理することができる。",
+      "cloze": {
+        "maskedText": "Human brains are ____ of processing information faster than computers.",
+        "answerBase": "capable of doing",
+        "answerSurface": "capable",
+        "choices": [
+          "capable",
+          "typical",
+          "severe",
+          "nuclear"
+        ]
+      }
     }
   ],
   "notes": []

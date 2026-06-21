@@ -12,5 +12,11 @@
       "sentence-jp": "彼女のインドへの旅は彼女の人生観を完全に変えた。"
     }
   ],
+  "cloze": {
+    "maskedText": "Travel broadened his ____ on life.",
+    "answerBase": "outlook",
+    "answerSurface": "outlook",
+    "choices": ["outlook", "ally", "interval", "blade"]
+  },
   "notes": []
 }

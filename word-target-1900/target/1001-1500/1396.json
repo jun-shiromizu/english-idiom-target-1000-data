@@ -12,5 +12,11 @@
       "sentence-jp": "私たちはしばしば表面的な類似にだまされる。"
     }
   ],
+  "cloze": {
+    "maskedText": "Their knowledge of the topic was only ____.",
+    "answerBase": "superficial",
+    "answerSurface": "superficial",
+    "choices": ["superficial", "indispensable", "vivid", "infinite"]
+  },
   "notes": []
 }

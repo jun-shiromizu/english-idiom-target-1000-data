@@ -12,5 +12,11 @@
       "sentence-jp": "このレポートは市の発展の戦略の要点を述べている。"
     }
   ],
+  "cloze": {
+    "maskedText": "The professor ____ the main points on the board.",
+    "answerBase": "outline",
+    "answerSurface": "outlined",
+    "choices": ["outlined", "deceived", "suppressed", "fled"]
+  },
   "notes": []
 }

@@ -10,7 +10,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "We should keep this in mind: alcohol should be kept out of the hands of the young.",
-      "sentence-jp": "私たちはこれを心にとどめておくべきだ。酒が若者の手に届かないようにしておくべきだということを。"
+      "sentence-jp": "私たちはこれを心にとどめておくべきだ。酒が若者の手に届かないようにしておくべきだということを。",
+      "cloze": {
+        "maskedText": "We should ____: alcohol should be kept out of the hands of the young.",
+        "answerBase": "keep ~ in mind / bear ~ in mind",
+        "answerSurface": "keep this in mind",
+        "choices": [
+          "keep this in mind",
+          "look back on our childhood",
+          "make it all the way down the mountain",
+          "sign up for universities’ online programs"
+        ]
+      }
     }
   ],
   "notes": [

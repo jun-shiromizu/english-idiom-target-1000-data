@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Just as some people are born artists, so some are born athletes.",
-      "sentence-jp": "生まれながらの芸術家がいるように、生まれながらのスポーツマンもいる。"
+      "sentence-jp": "生まれながらの芸術家がいるように、生まれながらのスポーツマンもいる。",
+      "cloze": {
+        "maskedText": "____ some people are born artists, ____ some are born athletes.",
+        "answerBase": "(Just) As ~, so ...",
+        "answerSurface": "Just as / so",
+        "choices": [
+          "Just as / so",
+          "the longer / the better",
+          "if only / if it were not for",
+          "no wonder / it happens that"
+        ]
+      }
     }
   ],
   "notes": [

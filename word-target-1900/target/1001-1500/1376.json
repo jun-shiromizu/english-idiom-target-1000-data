@@ -12,5 +12,11 @@
       "sentence-jp": "彼らは彼を一家の墓に埋葬した。"
     }
   ],
+  "cloze": {
+    "maskedText": "The king was buried in a stone ____.",
+    "answerBase": "tomb",
+    "answerSurface": "tomb",
+    "choices": ["tomb", "formula", "cuisine", "spectrum"]
+  },
   "notes": []
 }

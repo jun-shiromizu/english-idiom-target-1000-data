@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "A famous restaurant will be catering their wedding.",
-      "sentence-jp": "有名レストランが彼らの結婚式の料理をまかなうことになっている。"
+      "sentence-jp": "有名レストランが彼らの結婚式の料理をまかなうことになっている。",
+      "cloze": {
+        "maskedText": "A famous restaurant will be ____ their wedding.",
+        "answerBase": "cater",
+        "answerSurface": "catering",
+        "choices": [
+          "catering",
+          "watching",
+          "joining",
+          "visiting"
+        ]
+      }
     }
   ],
   "notes": []

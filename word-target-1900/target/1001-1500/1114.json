@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "My boss dismissed my opinion as nonsense.",
-      "sentence-jp": "上司は私の意見をばかげたものとして退けた。"
+      "sentence-jp": "上司は私の意見をばかげたものとして退けた。",
+      "cloze": {
+        "maskedText": "My boss ____ my opinion as nonsense.",
+        "answerBase": "dismiss",
+        "answerSurface": "dismissed",
+        "choices": ["dismissed", "faded", "chewed", "migrated"]
+      }
     }
   ],
   "notes": []

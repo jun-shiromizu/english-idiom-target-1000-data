@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "My mother asked me to check if there were enough chairs to go around for the party.",
-      "sentence-jp": "母は私にパーティーで全員に行き渡るだけのいすがあるか確認するように頼んだ。"
+      "sentence-jp": "母は私にパーティーで全員に行き渡るだけのいすがあるか確認するように頼んだ。",
+      "cloze": {
+        "maskedText": "My mother asked me to check if there were enough chairs ____ for the party.",
+        "answerBase": "(enough) ~ to go around",
+        "answerSurface": "to go around",
+        "choices": [
+          "to go around",
+          "for a rainy day",
+          "on his own",
+          "at stake"
+        ]
+      }
     }
   ],
   "notes": [

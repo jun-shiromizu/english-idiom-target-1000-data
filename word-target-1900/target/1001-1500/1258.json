@@ -12,5 +12,11 @@
       "sentence-jp": "私たちが子孫に渡すものの多くは文化的なものである。"
     }
   ],
+  "cloze": {
+    "maskedText": "Birds feed their ____ in the nest.",
+    "answerBase": "offspring",
+    "answerSurface": "offspring",
+    "choices": ["offspring", "cattle", "utility", "chamber"]
+  },
   "notes": []
 }

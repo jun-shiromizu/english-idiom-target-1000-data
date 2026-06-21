@@ -12,7 +12,18 @@
         "become a victim of ~"
       ],
       "example-sentence": "During the epidemic, poorer children of the world fell victim to the disease very easily.",
-      "sentence-jp": "伝染病の流行中に世界のより貧しい子供たちがいともたやすくその病気の犠牲になった。"
+      "sentence-jp": "伝染病の流行中に世界のより貧しい子供たちがいともたやすくその病気の犠牲になった。",
+      "cloze": {
+        "maskedText": "During the epidemic, poorer children of the world ____ the disease very easily.",
+        "answerBase": "fall victim to ~",
+        "answerSurface": "fell victim to",
+        "choices": [
+          "fell victim to",
+          "caught sight of",
+          "put emphasis on",
+          "were related to"
+        ]
+      }
     }
   ],
   "notes": []

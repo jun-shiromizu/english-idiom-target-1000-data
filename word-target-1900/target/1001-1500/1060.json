@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Electron microscopes allow us to investigate organic molecules.",
-      "sentence-jp": "電子顕微鏡は私たちが有機分子を調べるのを可能にする。"
+      "sentence-jp": "電子顕微鏡は私たちが有機分子を調べるのを可能にする。",
+      "cloze": {
+        "maskedText": "Electron microscopes allow us to investigate organic ____.",
+        "answerBase": "molecule",
+        "answerSurface": "molecules",
+        "choices": ["molecules", "joints", "penalties", "merits"]
+      }
     }
   ],
   "notes": []

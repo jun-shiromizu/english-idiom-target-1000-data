@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The scientist developed a logical hypothesis for his next experiment.",
-      "sentence-jp": "その科学者は彼の次の実験のために論理的な仮説を立てた。"
+      "sentence-jp": "その科学者は彼の次の実験のために論理的な仮説を立てた。",
+      "cloze": {
+        "maskedText": "The scientist developed a logical ____ for his next experiment.",
+        "answerBase": "hypothesis",
+        "answerSurface": "hypothesis",
+        "choices": [
+          "hypothesis",
+          "minister",
+          "weapon",
+          "corporation"
+        ]
+      }
     }
   ],
   "notes": []

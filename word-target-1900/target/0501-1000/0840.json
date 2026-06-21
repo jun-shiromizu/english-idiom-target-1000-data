@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "His excellent performance in the exams qualified him for a scholarship.",
-      "sentence-jp": "試験での彼の見事な成績は彼に奨学金の資格を与えた。"
+      "sentence-jp": "試験での彼の見事な成績は彼に奨学金の資格を与えた。",
+      "cloze": {
+        "maskedText": "His excellent performance in the exams ____ him for a scholarship.",
+        "answerBase": "qualify",
+        "answerSurface": "qualified",
+        "choices": ["qualified", "prepared", "treated", "carried"]
+      }
     }
   ],
   "notes": []

@@ -12,5 +12,11 @@
       "sentence-jp": "不注意な治療は患者の病状を悪化させることもある。"
     }
   ],
+  "cloze": {
+    "maskedText": "Too much stress can ____ the problem.",
+    "answerBase": "worsen",
+    "answerSurface": "worsen",
+    "choices": ["worsen", "assemble", "compute", "prevail"]
+  },
   "notes": []
 }

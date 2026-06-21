@@ -12,5 +12,11 @@
       "sentence-jp": "その男性は砂漠を通って町へ歩いて行く間，餓死しなかった。"
     }
   ],
+  "cloze": {
+    "maskedText": "Some wild animals ____ during harsh winters.",
+    "answerBase": "starve",
+    "answerSurface": "starve",
+    "choices": ["starve", "yell", "deposit", "outline"]
+  },
   "notes": []
 }

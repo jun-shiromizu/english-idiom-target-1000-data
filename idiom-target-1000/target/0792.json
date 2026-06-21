@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "He thought he lost face by asking a silly question in public.",
-      "sentence-jp": "彼は人前でばかな質問をして面目を失ったと思った。"
+      "sentence-jp": "彼は人前でばかな質問をして面目を失ったと思った。",
+      "cloze": {
+        "maskedText": "He thought he ____ by asking a silly question in public.",
+        "answerBase": "lose (one’s) face",
+        "answerSurface": "lost face",
+        "choices": [
+          "lost face",
+          "paid a visit",
+          "served him right",
+          "had a good command of English"
+        ]
+      }
     }
   ],
   "notes": [

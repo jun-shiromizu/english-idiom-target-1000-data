@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He is going to study natural science and become an expert on ecology.",
-      "sentence-jp": "彼は自然科学を研究し，生態学の専門家になるつもりである。"
+      "sentence-jp": "彼は自然科学を研究し，生態学の専門家になるつもりである。",
+      "cloze": {
+        "maskedText": "He is going to study natural science and become an expert on ____.",
+        "answerBase": "ecology",
+        "answerSurface": "ecology",
+        "choices": ["ecology", "mixture", "ratio", "semester"]
+      }
     }
   ],
   "notes": []

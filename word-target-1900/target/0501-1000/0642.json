@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Music therapy has been used for nearly 2, 000 years.",
-      "sentence-jp": "音楽療法はほぼ2,000年もの間用いられてきている。"
+      "sentence-jp": "音楽療法はほぼ2,000年もの間用いられてきている。",
+      "cloze": {
+        "maskedText": "Music ____ has been used for nearly 2, 000 years.",
+        "answerBase": "therapy",
+        "answerSurface": "therapy",
+        "choices": [
+          "therapy",
+          "witness",
+          "burden",
+          "award"
+        ]
+      }
     }
   ],
   "notes": []

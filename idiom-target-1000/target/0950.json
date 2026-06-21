@@ -12,7 +12,18 @@
         "out of control"
       ],
       "example-sentence": "We have to make sure that things don’t get out of hand.",
-      "sentence-jp": "私たちは事態が手に負えなくなることがないようにする必要がある。"
+      "sentence-jp": "私たちは事態が手に負えなくなることがないようにする必要がある。",
+      "cloze": {
+        "maskedText": "We have to make sure that things don’t get ____.",
+        "answerBase": "out of hand",
+        "answerSurface": "out of hand",
+        "choices": [
+          "out of hand",
+          "in store",
+          "on the move",
+          "of his own"
+        ]
+      }
     },
     {
       "idiom-jp": "即座に",
@@ -23,7 +34,18 @@
         "right away"
       ],
       "example-sentence": "A boy asked a question, but the chairman dismissed it out of hand.",
-      "sentence-jp": "少年が質問をしたが、議長は即座にそれを退けた。"
+      "sentence-jp": "少年が質問をしたが、議長は即座にそれを退けた。",
+      "cloze": {
+        "maskedText": "A boy asked a question, but the chairman dismissed it ____.",
+        "answerBase": "out of hand",
+        "answerSurface": "out of hand",
+        "choices": [
+          "out of hand",
+          "in earnest",
+          "in the works",
+          "on the lean side"
+        ]
+      }
     }
   ],
   "notes": []

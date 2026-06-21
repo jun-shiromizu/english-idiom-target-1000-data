@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The AI computer defeated the world's best chess player.",
-      "sentence-jp": "そのAIコンピューターは世界最高のチェス選手を打ち負かした。"
+      "sentence-jp": "そのAIコンピューターは世界最高のチェス選手を打ち負かした。",
+      "cloze": {
+        "maskedText": "The AI computer ____ the world's best chess player.",
+        "answerBase": "defeat",
+        "answerSurface": "defeated",
+        "choices": [
+          "defeated",
+          "relieved",
+          "derived",
+          "greeted"
+        ]
+      }
     }
   ],
   "notes": []

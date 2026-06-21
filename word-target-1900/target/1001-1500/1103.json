@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He surfs the Internet constantly, collecting information about political scandals.",
-      "sentence-jp": "彼は絶えずネットのサイトを見て回り，政治的スキャンダルに関する情報を集めている。"
+      "sentence-jp": "彼は絶えずネットのサイトを見て回り，政治的スキャンダルに関する情報を集めている。",
+      "cloze": {
+        "maskedText": "He ____ the Internet constantly, collecting information about political scandals.",
+        "answerBase": "surf",
+        "answerSurface": "surfs",
+        "choices": ["surfs", "filters", "binds", "seals"]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "What you eat daily has a lot to do with your health in years to come.",
-      "sentence-jp": "あなたが毎日食べるものはあなたの将来の健康と大いに関係がある。"
+      "sentence-jp": "あなたが毎日食べるものはあなたの将来の健康と大いに関係がある。",
+      "cloze": {
+        "maskedText": "What you eat daily ____ your health in years to come.",
+        "answerBase": "have A to do with B",
+        "answerSurface": "has a lot to do with",
+        "choices": [
+          "has a lot to do with",
+          "needless to say, is indispensable to",
+          "came very close to uttering",
+          "is used to performing in front of"
+        ]
+      }
     }
   ],
   "notes": [

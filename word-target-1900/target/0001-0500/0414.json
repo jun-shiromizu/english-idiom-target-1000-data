@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "They advertise their new computer games online.",
-      "sentence-jp": "彼らは自社の新しいコンピューターゲームをオンライン上で宣伝している。"
+      "sentence-jp": "彼らは自社の新しいコンピューターゲームをオンライン上で宣伝している。",
+      "cloze": {
+        "maskedText": "They ____ their new computer games online.",
+        "answerBase": "advertise",
+        "answerSurface": "advertise",
+        "choices": [
+          "advertise",
+          "borrow",
+          "damage",
+          "remove"
+        ]
+      }
     }
   ],
   "notes": []

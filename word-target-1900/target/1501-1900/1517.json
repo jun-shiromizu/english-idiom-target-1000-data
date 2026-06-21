@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "The rowboat turned over and she nearly drowned in the lake.",
-      "sentence-jp": "手漕ぎボートがひっくり返り，彼女は湖で溺れて死ぬところだった。"
+      "sentence-jp": "手漕ぎボートがひっくり返り，彼女は湖で溺れて死ぬところだった。",
+      "cloze": {
+        "maskedText": "The rowboat turned over and she nearly ____ in the lake.",
+        "answerBase": "drown",
+        "answerSurface": "drowned",
+        "choices": [
+          "drowned",
+          "wandered",
+          "collapsed",
+          "slipped"
+        ]
+      }
     }
   ],
   "notes": []

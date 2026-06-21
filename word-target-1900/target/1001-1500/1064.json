@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Some aging patients with dementia go missing when they are out alone.",
-      "sentence-jp": "認知症の高齢患者の中には1人で外出すると行方不明になる人がいる。"
+      "sentence-jp": "認知症の高齢患者の中には1人で外出すると行方不明になる人がいる。",
+      "cloze": {
+        "maskedText": "Some aging patients with ____ go missing when they are out alone.",
+        "answerBase": "dementia",
+        "answerSurface": "dementia",
+        "choices": ["dementia", "fatigue", "queue", "fantasy"]
+      }
     }
   ],
   "notes": []

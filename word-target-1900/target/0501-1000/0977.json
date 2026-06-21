@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Nara, famous for its Great Buddha, still retains its ancient charm.",
-      "sentence-jp": "大仏で有名な奈良は，今でもその古代の魅力を保持している。"
+      "sentence-jp": "大仏で有名な奈良は，今でもその古代の魅力を保持している。",
+      "cloze": {
+        "maskedText": "Nara, famous for its Great Buddha, still retains its ancient ____.",
+        "answerBase": "charm",
+        "answerSurface": "charm",
+        "choices": ["charm", "ambition", "pedestrian", "ratio"]
+      }
     }
   ],
   "notes": []

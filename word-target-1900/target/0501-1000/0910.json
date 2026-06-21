@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "He substituted honey for sugar in the recipe.",
-      "sentence-jp": "彼はそのレシピでハチミツを砂糖の代わりに使った。"
+      "sentence-jp": "彼はそのレシピでハチミツを砂糖の代わりに使った。",
+      "cloze": {
+        "maskedText": "He ____ honey for sugar in the recipe.",
+        "answerBase": "substitute",
+        "answerSurface": "substituted",
+        "choices": ["substituted", "poured", "slipped", "wandered"]
+      }
     }
   ],
   "notes": []

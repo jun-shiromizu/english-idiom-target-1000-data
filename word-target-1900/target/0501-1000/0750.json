@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She decided to make her hobby into her profession.",
-      "sentence-jp": "彼女は趣味を職業にすることに決めた。"
+      "sentence-jp": "彼女は趣味を職業にすることに決めた。",
+      "cloze": {
+        "maskedText": "She decided to make her hobby into her ____.",
+        "answerBase": "profession",
+        "answerSurface": "profession",
+        "choices": [
+          "profession",
+          "heritage",
+          "elite",
+          "license"
+        ]
+      }
     }
   ],
   "notes": []

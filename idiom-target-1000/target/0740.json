@@ -9,21 +9,54 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "The invention made by Samuel Morse in the 1830s was to be called the telegraph later.",
-      "sentence-jp": "1830年代にサミュエル・モールスによりなされた発明は、後に電信と呼ばれることになった。"
+      "sentence-jp": "1830年代にサミュエル・モールスによりなされた発明は、後に電信と呼ばれることになった。",
+      "cloze": {
+        "maskedText": "The invention made by Samuel Morse in the 1830s ____ called the telegraph later.",
+        "answerBase": "be to do",
+        "answerSurface": "was to be",
+        "choices": [
+          "was to be",
+          "had to be",
+          "could be",
+          "used to be"
+        ]
+      }
     },
     {
       "idiom-jp": "(義務)…すべきである",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "In a democratic society, all the citizens are to respect the rights of other people.",
-      "sentence-jp": "民主主義社会では、すべての国民は他人の権利を尊重するべきだ。"
+      "sentence-jp": "民主主義社会では、すべての国民は他人の権利を尊重するべきだ。",
+      "cloze": {
+        "maskedText": "In a democratic society, all the citizens ____ respect the rights of other people.",
+        "answerBase": "be to do",
+        "answerSurface": "are to",
+        "choices": [
+          "are to",
+          "used to",
+          "have to",
+          "ought"
+        ]
+      }
     },
     {
       "idiom-jp": "(意図・目的)…するつもりである；(可能)…できる",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "If this research is to be trustworthy, there should be at least 200 participants.",
-      "sentence-jp": "この研究を信頼できるものにするつもりなら、少なくとも200人の参加者がいるべきだ。"
+      "sentence-jp": "この研究を信頼できるものにするつもりなら、少なくとも200人の参加者がいるべきだ。",
+      "cloze": {
+        "maskedText": "If this research ____ trustworthy, there should be at least 200 participants.",
+        "answerBase": "be to do",
+        "answerSurface": "is to be",
+        "choices": [
+          "is to be",
+          "has to be",
+          "used to be",
+          "ought to be"
+        ]
+      }
     }
   ],
   "notes": [

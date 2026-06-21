@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "She is a diligent student with many goals in life.",
-      "sentence-jp": "彼女は人生におけるたくさんの目標を持った勤勉な学生である。"
+      "sentence-jp": "彼女は人生におけるたくさんの目標を持った勤勉な学生である。",
+      "cloze": {
+        "maskedText": "She is a ____ student with many goals in life.",
+        "answerBase": "diligent",
+        "answerSurface": "diligent",
+        "choices": [
+          "diligent",
+          "fragile",
+          "casual",
+          "distant"
+        ]
+      }
     }
   ],
   "notes": []

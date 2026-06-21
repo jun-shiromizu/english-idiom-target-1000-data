@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Radical candidates can sometimes be elected.",
-      "sentence-jp": "急進的な候補者がときどき選出される可能性がある。"
+      "sentence-jp": "急進的な候補者がときどき選出される可能性がある。",
+      "cloze": {
+        "maskedText": "____ candidates can sometimes be elected.",
+        "answerBase": "radical",
+        "answerSurface": "Radical",
+        "choices": ["Radical", "Prompt", "Mutual", "Fluent"]
+      }
     }
   ],
   "notes": []

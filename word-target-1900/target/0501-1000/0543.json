@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The public library was closed on account of budget cuts.",
-      "sentence-jp": "その公立図書館は予算削減のために閉鎖された。"
+      "sentence-jp": "その公立図書館は予算削減のために閉鎖された。",
+      "cloze": {
+        "maskedText": "The public library was closed on account of ____ cuts.",
+        "answerBase": "budget",
+        "answerSurface": "budget",
+        "choices": [
+          "budget",
+          "traffic",
+          "lecture",
+          "festival"
+        ]
+      }
     }
   ],
   "notes": []

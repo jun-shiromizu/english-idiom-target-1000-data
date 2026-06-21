@@ -12,7 +12,18 @@
         "attribute A to B"
       ],
       "example-sentence": "He ascribed his failure in the examination to bad luck.",
-      "sentence-jp": "彼は試験に落ちたことを不運のせいにした。"
+      "sentence-jp": "彼は試験に落ちたことを不運のせいにした。",
+      "cloze": {
+        "maskedText": "He ____ his failure in the examination to bad luck.",
+        "answerBase": "ascribe A to B",
+        "answerSurface": "ascribed",
+        "choices": [
+          "ascribed",
+          "imposed",
+          "brought",
+          "dared"
+        ]
+      }
     }
   ],
   "notes": [

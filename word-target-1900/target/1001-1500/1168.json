@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Even before Lincoln, some politicians had tried to abolish slavery.",
-      "sentence-jp": "リンカーン以前にも，中には奴隷制度を廃止することを試みた政治家もいた。"
+      "sentence-jp": "リンカーン以前にも，中には奴隷制度を廃止することを試みた政治家もいた。",
+      "cloze": {
+        "maskedText": "Even before Lincoln, some politicians had tried to abolish ____.",
+        "answerBase": "slavery",
+        "answerSurface": "slavery",
+        "choices": ["slavery", "mess", "column", "fiber"]
+      }
     }
   ],
   "notes": []

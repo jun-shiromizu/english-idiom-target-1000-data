@@ -12,5 +12,11 @@
       "sentence-jp": "彼らの製品は他社の製品との猛烈な競争を乗り切った。"
     }
   ],
+  "cloze": {
+    "maskedText": "There was ____ competition for the job.",
+    "answerBase": "fierce",
+    "answerSurface": "fierce",
+    "choices": ["fierce", "monetary", "tidy", "partial"]
+  },
   "notes": []
 }

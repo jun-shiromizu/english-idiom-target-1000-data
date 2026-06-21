@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "No society can afford to ignore air pollution or climate change.",
-      "sentence-jp": "大気汚染や気候変動を無視する余裕のある社会はない。"
+      "sentence-jp": "大気汚染や気候変動を無視する余裕のある社会はない。",
+      "cloze": {
+        "maskedText": "No society can ____ ignore air pollution or climate change.",
+        "answerBase": "can afford to do",
+        "answerSurface": "afford to",
+        "choices": [
+          "afford to",
+          "bother to",
+          "go so far as to",
+          "bring itself to"
+        ]
+      }
     }
   ],
   "notes": [

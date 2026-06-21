@@ -12,5 +12,11 @@
       "sentence-jp": "外国人観光客の中にはその穏やかな冬の気候にひかれてフロリダに来る者もいる。"
     }
   ],
+  "cloze": {
+    "maskedText": "We had a ____ winter this year.",
+    "answerBase": "mild",
+    "answerSurface": "mild",
+    "choices": ["mild", "steep", "toxic", "peculiar"]
+  },
   "notes": []
 }

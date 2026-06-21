@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She still mourns her son's untimely death.",
-      "sentence-jp": "彼女はいまだに自分の息子の早すぎる死を悼んでいる。"
+      "sentence-jp": "彼女はいまだに自分の息子の早すぎる死を悼んでいる。",
+      "cloze": {
+        "maskedText": "She still ____ her son's untimely death.",
+        "answerBase": "mourn",
+        "answerSurface": "mourns",
+        "choices": [
+          "mourns",
+          "explains",
+          "collects",
+          "describes"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "The singer became so popular that soon she was in great demand at all the TV networks.",
-      "sentence-jp": "その歌手は非常に人気が出たので、すぐにすべてのテレビ放送網から引っぱりだこになった。"
+      "sentence-jp": "その歌手は非常に人気が出たので、すぐにすべてのテレビ放送網から引っぱりだこになった。",
+      "cloze": {
+        "maskedText": "The singer became so popular that soon she was ____ at all the TV networks.",
+        "answerBase": "in demand",
+        "answerSurface": "in great demand",
+        "choices": [
+          "in great demand",
+          "in the meantime",
+          "at work",
+          "at a loss"
+        ]
+      }
     }
   ],
   "notes": [

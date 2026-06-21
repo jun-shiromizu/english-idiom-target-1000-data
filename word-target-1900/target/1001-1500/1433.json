@@ -12,5 +12,11 @@
       "sentence-jp": "もはや役に立たないので，その時代遅れの慣例を廃止するべきである。"
     }
   ],
+  "cloze": {
+    "maskedText": "The city voted to ____ the old rule.",
+    "answerBase": "abolish",
+    "answerSurface": "abolish",
+    "choices": ["abolish", "clarify", "glow", "flock"]
+  },
   "notes": []
 }

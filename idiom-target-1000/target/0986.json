@@ -13,7 +13,18 @@
         "in succession"
       ],
       "example-sentence": "With today’s victory, the Tigers have now won three games in a row.",
-      "sentence-jp": "今日の勝利でタイガースは今のところ連続して3試合に勝利している。"
+      "sentence-jp": "今日の勝利でタイガースは今のところ連続して3試合に勝利している。",
+      "cloze": {
+        "maskedText": "With today’s victory, the Tigers have now won three games ____.",
+        "answerBase": "in a row",
+        "answerSurface": "in a row",
+        "choices": [
+          "in a row",
+          "in person",
+          "in retrospect",
+          "for a change"
+        ]
+      }
     }
   ],
   "notes": [

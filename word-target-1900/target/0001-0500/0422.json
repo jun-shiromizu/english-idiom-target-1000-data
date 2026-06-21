@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "We sometimes fail to distinguish the copies from the originals.",
-      "sentence-jp": "私たちはときどき写しを原本と区別しそこなう。"
+      "sentence-jp": "私たちはときどき写しを原本と区別しそこなう。",
+      "cloze": {
+        "maskedText": "We sometimes fail to ____ the copies from the originals.",
+        "answerBase": "distinguish",
+        "answerSurface": "distinguish",
+        "choices": [
+          "distinguish",
+          "promise",
+          "deliver",
+          "translate"
+        ]
+      }
     }
   ],
   "notes": []

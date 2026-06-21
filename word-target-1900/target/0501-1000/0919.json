@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Hollywood movies have entertained audiences around the world for years.",
-      "sentence-jp": "ハリウッド映画は長年にわたって世界中の観客を楽しませてきた。"
+      "sentence-jp": "ハリウッド映画は長年にわたって世界中の観客を楽しませてきた。",
+      "cloze": {
+        "maskedText": "Hollywood movies have ____ audiences around the world for years.",
+        "answerBase": "entertain",
+        "answerSurface": "entertained",
+        "choices": ["entertained", "restored", "grabbed", "scanned"]
+      }
     }
   ],
   "notes": []

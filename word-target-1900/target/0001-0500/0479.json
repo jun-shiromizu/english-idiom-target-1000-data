@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "The student searched multiple information sources for his project.",
-      "sentence-jp": "その学生は自分の研究課題のために多様な情報源を検索した。"
+      "sentence-jp": "その学生は自分の研究課題のために多様な情報源を検索した。",
+      "cloze": {
+        "maskedText": "The student searched ____ information sources for his project.",
+        "answerBase": "multiple",
+        "answerSurface": "multiple",
+        "choices": [
+          "multiple",
+          "steady",
+          "annual",
+          "wooden"
+        ]
+      }
     }
   ],
   "notes": []

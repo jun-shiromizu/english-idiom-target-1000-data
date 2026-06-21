@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "He mounted his country's flag on the wall of his living room.",
-      "sentence-jp": "彼は自国の旗を居間の壁に据えつけた。"
+      "sentence-jp": "彼は自国の旗を居間の壁に据えつけた。",
+      "cloze": {
+        "maskedText": "He ____ his country's flag on the wall of his living room.",
+        "answerBase": "mount",
+        "answerSurface": "mounted",
+        "choices": ["mounted", "exceeded", "consulted", "fulfilled"]
+      }
     }
   ],
   "notes": []

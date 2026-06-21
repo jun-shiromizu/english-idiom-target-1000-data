@@ -12,5 +12,11 @@
       "sentence-jp": "多くの観光客が有名ブランド品を売る直売店に殺到した。"
     }
   ],
+  "cloze": {
+    "maskedText": "We stopped at an ____ mall on the way home.",
+    "answerBase": "outlet",
+    "answerSurface": "outlet",
+    "choices": ["outlet", "dairy", "posture", "maze"]
+  },
   "notes": []
 }

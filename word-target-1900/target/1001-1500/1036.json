@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Only Lina disagreed with us, which complicated the situation.",
-      "sentence-jp": "リーナだけが私たちに反対し，そのことが状況を複雑にした。"
+      "sentence-jp": "リーナだけが私たちに反対し，そのことが状況を複雑にした。",
+      "cloze": {
+        "maskedText": "Only Lina disagreed with us, which ____ the situation.",
+        "answerBase": "complicate",
+        "answerSurface": "complicated",
+        "choices": ["complicated", "blended", "pitched", "persisted"]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "He did not know what food to order, so he just made an arbitrary selection.",
-      "sentence-jp": "彼はどの食べ物を注文していいかわからなかったので，単に恣意的な選択をした。"
+      "sentence-jp": "彼はどの食べ物を注文していいかわからなかったので，単に恣意的な選択をした。",
+      "cloze": {
+        "maskedText": "He did not know what food to order, so he just made an ____ selection.",
+        "answerBase": "arbitrary",
+        "answerSurface": "arbitrary",
+        "choices": [
+          "arbitrary",
+          "perfect",
+          "patient",
+          "seasonal"
+        ]
+      }
     }
   ],
   "notes": []

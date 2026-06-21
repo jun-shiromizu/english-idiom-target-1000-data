@@ -12,7 +12,18 @@
         "... as soon as ~"
       ],
       "example-sentence": "No sooner had I come home than my mother gave me a call.",
-      "sentence-jp": "帰宅するとすぐに母親が私に電話してきた。"
+      "sentence-jp": "帰宅するとすぐに母親が私に電話してきた。",
+      "cloze": {
+        "maskedText": "____ I come home ____ my mother gave me a call.",
+        "answerBase": "no sooner ~ than ...",
+        "answerSurface": "No sooner had / than",
+        "choices": [
+          "No sooner had / than",
+          "Hardly had / when",
+          "Not until / that",
+          "As / so"
+        ]
+      }
     }
   ],
   "notes": [

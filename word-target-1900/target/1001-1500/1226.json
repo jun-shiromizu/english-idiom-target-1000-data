@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Three men robbed a woman of her wallet on a crowded train.",
-      "sentence-jp": "3人の男が混雑した電車の中で女性から財布を奪った。"
+      "sentence-jp": "3人の男が混雑した電車の中で女性から財布を奪った。",
+      "cloze": {
+        "maskedText": "Three men ____ a woman of her wallet on a crowded train.",
+        "answerBase": "rob",
+        "answerSurface": "robbed",
+        "choices": ["robbed", "drained", "recruited", "integrated"]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The report calls for measures to stop power harassment.",
-      "sentence-jp": "その報告書はパワーハラスメントを阻止する対策を求めている。"
+      "sentence-jp": "その報告書はパワーハラスメントを阻止する対策を求めている。",
+      "cloze": {
+        "maskedText": "The report calls for measures to stop power ____.",
+        "answerBase": "harassment",
+        "answerSurface": "harassment",
+        "choices": [
+          "harassment",
+          "furniture",
+          "friendship",
+          "equipment"
+        ]
+      }
     }
   ],
   "notes": []

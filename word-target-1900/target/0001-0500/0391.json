@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "The constant light in the city is useful for preventing crimes.",
-      "sentence-jp": "都市における絶え間ない明かりは犯罪を防ぐのに役立つ。"
+      "sentence-jp": "都市における絶え間ない明かりは犯罪を防ぐのに役立つ。",
+      "cloze": {
+        "maskedText": "The ____ light in the city is useful for preventing crimes.",
+        "answerBase": "constant",
+        "answerSurface": "constant",
+        "choices": [
+          "constant",
+          "convenient",
+          "artificial",
+          "military"
+        ]
+      }
     }
   ],
   "notes": []

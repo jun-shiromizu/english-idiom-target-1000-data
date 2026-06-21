@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The professor illustrated his theory with diagrams.",
-      "sentence-jp": "教授は図を使って自身の理論を説明した。"
+      "sentence-jp": "教授は図を使って自身の理論を説明した。",
+      "cloze": {
+        "maskedText": "The professor ____ his theory with diagrams.",
+        "answerBase": "illustrate",
+        "answerSurface": "illustrated",
+        "choices": [
+          "illustrated",
+          "crashed",
+          "invested",
+          "reacted"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,14 +9,36 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Outwardly, Sam looked happy, but as it was, he was deeply concerned about his mother’s condition.",
-      "sentence-jp": "見たところサムは楽しそうに見えたが、実際は彼の母親の体調を非常に心配していた。"
+      "sentence-jp": "見たところサムは楽しそうに見えたが、実際は彼の母親の体調を非常に心配していた。",
+      "cloze": {
+        "maskedText": "Outwardly, Sam looked happy, but ____, he was deeply concerned about his mother’s condition.",
+        "answerBase": "as it is",
+        "answerSurface": "as it was",
+        "choices": [
+          "as it was",
+          "as follows",
+          "as company bosses go",
+          "as it happens"
+        ]
+      }
     },
     {
       "idiom-jp": "(事物が)あるがままの[に]",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "The police told the family to leave the room as it was for the investigation.",
-      "sentence-jp": "警察はその家族に、捜査のために部屋をそのままにしておくように言った。"
+      "sentence-jp": "警察はその家族に、捜査のために部屋をそのままにしておくように言った。",
+      "cloze": {
+        "maskedText": "The police told the family to leave the room ____ for the investigation.",
+        "answerBase": "as it is",
+        "answerSurface": "as it was",
+        "choices": [
+          "as it was",
+          "as follows",
+          "as is often the case",
+          "as opposed to"
+        ]
+      }
     }
   ],
   "notes": [

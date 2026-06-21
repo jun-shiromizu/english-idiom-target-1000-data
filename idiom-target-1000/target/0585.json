@@ -12,7 +12,18 @@
         "get [become / fall / be taken] sick [ill] with ~"
       ],
       "example-sentence": "To make matters worse, his wife came down with a bad cold at about the same time.",
-      "sentence-jp": "さらに悪いことに、彼の妻がほぼ同じ時期にひどい風邪にかかった。"
+      "sentence-jp": "さらに悪いことに、彼の妻がほぼ同じ時期にひどい風邪にかかった。",
+      "cloze": {
+        "maskedText": "To make matters worse, his wife ____ a bad cold at about the same time.",
+        "answerBase": "come down with ~",
+        "answerSurface": "came down with",
+        "choices": [
+          "came down with",
+          "came into being",
+          "came true",
+          "went blind"
+        ]
+      }
     }
   ],
   "notes": []

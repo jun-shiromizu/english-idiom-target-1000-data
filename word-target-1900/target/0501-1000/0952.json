@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "We need to control the abuse of drugs.",
-      "sentence-jp": "私たちは薬物乱用を規制する必要がある。"
+      "sentence-jp": "私たちは薬物乱用を規制する必要がある。",
+      "cloze": {
+        "maskedText": "We need to control the ____ of drugs.",
+        "answerBase": "abuse",
+        "answerSurface": "abuse",
+        "choices": ["abuse", "fate", "vaccine", "transition"]
+      }
     }
   ],
   "notes": []

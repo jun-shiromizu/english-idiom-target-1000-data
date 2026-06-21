@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "On weekends, the City Museum reduces the entrance fee for children.",
-      "sentence-jp": "週末に，市博物館は子供の入館料を下げる。"
+      "sentence-jp": "週末に，市博物館は子供の入館料を下げる。",
+      "cloze": {
+        "maskedText": "On weekends, the City Museum reduces the entrance ____ for children.",
+        "answerBase": "fee",
+        "answerSurface": "fee",
+        "choices": [
+          "fee",
+          "shelf",
+          "forest",
+          "calendar"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The doctor cited the case of a man who survived five operations.",
-      "sentence-jp": "医師は5度の手術を乗り越えた男性の事例を引き合いに出した。"
+      "sentence-jp": "医師は5度の手術を乗り越えた男性の事例を引き合いに出した。",
+      "cloze": {
+        "maskedText": "The doctor ____ the case of a man who survived five operations.",
+        "answerBase": "cite",
+        "answerSurface": "cited",
+        "choices": ["cited", "forecasted", "installed", "highlighted"]
+      }
     }
   ],
   "notes": []

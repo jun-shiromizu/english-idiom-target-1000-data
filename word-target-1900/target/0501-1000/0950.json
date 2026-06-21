@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "In Japan, the number of people entering the workforce has been decreasing.",
-      "sentence-jp": "日本では，労働人口に加わる人の数が減少している。"
+      "sentence-jp": "日本では，労働人口に加わる人の数が減少している。",
+      "cloze": {
+        "maskedText": "In Japan, the number of people entering the ____ has been decreasing.",
+        "answerBase": "workforce",
+        "answerSurface": "workforce",
+        "choices": ["workforce", "dimension", "panel", "neuron"]
+      }
     }
   ],
   "notes": []

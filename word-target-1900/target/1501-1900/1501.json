@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "This area is blessed with natural beauty.",
-      "sentence-jp": "この地域は自然美に恵まれている。"
+      "sentence-jp": "この地域は自然美に恵まれている。",
+      "cloze": {
+        "maskedText": "This area is ____ with natural beauty.",
+        "answerBase": "bless",
+        "answerSurface": "blessed",
+        "choices": [
+          "blessed",
+          "troubled",
+          "covered",
+          "surrounded"
+        ]
+      }
     }
   ],
   "notes": []

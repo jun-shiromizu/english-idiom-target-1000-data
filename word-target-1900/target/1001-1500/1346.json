@@ -12,5 +12,11 @@
       "sentence-jp": "市は犯罪率を下げるために新しい法律を採用した。"
     }
   ],
+  "cloze": {
+    "maskedText": "The government passed new environmental ____.",
+    "answerBase": "legislation",
+    "answerSurface": "legislation",
+    "choices": ["legislation", "quest", "cluster", "suicide"]
+  },
   "notes": []
 }

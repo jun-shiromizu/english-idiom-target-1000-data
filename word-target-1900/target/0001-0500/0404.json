@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "You can purchase airline tickets online.",
-      "sentence-jp": "オンラインで航空券を購入することができる。"
+      "sentence-jp": "オンラインで航空券を購入することができる。",
+      "cloze": {
+        "maskedText": "You can ____ airline tickets online.",
+        "answerBase": "purchase",
+        "answerSurface": "purchase",
+        "choices": [
+          "purchase",
+          "float",
+          "pack",
+          "invite"
+        ]
+      }
     }
   ],
   "notes": []

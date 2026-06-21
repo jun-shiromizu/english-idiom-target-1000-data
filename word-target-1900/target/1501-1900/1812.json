@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "All living creatures are doomed to die in the end.",
-      "sentence-jp": "すべての生き物は最後には死ぬ運命にある。"
+      "sentence-jp": "すべての生き物は最後には死ぬ運命にある。",
+      "cloze": {
+        "maskedText": "All living creatures are ____ to die in the end.",
+        "answerBase": "doom",
+        "answerSurface": "doomed",
+        "choices": [
+          "doomed",
+          "allowed",
+          "trained",
+          "invited"
+        ]
+      }
     }
   ],
   "notes": []

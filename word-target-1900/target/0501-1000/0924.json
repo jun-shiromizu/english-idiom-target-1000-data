@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "In the hearing, the politician justified her actions.",
-      "sentence-jp": "聴聞会でその政治家は自分の行動を正当化した。"
+      "sentence-jp": "聴聞会でその政治家は自分の行動を正当化した。",
+      "cloze": {
+        "maskedText": "In the hearing, the politician ____ her actions.",
+        "answerBase": "justify",
+        "answerSurface": "justified",
+        "choices": ["justified", "grabbed", "submitted", "paused"]
+      }
     }
   ],
   "notes": []

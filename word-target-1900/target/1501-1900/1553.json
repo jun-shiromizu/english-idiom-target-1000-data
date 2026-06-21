@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "A herd of buffalo inhabits the nearby prairie.",
-      "sentence-jp": "バッファローの群れが近くの大草原に生息している。"
+      "sentence-jp": "バッファローの群れが近くの大草原に生息している。",
+      "cloze": {
+        "maskedText": "A herd of buffalo inhabits the nearby ____.",
+        "answerBase": "prairie",
+        "answerSurface": "prairie",
+        "choices": [
+          "prairie",
+          "frontier",
+          "nursery",
+          "domain"
+        ]
+      }
     }
   ],
   "notes": []

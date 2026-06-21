@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The song always reminds me of the good old days.",
-      "sentence-jp": "その歌はいつも私に古きよき時代を思い出させる。"
+      "sentence-jp": "その歌はいつも私に古きよき時代を思い出させる。",
+      "cloze": {
+        "maskedText": "The song always ____ me of the good old days.",
+        "answerBase": "remind",
+        "answerSurface": "reminds",
+        "choices": [
+          "reminds",
+          "lends",
+          "mixes",
+          "charges"
+        ]
+      }
     }
   ],
   "notes": []

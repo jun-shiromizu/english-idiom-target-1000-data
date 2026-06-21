@@ -10,7 +10,18 @@
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "The manager suggested that they put the new project into practice right away.",
-      "sentence-jp": "部長は、彼らがすぐにその新しいプロジェクトを実行することを提案した。"
+      "sentence-jp": "部長は、彼らがすぐにその新しいプロジェクトを実行することを提案した。",
+      "cloze": {
+        "maskedText": "The manager suggested that they ____ right away.",
+        "answerBase": "put ~ into practice / put ~ into operation",
+        "answerSurface": "put the new project into practice",
+        "choices": [
+          "put the new project into practice",
+          "signed up for universities’ online programs",
+          "took us all by surprise",
+          "got in touch with me"
+        ]
+      }
     }
   ],
   "notes": [

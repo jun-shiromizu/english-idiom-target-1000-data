@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Children should be nourished well.",
-      "sentence-jp": "子供たちは十分に栄養を与えられるべきである。"
+      "sentence-jp": "子供たちは十分に栄養を与えられるべきである。",
+      "cloze": {
+        "maskedText": "Children should be ____ well.",
+        "answerBase": "nourish",
+        "answerSurface": "nourished",
+        "choices": [
+          "nourished",
+          "warned",
+          "delayed",
+          "ignored"
+        ]
+      }
     }
   ],
   "notes": []

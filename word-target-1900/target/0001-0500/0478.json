@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Drinking water must be clean and free from harmful substances.",
-      "sentence-jp": "飲料水は清潔で，有害物質なしでなければならない。"
+      "sentence-jp": "飲料水は清潔で，有害物質なしでなければならない。",
+      "cloze": {
+        "maskedText": "Drinking water must be clean and free from harmful ____.",
+        "answerBase": "substance",
+        "answerSurface": "substances",
+        "choices": [
+          "substances",
+          "posters",
+          "highways",
+          "bicycles"
+        ]
+      }
     }
   ],
   "notes": []

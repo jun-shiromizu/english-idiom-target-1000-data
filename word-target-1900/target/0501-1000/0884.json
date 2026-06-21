@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "An unpleasant experience may be caused by your actions.",
-      "sentence-jp": "不愉快な経験はあなたの行動によって引き起こされるかもしれない。"
+      "sentence-jp": "不愉快な経験はあなたの行動によって引き起こされるかもしれない。",
+      "cloze": {
+        "maskedText": "An ____ experience may be caused by your actions.",
+        "answerBase": "unpleasant",
+        "answerSurface": "unpleasant",
+        "choices": ["unpleasant", "brilliant", "careful", "steady"]
+      }
     }
   ],
   "notes": []

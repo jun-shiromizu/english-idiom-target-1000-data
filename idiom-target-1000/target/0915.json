@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "When we were in junior high, we often played jokes on our history teacher.",
-      "sentence-jp": "私たちが中学生だったとき、よく歴史の先生にいたずらをした。"
+      "sentence-jp": "私たちが中学生だったとき、よく歴史の先生にいたずらをした。",
+      "cloze": {
+        "maskedText": "When we were in junior high, we often ____ our history teacher.",
+        "answerBase": "play a joke on ~",
+        "answerSurface": "played jokes on",
+        "choices": [
+          "played jokes on",
+          "got even with",
+          "got the better of",
+          "held in check"
+        ]
+      }
     }
   ],
   "notes": [

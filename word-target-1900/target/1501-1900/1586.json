@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Young people tend to feel uneasy about the future.",
-      "sentence-jp": "若者は将来に関して不安な気持ちになる傾向がある。"
+      "sentence-jp": "若者は将来に関して不安な気持ちになる傾向がある。",
+      "cloze": {
+        "maskedText": "Young people tend to feel ____ about the future.",
+        "answerBase": "uneasy",
+        "answerSurface": "uneasy",
+        "choices": [
+          "uneasy",
+          "swift",
+          "feminine",
+          "hollow"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Stephen found it difficult to acknowledge his mistakes.",
-      "sentence-jp": "スティーブンは自らの過ちを認めるのが難しいことに気づいた。"
+      "sentence-jp": "スティーブンは自らの過ちを認めるのが難しいことに気づいた。",
+      "cloze": {
+        "maskedText": "Stephen found it difficult to ____ his mistakes.",
+        "answerBase": "acknowledge",
+        "answerSurface": "acknowledge",
+        "choices": [
+          "acknowledge",
+          "reverse",
+          "pretend",
+          "resist"
+        ]
+      }
     }
   ],
   "notes": []

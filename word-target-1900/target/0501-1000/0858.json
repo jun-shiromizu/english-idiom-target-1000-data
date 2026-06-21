@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The key to success lies in the courage of not giving up hope.",
-      "sentence-jp": "成功のかぎは希望を捨てない勇気にある。"
+      "sentence-jp": "成功のかぎは希望を捨てない勇気にある。",
+      "cloze": {
+        "maskedText": "The key to success lies in the ____ of not giving up hope.",
+        "answerBase": "courage",
+        "answerSurface": "courage",
+        "choices": ["courage", "furniture", "balance", "section"]
+      }
     }
   ],
   "notes": []

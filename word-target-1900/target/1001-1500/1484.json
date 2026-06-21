@@ -12,5 +12,11 @@
       "sentence-jp": "彼の給料は彼の家族を養うには不十分な金額である。"
     }
   ],
+  "cloze": {
+    "maskedText": "The evidence was ____ to prove his guilt.",
+    "answerBase": "insufficient",
+    "answerSurface": "insufficient",
+    "choices": ["insufficient", "drastic", "neat", "alternate"]
+  },
   "notes": []
 }

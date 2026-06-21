@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The bulk of residents in this area are Chinese.",
-      "sentence-jp": "この地域の住人の大半は中国人である。"
+      "sentence-jp": "この地域の住人の大半は中国人である。",
+      "cloze": {
+        "maskedText": "The ____ of residents in this area are Chinese.",
+        "answerBase": "bulk",
+        "answerSurface": "bulk",
+        "choices": [
+          "bulk",
+          "engine",
+          "memory",
+          "ticket"
+        ]
+      }
     }
   ],
   "notes": []

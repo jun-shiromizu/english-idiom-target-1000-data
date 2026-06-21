@@ -12,5 +12,11 @@
       "sentence-jp": "私は大学の授業料を稼ぐためにアルバイトをしている。"
     }
   ],
+  "cloze": {
+    "maskedText": "She works nights to pay her college ____.",
+    "answerBase": "tuition",
+    "answerSurface": "tuition",
+    "choices": ["tuition", "worship", "skull", "destiny"]
+  },
   "notes": []
 }

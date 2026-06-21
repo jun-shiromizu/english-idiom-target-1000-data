@@ -14,7 +14,18 @@
         "be vulnerable to ~"
       ],
       "example-sentence": "Those who have difficulty sleeping well are liable to wake up in the middle of the night.",
-      "sentence-jp": "熟睡するのが難しい人は真夜中に目を覚ましがちだ。"
+      "sentence-jp": "熟睡するのが難しい人は真夜中に目を覚ましがちだ。",
+      "cloze": {
+        "maskedText": "Those who have difficulty sleeping well are ____ wake up in the middle of the night.",
+        "answerBase": "be liable to do / be liable to ~",
+        "answerSurface": "liable to",
+        "choices": [
+          "liable to",
+          "worth to",
+          "eligible to",
+          "intent on"
+        ]
+      }
     }
   ],
   "notes": [

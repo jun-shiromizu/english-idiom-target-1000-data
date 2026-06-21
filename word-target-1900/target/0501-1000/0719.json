@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Teachers should evaluate a student's ability from multiple aspects.",
-      "sentence-jp": "教師は多くの側面から学生の能力を評価するべきである。"
+      "sentence-jp": "教師は多くの側面から学生の能力を評価するべきである。",
+      "cloze": {
+        "maskedText": "Teachers should ____ a student's ability from multiple aspects.",
+        "answerBase": "evaluate",
+        "answerSurface": "evaluate",
+        "choices": [
+          "evaluate",
+          "acknowledge",
+          "admire",
+          "pretend"
+        ]
+      }
     }
   ],
   "notes": []

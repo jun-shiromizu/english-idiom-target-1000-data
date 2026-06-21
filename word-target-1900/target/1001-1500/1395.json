@@ -12,5 +12,11 @@
       "sentence-jp": "彼らは会社に加わった新しい役員に敵対的であった。"
     }
   ],
+  "cloze": {
+    "maskedText": "The crowd became ____ toward the speaker.",
+    "answerBase": "hostile",
+    "answerSurface": "hostile",
+    "choices": ["hostile", "notable", "gross", "static"]
+  },
   "notes": []
 }

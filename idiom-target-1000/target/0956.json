@@ -12,7 +12,18 @@
         "more than ~"
       ],
       "example-sentence": "Upwards of 95% of our company’s workers are university graduates.",
-      "sentence-jp": "私たちの会社の従業員の95%以上が大学卒だ。"
+      "sentence-jp": "私たちの会社の従業員の95%以上が大学卒だ。",
+      "cloze": {
+        "maskedText": "____ 95% of our company’s workers are university graduates.",
+        "answerBase": "upward(s) of ~",
+        "answerSurface": "Upwards of",
+        "choices": [
+          "Upwards of",
+          "In proportion to",
+          "In the wake of",
+          "In accordance with"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "A watch is tiny but nevertheless useful.",
-      "sentence-jp": "腕時計は小さいが，それにもかかわらず役に立つ。"
+      "sentence-jp": "腕時計は小さいが，それにもかかわらず役に立つ。",
+      "cloze": {
+        "maskedText": "A watch is tiny but ____ useful.",
+        "answerBase": "nevertheless",
+        "answerSurface": "nevertheless",
+        "choices": [
+          "nevertheless",
+          "therefore",
+          "otherwise",
+          "besides"
+        ]
+      }
     }
   ],
   "notes": []

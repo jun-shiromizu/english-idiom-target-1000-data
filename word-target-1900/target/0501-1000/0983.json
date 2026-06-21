@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Mutual respect is the key to a successful relationship.",
-      "sentence-jp": "相互の尊重がうまくいく関係のかぎである。"
+      "sentence-jp": "相互の尊重がうまくいく関係のかぎである。",
+      "cloze": {
+        "maskedText": "____ respect is the key to a successful relationship.",
+        "answerBase": "mutual",
+        "answerSurface": "Mutual",
+        "choices": ["Mutual", "Prompt", "Fluent", "External"]
+      }
     }
   ],
   "notes": []

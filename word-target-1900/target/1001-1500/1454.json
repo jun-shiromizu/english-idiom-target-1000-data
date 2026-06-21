@@ -12,5 +12,11 @@
       "sentence-jp": "最近の国勢調査によると，人口は減少している。"
     }
   ],
+  "cloze": {
+    "maskedText": "The national ____ is held every few years.",
+    "answerBase": "census",
+    "answerSurface": "census",
+    "choices": ["census", "curse", "funeral", "rubbish"]
+  },
   "notes": []
 }

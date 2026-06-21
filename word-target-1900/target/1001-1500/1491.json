@@ -12,5 +12,11 @@
       "sentence-jp": "ごみを減らすことは地球温暖化に対する部分的な解決策にすぎない。"
     }
   ],
+  "cloze": {
+    "maskedText": "The repair was only a ____ solution.",
+    "answerBase": "partial",
+    "answerSurface": "partial",
+    "choices": ["partial", "fierce", "sole", "tidy"]
+  },
   "notes": []
 }

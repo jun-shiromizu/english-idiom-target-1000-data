@@ -10,7 +10,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Ken was beginning to feel tired after having been behind the wheel for almost two hours.",
-      "sentence-jp": "ケンは2時間近く運転してきて、疲労を感じ始めていた。"
+      "sentence-jp": "ケンは2時間近く運転してきて、疲労を感じ始めていた。",
+      "cloze": {
+        "maskedText": "Ken was beginning to feel tired after having been ____ for almost two hours.",
+        "answerBase": "at the wheel / behind the wheel",
+        "answerSurface": "behind the wheel",
+        "choices": [
+          "behind the wheel",
+          "from scratch",
+          "on the dot",
+          "having said that"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The Smiths like to decorate their house with paintings.",
-      "sentence-jp": "スミス夫妻は自分たちの家を絵画で飾るのを好む。"
+      "sentence-jp": "スミス夫妻は自分たちの家を絵画で飾るのを好む。",
+      "cloze": {
+        "maskedText": "The Smiths like to ____ their house with paintings.",
+        "answerBase": "decorate",
+        "answerSurface": "decorate",
+        "choices": ["decorate", "postpone", "extract", "inherit"]
+      }
     }
   ],
   "notes": []

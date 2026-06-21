@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Many types of animals hunt prey for food.",
-      "sentence-jp": "たくさんの種類の動物が食べるために獲物を狩る。"
+      "sentence-jp": "たくさんの種類の動物が食べるために獲物を狩る。",
+      "cloze": {
+        "maskedText": "Many types of animals hunt ____ for food.",
+        "answerBase": "prey",
+        "answerSurface": "prey",
+        "choices": ["prey", "fame", "deadline", "scenery"]
+      }
     }
   ],
   "notes": []

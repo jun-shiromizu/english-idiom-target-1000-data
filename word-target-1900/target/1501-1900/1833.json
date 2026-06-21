@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The police dispatched police cars to the crime scene.",
-      "sentence-jp": "警察は犯行現場にパトカーを派遣した。"
+      "sentence-jp": "警察は犯行現場にパトカーを派遣した。",
+      "cloze": {
+        "maskedText": "The police ____ police cars to the crime scene.",
+        "answerBase": "dispatch",
+        "answerSurface": "dispatched",
+        "choices": [
+          "dispatched",
+          "borrowed",
+          "returned",
+          "inspected"
+        ]
+      }
     }
   ],
   "notes": []

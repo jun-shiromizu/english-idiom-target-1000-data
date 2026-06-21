@@ -12,5 +12,11 @@
       "sentence-jp": "その夫婦は取るに足りないことでよくけんかをする。"
     }
   ],
+  "cloze": {
+    "maskedText": "They argued over a ____ mistake.",
+    "answerBase": "trivial",
+    "answerSurface": "trivial",
+    "choices": ["trivial", "magnificent", "wireless", "ongoing"]
+  },
   "notes": []
 }

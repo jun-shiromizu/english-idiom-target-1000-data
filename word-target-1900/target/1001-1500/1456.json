@@ -12,5 +12,11 @@
       "sentence-jp": "減量するため穀物を避ける人もいる。"
     }
   ],
+  "cloze": {
+    "maskedText": "He usually eats ____ for breakfast.",
+    "answerBase": "cereal",
+    "answerSurface": "cereal",
+    "choices": ["cereal", "compassion", "posture", "patch"]
+  },
   "notes": []
 }

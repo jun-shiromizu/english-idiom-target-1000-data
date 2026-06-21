@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "A pedestrian was hit by a car when he was crossing the street.",
-      "sentence-jp": "歩行者が道路を渡っていたとき，車にはねられた。"
+      "sentence-jp": "歩行者が道路を渡っていたとき，車にはねられた。",
+      "cloze": {
+        "maskedText": "A ____ was hit by a car when he was crossing the street.",
+        "answerBase": "pedestrian",
+        "answerSurface": "pedestrian",
+        "choices": ["pedestrian", "sibling", "mixture", "ratio"]
+      }
     }
   ],
   "notes": []

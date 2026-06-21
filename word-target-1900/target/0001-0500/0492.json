@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The cause of the accident is still unknown.",
-      "sentence-jp": "その事故の原因はいまだに不明である。"
+      "sentence-jp": "その事故の原因はいまだに不明である。",
+      "cloze": {
+        "maskedText": "The cause of the accident is still ____.",
+        "answerBase": "unknown",
+        "answerSurface": "unknown",
+        "choices": [
+          "unknown",
+          "annual",
+          "violent",
+          "formal"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "His performance left nothing to be desired.",
-      "sentence-jp": "彼の演技は申し分なかった。"
+      "sentence-jp": "彼の演技は申し分なかった。",
+      "cloze": {
+        "maskedText": "His performance ____.",
+        "answerBase": "leave nothing to be desired",
+        "answerSurface": "left nothing to be desired",
+        "choices": [
+          "left nothing to be desired",
+          "remained to be seen",
+          "went so far as to",
+          "had no choice but to"
+        ]
+      }
     }
   ],
   "notes": [

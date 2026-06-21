@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "We won’t be able to reach a consensus if he persists in his demand.",
-      "sentence-jp": "彼が自分の要求に固執するなら、私たちは意見の一致に至れないだろう。"
+      "sentence-jp": "彼が自分の要求に固執するなら、私たちは意見の一致に至れないだろう。",
+      "cloze": {
+        "maskedText": "We won’t be able to reach a consensus if he ____ his demand.",
+        "answerBase": "persist in ~",
+        "answerSurface": "persists in",
+        "choices": [
+          "persists in",
+          "deals in",
+          "counts for",
+          "consents to"
+        ]
+      }
     }
   ],
   "notes": [

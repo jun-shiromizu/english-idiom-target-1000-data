@@ -12,5 +12,11 @@
       "sentence-jp": "今日，日本は主に灌漑のために川の水を使っている。"
     }
   ],
+  "cloze": {
+    "maskedText": "The farmers built canals for ____.",
+    "answerBase": "irrigation",
+    "answerSurface": "irrigation",
+    "choices": ["irrigation", "nightmare", "dignity", "troop"]
+  },
   "notes": []
 }

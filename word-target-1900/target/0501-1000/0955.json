@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Tragedy struck when the hurricane hit the town.",
-      "sentence-jp": "ハリケーンがその町を襲ったとき，悲劇が起きた。"
+      "sentence-jp": "ハリケーンがその町を襲ったとき，悲劇が起きた。",
+      "cloze": {
+        "maskedText": "____ struck when the hurricane hit the town.",
+        "answerBase": "tragedy",
+        "answerSurface": "Tragedy",
+        "choices": ["Tragedy", "Geography", "Transition", "Skeleton"]
+      }
     }
   ],
   "notes": []

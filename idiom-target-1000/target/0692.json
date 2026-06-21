@@ -13,7 +13,18 @@
         "let alone ~"
       ],
       "example-sentence": "Most of my friends cannot read Spanish, much less speak it with fluency.",
-      "sentence-jp": "私の友人のほとんどはスペイン語を読めない。ましてや流ちょうに話すことなんてできない。"
+      "sentence-jp": "私の友人のほとんどはスペイン語を読めない。ましてや流ちょうに話すことなんてできない。",
+      "cloze": {
+        "maskedText": "Most of my friends cannot read Spanish, ____ with fluency.",
+        "answerBase": "much less ~ / still less ~",
+        "answerSurface": "much less speak it",
+        "choices": [
+          "much less speak it",
+          "what is more",
+          "know better than to drive",
+          "couldn’t be better"
+        ]
+      }
     }
   ],
   "notes": [

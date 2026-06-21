@@ -12,5 +12,11 @@
       "sentence-jp": "その会社の実際の働き方は，彼が研修で学んだことと矛盾していた。"
     }
   ],
+  "cloze": {
+    "maskedText": "These results ____ your earlier theory.",
+    "answerBase": "contradict",
+    "answerSurface": "contradict",
+    "choices": ["contradict", "inhabit", "retrieve", "sigh"]
+  },
   "notes": []
 }

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "While in Japan, Lucas tried to conform to Japanese customs.",
-      "sentence-jp": "日本にいる間，ルーカスは日本の慣習に順応しようとした。"
+      "sentence-jp": "日本にいる間，ルーカスは日本の慣習に順応しようとした。",
+      "cloze": {
+        "maskedText": "While in Japan, Lucas tried to ____ to Japanese customs.",
+        "answerBase": "conform",
+        "answerSurface": "conform",
+        "choices": [
+          "conform",
+          "convert",
+          "confess",
+          "compete"
+        ]
+      }
     }
   ],
   "notes": []

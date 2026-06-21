@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She was given a chance to fulfill her dream.",
-      "sentence-jp": "彼女は自分の夢を実現させる機会を与えられた。"
+      "sentence-jp": "彼女は自分の夢を実現させる機会を与えられた。",
+      "cloze": {
+        "maskedText": "She was given a chance to ____ her dream.",
+        "answerBase": "fulfill",
+        "answerSurface": "fulfill",
+        "choices": ["fulfill", "consult", "undergo", "confront"]
+      }
     }
   ],
   "notes": []

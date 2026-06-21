@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "I do not think my company is fully exploiting its human resources.",
-      "sentence-jp": "私は会社が人的資源を十分に活用しているとは思わない。"
+      "sentence-jp": "私は会社が人的資源を十分に活用しているとは思わない。",
+      "cloze": {
+        "maskedText": "I do not think my company is fully ____ its human resources.",
+        "answerBase": "exploit",
+        "answerSurface": "exploiting",
+        "choices": ["exploiting", "implementing", "integrating", "spilling"]
+      }
     }
   ],
   "notes": []

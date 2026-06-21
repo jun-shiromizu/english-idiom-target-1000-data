@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The state government exerts great influence on the possession of guns.",
-      "sentence-jp": "州政府は銃の所持に関して大きな影響を及ぼす。"
+      "sentence-jp": "州政府は銃の所持に関して大きな影響を及ぼす。",
+      "cloze": {
+        "maskedText": "The state government ____ great influence on the possession of guns.",
+        "answerBase": "exert",
+        "answerSurface": "exerts",
+        "choices": [
+          "exerts",
+          "obtains",
+          "describes",
+          "assumes"
+        ]
+      }
     }
   ],
   "notes": []

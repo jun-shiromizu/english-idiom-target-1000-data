@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She wiped her hands with a hand towel.",
-      "sentence-jp": "彼女は手拭きタオルで手を拭いた。"
+      "sentence-jp": "彼女は手拭きタオルで手を拭いた。",
+      "cloze": {
+        "maskedText": "She ____ her hands with a hand towel.",
+        "answerBase": "wipe",
+        "answerSurface": "wiped",
+        "choices": ["wiped", "swept", "exploded", "ceased"]
+      }
     }
   ],
   "notes": []

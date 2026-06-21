@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She pitched some wood into the fire.",
-      "sentence-jp": "彼女はいくらかの木を火の中に投げ入れた。"
+      "sentence-jp": "彼女はいくらかの木を火の中に投げ入れた。",
+      "cloze": {
+        "maskedText": "She ____ some wood into the fire.",
+        "answerBase": "pitch",
+        "answerSurface": "pitched",
+        "choices": ["pitched", "persisted", "dedicated", "equipped"]
+      }
     }
   ],
   "notes": []

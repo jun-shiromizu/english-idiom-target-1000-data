@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "It isn't always easy to decide how to spend your spare time.",
-      "sentence-jp": "自分の余暇をどう過ごすかを決めるのは必ずしも簡単ではない。"
+      "sentence-jp": "自分の余暇をどう過ごすかを決めるのは必ずしも簡単ではない。",
+      "cloze": {
+        "maskedText": "It isn't always easy to decide how to spend your ____ time.",
+        "answerBase": "spare",
+        "answerSurface": "spare",
+        "choices": ["spare", "urban", "native", "manual"]
+      }
     }
   ],
   "notes": []

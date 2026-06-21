@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She gave a coherent explanation of the incident.",
-      "sentence-jp": "彼女はその事件に関して一貫した説明をした。"
+      "sentence-jp": "彼女はその事件に関して一貫した説明をした。",
+      "cloze": {
+        "maskedText": "She gave a ____ explanation of the incident.",
+        "answerBase": "coherent",
+        "answerSurface": "coherent",
+        "choices": [
+          "coherent",
+          "sleepy",
+          "tasteless",
+          "wooden"
+        ]
+      }
     }
   ],
   "notes": []

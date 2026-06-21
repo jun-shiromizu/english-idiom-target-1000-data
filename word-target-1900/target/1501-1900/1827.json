@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She found that her passport was about to expire.",
-      "sentence-jp": "彼女は自分のパスポートの期限が切れかかっていることに気づいた。"
+      "sentence-jp": "彼女は自分のパスポートの期限が切れかかっていることに気づいた。",
+      "cloze": {
+        "maskedText": "She found that her passport was about to ____.",
+        "answerBase": "expire",
+        "answerSurface": "expire",
+        "choices": [
+          "expire",
+          "return",
+          "expand",
+          "proceed"
+        ]
+      }
     }
   ],
   "notes": []

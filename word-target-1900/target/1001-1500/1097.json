@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He has a deep interest in medieval European history.",
-      "sentence-jp": "彼は中世ヨーロッパ史に深い関心を抱いている。"
+      "sentence-jp": "彼は中世ヨーロッパ史に深い関心を抱いている。",
+      "cloze": {
+        "maskedText": "He has a deep interest in ____ European history.",
+        "answerBase": "medieval",
+        "answerSurface": "medieval",
+        "choices": ["medieval", "oral", "obese", "valid"]
+      }
     }
   ],
   "notes": []

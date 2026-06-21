@@ -10,7 +10,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Historians say Michelangelo was indifferent to food and ate more out of necessity than joy.",
-      "sentence-jp": "ミケランジェロは食べ物に無関心で、楽しみよりもむしろ必要のために食事をしたと歴史家は言う。"
+      "sentence-jp": "ミケランジェロは食べ物に無関心で、楽しみよりもむしろ必要のために食事をしたと歴史家は言う。",
+      "cloze": {
+        "maskedText": "Historians say Michelangelo was ____ food and ate more out of necessity than joy.",
+        "answerBase": "be indifferent to ~ / be indifferent toward(s) ~",
+        "answerSurface": "indifferent to",
+        "choices": [
+          "indifferent to",
+          "dedicated to",
+          "peculiar to",
+          "subject to"
+        ]
+      }
     }
   ],
   "notes": []

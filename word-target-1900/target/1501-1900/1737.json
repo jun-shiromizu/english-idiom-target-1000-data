@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "He fetched the dishes from the kitchen and set them out on the table.",
-      "sentence-jp": "彼は台所から皿を持ってきて，それらをテーブルの上に並べた。"
+      "sentence-jp": "彼は台所から皿を持ってきて，それらをテーブルの上に並べた。",
+      "cloze": {
+        "maskedText": "He ____ the dishes from the kitchen and set them out on the table.",
+        "answerBase": "fetch",
+        "answerSurface": "fetched",
+        "choices": [
+          "fetched",
+          "washed",
+          "borrowed",
+          "designed"
+        ]
+      }
     }
   ],
   "notes": []

@@ -12,5 +12,11 @@
       "sentence-jp": "その石碑は戦争で亡くなった人々に敬意を表している。"
     }
   ],
+  "cloze": {
+    "maskedText": "Tourists gathered around the national ____.",
+    "answerBase": "monument",
+    "answerSurface": "monument",
+    "choices": ["monument", "index", "consent", "inability"]
+  },
   "notes": []
 }

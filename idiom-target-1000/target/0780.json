@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "No sooner had I hung up the phone than there came another call.",
-      "sentence-jp": "私が電話を切るとすぐに、別の電話がかかってきた。"
+      "sentence-jp": "私が電話を切るとすぐに、別の電話がかかってきた。",
+      "cloze": {
+        "maskedText": "No sooner had I ____ the phone than there came another call.",
+        "answerBase": "hang up (~)",
+        "answerSurface": "hung up",
+        "choices": [
+          "hung up",
+          "held on to",
+          "checked out",
+          "gone ahead and"
+        ]
+      }
     }
   ],
   "notes": [

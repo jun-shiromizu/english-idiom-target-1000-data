@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Early Indo-European languages evolved into ones such as Greek.",
-      "sentence-jp": "初期のインド・ヨーロッパ語族はギリシャ語のような言語へと発展した。"
+      "sentence-jp": "初期のインド・ヨーロッパ語族はギリシャ語のような言語へと発展した。",
+      "cloze": {
+        "maskedText": "Early Indo-European languages ____ into ones such as Greek.",
+        "answerBase": "evolve into",
+        "answerSurface": "evolved",
+        "choices": [
+          "evolved",
+          "argued",
+          "refused",
+          "judged"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She snapped her fingers while listening to music.",
-      "sentence-jp": "彼女は音楽を聞いている間，指をパチンと鳴らした。"
+      "sentence-jp": "彼女は音楽を聞いている間，指をパチンと鳴らした。",
+      "cloze": {
+        "maskedText": "She ____ her fingers while listening to music.",
+        "answerBase": "snap",
+        "answerSurface": "snapped",
+        "choices": [
+          "snapped",
+          "shook",
+          "rubbed",
+          "crossed"
+        ]
+      }
     }
   ],
   "notes": []

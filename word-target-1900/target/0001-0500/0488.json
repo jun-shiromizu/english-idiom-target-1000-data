@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Contrary to his expectations, the exam was very hard.",
-      "sentence-jp": "彼の期待に反して，その試験はとても難しかった。"
+      "sentence-jp": "彼の期待に反して，その試験はとても難しかった。",
+      "cloze": {
+        "maskedText": "____ to his expectations, the exam was very hard.",
+        "answerBase": "contrary",
+        "answerSurface": "Contrary",
+        "choices": [
+          "Contrary",
+          "Careful",
+          "Private",
+          "Obvious"
+        ]
+      }
     }
   ],
   "notes": []

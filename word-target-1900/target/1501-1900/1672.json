@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The explorer discovered a village at an altitude of around 2, 500 meters.",
-      "sentence-jp": "探検家は標高約2,500メートルにある村を発見した。"
+      "sentence-jp": "探検家は標高約2,500メートルにある村を発見した。",
+      "cloze": {
+        "maskedText": "The explorer discovered a village at an ____ of around 2, 500 meters.",
+        "answerBase": "altitude",
+        "answerSurface": "altitude",
+        "choices": [
+          "altitude",
+          "opinion",
+          "schedule",
+          "expense"
+        ]
+      }
     }
   ],
   "notes": []

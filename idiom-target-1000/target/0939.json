@@ -12,14 +12,36 @@
         "every second ~"
       ],
       "example-sentence": "To help pay for tuition, I’m working part-time at a supermarket every other weekend.",
-      "sentence-jp": "学費の支払いを助けるために、私は隔週の週末にスーパーでアルバイトをしている。"
+      "sentence-jp": "学費の支払いを助けるために、私は隔週の週末にスーパーでアルバイトをしている。",
+      "cloze": {
+        "maskedText": "To help pay for tuition, I’m working part-time at a supermarket ____ weekend.",
+        "answerBase": "every other ~",
+        "answerSurface": "every other",
+        "choices": [
+          "every other",
+          "many a",
+          "quite a few",
+          "all manner of"
+        ]
+      }
     },
     {
       "idiom-jp": "残りのすべての〜",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I noticed then that every other adult on the train was staring at his or her own smartphone.",
-      "sentence-jp": "私はその時、電車内のほかの大人全員が各々のスマートフォンを見ているのに気づいた。"
+      "sentence-jp": "私はその時、電車内のほかの大人全員が各々のスマートフォンを見ているのに気づいた。",
+      "cloze": {
+        "maskedText": "I noticed then that ____ adult on the train was staring at his or her own smartphone.",
+        "answerBase": "every other ~",
+        "answerSurface": "every other",
+        "choices": [
+          "every other",
+          "many a",
+          "quite a few",
+          "all manner of"
+        ]
+      }
     }
   ],
   "notes": [

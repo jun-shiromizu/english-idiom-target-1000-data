@@ -9,7 +9,13 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "Suddenly, heavy rain hit the town simultaneously with lightning.",
-      "sentence-jp": "突然，雷と同時に大雨が町を襲った。"
+      "sentence-jp": "突然，雷と同時に大雨が町を襲った。",
+      "cloze": {
+        "maskedText": "Suddenly, heavy rain hit the town ____ with lightning.",
+        "answerBase": "simultaneously",
+        "answerSurface": "simultaneously",
+        "choices": ["simultaneously", "grateful", "valid", "brave"]
+      }
     }
   ],
   "notes": []

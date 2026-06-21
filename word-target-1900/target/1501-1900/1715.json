@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The concepts of intelligence and wisdom overlap.",
-      "sentence-jp": "知能と知恵の概念は一部重なる。"
+      "sentence-jp": "知能と知恵の概念は一部重なる。",
+      "cloze": {
+        "maskedText": "The concepts of intelligence and wisdom ____.",
+        "answerBase": "overlap",
+        "answerSurface": "overlap",
+        "choices": [
+          "overlap",
+          "disappear",
+          "hesitate",
+          "recover"
+        ]
+      }
     }
   ],
   "notes": []

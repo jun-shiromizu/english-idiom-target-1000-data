@@ -12,5 +12,11 @@
       "sentence-jp": "いい人生を送るための確実な方法はない。"
     }
   ],
+  "cloze": {
+    "maskedText": "There is no simple ____ for success.",
+    "answerBase": "formula",
+    "answerSurface": "formula",
+    "choices": ["formula", "aisle", "monk", "grief"]
+  },
   "notes": []
 }

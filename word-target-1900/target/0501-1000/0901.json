@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "The police chased the criminals running from the bank.",
-      "sentence-jp": "警察は銀行から逃げている犯人たちを追跡した。"
+      "sentence-jp": "警察は銀行から逃げている犯人たちを追跡した。",
+      "cloze": {
+        "maskedText": "The police ____ the criminals running from the bank.",
+        "answerBase": "chase",
+        "answerSurface": "chased",
+        "choices": ["chased", "poured", "floated", "wandered"]
+      }
     }
   ],
   "notes": []

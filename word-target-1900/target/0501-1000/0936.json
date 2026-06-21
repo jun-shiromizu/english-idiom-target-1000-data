@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "His income exceeds ten million yen a year.",
-      "sentence-jp": "彼の所得は年間1,000万円を超える。"
+      "sentence-jp": "彼の所得は年間1,000万円を超える。",
+      "cloze": {
+        "maskedText": "His income ____ ten million yen a year.",
+        "answerBase": "exceed",
+        "answerSurface": "exceeds",
+        "choices": ["exceeds", "undergoes", "confronts", "consults"]
+      }
     }
   ],
   "notes": []

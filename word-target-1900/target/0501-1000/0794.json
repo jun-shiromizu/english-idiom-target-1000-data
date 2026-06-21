@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Rebecca felt guilty about lying to her friend.",
-      "sentence-jp": "レベッカは友人にうそをついていることで気がとがめた。"
+      "sentence-jp": "レベッカは友人にうそをついていることで気がとがめた。",
+      "cloze": {
+        "maskedText": "Rebecca felt ____ about lying to her friend.",
+        "answerBase": "guilty",
+        "answerSurface": "guilty",
+        "choices": [
+          "guilty",
+          "apparent",
+          "temporary",
+          "royal"
+        ]
+      }
     }
   ],
   "notes": []

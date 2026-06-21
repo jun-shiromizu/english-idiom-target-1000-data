@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Having discovered early on that he lacked the talent, he gave up the dream of becoming an artist.",
-      "sentence-jp": "早い時期に自分には才能がないとわかったので、彼は芸術家になる夢をあきらめた。"
+      "sentence-jp": "早い時期に自分には才能がないとわかったので、彼は芸術家になる夢をあきらめた。",
+      "cloze": {
+        "maskedText": "Having discovered ____ that he lacked the talent, he gave up the dream of becoming an artist.",
+        "answerBase": "early on",
+        "answerSurface": "early on",
+        "choices": [
+          "early on",
+          "for a change",
+          "in person",
+          "in retrospect"
+        ]
+      }
     }
   ],
   "notes": [

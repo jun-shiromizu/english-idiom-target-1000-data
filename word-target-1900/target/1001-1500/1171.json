@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Our country has not recovered from the economic recession yet.",
-      "sentence-jp": "我が国は経済不況からまだ回復していない。"
+      "sentence-jp": "我が国は経済不況からまだ回復していない。",
+      "cloze": {
+        "maskedText": "Our country has not recovered from the economic ____ yet.",
+        "answerBase": "recession",
+        "answerSurface": "recession",
+        "choices": ["recession", "grave", "column", "sculpture"]
+      }
     }
   ],
   "notes": []

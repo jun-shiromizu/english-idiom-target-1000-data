@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The maximum I can afford for rent is $ 500 per month.",
-      "sentence-jp": "私が家賃に支払える最大限は月に500ドルだ。"
+      "sentence-jp": "私が家賃に支払える最大限は月に500ドルだ。",
+      "cloze": {
+        "maskedText": "The ____ I can afford for rent is $500 per month.",
+        "answerBase": "maximum",
+        "answerSurface": "maximum",
+        "choices": ["maximum", "scenario", "galaxy", "counterpart"]
+      }
     }
   ],
   "notes": []

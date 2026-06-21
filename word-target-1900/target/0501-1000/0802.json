@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Jane's parents approved of her studying abroad.",
-      "sentence-jp": "ジェーンの両親は彼女の海外留学に賛成した。"
+      "sentence-jp": "ジェーンの両親は彼女の海外留学に賛成した。",
+      "cloze": {
+        "maskedText": "Jane's parents ____ of her studying abroad.",
+        "answerBase": "approve",
+        "answerSurface": "approved",
+        "choices": [
+          "approved",
+          "assessed",
+          "exhibited",
+          "commanded"
+        ]
+      }
     }
   ],
   "notes": []

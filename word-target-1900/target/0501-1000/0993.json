@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "The guards were cruel to the prisoners during the war.",
-      "sentence-jp": "捕虜監視員は戦争中捕虜に対して残酷であった。"
+      "sentence-jp": "捕虜監視員は戦争中捕虜に対して残酷であった。",
+      "cloze": {
+        "maskedText": "The guards were ____ to the prisoners during the war.",
+        "answerBase": "cruel",
+        "answerSurface": "cruel",
+        "choices": ["cruel", "fake", "urgent", "modest"]
+      }
     }
   ],
   "notes": []

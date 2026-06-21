@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "They say that more women than men are conscious of their health.",
-      "sentence-jp": "自分の健康を意識している女性は男性より多いと言われている。"
+      "sentence-jp": "自分の健康を意識している女性は男性より多いと言われている。",
+      "cloze": {
+        "maskedText": "They say that more women than men are ____ of their health.",
+        "answerBase": "conscious of",
+        "answerSurface": "conscious",
+        "choices": [
+          "conscious",
+          "overall",
+          "artificial",
+          "firm"
+        ]
+      }
     }
   ],
   "notes": []

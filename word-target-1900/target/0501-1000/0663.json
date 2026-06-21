@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Social media has broken down the boundary between the public and private.",
-      "sentence-jp": "ソーシャルメディアは公私の境界線をなくした。"
+      "sentence-jp": "ソーシャルメディアは公私の境界線をなくした。",
+      "cloze": {
+        "maskedText": "Social media has broken down the ____ between the public and private.",
+        "answerBase": "boundary",
+        "answerSurface": "boundary",
+        "choices": [
+          "boundary",
+          "harvest",
+          "trick",
+          "district"
+        ]
+      }
     }
   ],
   "notes": []

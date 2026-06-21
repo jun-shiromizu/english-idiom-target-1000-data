@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The students are anxiously awaiting their new teacher.",
-      "sentence-jp": "学生たちは新任の教師を心待ちにしている。"
+      "sentence-jp": "学生たちは新任の教師を心待ちにしている。",
+      "cloze": {
+        "maskedText": "The students are anxiously ____ their new teacher.",
+        "answerBase": "await",
+        "answerSurface": "awaiting",
+        "choices": [
+          "awaiting",
+          "avoiding",
+          "judging",
+          "teaching"
+        ]
+      }
     }
   ],
   "notes": []

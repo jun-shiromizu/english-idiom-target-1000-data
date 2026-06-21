@@ -12,5 +12,11 @@
       "sentence-jp": "レビューサイト上での彼の意見は大量の抗議を引き起こした。"
     }
   ],
+  "cloze": {
+    "maskedText": "The announcement may ____ public anger.",
+    "answerBase": "spark",
+    "answerSurface": "spark",
+    "choices": ["spark", "glow", "flock", "dispose"]
+  },
   "notes": []
 }

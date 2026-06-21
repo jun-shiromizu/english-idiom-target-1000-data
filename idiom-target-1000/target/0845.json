@@ -13,7 +13,18 @@
         "be in vogue"
       ],
       "example-sentence": "How long ago was it that the Harry Potter novels were all the rage?",
-      "sentence-jp": "ハリー・ポッターの小説が大流行したのはどのくらい前のことですか。"
+      "sentence-jp": "ハリー・ポッターの小説が大流行したのはどのくらい前のことですか。",
+      "cloze": {
+        "maskedText": "How long ago was it that the Harry Potter novels were ____ ?",
+        "answerBase": "be (all) the rage",
+        "answerSurface": "all the rage",
+        "choices": [
+          "all the rage",
+          "all ears",
+          "no match",
+          "out to stay"
+        ]
+      }
     }
   ],
   "notes": []

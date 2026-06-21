@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Advertisers are targeting society's affluent groups.",
-      "sentence-jp": "広告主たちは社会の富裕層をターゲットにしている。"
+      "sentence-jp": "広告主たちは社会の富裕層をターゲットにしている。",
+      "cloze": {
+        "maskedText": "Advertisers are targeting society's ____ groups.",
+        "answerBase": "affluent",
+        "answerSurface": "affluent",
+        "choices": [
+          "affluent",
+          "pessimistic",
+          "explicit",
+          "uneasy"
+        ]
+      }
     }
   ],
   "notes": []

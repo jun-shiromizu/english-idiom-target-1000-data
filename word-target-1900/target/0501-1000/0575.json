@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He wanted to know the calories and the ingredients of the dish.",
-      "sentence-jp": "彼はその料理のカロリーと材料を知りたがった。"
+      "sentence-jp": "彼はその料理のカロリーと材料を知りたがった。",
+      "cloze": {
+        "maskedText": "He wanted to know the calories and the ____ of the dish.",
+        "answerBase": "ingredient",
+        "answerSurface": "ingredients",
+        "choices": [
+          "ingredients",
+          "barriers",
+          "fellows",
+          "weapons"
+        ]
+      }
     }
   ],
   "notes": []

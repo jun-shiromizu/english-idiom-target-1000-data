@@ -10,7 +10,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I believe we should all try to be considerate of others’ happiness and comfort.",
-      "sentence-jp": "私たちは皆、他人の幸福と安心を思いやる努力をするべきだと思う。"
+      "sentence-jp": "私たちは皆、他人の幸福と安心を思いやる努力をするべきだと思う。",
+      "cloze": {
+        "maskedText": "I believe we should all try to be ____ others’ happiness and comfort.",
+        "answerBase": "be considerate of ~ / be considerate to ~",
+        "answerSurface": "considerate of",
+        "choices": [
+          "considerate of",
+          "guilty of",
+          "confident of",
+          "ignorant of"
+        ]
+      }
     }
   ],
   "notes": [

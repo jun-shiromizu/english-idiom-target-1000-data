@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "He attributed his success in business to good luck.",
-      "sentence-jp": "彼はビジネスでの成功を幸運のおかげと考えた。"
+      "sentence-jp": "彼はビジネスでの成功を幸運のおかげと考えた。",
+      "cloze": {
+        "maskedText": "He ____ his success in business to good luck.",
+        "answerBase": "attribute",
+        "answerSurface": "attributed",
+        "choices": [
+          "attributed",
+          "pretended",
+          "buried",
+          "scared"
+        ]
+      }
     }
   ],
   "notes": []

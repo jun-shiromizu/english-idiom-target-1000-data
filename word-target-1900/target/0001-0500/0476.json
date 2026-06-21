@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "You are expected to adapt to changes in social norms.",
-      "sentence-jp": "社会規範の変化に順応することが求められている。"
+      "sentence-jp": "社会規範の変化に順応することが求められている。",
+      "cloze": {
+        "maskedText": "You are expected to adapt to changes in social ____.",
+        "answerBase": "norm",
+        "answerSurface": "norms",
+        "choices": [
+          "norms",
+          "mirrors",
+          "tickets",
+          "pillars"
+        ]
+      }
     }
   ],
   "notes": []

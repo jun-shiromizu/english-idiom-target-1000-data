@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "A trial by jury is a standard practice in America.",
-      "sentence-jp": "アメリカでは陪審による裁判が標準的な慣習である。"
+      "sentence-jp": "アメリカでは陪審による裁判が標準的な慣習である。",
+      "cloze": {
+        "maskedText": "A trial by ____ is a standard practice in America.",
+        "answerBase": "jury",
+        "answerSurface": "jury",
+        "choices": ["jury", "ethic", "scheme", "particle"]
+      }
     }
   ],
   "notes": []

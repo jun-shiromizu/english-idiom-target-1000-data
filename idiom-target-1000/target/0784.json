@@ -12,7 +12,18 @@
         "from the (very) beginning"
       ],
       "example-sentence": "With the beach closed for the season, we’re planning our summer schedule from scratch.",
-      "sentence-jp": "今シーズンは海辺が閉鎖されているので、私たちは夏の予定をゼロから立てている。"
+      "sentence-jp": "今シーズンは海辺が閉鎖されているので、私たちは夏の予定をゼロから立てている。",
+      "cloze": {
+        "maskedText": "With the beach closed for the season, we’re planning our summer schedule ____.",
+        "answerBase": "from scratch",
+        "answerSurface": "from scratch",
+        "choices": [
+          "from scratch",
+          "on the dot",
+          "at the wheel",
+          "behind the times"
+        ]
+      }
     }
   ],
   "notes": [

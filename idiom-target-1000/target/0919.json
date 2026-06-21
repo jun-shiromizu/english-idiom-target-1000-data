@@ -13,7 +13,18 @@
         "hold [keep] ~ under control"
       ],
       "example-sentence": "The traditional way to learn to keep our emotions in check is to sit and meditate.",
-      "sentence-jp": "私たちが感情を抑えられるようになる伝統的な方法は、座って瞑想することだ。"
+      "sentence-jp": "私たちが感情を抑えられるようになる伝統的な方法は、座って瞑想することだ。",
+      "cloze": {
+        "maskedText": "The traditional way to learn to ____ is to sit and meditate.",
+        "answerBase": "hold ~ in check / keep ~ in check",
+        "answerSurface": "keep our emotions in check",
+        "choices": [
+          "keep our emotions in check",
+          "get on our nerves",
+          "get even with others",
+          "see the sights"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The family applied for a mortgage to buy a house.",
-      "sentence-jp": "その家族は家を買うために住宅ローンを申請した。"
+      "sentence-jp": "その家族は家を買うために住宅ローンを申請した。",
+      "cloze": {
+        "maskedText": "The family applied for a ____ to buy a house.",
+        "answerBase": "mortgage",
+        "answerSurface": "mortgage",
+        "choices": [
+          "mortgage",
+          "passport",
+          "festival",
+          "portrait"
+        ]
+      }
     }
   ],
   "notes": []

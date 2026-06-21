@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "More than half of the residents favor the plan to rebuild their apartment.",
-      "sentence-jp": "住民の半数以上が彼らのアパートを改築する計画に賛成している。"
+      "sentence-jp": "住民の半数以上が彼らのアパートを改築する計画に賛成している。",
+      "cloze": {
+        "maskedText": "More than half of the residents ____ the plan to rebuild their apartment.",
+        "answerBase": "favor",
+        "answerSurface": "favor",
+        "choices": [
+          "favor",
+          "pack",
+          "measure",
+          "hide"
+        ]
+      }
     }
   ],
   "notes": []

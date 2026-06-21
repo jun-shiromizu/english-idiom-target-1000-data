@@ -12,5 +12,11 @@
       "sentence-jp": "室内の壁は自然素材でできている。"
     }
   ],
+  "cloze": {
+    "maskedText": "The ____ walls were painted white.",
+    "answerBase": "interior",
+    "answerSurface": "interior",
+    "choices": ["interior", "ongoing", "innate", "toxic"]
+  },
   "notes": []
 }

@@ -12,7 +12,18 @@
         "a lot of ~"
       ],
       "example-sentence": "Today, as on any given day, scores of drones are launched and landed at the seashore nearby.",
-      "sentence-jp": "今日もいつもの日と同じように、多数のドローンが近くの海岸で飛ばされたり着陸したりしている。"
+      "sentence-jp": "今日もいつもの日と同じように、多数のドローンが近くの海岸で飛ばされたり着陸したりしている。",
+      "cloze": {
+        "maskedText": "Today, as on any given day, ____ drones are launched and landed at the seashore nearby.",
+        "answerBase": "scores of ~",
+        "answerSurface": "scores of",
+        "choices": [
+          "scores of",
+          "in charge of",
+          "on behalf of",
+          "in front of"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He has a firm belief in the existence of aliens.",
-      "sentence-jp": "彼は地球外生物の存在に確固たる信念を持っている。"
+      "sentence-jp": "彼は地球外生物の存在に確固たる信念を持っている。",
+      "cloze": {
+        "maskedText": "He has a ____ belief in the existence of aliens.",
+        "answerBase": "firm",
+        "answerSurface": "firm",
+        "choices": [
+          "firm",
+          "mass",
+          "rural",
+          "visual"
+        ]
+      }
     }
   ],
   "notes": []

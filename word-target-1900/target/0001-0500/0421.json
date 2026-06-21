@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He perceived a slight change in her attitude.",
-      "sentence-jp": "彼は彼女の態度の微妙な変化に気づいた。"
+      "sentence-jp": "彼は彼女の態度の微妙な変化に気づいた。",
+      "cloze": {
+        "maskedText": "He ____ a slight change in her attitude.",
+        "answerBase": "perceive",
+        "answerSurface": "perceived",
+        "choices": [
+          "perceived",
+          "stored",
+          "dragged",
+          "warned"
+        ]
+      }
     }
   ],
   "notes": []

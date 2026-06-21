@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "“Do you think you’ll be finished with this by the early evening?” “No, I’m afraid not.”",
-      "sentence-jp": "「あなたは夕方までにこれを終えてしまっていると思いますか」「いいえ、残念ながらそうは思いません」"
+      "sentence-jp": "「あなたは夕方までにこれを終えてしまっていると思いますか」「いいえ、残念ながらそうは思いません」",
+      "cloze": {
+        "maskedText": "“Do you think you’ll be finished with this by the early evening?” “No, ____”",
+        "answerBase": "I’m afraid not.",
+        "answerSurface": "I’m afraid not.",
+        "choices": [
+          "I’m afraid not.",
+          "My pleasure.",
+          "How come?",
+          "Think again."
+        ]
+      }
     }
   ],
   "notes": [

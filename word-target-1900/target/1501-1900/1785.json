@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Frank was too stubborn to accept that he made some mistakes.",
-      "sentence-jp": "フランクはあまりにも頑固なので自分が間違いを犯したことを認めることができなかった。"
+      "sentence-jp": "フランクはあまりにも頑固なので自分が間違いを犯したことを認めることができなかった。",
+      "cloze": {
+        "maskedText": "Frank was too ____ to accept that he made some mistakes.",
+        "answerBase": "stubborn",
+        "answerSurface": "stubborn",
+        "choices": [
+          "stubborn",
+          "formal",
+          "gentle",
+          "narrow"
+        ]
+      }
     }
   ],
   "notes": []

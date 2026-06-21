@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The space probe returned to the earth after a long trip.",
-      "sentence-jp": "その宇宙探査機は長い旅を終え地球に帰還した。"
+      "sentence-jp": "その宇宙探査機は長い旅を終え地球に帰還した。",
+      "cloze": {
+        "maskedText": "The space ____ returned to the earth after a long trip.",
+        "answerBase": "probe",
+        "answerSurface": "probe",
+        "choices": [
+          "probe",
+          "harbor",
+          "species",
+          "garage"
+        ]
+      }
     }
   ],
   "notes": []

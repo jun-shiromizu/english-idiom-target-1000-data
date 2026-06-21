@@ -9,7 +9,18 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "We are emotional beings and experience a wide range of feelings on a daily basis.",
-      "sentence-jp": "私たちは情緒的な生き物で、日常的に幅広い感情を経験する。"
+      "sentence-jp": "私たちは情緒的な生き物で、日常的に幅広い感情を経験する。",
+      "cloze": {
+        "maskedText": "We are emotional beings and experience a wide range of feelings ____.",
+        "answerBase": "on a ~ basis",
+        "answerSurface": "on a daily basis",
+        "choices": [
+          "on a daily basis",
+          "on a global scale",
+          "at first sight",
+          "in all likelihood"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She happened to cut a nerve in her finger while cooking.",
-      "sentence-jp": "彼女は料理中に指の神経を切ってしまった。"
+      "sentence-jp": "彼女は料理中に指の神経を切ってしまった。",
+      "cloze": {
+        "maskedText": "She happened to cut a ____ in her finger while cooking.",
+        "answerBase": "nerve",
+        "answerSurface": "nerve",
+        "choices": ["nerve", "route", "custom", "policy"]
+      }
     }
   ],
   "notes": []

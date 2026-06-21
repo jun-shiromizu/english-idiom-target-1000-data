@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The girl appears to be a sheer genius in science.",
-      "sentence-jp": "その少女は科学分野における真の天才のようだ。"
+      "sentence-jp": "その少女は科学分野における真の天才のようだ。",
+      "cloze": {
+        "maskedText": "The girl appears to be a ____ genius in science.",
+        "answerBase": "sheer",
+        "answerSurface": "sheer",
+        "choices": [
+          "sheer",
+          "sore",
+          "uneasy",
+          "swift"
+        ]
+      }
     }
   ],
   "notes": []

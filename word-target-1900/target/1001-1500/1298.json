@@ -12,5 +12,11 @@
       "sentence-jp": "東京スカイツリーからの町の眺めは壮大である。"
     }
   ],
+  "cloze": {
+    "maskedText": "We had a ____ view of the mountains.",
+    "answerBase": "magnificent",
+    "answerSurface": "magnificent",
+    "choices": ["magnificent", "trivial", "toxic", "peculiar"]
+  },
   "notes": []
 }

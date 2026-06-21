@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Linda annoys me by telling me her frequent complaints.",
-      "sentence-jp": "リンダは頻繁に不平を言って私を悩ます。"
+      "sentence-jp": "リンダは頻繁に不平を言って私を悩ます。",
+      "cloze": {
+        "maskedText": "Linda ____ me by telling me her frequent complaints.",
+        "answerBase": "annoy",
+        "answerSurface": "annoys",
+        "choices": [
+          "annoys",
+          "assists",
+          "secures",
+          "declares"
+        ]
+      }
     }
   ],
   "notes": []

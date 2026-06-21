@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "We have just been to the airport to see my daughter off to Chicago.",
-      "sentence-jp": "私たちはシカゴへ向かう娘を見送るために空港へ行ってきたところだ。"
+      "sentence-jp": "私たちはシカゴへ向かう娘を見送るために空港へ行ってきたところだ。",
+      "cloze": {
+        "maskedText": "We have just been to the airport to ____ to Chicago.",
+        "answerBase": "see ~ off",
+        "answerSurface": "see my daughter off",
+        "choices": [
+          "see my daughter off",
+          "give my daughter a hand",
+          "ask my daughter a favor",
+          "call my daughter back"
+        ]
+      }
     }
   ],
   "notes": [

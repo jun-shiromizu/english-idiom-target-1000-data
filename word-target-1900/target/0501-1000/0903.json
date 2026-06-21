@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Deep in thought, he continued to gaze at the ocean.",
-      "sentence-jp": "思いにふけって，彼は海をじっと見続けた。"
+      "sentence-jp": "思いにふけって，彼は海をじっと見続けた。",
+      "cloze": {
+        "maskedText": "Deep in thought, he continued to ____ at the ocean.",
+        "answerBase": "gaze",
+        "answerSurface": "gaze",
+        "choices": ["gaze", "slip", "pour", "load"]
+      }
     }
   ],
   "notes": []

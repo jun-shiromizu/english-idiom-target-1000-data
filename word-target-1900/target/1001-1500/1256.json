@@ -12,5 +12,11 @@
       "sentence-jp": "彼はキリスト教の聖職者になり，ケンブリッジ大学の教授になった。"
     }
   ],
+  "cloze": {
+    "maskedText": "The village ____ led the ceremony.",
+    "answerBase": "priest",
+    "answerSurface": "priest",
+    "choices": ["priest", "offspring", "chamber", "utility"]
+  },
   "notes": []
 }

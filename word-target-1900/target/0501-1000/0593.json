@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The shampoo had a clearly visible effect on her hair.",
-      "sentence-jp": "そのシャンプーは彼女の髪の毛にはっきりと目に見える効果があった。"
+      "sentence-jp": "そのシャンプーは彼女の髪の毛にはっきりと目に見える効果があった。",
+      "cloze": {
+        "maskedText": "The shampoo had a clearly ____ effect on her hair.",
+        "answerBase": "visible",
+        "answerSurface": "visible",
+        "choices": [
+          "visible",
+          "alien",
+          "exact",
+          "brief"
+        ]
+      }
     }
   ],
   "notes": []

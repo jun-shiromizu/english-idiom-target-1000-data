@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "We all agreed to appoint Mr. White music director of our orchestra.",
-      "sentence-jp": "私たち全員が当オーケストラの音楽監督にホワイト氏を任命することに同意した。"
+      "sentence-jp": "私たち全員が当オーケストラの音楽監督にホワイト氏を任命することに同意した。",
+      "cloze": {
+        "maskedText": "We all agreed to ____ Mr. White music director of our orchestra.",
+        "answerBase": "appoint",
+        "answerSurface": "appoint",
+        "choices": [
+          "appoint",
+          "regard",
+          "praise",
+          "introduce"
+        ]
+      }
     }
   ],
   "notes": []

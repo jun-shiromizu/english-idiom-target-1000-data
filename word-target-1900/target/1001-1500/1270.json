@@ -12,5 +12,11 @@
       "sentence-jp": "学校はプールの病原菌を駆除しなければならない。"
     }
   ],
+  "cloze": {
+    "maskedText": "Engineers found a serious ____ in the software.",
+    "answerBase": "bug",
+    "answerSurface": "bug",
+    "choices": ["bug", "asset", "fraction", "monument"]
+  },
   "notes": []
 }

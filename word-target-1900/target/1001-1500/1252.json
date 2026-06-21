@@ -12,5 +12,11 @@
       "sentence-jp": "彼はその山のふもとで牛と豚を飼育している。"
     }
   ],
+  "cloze": {
+    "maskedText": "The farmer keeps ____ on the hillside.",
+    "answerBase": "cattle",
+    "answerSurface": "cattle",
+    "choices": ["cattle", "script", "cortex", "famine"]
+  },
   "notes": []
 }

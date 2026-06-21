@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Coral reefs provide us with rich fishing resources.",
-      "sentence-jp": "サンゴ礁は私たちに豊かな漁業資源を提供する。"
+      "sentence-jp": "サンゴ礁は私たちに豊かな漁業資源を提供する。",
+      "cloze": {
+        "maskedText": "Coral ____ provide us with rich fishing resources.",
+        "answerBase": "reef",
+        "answerSurface": "reefs",
+        "choices": ["reefs", "galleries", "columns", "tablets"]
+      }
     }
   ],
   "notes": []

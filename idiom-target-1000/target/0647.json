@@ -15,7 +15,18 @@
         "what is worse"
       ],
       "example-sentence": "To make matters worse, my father lost his house key somewhere last night.",
-      "sentence-jp": "さらに悪いことに、父は昨晩どこかで家のかぎをなくしてしまった。"
+      "sentence-jp": "さらに悪いことに、父は昨晩どこかで家のかぎをなくしてしまった。",
+      "cloze": {
+        "maskedText": "____, my father lost his house key somewhere last night.",
+        "answerBase": "to make matters worse / to make things worse",
+        "answerSurface": "To make matters worse",
+        "choices": [
+          "To make matters worse",
+          "To my surprise",
+          "For sure",
+          "Without fail"
+        ]
+      }
     }
   ],
   "notes": [

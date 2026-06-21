@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She bears physical traits common to the general Japanese population.",
-      "sentence-jp": "彼女は一般的日本人に共通する身体的特徴を備えている。"
+      "sentence-jp": "彼女は一般的日本人に共通する身体的特徴を備えている。",
+      "cloze": {
+        "maskedText": "She bears physical ____ common to the general Japanese population.",
+        "answerBase": "trait",
+        "answerSurface": "traits",
+        "choices": [
+          "traits",
+          "bridges",
+          "candles",
+          "suitcases"
+        ]
+      }
     }
   ],
   "notes": []

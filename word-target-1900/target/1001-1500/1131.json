@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The man was disgusted by the inappropriate remark from the politician.",
-      "sentence-jp": "その男性は政治家の不適切な発言にむかついた。"
+      "sentence-jp": "その男性は政治家の不適切な発言にむかついた。",
+      "cloze": {
+        "maskedText": "The man was ____ by the inappropriate remark from the politician.",
+        "answerBase": "disgust",
+        "answerSurface": "disgusted",
+        "choices": ["disgusted", "postponed", "extracted", "inherited"]
+      }
     }
   ],
   "notes": []

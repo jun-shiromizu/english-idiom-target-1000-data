@@ -12,5 +12,11 @@
       "sentence-jp": "彼の行動は彼女の気分を害そうとする意図的な試みであった。"
     }
   ],
+  "cloze": {
+    "maskedText": "His lie was a ____ attempt to mislead us.",
+    "answerBase": "deliberate",
+    "answerSurface": "deliberate",
+    "choices": ["deliberate", "humble", "wireless", "steep"]
+  },
   "notes": []
 }

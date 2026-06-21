@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "I know he’s made tremendous efforts to make his dream come true.",
-      "sentence-jp": "私は彼が夢を実現させるためにものすごい努力をしてきたことを知っている。"
+      "sentence-jp": "私は彼が夢を実現させるためにものすごい努力をしてきたことを知っている。",
+      "cloze": {
+        "maskedText": "I know he’s made tremendous efforts to make his dream ____.",
+        "answerBase": "come true",
+        "answerSurface": "come true",
+        "choices": [
+          "come true",
+          "go blind",
+          "make it",
+          "sign up for"
+        ]
+      }
     }
   ],
   "notes": [

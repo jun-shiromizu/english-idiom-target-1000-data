@@ -12,5 +12,11 @@
       "sentence-jp": "生まれつきの心臓欠陥は多くの遺伝的症候群と関連づけられる。"
     }
   ],
+  "cloze": {
+    "maskedText": "The doctor explained the rare genetic ____ to the family.",
+    "answerBase": "syndrome",
+    "answerSurface": "syndrome",
+    "choices": ["syndrome", "appetite", "script", "temper"]
+  },
   "notes": []
 }

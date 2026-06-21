@@ -10,7 +10,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "The succession of late nights was beginning to tell on his health.",
-      "sentence-jp": "連日の夜更かしは彼の健康に影響し始めていた。"
+      "sentence-jp": "連日の夜更かしは彼の健康に影響し始めていた。",
+      "cloze": {
+        "maskedText": "The succession of late nights was beginning to ____ his health.",
+        "answerBase": "tell on ~ / tell upon ~",
+        "answerSurface": "tell on",
+        "choices": [
+          "tell on",
+          "dwell on",
+          "embark on",
+          "indulge in"
+        ]
+      }
     }
   ],
   "notes": [

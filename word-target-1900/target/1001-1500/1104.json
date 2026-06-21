@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "This device is designed to filter out dirt from the water.",
-      "sentence-jp": "この装置は水からごみを取り除くように作られている。"
+      "sentence-jp": "この装置は水からごみを取り除くように作られている。",
+      "cloze": {
+        "maskedText": "This device is designed to ____ out dirt from the water.",
+        "answerBase": "filter",
+        "answerSurface": "filter",
+        "choices": ["filter", "bind", "advocate", "undertake"]
+      }
     }
   ],
   "notes": []

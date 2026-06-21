@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She intends to go to bed early tonight.",
-      "sentence-jp": "彼女は今晩早く寝るつもりである。"
+      "sentence-jp": "彼女は今晩早く寝るつもりである。",
+      "cloze": {
+        "maskedText": "She ____ to go to bed early tonight.",
+        "answerBase": "intend",
+        "answerSurface": "intends",
+        "choices": [
+          "intends",
+          "compares",
+          "salutes",
+          "pours"
+        ]
+      }
     }
   ],
   "notes": []

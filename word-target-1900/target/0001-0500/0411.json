@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "You should find a lawyer to settle the legal problem.",
-      "sentence-jp": "君は弁護士を見つけてその法律問題を解決するべきだ。"
+      "sentence-jp": "君は弁護士を見つけてその法律問題を解決するべきだ。",
+      "cloze": {
+        "maskedText": "You should find a lawyer to ____ the legal problem.",
+        "answerBase": "settle",
+        "answerSurface": "settle",
+        "choices": [
+          "settle",
+          "freeze",
+          "decorate",
+          "arrange"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "My brother said he had a hard time making himself understood in English the other day.",
-      "sentence-jp": "私の弟は、先日英語で自分の言うことを相手にわかってもらうのに苦労したと言った。"
+      "sentence-jp": "私の弟は、先日英語で自分の言うことを相手にわかってもらうのに苦労したと言った。",
+      "cloze": {
+        "maskedText": "My brother said he had a hard time ____ in English the other day.",
+        "answerBase": "make oneself understood",
+        "answerSurface": "making himself understood",
+        "choices": [
+          "making himself understood",
+          "taking his time",
+          "taking it easy",
+          "seeing much of him"
+        ]
+      }
     }
   ],
   "notes": [

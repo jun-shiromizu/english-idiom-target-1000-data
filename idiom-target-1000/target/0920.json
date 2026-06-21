@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "You need to have an eye for color and style if you want to be a fashion designer.",
-      "sentence-jp": "ファッションデザイナーになりたければ、色とスタイルに対する眼識を持っている必要がある。"
+      "sentence-jp": "ファッションデザイナーになりたければ、色とスタイルに対する眼識を持っている必要がある。",
+      "cloze": {
+        "maskedText": "You need to ____ color and style if you want to be a fashion designer.",
+        "answerBase": "have an eye for ~",
+        "answerSurface": "have an eye for",
+        "choices": [
+          "have an eye for",
+          "hold in check",
+          "get even with",
+          "play a joke on"
+        ]
+      }
     }
   ],
   "notes": [

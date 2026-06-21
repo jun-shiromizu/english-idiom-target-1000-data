@@ -13,7 +13,18 @@
         "in itself"
       ],
       "example-sentence": "After all, he is the leader of a community, and should be evaluated as such.",
-      "sentence-jp": "何といっても彼は地域のリーダーなのだから、そういう人として評価されるべきだ。"
+      "sentence-jp": "何といっても彼は地域のリーダーなのだから、そういう人として評価されるべきだ。",
+      "cloze": {
+        "maskedText": "After all, he is the leader of a community, and should be evaluated ____.",
+        "answerBase": "as such",
+        "answerSurface": "as such",
+        "choices": [
+          "as such",
+          "all along",
+          "at will",
+          "down the road"
+        ]
+      }
     }
   ],
   "notes": []

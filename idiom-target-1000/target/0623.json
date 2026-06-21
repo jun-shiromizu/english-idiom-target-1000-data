@@ -10,7 +10,18 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "Johann Fichte was fired from the University of Jena in 1799 on a charge of atheism.",
-      "sentence-jp": "ヨハン・フィヒテは1799年に無神論の罪でイエナ大学を解雇された。"
+      "sentence-jp": "ヨハン・フィヒテは1799年に無神論の罪でイエナ大学を解雇された。",
+      "cloze": {
+        "maskedText": "Johann Fichte was fired from the University of Jena in 1799 ____ atheism.",
+        "answerBase": "on a charge of ~ / on the charge of ~",
+        "answerSurface": "on a charge of",
+        "choices": [
+          "on a charge of",
+          "with regard to",
+          "in practice",
+          "on average"
+        ]
+      }
     }
   ],
   "notes": [

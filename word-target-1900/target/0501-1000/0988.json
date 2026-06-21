@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Ken is fluent both in English and Japanese.",
-      "sentence-jp": "ケンは英語と日本語の両方が流ちょうである。"
+      "sentence-jp": "ケンは英語と日本語の両方が流ちょうである。",
+      "cloze": {
+        "maskedText": "Ken is ____ both in English and Japanese.",
+        "answerBase": "fluent",
+        "answerSurface": "fluent",
+        "choices": ["fluent", "neutral", "magnetic", "passive"]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Gender discrimination has been pervasive in many societies.",
-      "sentence-jp": "性差別は多くの社会において隅々まで広がっている。"
+      "sentence-jp": "性差別は多くの社会において隅々まで広がっている。",
+      "cloze": {
+        "maskedText": "Gender discrimination has been ____ in many societies.",
+        "answerBase": "pervasive",
+        "answerSurface": "pervasive",
+        "choices": [
+          "pervasive",
+          "obedient",
+          "curious",
+          "fragile"
+        ]
+      }
     }
   ],
   "notes": []

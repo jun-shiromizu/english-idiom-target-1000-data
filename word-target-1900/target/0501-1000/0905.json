@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He loaded his truck with camping gear.",
-      "sentence-jp": "彼は自分のトラックにキャンプ用品を積んだ。"
+      "sentence-jp": "彼は自分のトラックにキャンプ用品を積んだ。",
+      "cloze": {
+        "maskedText": "He ____ his truck with camping gear.",
+        "answerBase": "load",
+        "answerSurface": "loaded",
+        "choices": ["loaded", "gazed", "wandered", "floated"]
+      }
     }
   ],
   "notes": []

@@ -14,7 +14,18 @@
         "rethink"
       ],
       "example-sentence": "If you’re under the impression that this used car is a good buy, think again.",
-      "sentence-jp": "もしこの中古車がお買い得だと思い込んでいるのなら、考え直しなさい。"
+      "sentence-jp": "もしこの中古車がお買い得だと思い込んでいるのなら、考え直しなさい。",
+      "cloze": {
+        "maskedText": "If you’re under the impression that this used car is a good buy, ____.",
+        "answerBase": "think again",
+        "answerSurface": "think again",
+        "choices": [
+          "think again",
+          "take your time",
+          "help yourself",
+          "have no idea"
+        ]
+      }
     }
   ],
   "notes": []

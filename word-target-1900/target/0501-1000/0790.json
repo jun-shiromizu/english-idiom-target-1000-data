@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The sea areas surrounding the island are full of marine life.",
-      "sentence-jp": "その島の周辺海域は海洋生物に満ちている。"
+      "sentence-jp": "その島の周辺海域は海洋生物に満ちている。",
+      "cloze": {
+        "maskedText": "The sea areas surrounding the island are full of ____ life.",
+        "answerBase": "marine",
+        "answerSurface": "marine",
+        "choices": [
+          "marine",
+          "classic",
+          "federal",
+          "plain"
+        ]
+      }
     }
   ],
   "notes": []

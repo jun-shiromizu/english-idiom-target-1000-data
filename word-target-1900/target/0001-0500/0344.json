@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The sharp rise of Japanese anime's popularity is a global phenomenon.",
-      "sentence-jp": "日本アニメの人気急上昇は世界的な現象である。"
+      "sentence-jp": "日本アニメの人気急上昇は世界的な現象である。",
+      "cloze": {
+        "maskedText": "The sharp rise of Japanese anime's popularity is a global ____.",
+        "answerBase": "phenomenon",
+        "answerSurface": "phenomenon",
+        "choices": [
+          "phenomenon",
+          "budget",
+          "lecture",
+          "vehicle"
+        ]
+      }
     }
   ],
   "notes": []

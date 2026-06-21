@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Humanity is now faced with many environmental problems.",
-      "sentence-jp": "人類は今や多くの環境問題に直面している。"
+      "sentence-jp": "人類は今や多くの環境問題に直面している。",
+      "cloze": {
+        "maskedText": "____ is now faced with many environmental problems.",
+        "answerBase": "humanity",
+        "answerSurface": "Humanity",
+        "choices": [
+          "Humanity",
+          "Baggage",
+          "Stadium",
+          "Envelope"
+        ]
+      }
     }
   ],
   "notes": []

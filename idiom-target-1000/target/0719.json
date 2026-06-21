@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "You watched a movie until four? No wonder you look so tired and sleepy.",
-      "sentence-jp": "4時まで映画を見ていたの？ 疲れて眠そうな顔をしているのは当然だね。"
+      "sentence-jp": "4時まで映画を見ていたの？ 疲れて眠そうな顔をしているのは当然だね。",
+      "cloze": {
+        "maskedText": "You watched a movie until four? ____ you look so tired and sleepy.",
+        "answerBase": "(It is) No wonder (that) ...",
+        "answerSurface": "No wonder",
+        "choices": [
+          "No wonder",
+          "It happens that",
+          "Believe it or not",
+          "Needless to say"
+        ]
+      }
     }
   ],
   "notes": []

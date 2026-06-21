@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "When water in the ocean freezes, layers of ice may form.",
-      "sentence-jp": "海水が凍るとき，氷の層が形成されることもある。"
+      "sentence-jp": "海水が凍るとき，氷の層が形成されることもある。",
+      "cloze": {
+        "maskedText": "When water in the ocean ____, layers of ice may form.",
+        "answerBase": "freeze",
+        "answerSurface": "freezes",
+        "choices": [
+          "freezes",
+          "travels",
+          "borrows",
+          "arrives"
+        ]
+      }
     }
   ],
   "notes": []

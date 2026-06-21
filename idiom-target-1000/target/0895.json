@@ -15,7 +15,18 @@
         "make efforts"
       ],
       "example-sentence": "Koji seems to be taking great pains to avoid meeting Ryota face to face.",
-      "sentence-jp": "コウジはリョウタと面と向かって会うのを避けるのに苦心しているようだ。"
+      "sentence-jp": "コウジはリョウタと面と向かって会うのを避けるのに苦心しているようだ。",
+      "cloze": {
+        "maskedText": "Koji seems to be ____ to avoid meeting Ryota face to face.",
+        "answerBase": "take pains",
+        "answerSurface": "taking great pains",
+        "choices": [
+          "taking great pains",
+          "taking notice",
+          "taking effect",
+          "taking hold"
+        ]
+      }
     }
   ],
   "notes": [

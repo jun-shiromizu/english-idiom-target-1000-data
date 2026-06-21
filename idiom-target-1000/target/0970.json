@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "When we met, the elephant in the room was the topic of their son having lost the election.",
-      "sentence-jp": "私たちが会ったときに誰も触れたがらなかった話題は、落選した彼らの息子のことだった。"
+      "sentence-jp": "私たちが会ったときに誰も触れたがらなかった話題は、落選した彼らの息子のことだった。",
+      "cloze": {
+        "maskedText": "When we met, ____ was the topic of their son having lost the election.",
+        "answerBase": "the elephant in the room",
+        "answerSurface": "the elephant in the room",
+        "choices": [
+          "the elephant in the room",
+          "the pros and cons",
+          "a case in point",
+          "a white elephant"
+        ]
+      }
     }
   ],
   "notes": [

@@ -12,5 +12,11 @@
       "sentence-jp": "アマゾンでの森林伐採は最近加速してきている。"
     }
   ],
+  "cloze": {
+    "maskedText": "Many activists are protesting against ____ in tropical regions.",
+    "answerBase": "deforestation",
+    "answerSurface": "deforestation",
+    "choices": ["deforestation", "utility", "appetite", "acquaintance"]
+  },
   "notes": []
 }

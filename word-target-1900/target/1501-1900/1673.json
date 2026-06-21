@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He had the tumors in his right lung surgically removed.",
-      "sentence-jp": "彼は右肺の腫瘍を手術で取り除いてもらった。"
+      "sentence-jp": "彼は右肺の腫瘍を手術で取り除いてもらった。",
+      "cloze": {
+        "maskedText": "He had the ____ in his right lung surgically removed.",
+        "answerBase": "tumor",
+        "answerSurface": "tumors",
+        "choices": [
+          "tumors",
+          "nerves",
+          "bones",
+          "muscles"
+        ]
+      }
     }
   ],
   "notes": []

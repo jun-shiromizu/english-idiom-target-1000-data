@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Her speech about global warming aroused strong emotions among people.",
-      "sentence-jp": "地球温暖化に関する彼女の演説は人々の間に強い感情を引き起こした。"
+      "sentence-jp": "地球温暖化に関する彼女の演説は人々の間に強い感情を引き起こした。",
+      "cloze": {
+        "maskedText": "Her speech about global warming ____ strong emotions among people.",
+        "answerBase": "arouse",
+        "answerSurface": "aroused",
+        "choices": [
+          "aroused",
+          "divided",
+          "copied",
+          "calmed"
+        ]
+      }
     }
   ],
   "notes": []

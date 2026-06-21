@@ -14,7 +14,18 @@
         "capitalize on ~"
       ],
       "example-sentence": "During your stay here, you can take advantage of a library, if you want to.",
-      "sentence-jp": "ここに滞在中は、希望するなら図書館を利用してもいいですよ。"
+      "sentence-jp": "ここに滞在中は、希望するなら図書館を利用してもいいですよ。",
+      "cloze": {
+        "maskedText": "During your stay here, you can ____ a library, if you want to.",
+        "answerBase": "take advantage of ~",
+        "answerSurface": "take advantage of",
+        "choices": [
+          "take advantage of",
+          "take control of",
+          "make fun of",
+          "have access to"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "It stands to reason that children should be independent of their parents after a certain age.",
-      "sentence-jp": "子供たちがある年齢を過ぎたら親から独立するべきだというのはもっともなことである。"
+      "sentence-jp": "子供たちがある年齢を過ぎたら親から独立するべきだというのはもっともなことである。",
+      "cloze": {
+        "maskedText": "It ____ that children should be independent of their parents after a certain age.",
+        "answerBase": "stand to reason",
+        "answerSurface": "stands to reason",
+        "choices": [
+          "stands to reason",
+          "follows suit",
+          "gets even",
+          "has an eye"
+        ]
+      }
     }
   ],
   "notes": [

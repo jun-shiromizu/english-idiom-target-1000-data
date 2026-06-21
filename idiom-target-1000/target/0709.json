@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "As company bosses go, I think Mr. Yoshida is much younger than most.",
-      "sentence-jp": "一般の会社の社長と比べると、吉田氏はほとんどの人よりかなり若いと私は思う。"
+      "sentence-jp": "一般の会社の社長と比べると、吉田氏はほとんどの人よりかなり若いと私は思う。",
+      "cloze": {
+        "maskedText": "____, I think Mr. Yoshida is much younger than most.",
+        "answerBase": "as ~ go",
+        "answerSurface": "As company bosses go",
+        "choices": [
+          "As company bosses go",
+          "As follows",
+          "As it was",
+          "Believe it or not"
+        ]
+      }
     }
   ],
   "notes": [

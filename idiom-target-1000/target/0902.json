@@ -12,7 +12,18 @@
         "hold good"
       ],
       "example-sentence": "To try to empathize with others — this basic rule holds true no matter what our belief is.",
-      "sentence-jp": "他人に共感しようとすること、この基本的な法則は私たちにどんな信念があろうと当てはまる。"
+      "sentence-jp": "他人に共感しようとすること、この基本的な法則は私たちにどんな信念があろうと当てはまる。",
+      "cloze": {
+        "maskedText": "To try to empathize with others — this basic rule ____ no matter what our belief is.",
+        "answerBase": "hold true",
+        "answerSurface": "holds true",
+        "choices": [
+          "holds true",
+          "comes to light",
+          "comes of age",
+          "comes in handy"
+        ]
+      }
     }
   ],
   "notes": [

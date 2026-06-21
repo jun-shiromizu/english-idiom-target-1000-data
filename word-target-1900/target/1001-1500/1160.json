@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "About one-third of the population in Canada lives in the province of Ontario.",
-      "sentence-jp": "カナダの人口の約3分の1はオンタリオ州に住んでいる。"
+      "sentence-jp": "カナダの人口の約3分の1はオンタリオ州に住んでいる。",
+      "cloze": {
+        "maskedText": "About one-third of the population in Canada lives in the ____ of Ontario.",
+        "answerBase": "province",
+        "answerSurface": "province",
+        "choices": ["province", "estate", "landmine", "beverage"]
+      }
     }
   ],
   "notes": []

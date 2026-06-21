@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Many IT companies are adopting flexible working hours.",
-      "sentence-jp": "多くのIT企業は融通の利く勤務時間制を採用しつつある。"
+      "sentence-jp": "多くのIT企業は融通の利く勤務時間制を採用しつつある。",
+      "cloze": {
+        "maskedText": "Many IT companies are adopting ____ working hours.",
+        "answerBase": "flexible",
+        "answerSurface": "flexible",
+        "choices": [
+          "flexible",
+          "prime",
+          "anxious",
+          "distinct"
+        ]
+      }
     }
   ],
   "notes": []

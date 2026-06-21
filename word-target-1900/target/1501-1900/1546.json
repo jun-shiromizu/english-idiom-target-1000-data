@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "There were violent clashes between police and demonstrators.",
-      "sentence-jp": "警察とデモ隊との激しい衝突があった。"
+      "sentence-jp": "警察とデモ隊との激しい衝突があった。",
+      "cloze": {
+        "maskedText": "There were violent ____ between police and demonstrators.",
+        "answerBase": "clash",
+        "answerSurface": "clashes",
+        "choices": [
+          "clashes",
+          "talks",
+          "agreements",
+          "meetings"
+        ]
+      }
     }
   ],
   "notes": []

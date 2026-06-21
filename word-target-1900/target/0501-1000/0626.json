@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "He drove off the road and crashed into a tree.",
-      "sentence-jp": "彼の車は道路をはずれて，木に衝突した。"
+      "sentence-jp": "彼の車は道路をはずれて，木に衝突した。",
+      "cloze": {
+        "maskedText": "He drove off the road and ____ into a tree.",
+        "answerBase": "crash",
+        "answerSurface": "crashed",
+        "choices": [
+          "crashed",
+          "disturbed",
+          "impressed",
+          "attached"
+        ]
+      }
     }
   ],
   "notes": []

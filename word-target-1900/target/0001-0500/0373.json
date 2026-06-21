@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Some plants can store water and survive in the desert.",
-      "sentence-jp": "植物の中には水を貯え，砂漠で生き残ることができるものもある。"
+      "sentence-jp": "植物の中には水を貯え，砂漠で生き残ることができるものもある。",
+      "cloze": {
+        "maskedText": "Some plants can store water and survive in the ____.",
+        "answerBase": "desert",
+        "answerSurface": "desert",
+        "choices": [
+          "desert",
+          "court",
+          "soil",
+          "custom"
+        ]
+      }
     }
   ],
   "notes": []

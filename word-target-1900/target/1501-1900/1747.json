@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "We have to make up the deficit immediately.",
-      "sentence-jp": "私たちはすぐに赤字の埋め合わせをしなければならない。"
+      "sentence-jp": "私たちはすぐに赤字の埋め合わせをしなければならない。",
+      "cloze": {
+        "maskedText": "We have to make up the ____ immediately.",
+        "answerBase": "deficit",
+        "answerSurface": "deficit",
+        "choices": [
+          "deficit",
+          "portrait",
+          "sunlight",
+          "festival"
+        ]
+      }
     }
   ],
   "notes": []

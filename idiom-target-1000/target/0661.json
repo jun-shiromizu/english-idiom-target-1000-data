@@ -14,7 +14,18 @@
         "whenever"
       ],
       "example-sentence": "No matter how busy John is, he never fails to call his grandparents at least once a week.",
-      "sentence-jp": "ジョンはどんなに忙しくても、少なくとも1週間に1度は祖父母に必ず電話する。"
+      "sentence-jp": "ジョンはどんなに忙しくても、少なくとも1週間に1度は祖父母に必ず電話する。",
+      "cloze": {
+        "maskedText": "____ busy John is, he never fails to call his grandparents at least once a week.",
+        "answerBase": "no matter how / what / when, etc. ...",
+        "answerSurface": "No matter how",
+        "choices": [
+          "No matter how",
+          "What we call",
+          "To tell the truth",
+          "Needless to say"
+        ]
+      }
     }
   ],
   "notes": [

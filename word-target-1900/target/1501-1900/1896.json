@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "He felt dizzy with the heat, so he rested under the tree.",
-      "sentence-jp": "彼は暑さで目まいがしたので木陰で休んだ。"
+      "sentence-jp": "彼は暑さで目まいがしたので木陰で休んだ。",
+      "cloze": {
+        "maskedText": "He felt ____ with the heat, so he rested under the tree.",
+        "answerBase": "dizzy",
+        "answerSurface": "dizzy",
+        "choices": [
+          "dizzy",
+          "silent",
+          "formal",
+          "steady"
+        ]
+      }
     }
   ],
   "notes": []

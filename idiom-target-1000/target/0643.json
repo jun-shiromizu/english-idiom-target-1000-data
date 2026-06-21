@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Criminal activities using the internet are widespread, so it is best to be on our guard.",
-      "sentence-jp": "インターネットを使った犯罪活動が広まっているので、警戒しておくのに越したことはない。"
+      "sentence-jp": "インターネットを使った犯罪活動が広まっているので、警戒しておくのに越したことはない。",
+      "cloze": {
+        "maskedText": "Criminal activities using the internet are widespread, so it is best to be ____.",
+        "answerBase": "on (one's) guard",
+        "answerSurface": "on our guard",
+        "choices": [
+          "on our guard",
+          "on the increase",
+          "under way",
+          "behind the times"
+        ]
+      }
     }
   ],
   "notes": [

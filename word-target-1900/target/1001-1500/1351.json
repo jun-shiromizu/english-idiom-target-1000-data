@@ -12,5 +12,11 @@
       "sentence-jp": "2014年，エボラ熱の発生が11,000人以上の命を奪った。"
     }
   ],
+  "cloze": {
+    "maskedText": "The sudden ____ of violence shocked the town.",
+    "answerBase": "outbreak",
+    "answerSurface": "outbreak",
+    "choices": ["outbreak", "criterion", "mainstream", "hive"]
+  },
   "notes": []
 }

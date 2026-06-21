@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "The person we met in the elevator proved to be none other than the famous actor.",
-      "sentence-jp": "私たちがエレベーターで会った人物はほかならぬその有名な俳優だとわかった。"
+      "sentence-jp": "私たちがエレベーターで会った人物はほかならぬその有名な俳優だとわかった。",
+      "cloze": {
+        "maskedText": "The person we met in the elevator proved to be ____ the famous actor.",
+        "answerBase": "none other than ~",
+        "answerSurface": "none other than",
+        "choices": [
+          "none other than",
+          "one after another",
+          "by far",
+          "under construction"
+        ]
+      }
     }
   ],
   "notes": [

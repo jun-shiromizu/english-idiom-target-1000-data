@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "His family was forced to leave their home to make way for the construction of a new road.",
-      "sentence-jp": "彼の家族は新しい道路の建設にあたって道をあけるために強制的に家屋を立ち退かされた。"
+      "sentence-jp": "彼の家族は新しい道路の建設にあたって道をあけるために強制的に家屋を立ち退かされた。",
+      "cloze": {
+        "maskedText": "His family was forced to leave their home to ____ for the construction of a new road.",
+        "answerBase": "make way",
+        "answerSurface": "make way",
+        "choices": [
+          "make way",
+          "make an effort",
+          "make a living",
+          "live a full and happy life"
+        ]
+      }
     }
   ],
   "notes": [

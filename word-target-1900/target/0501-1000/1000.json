@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She is over sixty but sings beautifully nonetheless.",
-      "sentence-jp": "彼女は60歳を超えているが，それでもなお見事に歌う。"
+      "sentence-jp": "彼女は60歳を超えているが，それでもなお見事に歌う。",
+      "cloze": {
+        "maskedText": "She is over sixty but sings beautifully ____.",
+        "answerBase": "nonetheless",
+        "answerSurface": "nonetheless",
+        "choices": ["nonetheless", "modest", "urgent", "passive"]
+      }
     }
   ],
   "notes": []

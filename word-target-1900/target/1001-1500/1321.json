@@ -12,5 +12,11 @@
       "sentence-jp": "その会社は売り上げ不振のために100のポストを削減することを余儀なくされた。"
     }
   ],
+  "cloze": {
+    "maskedText": "The old tree will ____ its leaves in autumn.",
+    "answerBase": "shed",
+    "answerSurface": "shed",
+    "choices": ["shed", "emit", "renew", "assert"]
+  },
   "notes": []
 }

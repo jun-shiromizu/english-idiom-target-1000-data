@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "You rarely hear a tiger or a lion roar in a zoo.",
-      "sentence-jp": "動物園でトラやライオンがほえるのを聞くことはめったにない。"
+      "sentence-jp": "動物園でトラやライオンがほえるのを聞くことはめったにない。",
+      "cloze": {
+        "maskedText": "You rarely hear a tiger or a lion ____ in a zoo.",
+        "answerBase": "roar",
+        "answerSurface": "roar",
+        "choices": [
+          "roar",
+          "argue",
+          "sail",
+          "repair"
+        ]
+      }
     }
   ],
   "notes": []

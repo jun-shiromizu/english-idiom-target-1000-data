@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "My sister hates to practice the piano every day.",
-      "sentence-jp": "私の妹は毎日ピアノの練習をするのをひどく嫌う。"
+      "sentence-jp": "私の妹は毎日ピアノの練習をするのをひどく嫌う。",
+      "cloze": {
+        "maskedText": "My sister ____ to practice the piano every day.",
+        "answerBase": "hate",
+        "answerSurface": "hates",
+        "choices": [
+          "hates",
+          "builds",
+          "visits",
+          "lends"
+        ]
+      }
     }
   ],
   "notes": []

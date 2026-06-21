@@ -13,7 +13,18 @@
         "in addition"
       ],
       "example-sentence": "I am fortunate to have found a career that I love, and what is more, I am well paid for it.",
-      "sentence-jp": "私は大好きな仕事を見つけられて幸運だ。そしてさらに、それでよい給料をもらっている。"
+      "sentence-jp": "私は大好きな仕事を見つけられて幸運だ。そしてさらに、それでよい給料をもらっている。",
+      "cloze": {
+        "maskedText": "I am fortunate to have found a career that I love, and ____, I am well paid for it.",
+        "answerBase": "what is more",
+        "answerSurface": "what is more",
+        "choices": [
+          "what is more",
+          "much less speak it",
+          "worse still",
+          "by far"
+        ]
+      }
     }
   ],
   "notes": []

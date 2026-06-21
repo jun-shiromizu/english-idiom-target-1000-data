@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She clips suitable articles from the newspaper for future use.",
-      "sentence-jp": "彼女は将来使うために新聞から適当な記事を切り抜く。"
+      "sentence-jp": "彼女は将来使うために新聞から適当な記事を切り抜く。",
+      "cloze": {
+        "maskedText": "She ____ suitable articles from the newspaper for future use.",
+        "answerBase": "clip",
+        "answerSurface": "clips",
+        "choices": ["clips", "drags", "casts", "blinks"]
+      }
     }
   ],
   "notes": []

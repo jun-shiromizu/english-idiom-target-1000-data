@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "The ability to create knowledge and put it to good use is the key characteristic of humans.",
-      "sentence-jp": "知識を生み出してうまくそれを利用する能力は、人間の主要な特性だ。"
+      "sentence-jp": "知識を生み出してうまくそれを利用する能力は、人間の主要な特性だ。",
+      "cloze": {
+        "maskedText": "The ability to create knowledge and ____ is the key characteristic of humans.",
+        "answerBase": "put ~ to use",
+        "answerSurface": "put it to good use",
+        "choices": [
+          "put it to good use",
+          "take it into account",
+          "keep it company",
+          "let go of it"
+        ]
+      }
     }
   ],
   "notes": [

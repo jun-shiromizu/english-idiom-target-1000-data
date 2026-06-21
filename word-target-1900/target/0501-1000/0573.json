@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Statistics show that school uniforms have positive effects on students' behavior.",
-      "sentence-jp": "学校の制服が生徒の行動にプラスの効果を及ぼすことを統計は示す。"
+      "sentence-jp": "学校の制服が生徒の行動にプラスの効果を及ぼすことを統計は示す。",
+      "cloze": {
+        "maskedText": "____ show that school uniforms have positive effects on students' behavior.",
+        "answerBase": "statistics",
+        "answerSurface": "Statistics",
+        "choices": [
+          "Statistics",
+          "Treasures",
+          "Contracts",
+          "Ingredients"
+        ]
+      }
     }
   ],
   "notes": []

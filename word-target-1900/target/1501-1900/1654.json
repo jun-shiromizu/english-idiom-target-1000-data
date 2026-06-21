@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "It is not worth believing such a childish superstition.",
-      "sentence-jp": "そのような子供じみた迷信を信じる価値はない。"
+      "sentence-jp": "そのような子供じみた迷信を信じる価値はない。",
+      "cloze": {
+        "maskedText": "It is not worth believing such a childish ____.",
+        "answerBase": "superstition",
+        "answerSurface": "superstition",
+        "choices": [
+          "superstition",
+          "permission",
+          "tradition",
+          "suggestion"
+        ]
+      }
     }
   ],
   "notes": []

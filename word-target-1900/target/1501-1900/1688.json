@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "It is hard to tell good things from junk at antique shops.",
-      "sentence-jp": "骨董店ではよいものをがらくたから見分けるのが難しい。"
+      "sentence-jp": "骨董店ではよいものをがらくたから見分けるのが難しい。",
+      "cloze": {
+        "maskedText": "It is hard to tell good things from junk at ____ shops.",
+        "answerBase": "antique",
+        "answerSurface": "antique",
+        "choices": [
+          "antique",
+          "modern",
+          "popular",
+          "ordinary"
+        ]
+      }
     }
   ],
   "notes": []

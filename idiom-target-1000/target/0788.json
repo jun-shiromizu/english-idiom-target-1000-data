@@ -12,7 +12,18 @@
         "that said"
       ],
       "example-sentence": "He’s a bit behind the times. Having said that, I know he’s always reading newspapers.",
-      "sentence-jp": "彼は少し時代遅れだ。とは言ったものの、彼が常に新聞を読んでいることを私は知っている。"
+      "sentence-jp": "彼は少し時代遅れだ。とは言ったものの、彼が常に新聞を読んでいることを私は知っている。",
+      "cloze": {
+        "maskedText": "He’s a bit behind the times. ____, I know he’s always reading newspapers.",
+        "answerBase": "having said that",
+        "answerSurface": "Having said that",
+        "choices": [
+          "Having said that",
+          "On the dot",
+          "From scratch",
+          "At the wheel"
+        ]
+      }
     }
   ],
   "notes": []

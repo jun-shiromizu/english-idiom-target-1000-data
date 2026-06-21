@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The press condemned the movie producer for his immoralities.",
-      "sentence-jp": "報道機関はその映画製作者を不道徳な行為ゆえに非難した。"
+      "sentence-jp": "報道機関はその映画製作者を不道徳な行為ゆえに非難した。",
+      "cloze": {
+        "maskedText": "The press ____ the movie producer for his immoralities.",
+        "answerBase": "condemn",
+        "answerSurface": "condemned",
+        "choices": [
+          "condemned",
+          "convicted",
+          "praised",
+          "appointed"
+        ]
+      }
     }
   ],
   "notes": []

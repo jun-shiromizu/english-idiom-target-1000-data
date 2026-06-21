@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "A coworker had misunderstood her instructions and made a mistake.",
-      "sentence-jp": "同僚が彼女の指示を誤解し，間違いを犯した。"
+      "sentence-jp": "同僚が彼女の指示を誤解し，間違いを犯した。",
+      "cloze": {
+        "maskedText": "A coworker had ____ her instructions and made a mistake.",
+        "answerBase": "misunderstand",
+        "answerSurface": "misunderstood",
+        "choices": ["misunderstood", "vanished", "insisted", "suffered"]
+      }
     }
   ],
   "notes": []

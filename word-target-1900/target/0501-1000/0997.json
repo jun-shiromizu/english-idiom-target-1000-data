@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Music brings us a sense of spiritual well-being.",
-      "sentence-jp": "音楽は私たちに精神的に健康だという感覚をもたらす。"
+      "sentence-jp": "音楽は私たちに精神的に健康だという感覚をもたらす。",
+      "cloze": {
+        "maskedText": "Music brings us a sense of ____ well-being.",
+        "answerBase": "spiritual",
+        "answerSurface": "spiritual",
+        "choices": ["spiritual", "cruel", "urgent", "fake"]
+      }
     }
   ],
   "notes": []

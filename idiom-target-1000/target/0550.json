@@ -12,7 +12,18 @@
         "be analogous to [with] ~"
       ],
       "example-sentence": "The human body is similar to most plants in that it is designed to be active during the day.",
-      "sentence-jp": "ヒトの体は、日中活発であるように設計されているという点で、ほとんどの植物に似ている。"
+      "sentence-jp": "ヒトの体は、日中活発であるように設計されているという点で、ほとんどの植物に似ている。",
+      "cloze": {
+        "maskedText": "The human body is ____ most plants in that it is designed to be active during the day.",
+        "answerBase": "be similar to ~",
+        "answerSurface": "similar to",
+        "choices": [
+          "similar to",
+          "related to",
+          "subject to",
+          "prone to"
+        ]
+      }
     }
   ],
   "notes": [

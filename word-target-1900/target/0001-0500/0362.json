@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "People believe that the four-leaf clover is a symbol of good luck.",
-      "sentence-jp": "人々は四つ葉のクローバーが幸運の象徴であると信じている。"
+      "sentence-jp": "人々は四つ葉のクローバーが幸運の象徴であると信じている。",
+      "cloze": {
+        "maskedText": "People believe that the four-leaf clover is a ____ of good luck.",
+        "answerBase": "symbol",
+        "answerSurface": "symbol",
+        "choices": [
+          "symbol",
+          "budget",
+          "lecture",
+          "vehicle"
+        ]
+      }
     }
   ],
   "notes": []

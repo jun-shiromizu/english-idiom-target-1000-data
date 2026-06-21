@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "People from many countries donate money to UNICEF.",
-      "sentence-jp": "多くの国の人がユニセフにお金を寄付する。"
+      "sentence-jp": "多くの国の人がユニセフにお金を寄付する。",
+      "cloze": {
+        "maskedText": "People from many countries ____ money to UNICEF.",
+        "answerBase": "donate",
+        "answerSurface": "donate",
+        "choices": ["donate", "arrest", "forecast", "heal"]
+      }
     }
   ],
   "notes": []

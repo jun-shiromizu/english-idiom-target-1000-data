@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Yamada’s knowledge of chemistry counted for a great deal in his new position.",
-      "sentence-jp": "山田さんの化学の知識は彼の新しいポストでは大いに価値を持っていた。"
+      "sentence-jp": "山田さんの化学の知識は彼の新しいポストでは大いに価値を持っていた。",
+      "cloze": {
+        "maskedText": "Yamada’s knowledge of chemistry ____ a great deal in his new position.",
+        "answerBase": "count for ~",
+        "answerSurface": "counted for",
+        "choices": [
+          "counted for",
+          "accounted for",
+          "allowed for",
+          "settled for"
+        ]
+      }
     }
   ],
   "notes": [

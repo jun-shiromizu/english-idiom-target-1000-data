@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She pinned a note onto the bulletin board.",
-      "sentence-jp": "彼女は掲示板にメモをピンで留めた。"
+      "sentence-jp": "彼女は掲示板にメモをピンで留めた。",
+      "cloze": {
+        "maskedText": "She ____ a note onto the bulletin board.",
+        "answerBase": "pin",
+        "answerSurface": "pinned",
+        "choices": ["pinned", "uncovered", "exploited", "implemented"]
+      }
     }
   ],
   "notes": []

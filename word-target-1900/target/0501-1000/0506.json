@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "He managed to overcome his money problems.",
-      "sentence-jp": "彼はなんとか自らの金銭問題を克服した。"
+      "sentence-jp": "彼はなんとか自らの金銭問題を克服した。",
+      "cloze": {
+        "maskedText": "He managed to ____ his money problems.",
+        "answerBase": "overcome",
+        "answerSurface": "overcome",
+        "choices": [
+          "overcome",
+          "deliver",
+          "decorate",
+          "follow"
+        ]
+      }
     }
   ],
   "notes": []

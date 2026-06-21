@@ -13,7 +13,18 @@
         "take pains"
       ],
       "example-sentence": "The most important thing is not to succeed but to make an effort.",
-      "sentence-jp": "最も大切なことは、成功することではなく努力することだ。"
+      "sentence-jp": "最も大切なことは、成功することではなく努力することだ。",
+      "cloze": {
+        "maskedText": "The most important thing is not to succeed but to ____.",
+        "answerBase": "make an effort / make efforts",
+        "answerSurface": "make an effort",
+        "choices": [
+          "make an effort",
+          "make way",
+          "live a full and happy life",
+          "make a living"
+        ]
+      }
     }
   ],
   "notes": [

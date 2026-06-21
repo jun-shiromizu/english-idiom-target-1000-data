@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "An increase in foreigners may alter a country's traditional identity.",
-      "sentence-jp": "外国人の増加は国の伝統的な独自性を変えるかもしれない。"
+      "sentence-jp": "外国人の増加は国の伝統的な独自性を変えるかもしれない。",
+      "cloze": {
+        "maskedText": "An increase in foreigners may ____ a country's traditional identity.",
+        "answerBase": "alter",
+        "answerSurface": "alter",
+        "choices": [
+          "alter",
+          "invite",
+          "deliver",
+          "guard"
+        ]
+      }
     }
   ],
   "notes": []

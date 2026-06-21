@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "The hotel which had been closed for some time is said to have changed hands.",
-      "sentence-jp": "しばらく閉まっていたそのホテルは持ち主が変わったと言われている。"
+      "sentence-jp": "しばらく閉まっていたそのホテルは持ち主が変わったと言われている。",
+      "cloze": {
+        "maskedText": "The hotel which had been closed for some time is said to have ____.",
+        "answerBase": "change hands",
+        "answerSurface": "changed hands",
+        "choices": [
+          "changed hands",
+          "shaken hands",
+          "taken shape",
+          "had a say"
+        ]
+      }
     }
   ],
   "notes": [

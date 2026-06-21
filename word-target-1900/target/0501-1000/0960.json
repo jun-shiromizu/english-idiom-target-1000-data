@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Many research projects are trying to find an effective HIV vaccine.",
-      "sentence-jp": "多くの研究プロジェクトが効果的なHIVワクチンを発見しようとしている。"
+      "sentence-jp": "多くの研究プロジェクトが効果的なHIVワクチンを発見しようとしている。",
+      "cloze": {
+        "maskedText": "Many research projects are trying to find an effective HIV ____.",
+        "answerBase": "vaccine",
+        "answerSurface": "vaccine",
+        "choices": ["vaccine", "scenario", "allergy", "galaxy"]
+      }
     }
   ],
   "notes": []

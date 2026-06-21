@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The company posted anonymous reviews of their own products.",
-      "sentence-jp": "その会社は自社製品についての匿名のレビューを投稿した。"
+      "sentence-jp": "その会社は自社製品についての匿名のレビューを投稿した。",
+      "cloze": {
+        "maskedText": "The company posted ____ reviews of their own products.",
+        "answerBase": "anonymous",
+        "answerSurface": "anonymous",
+        "choices": [
+          "anonymous",
+          "accurate",
+          "friendly",
+          "weekly"
+        ]
+      }
     }
   ],
   "notes": []

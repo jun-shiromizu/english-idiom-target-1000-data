@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "He speculated that life might exist on Mars.",
-      "sentence-jp": "彼は火星に生物が存在するかもしれないと推測した。"
+      "sentence-jp": "彼は火星に生物が存在するかもしれないと推測した。",
+      "cloze": {
+        "maskedText": "He ____ that life might exist on Mars.",
+        "answerBase": "speculate",
+        "answerSurface": "speculated",
+        "choices": [
+          "speculated",
+          "insisted",
+          "observed",
+          "admitted"
+        ]
+      }
     }
   ],
   "notes": []

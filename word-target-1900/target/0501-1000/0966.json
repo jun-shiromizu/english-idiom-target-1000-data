@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Stars from other galaxies are hard to see with the naked eye.",
-      "sentence-jp": "他の星雲の星は肉眼では見えにくい。"
+      "sentence-jp": "他の星雲の星は肉眼では見えにくい。",
+      "cloze": {
+        "maskedText": "Stars from other ____ are hard to see with the naked eye.",
+        "answerBase": "galaxy",
+        "answerSurface": "galaxies",
+        "choices": ["galaxies", "minerals", "strokes", "vices"]
+      }
     }
   ],
   "notes": []

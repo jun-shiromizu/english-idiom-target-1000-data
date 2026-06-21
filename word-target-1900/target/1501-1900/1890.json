@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "It is hot and humid in Tokyo in summer.",
-      "sentence-jp": "東京の夏は暑くて湿気が多い。"
+      "sentence-jp": "東京の夏は暑くて湿気が多い。",
+      "cloze": {
+        "maskedText": "It is hot and ____ in Tokyo in summer.",
+        "answerBase": "humid",
+        "answerSurface": "humid",
+        "choices": [
+          "humid",
+          "vacant",
+          "earnest",
+          "eloquent"
+        ]
+      }
     }
   ],
   "notes": []

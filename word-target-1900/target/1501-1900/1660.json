@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He studied anthropology because he was interested in culture.",
-      "sentence-jp": "彼は文化に興味があったので，人類学を研究した。"
+      "sentence-jp": "彼は文化に興味があったので，人類学を研究した。",
+      "cloze": {
+        "maskedText": "He studied ____ because he was interested in culture.",
+        "answerBase": "anthropology",
+        "answerSurface": "anthropology",
+        "choices": [
+          "anthropology",
+          "chemistry",
+          "geometry",
+          "astronomy"
+        ]
+      }
     }
   ],
   "notes": []

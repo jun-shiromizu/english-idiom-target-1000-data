@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "A new plan for the research has begun to take shape in my mind.",
-      "sentence-jp": "その研究の新しい計画が頭の中で形になり始めた。"
+      "sentence-jp": "その研究の新しい計画が頭の中で形になり始めた。",
+      "cloze": {
+        "maskedText": "A new plan for the research has begun to ____ in my mind.",
+        "answerBase": "take shape",
+        "answerSurface": "take shape",
+        "choices": [
+          "take shape",
+          "take turns",
+          "change hands",
+          "have one's way"
+        ]
+      }
     }
   ],
   "notes": [

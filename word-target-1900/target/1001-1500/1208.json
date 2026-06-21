@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Renaissance art flourished in Italy between the 14 th and 16 th century.",
-      "sentence-jp": "ルネサンス芸術は14世紀から16世紀にかけてイタリアで繁栄した。"
+      "sentence-jp": "ルネサンス芸術は14世紀から16世紀にかけてイタリアで繁栄した。",
+      "cloze": {
+        "maskedText": "Renaissance art ____ in Italy between the 14th and 16th century.",
+        "answerBase": "flourish",
+        "answerSurface": "flourished",
+        "choices": ["flourished", "thrived", "clicked", "blinked"]
+      }
     }
   ],
   "notes": []

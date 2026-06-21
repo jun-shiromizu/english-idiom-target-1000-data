@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "In case of emergency, please proceed calmly to the nearest exit.",
-      "sentence-jp": "緊急の場合，落ち着いて最寄りの出口にお進みください。"
+      "sentence-jp": "緊急の場合，落ち着いて最寄りの出口にお進みください。",
+      "cloze": {
+        "maskedText": "In case of emergency, please ____ calmly to the nearest exit.",
+        "answerBase": "proceed",
+        "answerSurface": "proceed",
+        "choices": ["proceed", "orient", "surf", "bet"]
+      }
     }
   ],
   "notes": []

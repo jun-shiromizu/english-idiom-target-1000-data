@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Her enthusiasm for the job made up for her lack of experience.",
-      "sentence-jp": "彼女の仕事への熱意は自らの経験不足を補った。"
+      "sentence-jp": "彼女の仕事への熱意は自らの経験不足を補った。",
+      "cloze": {
+        "maskedText": "Her ____ for the job made up for her lack of experience.",
+        "answerBase": "enthusiasm",
+        "answerSurface": "enthusiasm",
+        "choices": ["enthusiasm", "silence", "patience", "measure"]
+      }
     }
   ],
   "notes": []

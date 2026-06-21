@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "The teacher emphasizes the intrinsic value of education.",
-      "sentence-jp": "その先生は教育の本質的な価値を強調する。"
+      "sentence-jp": "その先生は教育の本質的な価値を強調する。",
+      "cloze": {
+        "maskedText": "The teacher emphasizes the ____ value of education.",
+        "answerBase": "intrinsic",
+        "answerSurface": "intrinsic",
+        "choices": [
+          "intrinsic",
+          "wooden",
+          "distant",
+          "modest"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "These devices were used to torture enemy spies.",
-      "sentence-jp": "これらの装置は敵のスパイを拷問するのに使われた。"
+      "sentence-jp": "これらの装置は敵のスパイを拷問するのに使われた。",
+      "cloze": {
+        "maskedText": "These devices were used to ____ enemy spies.",
+        "answerBase": "torture",
+        "answerSurface": "torture",
+        "choices": [
+          "torture",
+          "reward",
+          "gather",
+          "educate"
+        ]
+      }
     }
   ],
   "notes": []

@@ -13,7 +13,18 @@
         "be faced with ~"
       ],
       "example-sentence": "In an economic recession after the disaster, his company was confronted with new challenges.",
-      "sentence-jp": "災害後の経済不況で、彼の会社は新たな難題に直面していた。"
+      "sentence-jp": "災害後の経済不況で、彼の会社は新たな難題に直面していた。",
+      "cloze": {
+        "maskedText": "In an economic recession after the disaster, his company was ____ new challenges.",
+        "answerBase": "be confronted with ~ / be confronted by ~",
+        "answerSurface": "confronted with",
+        "choices": [
+          "confronted with",
+          "equipped with",
+          "acquainted with",
+          "content with"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Count on him; he is acquainted with all the local customs.",
-      "sentence-jp": "彼を頼りにしなさい。彼は地元のあらゆる慣習に精通しているから。"
+      "sentence-jp": "彼を頼りにしなさい。彼は地元のあらゆる慣習に精通しているから。",
+      "cloze": {
+        "maskedText": "Count on him; he is ____ all the local customs.",
+        "answerBase": "be acquainted with ~",
+        "answerSurface": "acquainted with",
+        "choices": [
+          "acquainted with",
+          "equipped with",
+          "confronted with",
+          "popular with"
+        ]
+      }
     }
   ],
   "notes": [

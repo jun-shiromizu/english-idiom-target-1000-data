@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "I know some tricks for studying effectively before the test.",
-      "sentence-jp": "私はテスト前に効果的に勉強するためのいくつかのこつを知っている。"
+      "sentence-jp": "私はテスト前に効果的に勉強するためのいくつかのこつを知っている。",
+      "cloze": {
+        "maskedText": "I know some ____ for studying effectively before the test.",
+        "answerBase": "trick",
+        "answerSurface": "tricks",
+        "choices": [
+          "tricks",
+          "shelters",
+          "predators",
+          "territories"
+        ]
+      }
     }
   ],
   "notes": []

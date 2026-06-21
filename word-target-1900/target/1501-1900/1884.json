@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "He had his driver's license suspended for reckless driving.",
-      "sentence-jp": "彼は無謀な運転のかどで免許停止になった。"
+      "sentence-jp": "彼は無謀な運転のかどで免許停止になった。",
+      "cloze": {
+        "maskedText": "He had his driver's license suspended for ____ driving.",
+        "answerBase": "reckless",
+        "answerSurface": "reckless",
+        "choices": [
+          "reckless",
+          "gentle",
+          "timid",
+          "vacant"
+        ]
+      }
     }
   ],
   "notes": []

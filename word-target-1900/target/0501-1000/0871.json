@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Many people thought of sugar as a luxury in the 1800 s.",
-      "sentence-jp": "1800年代には多くの人が砂糖をぜいたく品と考えていた。"
+      "sentence-jp": "1800年代には多くの人が砂糖をぜいたく品と考えていた。",
+      "cloze": {
+        "maskedText": "Many people thought of sugar as a ____ in the 1800s.",
+        "answerBase": "luxury",
+        "answerSurface": "luxury",
+        "choices": ["luxury", "border", "signal", "discount"]
+      }
     }
   ],
   "notes": []

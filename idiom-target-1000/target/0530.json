@@ -13,7 +13,18 @@
         "have it [things / everything] one’s (own) way"
       ],
       "example-sentence": "She tends to get cross when she can’t have her own way.",
-      "sentence-jp": "彼女は思い通りにすることができないときは不機嫌になりがちだ。"
+      "sentence-jp": "彼女は思い通りにすることができないときは不機嫌になりがちだ。",
+      "cloze": {
+        "maskedText": "She tends to get cross when she can’t ____.",
+        "answerBase": "have one's (own) way / get one's (own) way",
+        "answerSurface": "have her own way",
+        "choices": [
+          "have her own way",
+          "have a say",
+          "keep her temper",
+          "have access to safe water at home"
+        ]
+      }
     }
   ],
   "notes": []

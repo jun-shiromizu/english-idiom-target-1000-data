@@ -12,5 +12,11 @@
       "sentence-jp": "今日では多くの学校の教科書がデジタル形式で出てきている。"
     }
   ],
+  "cloze": {
+    "maskedText": "Please save the file in PDF ____.",
+    "answerBase": "format",
+    "answerSurface": "format",
+    "choices": ["format", "republic", "bug", "herd"]
+  },
   "notes": []
 }

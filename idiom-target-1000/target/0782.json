@@ -12,7 +12,18 @@
         "lend ~ a hand"
       ],
       "example-sentence": "I want to move this to the corner. Will you give me a hand, please?",
-      "sentence-jp": "これを隅に移動させたい。私に手を貸してくれますか。"
+      "sentence-jp": "これを隅に移動させたい。私に手を貸してくれますか。",
+      "cloze": {
+        "maskedText": "I want to move this to the corner. Will you ____ , please?",
+        "answerBase": "give ~ a hand",
+        "answerSurface": "give me a hand",
+        "choices": [
+          "give me a hand",
+          "ask me a favor",
+          "see me off",
+          "call me back"
+        ]
+      }
     }
   ],
   "notes": []

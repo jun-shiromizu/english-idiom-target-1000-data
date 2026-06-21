@@ -12,5 +12,11 @@
       "sentence-jp": "地元の住民たちは週末に学校の体育館を利用することができる。"
     }
   ],
+  "cloze": {
+    "maskedText": "We should ____ every available resource.",
+    "answerBase": "utilize",
+    "answerSurface": "utilize",
+    "choices": ["utilize", "strive", "boast", "offend"]
+  },
   "notes": []
 }

@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She forgot to drain water from the bathtub.",
-      "sentence-jp": "彼女は浴槽から水を流すのを忘れた。"
+      "sentence-jp": "彼女は浴槽から水を流すのを忘れた。",
+      "cloze": {
+        "maskedText": "She forgot to ____ water from the bathtub.",
+        "answerBase": "drain",
+        "answerSurface": "drain",
+        "choices": ["drain", "drift", "forgive", "crush"]
+      }
     }
   ],
   "notes": []

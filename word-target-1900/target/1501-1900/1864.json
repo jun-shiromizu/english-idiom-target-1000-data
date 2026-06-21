@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The court appointed an attorney to represent the defendant.",
-      "sentence-jp": "裁判所は被告の代理人を務める弁護士を任命した。"
+      "sentence-jp": "裁判所は被告の代理人を務める弁護士を任命した。",
+      "cloze": {
+        "maskedText": "The court appointed an ____ to represent the defendant.",
+        "answerBase": "attorney",
+        "answerSurface": "attorney",
+        "choices": [
+          "attorney",
+          "electrician",
+          "tourist",
+          "gardener"
+        ]
+      }
     }
   ],
   "notes": []

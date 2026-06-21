@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Jack is staying with his friend for the time being until he finds a place of his own.",
-      "sentence-jp": "ジャックは自分自身の住居が見つかるまで、当分の間友人の家に泊まっている。"
+      "sentence-jp": "ジャックは自分自身の住居が見つかるまで、当分の間友人の家に泊まっている。",
+      "cloze": {
+        "maskedText": "Jack is staying with his friend for the time being until he finds a place ____.",
+        "answerBase": "~ of one’s own",
+        "answerSurface": "of his own",
+        "choices": [
+          "of his own",
+          "of his doing",
+          "at stake",
+          "in earnest"
+        ]
+      }
     }
   ],
   "notes": [

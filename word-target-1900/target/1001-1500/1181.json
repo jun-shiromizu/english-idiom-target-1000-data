@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "It is not certain that acid rain is caused by air pollution.",
-      "sentence-jp": "酸性雨が大気汚染によって引き起こされるのかはっきりしない。"
+      "sentence-jp": "酸性雨が大気汚染によって引き起こされるのかはっきりしない。",
+      "cloze": {
+        "maskedText": "It is not certain that ____ rain is caused by air pollution.",
+        "answerBase": "acid",
+        "answerSurface": "acid",
+        "choices": ["acid", "bitter", "noble", "dense"]
+      }
     }
   ],
   "notes": []

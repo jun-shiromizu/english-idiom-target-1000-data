@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "My team plans and executes the company's strategy.",
-      "sentence-jp": "私のチームは会社の戦略を立て，実行する。"
+      "sentence-jp": "私のチームは会社の戦略を立て，実行する。",
+      "cloze": {
+        "maskedText": "My team plans and ____ the company's strategy.",
+        "answerBase": "execute",
+        "answerSurface": "executes",
+        "choices": [
+          "executes",
+          "examines",
+          "expands",
+          "explains"
+        ]
+      }
     }
   ],
   "notes": []

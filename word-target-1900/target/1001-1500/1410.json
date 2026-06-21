@@ -12,5 +12,11 @@
       "sentence-jp": "その猫は私の腕を引っかいた。"
     }
   ],
+  "cloze": {
+    "maskedText": "Be careful not to ____ the table.",
+    "answerBase": "scratch",
+    "answerSurface": "scratch",
+    "choices": ["scratch", "attain", "depart", "comprehend"]
+  },
   "notes": []
 }

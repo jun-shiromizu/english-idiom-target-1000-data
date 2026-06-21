@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She dissolved a vitamin C tablet in water.",
-      "sentence-jp": "彼女はビタミンCの錠剤を水に溶かした。"
+      "sentence-jp": "彼女はビタミンCの錠剤を水に溶かした。",
+      "cloze": {
+        "maskedText": "She ____ a vitamin C tablet in water.",
+        "answerBase": "dissolve",
+        "answerSurface": "dissolved",
+        "choices": [
+          "dissolved",
+          "dropped",
+          "squeezed",
+          "washed"
+        ]
+      }
     }
   ],
   "notes": []

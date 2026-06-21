@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "He was unfamiliar with the technical vocabulary used by the professor.",
-      "sentence-jp": "彼は教授の使う専門用語に不慣れだった。"
+      "sentence-jp": "彼は教授の使う専門用語に不慣れだった。",
+      "cloze": {
+        "maskedText": "He was ____ with the technical vocabulary used by the professor.",
+        "answerBase": "unfamiliar",
+        "answerSurface": "unfamiliar",
+        "choices": [
+          "unfamiliar",
+          "classic",
+          "concrete",
+          "marine"
+        ]
+      }
     }
   ],
   "notes": []

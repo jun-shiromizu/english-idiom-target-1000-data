@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Air pollution is a serious threat to children's health.",
-      "sentence-jp": "大気汚染は子供の健康にとって深刻な脅威である。"
+      "sentence-jp": "大気汚染は子供の健康にとって深刻な脅威である。",
+      "cloze": {
+        "maskedText": "Air pollution is a serious ____ to children's health.",
+        "answerBase": "threat",
+        "answerSurface": "threat",
+        "choices": [
+          "threat",
+          "lecture",
+          "surface",
+          "journey"
+        ]
+      }
     }
   ],
   "notes": []

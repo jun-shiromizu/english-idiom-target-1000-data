@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "He dictated to his secretary how to do her job.",
-      "sentence-jp": "彼は自分の秘書に仕事の仕方を指図した。"
+      "sentence-jp": "彼は自分の秘書に仕事の仕方を指図した。",
+      "cloze": {
+        "maskedText": "He ____ to his secretary how to do her job.",
+        "answerBase": "dictate",
+        "answerSurface": "dictated",
+        "choices": [
+          "dictated",
+          "listened",
+          "referred",
+          "reacted"
+        ]
+      }
     }
   ],
   "notes": []

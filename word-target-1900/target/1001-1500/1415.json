@@ -12,5 +12,11 @@
       "sentence-jp": "日本では，列車はほとんどいつも時間どおりに出発する。"
     }
   ],
+  "cloze": {
+    "maskedText": "The flight will ____ at 7:30 a.m.",
+    "answerBase": "depart",
+    "answerSurface": "depart",
+    "choices": ["depart", "designate", "attain", "portray"]
+  },
   "notes": []
 }

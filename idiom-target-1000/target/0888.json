@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "With prices rising, it is becoming harder for anyone to make ends meet these days.",
-      "sentence-jp": "物価が上昇しているので、最近では誰でも収入内でやりくりするのがより難しくなってきている。"
+      "sentence-jp": "物価が上昇しているので、最近では誰でも収入内でやりくりするのがより難しくなってきている。",
+      "cloze": {
+        "maskedText": "With prices rising, it is becoming harder for anyone to ____ these days.",
+        "answerBase": "make (both) ends meet",
+        "answerSurface": "make ends meet",
+        "choices": [
+          "make ends meet",
+          "make good",
+          "make do",
+          "make believe"
+        ]
+      }
     }
   ],
   "notes": [

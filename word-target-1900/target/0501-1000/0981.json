@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "She surprised us with her prompt response.",
-      "sentence-jp": "彼女は迅速な応答で私たちを驚かせた。"
+      "sentence-jp": "彼女は迅速な応答で私たちを驚かせた。",
+      "cloze": {
+        "maskedText": "She surprised us with her ____ response.",
+        "answerBase": "prompt",
+        "answerSurface": "prompt",
+        "choices": ["prompt", "neutral", "magnetic", "passive"]
+      }
     }
   ],
   "notes": []

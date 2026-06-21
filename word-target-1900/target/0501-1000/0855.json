@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He is an American and is new to the British sense of humor.",
-      "sentence-jp": "彼はアメリカ人で，イギリス人のユーモアのセンスになじみがない。"
+      "sentence-jp": "彼はアメリカ人で，イギリス人のユーモアのセンスになじみがない。",
+      "cloze": {
+        "maskedText": "He is an American and is new to the British sense of ____.",
+        "answerBase": "humor",
+        "answerSurface": "humor",
+        "choices": ["humor", "metal", "garlic", "distance"]
+      }
     }
   ],
   "notes": []

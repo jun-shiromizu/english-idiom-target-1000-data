@@ -12,5 +12,11 @@
       "sentence-jp": "私はそんな易しい質問に答えることができなかったことを恥ずかしく思った。"
     }
   ],
+  "cloze": {
+    "maskedText": "She felt ____ of her rude behavior.",
+    "answerBase": "ashamed",
+    "answerSurface": "ashamed",
+    "choices": ["ashamed", "innate", "ongoing", "wireless"]
+  },
   "notes": []
 }

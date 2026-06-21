@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "If you are in danger abroad, contact your country's embassy.",
-      "sentence-jp": "外国で危険な状況に陥ったら，自国の大使館に連絡を取りなさい。"
+      "sentence-jp": "外国で危険な状況に陥ったら，自国の大使館に連絡を取りなさい。",
+      "cloze": {
+        "maskedText": "If you are in danger abroad, contact your country's ____.",
+        "answerBase": "embassy",
+        "answerSurface": "embassy",
+        "choices": [
+          "embassy",
+          "stadium",
+          "cemetery",
+          "laboratory"
+        ]
+      }
     }
   ],
   "notes": []

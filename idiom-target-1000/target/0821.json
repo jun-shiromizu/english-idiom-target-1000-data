@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Since we’ve done a good job, let’s treat ourselves to something special this evening.",
-      "sentence-jp": "私たちはよい仕事をしたので、今夜は自分たちに何か特別なものをごちそうしよう。"
+      "sentence-jp": "私たちはよい仕事をしたので、今夜は自分たちに何か特別なものをごちそうしよう。",
+      "cloze": {
+        "maskedText": "Since we’ve done a good job, let’s ____ something special this evening.",
+        "answerBase": "treat A to B",
+        "answerSurface": "treat ourselves to",
+        "choices": [
+          "treat ourselves to",
+          "help ourselves to",
+          "give our regards to",
+          "watch our step with"
+        ]
+      }
     }
   ],
   "notes": [

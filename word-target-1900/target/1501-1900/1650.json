@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The Immigration Bureau is not in charge of granting work visas.",
-      "sentence-jp": "移民局は労働ビザの発給を担当していない。"
+      "sentence-jp": "移民局は労働ビザの発給を担当していない。",
+      "cloze": {
+        "maskedText": "The Immigration ____ is not in charge of granting work visas.",
+        "answerBase": "bureau",
+        "answerSurface": "Bureau",
+        "choices": [
+          "Bureau",
+          "Festival",
+          "Village",
+          "Library"
+        ]
+      }
     }
   ],
   "notes": []

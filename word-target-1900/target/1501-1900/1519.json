@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She made pickles by soaking cucumbers in vinegar.",
-      "sentence-jp": "彼女はキュウリを酢に浸すことによってピクルスを作った。"
+      "sentence-jp": "彼女はキュウリを酢に浸すことによってピクルスを作った。",
+      "cloze": {
+        "maskedText": "She made pickles by ____ cucumbers in vinegar.",
+        "answerBase": "soak",
+        "answerSurface": "soaking",
+        "choices": [
+          "soaking",
+          "stirring",
+          "cutting",
+          "boiling"
+        ]
+      }
     }
   ],
   "notes": []

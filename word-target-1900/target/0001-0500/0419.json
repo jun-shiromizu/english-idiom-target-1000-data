@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "A big dog bit my leg when I was a child.",
-      "sentence-jp": "私が子供のころ大きな犬が私の脚にかみついた。"
+      "sentence-jp": "私が子供のころ大きな犬が私の脚にかみついた。",
+      "cloze": {
+        "maskedText": "A big dog ____ my leg when I was a child.",
+        "answerBase": "bite",
+        "answerSurface": "bit",
+        "choices": [
+          "bit",
+          "lent",
+          "saved",
+          "closed"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Houses in Hokkaido are sealed to prevent cold winds and snow from getting in.",
-      "sentence-jp": "北海道の家は冷たい風や雪が入り込むのを防ぐように密閉されている。"
+      "sentence-jp": "北海道の家は冷たい風や雪が入り込むのを防ぐように密閉されている。",
+      "cloze": {
+        "maskedText": "Houses in Hokkaido are ____ to prevent cold winds and snow from getting in.",
+        "answerBase": "seal",
+        "answerSurface": "sealed",
+        "choices": ["sealed", "concealed", "dismissed", "faded"]
+      }
     }
   ],
   "notes": []

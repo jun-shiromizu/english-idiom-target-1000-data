@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The government has secured a new source of water for its people.",
-      "sentence-jp": "政府は国民のために新しい水源を確保した。"
+      "sentence-jp": "政府は国民のために新しい水源を確保した。",
+      "cloze": {
+        "maskedText": "The government has ____ a new source of water for its people.",
+        "answerBase": "secure",
+        "answerSurface": "secured",
+        "choices": [
+          "secured",
+          "specialized",
+          "pretended",
+          "resisted"
+        ]
+      }
     }
   ],
   "notes": []

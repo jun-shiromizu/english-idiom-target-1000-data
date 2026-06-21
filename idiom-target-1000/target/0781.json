@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "My sister had taught me how to cook the dish, so I gave it a try for myself this morning.",
-      "sentence-jp": "姉が私にその料理の仕方を教えてくれていたので、今朝自分でそれを試してみた。"
+      "sentence-jp": "姉が私にその料理の仕方を教えてくれていたので、今朝自分でそれを試してみた。",
+      "cloze": {
+        "maskedText": "My sister had taught me how to cook the dish, so I ____ for myself this morning.",
+        "answerBase": "give ~ a try",
+        "answerSurface": "gave it a try",
+        "choices": [
+          "gave it a try",
+          "gave me a hand",
+          "asked a favor",
+          "called back"
+        ]
+      }
     }
   ],
   "notes": [

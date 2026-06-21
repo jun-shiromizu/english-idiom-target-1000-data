@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "We should create laws against using fake online accounts.",
-      "sentence-jp": "私たちは偽のオンラインアカウントの使用を禁じる法律を作るべきである。"
+      "sentence-jp": "私たちは偽のオンラインアカウントの使用を禁じる法律を作るべきである。",
+      "cloze": {
+        "maskedText": "We should create laws against using ____ online accounts.",
+        "answerBase": "fake",
+        "answerSurface": "fake",
+        "choices": ["fake", "vulnerable", "spiritual", "keen"]
+      }
     }
   ],
   "notes": []

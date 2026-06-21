@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Yesterday, it happened that an old friend of mine and I were riding in the same train car.",
-      "sentence-jp": "昨日、たまたま旧友と私は列車の同じ車両に乗っていた。"
+      "sentence-jp": "昨日、たまたま旧友と私は列車の同じ車両に乗っていた。",
+      "cloze": {
+        "maskedText": "Yesterday, ____ an old friend of mine and I were riding in the same train car.",
+        "answerBase": "It happens that ...",
+        "answerSurface": "it happened that",
+        "choices": [
+          "it happened that",
+          "no wonder",
+          "if only",
+          "believe it or not"
+        ]
+      }
     }
   ],
   "notes": [

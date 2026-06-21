@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The government spent a large sum of money on energy projects last year.",
-      "sentence-jp": "政府は昨年エネルギー事業に多額の金を費やした。"
+      "sentence-jp": "政府は昨年エネルギー事業に多額の金を費やした。",
+      "cloze": {
+        "maskedText": "The government spent a large ____ of money on energy projects last year.",
+        "answerBase": "sum",
+        "answerSurface": "sum",
+        "choices": [
+          "sum",
+          "tone",
+          "honor",
+          "incident"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "I have no idea how to cope with this problem.",
-      "sentence-jp": "この問題にどう対処すればよいか私にはまったくわからない。"
+      "sentence-jp": "この問題にどう対処すればよいか私にはまったくわからない。",
+      "cloze": {
+        "maskedText": "I have no idea how to ____ with this problem.",
+        "answerBase": "cope",
+        "answerSurface": "cope",
+        "choices": [
+          "cope",
+          "convey",
+          "attach",
+          "stretch"
+        ]
+      }
     }
   ],
   "notes": []

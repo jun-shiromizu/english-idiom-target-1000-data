@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The new T-shirt absorbs sweat and dries fast.",
-      "sentence-jp": "その新しいTシャツは汗を吸収して速く乾く。"
+      "sentence-jp": "その新しいTシャツは汗を吸収して速く乾く。",
+      "cloze": {
+        "maskedText": "The new T-shirt ____ sweat and dries fast.",
+        "answerBase": "absorb",
+        "answerSurface": "absorbs",
+        "choices": [
+          "absorbs",
+          "argues",
+          "travels",
+          "settles"
+        ]
+      }
     }
   ],
   "notes": []

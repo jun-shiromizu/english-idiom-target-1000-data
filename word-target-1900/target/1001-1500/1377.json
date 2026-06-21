@@ -12,5 +12,11 @@
       "sentence-jp": "その仏教の僧侶たちは自然とともに生きることを習得した。"
     }
   ],
+  "cloze": {
+    "maskedText": "The ____ spent years in silent prayer.",
+    "answerBase": "monk",
+    "answerSurface": "monk",
+    "choices": ["monk", "aisle", "intake", "signature"]
+  },
   "notes": []
 }

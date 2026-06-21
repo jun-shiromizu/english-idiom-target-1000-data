@@ -12,7 +12,18 @@
         "a useless [an unwanted] item"
       ],
       "example-sentence": "The summer cottage my grandparents used to go to has become a complete white elephant.",
-      "sentence-jp": "祖父母がかつてよく行っていた夏の別荘は完全に無用の長物になっている。"
+      "sentence-jp": "祖父母がかつてよく行っていた夏の別荘は完全に無用の長物になっている。",
+      "cloze": {
+        "maskedText": "The summer cottage my grandparents used to go to has become a complete ____.",
+        "answerBase": "a white elephant",
+        "answerSurface": "white elephant",
+        "choices": [
+          "white elephant",
+          "case in point",
+          "pros and cons",
+          "elephant in the room"
+        ]
+      }
     }
   ],
   "notes": [

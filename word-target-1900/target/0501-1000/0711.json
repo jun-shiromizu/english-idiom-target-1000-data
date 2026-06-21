@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The Netherlands restricted the use of drugs on farm animals.",
-      "sentence-jp": "オランダは家畜に対する薬品の使用を制限した。"
+      "sentence-jp": "オランダは家畜に対する薬品の使用を制限した。",
+      "cloze": {
+        "maskedText": "The Netherlands ____ the use of drugs on farm animals.",
+        "answerBase": "restrict",
+        "answerSurface": "restricted",
+        "choices": [
+          "restricted",
+          "isolated",
+          "evaluated",
+          "declared"
+        ]
+      }
     }
   ],
   "notes": []

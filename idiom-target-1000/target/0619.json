@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "The speaker talked about the importance of reading as opposed to playing video games.",
-      "sentence-jp": "講演者はテレビゲームをすることではなく読書の重要性について話した。"
+      "sentence-jp": "講演者はテレビゲームをすることではなく読書の重要性について話した。",
+      "cloze": {
+        "maskedText": "The speaker talked about the importance of reading ____ playing video games.",
+        "answerBase": "as opposed to ~",
+        "answerSurface": "as opposed to",
+        "choices": [
+          "as opposed to",
+          "at the mercy of",
+          "for the sake of",
+          "by means of"
+        ]
+      }
     }
   ],
   "notes": []

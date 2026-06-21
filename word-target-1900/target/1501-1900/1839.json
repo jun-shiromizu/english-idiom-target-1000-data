@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She lost her breath after she ascended the stairs.",
-      "sentence-jp": "彼女は階段を上った後，息切れがした。"
+      "sentence-jp": "彼女は階段を上った後，息切れがした。",
+      "cloze": {
+        "maskedText": "She lost her breath after she ____ the stairs.",
+        "answerBase": "ascend",
+        "answerSurface": "ascended",
+        "choices": [
+          "ascended",
+          "painted",
+          "counted",
+          "stored"
+        ]
+      }
     }
   ],
   "notes": []

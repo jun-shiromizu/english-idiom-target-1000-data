@@ -12,5 +12,11 @@
       "sentence-jp": "その会社は自社の不法取引に関するニュース記事を抑えようとした。"
     }
   ],
+  "cloze": {
+    "maskedText": "The regime tried to ____ free speech.",
+    "answerBase": "suppress",
+    "answerSurface": "suppress",
+    "choices": ["suppress", "deceive", "flee", "blossom"]
+  },
   "notes": []
 }

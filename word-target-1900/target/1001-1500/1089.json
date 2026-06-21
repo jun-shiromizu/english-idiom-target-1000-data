@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The village was severely damaged by heavy rains and subsequent floods.",
-      "sentence-jp": "村は豪雨とその後の洪水によって大きな損害を受けた。"
+      "sentence-jp": "村は豪雨とその後の洪水によって大きな損害を受けた。",
+      "cloze": {
+        "maskedText": "The village was severely damaged by heavy rains and ____ floods.",
+        "answerBase": "subsequent",
+        "answerSurface": "subsequent",
+        "choices": ["subsequent", "shallow", "obese", "medieval"]
+      }
     }
   ],
   "notes": []

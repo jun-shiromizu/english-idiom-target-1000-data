@@ -12,7 +12,18 @@
         "on the surface"
       ],
       "example-sentence": "On the face of it, there are striking similarities between our plan and theirs.",
-      "sentence-jp": "見たところ、私たちの計画と彼らの計画には著しい類似点がある。"
+      "sentence-jp": "見たところ、私たちの計画と彼らの計画には著しい類似点がある。",
+      "cloze": {
+        "maskedText": "____, there are striking similarities between our plan and theirs.",
+        "answerBase": "on the face of it",
+        "answerSurface": "On the face of it",
+        "choices": [
+          "On the face of it",
+          "On the spot",
+          "Once upon a time",
+          "To date"
+        ]
+      }
     }
   ],
   "notes": []

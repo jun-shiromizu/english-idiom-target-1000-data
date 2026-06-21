@@ -12,5 +12,11 @@
       "sentence-jp": "卒業後，彼と私は異なる社会的領域に進んだ。"
     }
   ],
+  "cloze": {
+    "maskedText": "She is well known in academic ____.",
+    "answerBase": "sphere",
+    "answerSurface": "sphere",
+    "choices": ["sphere", "breakthrough", "revenue", "blade"]
+  },
   "notes": []
 }

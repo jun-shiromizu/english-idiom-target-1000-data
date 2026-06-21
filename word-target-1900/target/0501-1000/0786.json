@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Some places in the world have a primitive way of life.",
-      "sentence-jp": "世界には原始的な生活様式を保有する場所がある。"
+      "sentence-jp": "世界には原始的な生活様式を保有する場所がある。",
+      "cloze": {
+        "maskedText": "Some places in the world have a ____ way of life.",
+        "answerBase": "primitive",
+        "answerSurface": "primitive",
+        "choices": [
+          "primitive",
+          "federal",
+          "subtle",
+          "plain"
+        ]
+      }
     }
   ],
   "notes": []

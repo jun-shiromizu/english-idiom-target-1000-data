@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He reviewed his arithmetic and realized he made a mistake.",
-      "sentence-jp": "彼は計算を見直し，間違いをしたことに気づいた。"
+      "sentence-jp": "彼は計算を見直し，間違いをしたことに気づいた。",
+      "cloze": {
+        "maskedText": "He reviewed his ____ and realized he made a mistake.",
+        "answerBase": "arithmetic",
+        "answerSurface": "arithmetic",
+        "choices": [
+          "arithmetic",
+          "schedule",
+          "essay",
+          "license"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The bond between the two sisters is very strong.",
-      "sentence-jp": "その2人姉妹の間の絆は非常に強い。"
+      "sentence-jp": "その2人姉妹の間の絆は非常に強い。",
+      "cloze": {
+        "maskedText": "The ____ between the two sisters is very strong.",
+        "answerBase": "bond",
+        "answerSurface": "bond",
+        "choices": [
+          "bond",
+          "minimum",
+          "exception",
+          "insurance"
+        ]
+      }
     }
   ],
   "notes": []

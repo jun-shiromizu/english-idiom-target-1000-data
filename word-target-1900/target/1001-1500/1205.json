@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The new goal of the government is to accelerate economic growth.",
-      "sentence-jp": "政府の新しい目標は経済成長を加速させることである。"
+      "sentence-jp": "政府の新しい目標は経済成長を加速させることである。",
+      "cloze": {
+        "maskedText": "The new goal of the government is to ____ economic growth.",
+        "answerBase": "accelerate",
+        "answerSurface": "accelerate",
+        "choices": ["accelerate", "accustom", "amuse", "withdraw"]
+      }
     }
   ],
   "notes": []

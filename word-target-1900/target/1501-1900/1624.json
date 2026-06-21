@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "We sometimes wish we could erase some of our memories.",
-      "sentence-jp": "私たちはときどき自分の記憶のいくつかを消すことができればいいのにと思う。"
+      "sentence-jp": "私たちはときどき自分の記憶のいくつかを消すことができればいいのにと思う。",
+      "cloze": {
+        "maskedText": "We sometimes wish we could ____ some of our memories.",
+        "answerBase": "erase",
+        "answerSurface": "erase",
+        "choices": [
+          "erase",
+          "share",
+          "respect",
+          "improve"
+        ]
+      }
     }
   ],
   "notes": []

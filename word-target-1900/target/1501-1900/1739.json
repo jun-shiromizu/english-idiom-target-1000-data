@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Customs officers inspect baggage of international travelers.",
-      "sentence-jp": "税関職員は海外旅行者の手荷物を点検する。"
+      "sentence-jp": "税関職員は海外旅行者の手荷物を点検する。",
+      "cloze": {
+        "maskedText": "Customs officers ____ baggage of international travelers.",
+        "answerBase": "inspect",
+        "answerSurface": "inspect",
+        "choices": [
+          "inspect",
+          "exchange",
+          "invent",
+          "broadcast"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "She is committed to managing her company.",
-      "sentence-jp": "彼女は自分の会社の経営に専念している。"
+      "sentence-jp": "彼女は自分の会社の経営に専念している。",
+      "cloze": {
+        "maskedText": "She is ____ to managing her company.",
+        "answerBase": "commit",
+        "answerSurface": "committed",
+        "choices": [
+          "committed",
+          "stimulated",
+          "pursued",
+          "captured"
+        ]
+      }
     }
   ],
   "notes": []

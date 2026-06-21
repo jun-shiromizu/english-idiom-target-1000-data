@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "My friend remarked that she was amazed by the fireworks.",
-      "sentence-jp": "私の友人は花火に驚嘆したと言った。"
+      "sentence-jp": "私の友人は花火に驚嘆したと言った。",
+      "cloze": {
+        "maskedText": "My friend ____ that she was amazed by the fireworks.",
+        "answerBase": "remark",
+        "answerSurface": "remarked",
+        "choices": [
+          "remarked",
+          "commanded",
+          "occupied",
+          "distributed"
+        ]
+      }
     }
   ],
   "notes": []

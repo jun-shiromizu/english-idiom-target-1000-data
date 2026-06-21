@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The brain, heart and lungs are the vital organs for sustaining human life.",
-      "sentence-jp": "脳，心臓，肺は人間の生命を持続させる必須器官である。"
+      "sentence-jp": "脳，心臓，肺は人間の生命を持続させる必須器官である。",
+      "cloze": {
+        "maskedText": "The brain, heart and lungs are the vital organs for ____ human life.",
+        "answerBase": "sustain",
+        "answerSurface": "sustaining",
+        "choices": [
+          "sustaining",
+          "collapsing",
+          "protesting",
+          "retiring"
+        ]
+      }
     }
   ],
   "notes": []

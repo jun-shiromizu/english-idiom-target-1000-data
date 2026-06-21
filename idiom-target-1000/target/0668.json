@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I would be the last person to deny the very real joy and pleasure that dogs bring.",
-      "sentence-jp": "私は、犬がくれる真の喜びと楽しみを最も否定しそうにない人間だろう。"
+      "sentence-jp": "私は、犬がくれる真の喜びと楽しみを最も否定しそうにない人間だろう。",
+      "cloze": {
+        "maskedText": "I would be ____ deny the very real joy and pleasure that dogs bring.",
+        "answerBase": "the last ~ to do",
+        "answerSurface": "the last person to",
+        "choices": [
+          "the last person to",
+          "what we call a",
+          "with a view to",
+          "Judging from"
+        ]
+      }
     }
   ],
   "notes": [

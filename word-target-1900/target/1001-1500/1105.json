@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She bound the sheets of paper together with string.",
-      "sentence-jp": "彼女はひもでそれらの紙をひとまとめに縛った。"
+      "sentence-jp": "彼女はひもでそれらの紙をひとまとめに縛った。",
+      "cloze": {
+        "maskedText": "She ____ the sheets of paper together with string.",
+        "answerBase": "bind",
+        "answerSurface": "bound",
+        "choices": ["bound", "resorted", "bet", "faded"]
+      }
     }
   ],
   "notes": []

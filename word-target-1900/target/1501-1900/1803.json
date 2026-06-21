@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "The three banks merged into a single organization.",
-      "sentence-jp": "その3つの銀行は合併し単一の組織になった。"
+      "sentence-jp": "その3つの銀行は合併し単一の組織になった。",
+      "cloze": {
+        "maskedText": "The three banks ____ into a single organization.",
+        "answerBase": "merge",
+        "answerSurface": "merged",
+        "choices": [
+          "merged",
+          "stared",
+          "listened",
+          "hurried"
+        ]
+      }
     }
   ],
   "notes": []

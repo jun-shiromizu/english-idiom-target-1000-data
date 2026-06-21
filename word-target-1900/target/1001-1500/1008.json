@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The weather for tomorrow is forecasted to be cloudy.",
-      "sentence-jp": "明日の天気は曇りと予想されている。"
+      "sentence-jp": "明日の天気は曇りと予想されている。",
+      "cloze": {
+        "maskedText": "The weather for tomorrow is ____ to be cloudy.",
+        "answerBase": "forecast",
+        "answerSurface": "forecasted",
+        "choices": ["forecasted", "overlooked", "forbidden", "installed"]
+      }
     }
   ],
   "notes": []

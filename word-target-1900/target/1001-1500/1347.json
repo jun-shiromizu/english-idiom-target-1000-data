@@ -12,5 +12,11 @@
       "sentence-jp": "議長は明日の会議のための協議事項について手短に言及した。"
     }
   ],
+  "cloze": {
+    "maskedText": "Climate change is high on the government's ____.",
+    "answerBase": "agenda",
+    "answerSurface": "agenda",
+    "choices": ["agenda", "troop", "pollen", "dose"]
+  },
   "notes": []
 }

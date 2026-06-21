@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "The speaker paused to drink from a glass of water.",
-      "sentence-jp": "その演説者はコップの水を飲むために話を中断した。"
+      "sentence-jp": "その演説者はコップの水を飲むために話を中断した。",
+      "cloze": {
+        "maskedText": "The speaker ____ to drink from a glass of water.",
+        "answerBase": "pause",
+        "answerSurface": "paused",
+        "choices": ["paused", "leaned", "submitted", "regulated"]
+      }
     }
   ],
   "notes": []

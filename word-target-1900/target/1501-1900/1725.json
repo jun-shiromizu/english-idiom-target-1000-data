@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Her words helped a lot to soothe the crying child.",
-      "sentence-jp": "彼女の言葉は泣いている子供をなだめるのに大いに役立った。"
+      "sentence-jp": "彼女の言葉は泣いている子供をなだめるのに大いに役立った。",
+      "cloze": {
+        "maskedText": "Her words helped a lot to ____ the crying child.",
+        "answerBase": "soothe",
+        "answerSurface": "soothe",
+        "choices": [
+          "soothe",
+          "ignore",
+          "frighten",
+          "separate"
+        ]
+      }
     }
   ],
   "notes": []

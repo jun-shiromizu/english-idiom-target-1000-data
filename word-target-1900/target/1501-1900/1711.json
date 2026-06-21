@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Many people tweet about their daily lives on their smartphones.",
-      "sentence-jp": "多くの人がスマートフォンで日常生活についてツイートする。"
+      "sentence-jp": "多くの人がスマートフォンで日常生活についてツイートする。",
+      "cloze": {
+        "maskedText": "Many people ____ about their daily lives on their smartphones.",
+        "answerBase": "tweet",
+        "answerSurface": "tweet",
+        "choices": [
+          "tweet",
+          "sail",
+          "freeze",
+          "kneel"
+        ]
+      }
     }
   ],
   "notes": []

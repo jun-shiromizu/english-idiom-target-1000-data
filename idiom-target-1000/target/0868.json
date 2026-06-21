@@ -9,14 +9,36 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "We’d thought the preparations were perfect, but things didn’t work out the way we’d expected.",
-      "sentence-jp": "準備は完璧だと思っていたが、物事は私たちが期待していたようにはうまくいかなかった。"
+      "sentence-jp": "準備は完璧だと思っていたが、物事は私たちが期待していたようにはうまくいかなかった。",
+      "cloze": {
+        "maskedText": "We’d thought the preparations were perfect, but things didn’t ____ the way we’d expected.",
+        "answerBase": "work out (~)",
+        "answerSurface": "work out",
+        "choices": [
+          "work out",
+          "rule out",
+          "single out",
+          "tell on"
+        ]
+      }
     },
     {
       "idiom-jp": "運動する",
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "James wishes to stay in good shape and works out at a gym three times per week.",
-      "sentence-jp": "ジェームズは調子のよい状態を保ちたいと願って、週に3回ジムで運動している。"
+      "sentence-jp": "ジェームズは調子のよい状態を保ちたいと願って、週に3回ジムで運動している。",
+      "cloze": {
+        "maskedText": "James wishes to stay in good shape and ____ at a gym three times per week.",
+        "answerBase": "work out (~)",
+        "answerSurface": "works out",
+        "choices": [
+          "works out",
+          "rules out",
+          "singles out",
+          "tells on"
+        ]
+      }
     }
   ],
   "notes": [

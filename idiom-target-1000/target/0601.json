@@ -12,7 +12,18 @@
         "could do with ~"
       ],
       "example-sentence": "With more foreigners living in Japan, more children are in need of language support.",
-      "sentence-jp": "日本に住む外国人が増えているので、より多くの子供たちが言語の支援を必要としている。"
+      "sentence-jp": "日本に住む外国人が増えているので、より多くの子供たちが言語の支援を必要としている。",
+      "cloze": {
+        "maskedText": "With more foreigners living in Japan, more children are ____ language support.",
+        "answerBase": "in need of ~",
+        "answerSurface": "in need of",
+        "choices": [
+          "in need of",
+          "in response to",
+          "in favor of",
+          "in charge of"
+        ]
+      }
     }
   ],
   "notes": [

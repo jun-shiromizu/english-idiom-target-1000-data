@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "We wanted at least 100,000 yen for the project, but had to settle for 80,000 yen.",
-      "sentence-jp": "私たちはその企画のために最低10万円欲しかったが、8万円で我慢しなければならなかった。"
+      "sentence-jp": "私たちはその企画のために最低10万円欲しかったが、8万円で我慢しなければならなかった。",
+      "cloze": {
+        "maskedText": "We wanted at least 100,000 yen for the project, but had to ____ 80,000 yen.",
+        "answerBase": "settle for ~",
+        "answerSurface": "settle for",
+        "choices": [
+          "settle for",
+          "account for",
+          "allow for",
+          "count for"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "We have enclosed a catalog detailing our products.",
-      "sentence-jp": "当社の製品を詳述するカタログを同封しました。"
+      "sentence-jp": "当社の製品を詳述するカタログを同封しました。",
+      "cloze": {
+        "maskedText": "We have ____ a catalog detailing our products.",
+        "answerBase": "enclose",
+        "answerSurface": "enclosed",
+        "choices": [
+          "enclosed",
+          "prepared",
+          "borrowed",
+          "reviewed"
+        ]
+      }
     }
   ],
   "notes": []

@@ -12,5 +12,11 @@
       "sentence-jp": "65歳になった今，彼はバイオリンを作るという子供時代の夢を復活させた。"
     }
   ],
+  "cloze": {
+    "maskedText": "The museum hopes to ____ interest in local history.",
+    "answerBase": "revive",
+    "answerSurface": "revive",
+    "choices": ["revive", "precede", "flee", "outline"]
+  },
   "notes": []
 }

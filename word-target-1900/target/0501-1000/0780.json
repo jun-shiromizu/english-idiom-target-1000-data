@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The professor published essays of literary criticism of modern novels.",
-      "sentence-jp": "その教授は近代小説に関する文学批評のエッセイを出版した。"
+      "sentence-jp": "その教授は近代小説に関する文学批評のエッセイを出版した。",
+      "cloze": {
+        "maskedText": "The professor published essays of ____ criticism of modern novels.",
+        "answerBase": "literary",
+        "answerSurface": "literary",
+        "choices": [
+          "literary",
+          "federal",
+          "plain",
+          "remote"
+        ]
+      }
     }
   ],
   "notes": []

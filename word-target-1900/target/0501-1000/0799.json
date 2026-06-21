@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "The school has an adequate number of teachers for the students.",
-      "sentence-jp": "その学校は，生徒に対して十分な数の教師がいる。"
+      "sentence-jp": "その学校は，生徒に対して十分な数の教師がいる。",
+      "cloze": {
+        "maskedText": "The school has an ____ number of teachers for the students.",
+        "answerBase": "adequate",
+        "answerSurface": "adequate",
+        "choices": [
+          "adequate",
+          "eager",
+          "royal",
+          "guilty"
+        ]
+      }
     }
   ],
   "notes": []

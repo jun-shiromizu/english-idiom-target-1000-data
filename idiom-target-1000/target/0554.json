@@ -12,7 +12,18 @@
         "be used to ~"
       ],
       "example-sentence": "Sam says that because he is an Englishman, he is accustomed to dismal, cloudy weather.",
-      "sentence-jp": "サムは、自分は英国人なので陰うつな曇った天気には慣れていると言う。"
+      "sentence-jp": "サムは、自分は英国人なので陰うつな曇った天気には慣れていると言う。",
+      "cloze": {
+        "maskedText": "Sam says that because he is an Englishman, he is ____ dismal, cloudy weather.",
+        "answerBase": "be accustomed to ~",
+        "answerSurface": "accustomed to",
+        "choices": [
+          "accustomed to",
+          "sensitive to",
+          "indifferent to",
+          "prone to"
+        ]
+      }
     }
   ],
   "notes": [

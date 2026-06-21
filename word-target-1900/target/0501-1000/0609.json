@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "He had to quit the job due to his poor health.",
-      "sentence-jp": "彼は体調不良により仕事を辞めなくてはならなかった。"
+      "sentence-jp": "彼は体調不良により仕事を辞めなくてはならなかった。",
+      "cloze": {
+        "maskedText": "He had to ____ the job due to his poor health.",
+        "answerBase": "quit",
+        "answerSurface": "quit",
+        "choices": [
+          "quit",
+          "stimulate",
+          "capture",
+          "enhance"
+        ]
+      }
     }
   ],
   "notes": []

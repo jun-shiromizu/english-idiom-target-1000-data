@@ -15,7 +15,18 @@
         "on the line"
       ],
       "example-sentence": "With so much at stake, we cannot afford to make mistakes.",
-      "sentence-jp": "非常に多くのことが危うくなっているので、私たちは間違えることができない。"
+      "sentence-jp": "非常に多くのことが危うくなっているので、私たちは間違えることができない。",
+      "cloze": {
+        "maskedText": "With so much ____, we cannot afford to make mistakes.",
+        "answerBase": "at stake",
+        "answerSurface": "at stake",
+        "choices": [
+          "at stake",
+          "at issue",
+          "at his disposal",
+          "on his own"
+        ]
+      }
     }
   ],
   "notes": []

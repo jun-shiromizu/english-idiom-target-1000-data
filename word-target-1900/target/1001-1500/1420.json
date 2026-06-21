@@ -12,5 +12,11 @@
       "sentence-jp": "彼女は彼の言っていることを理解することができなかった。"
     }
   ],
+  "cloze": {
+    "maskedText": "Young children may not ____ the danger.",
+    "answerBase": "comprehend",
+    "answerSurface": "comprehend",
+    "choices": ["comprehend", "navigate", "designate", "sigh"]
+  },
   "notes": []
 }

@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "We did our best to succeed, but the project fell short of our goal.",
-      "sentence-jp": "私たちは成功するために全力を尽くしたが、プロジェクトは目標に達しなかった。"
+      "sentence-jp": "私たちは成功するために全力を尽くしたが、プロジェクトは目標に達しなかった。",
+      "cloze": {
+        "maskedText": "We did our best to succeed, but the project ____ our goal.",
+        "answerBase": "fall short of ~",
+        "answerSurface": "fell short of",
+        "choices": [
+          "fell short of",
+          "came to terms with",
+          "went a long way to",
+          "paved the way for"
+        ]
+      }
     }
   ],
   "notes": [

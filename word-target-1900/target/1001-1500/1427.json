@@ -12,5 +12,11 @@
       "sentence-jp": "私は市長に会うチャンスをつかみ損ねた。"
     }
   ],
+  "cloze": {
+    "maskedText": "You should ____ every chance to practice.",
+    "answerBase": "seize",
+    "answerSurface": "seize",
+    "choices": ["seize", "cram", "glow", "soar"]
+  },
   "notes": []
 }

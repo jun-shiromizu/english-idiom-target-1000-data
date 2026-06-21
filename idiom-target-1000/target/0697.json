@@ -13,7 +13,18 @@
         "to the best of one’s belief"
       ],
       "example-sentence": "To the best of my knowledge, he’s been working for his mother’s company for years.",
-      "sentence-jp": "私の知る限り、彼は何年も母親の会社に勤めている。"
+      "sentence-jp": "私の知る限り、彼は何年も母親の会社に勤めている。",
+      "cloze": {
+        "maskedText": "____, he’s been working for his mother’s company for years.",
+        "answerBase": "to the best of one's knowledge",
+        "answerSurface": "To the best of my knowledge",
+        "choices": [
+          "To the best of my knowledge",
+          "To the fullest",
+          "By far",
+          "Worse still"
+        ]
+      }
     }
   ],
   "notes": [

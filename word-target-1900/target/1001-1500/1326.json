@@ -12,5 +12,11 @@
       "sentence-jp": "金利の上昇は我が社の財政に負担をかけるだろう。"
     }
   ],
+  "cloze": {
+    "maskedText": "Long hours can ____ your eyes.",
+    "answerBase": "strain",
+    "answerSurface": "strain",
+    "choices": ["strain", "dare", "boast", "compute"]
+  },
   "notes": []
 }

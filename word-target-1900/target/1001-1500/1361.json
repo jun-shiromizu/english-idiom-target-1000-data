@@ -12,5 +12,11 @@
       "sentence-jp": "招待客は結婚の宴を祝うために集まった。"
     }
   ],
+  "cloze": {
+    "maskedText": "The family prepared a huge ____ for the holiday.",
+    "answerBase": "feast",
+    "answerSurface": "feast",
+    "choices": ["feast", "rumor", "formula", "aisle"]
+  },
   "notes": []
 }

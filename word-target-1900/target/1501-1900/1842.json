@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The Romans conquered the Celts during the reign of Julius Caesar.",
-      "sentence-jp": "古代ローマ人はユリウス・カエサルの治世にケルト族を征服した。"
+      "sentence-jp": "古代ローマ人はユリウス・カエサルの治世にケルト族を征服した。",
+      "cloze": {
+        "maskedText": "The Romans conquered the Celts during the ____ of Julius Caesar.",
+        "answerBase": "reign",
+        "answerSurface": "reign",
+        "choices": [
+          "reign",
+          "lecture",
+          "harvest",
+          "journey"
+        ]
+      }
     }
   ],
   "notes": []

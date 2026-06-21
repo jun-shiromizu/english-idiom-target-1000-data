@@ -13,7 +13,18 @@
         "whenever"
       ],
       "example-sentence": "We are able to discover something new every time we visit a museum.",
-      "sentence-jp": "私たちは博物館を訪れるたびに何かしら新しい発見をすることができる。"
+      "sentence-jp": "私たちは博物館を訪れるたびに何かしら新しい発見をすることができる。",
+      "cloze": {
+        "maskedText": "We are able to discover something new ____ we visit a museum.",
+        "answerBase": "every time ... / each time ...",
+        "answerSurface": "every time",
+        "choices": [
+          "every time",
+          "the moment",
+          "if only",
+          "as follows"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "His rigid attitude at work upsets his coworkers.",
-      "sentence-jp": "仕事中の彼の厳しい態度は同僚たちをうろたえさせる。"
+      "sentence-jp": "仕事中の彼の厳しい態度は同僚たちをうろたえさせる。",
+      "cloze": {
+        "maskedText": "His ____ attitude at work upsets his coworkers.",
+        "answerBase": "rigid",
+        "answerSurface": "rigid",
+        "choices": [
+          "rigid",
+          "cheerful",
+          "casual",
+          "unclear"
+        ]
+      }
     }
   ],
   "notes": []

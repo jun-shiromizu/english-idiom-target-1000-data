@@ -12,5 +12,11 @@
       "sentence-jp": "良好な血液の循環は脳が健康でいる助けとなる。"
     }
   ],
+  "cloze": {
+    "maskedText": "Regular exercise improves blood ____.",
+    "answerBase": "circulation",
+    "answerSurface": "circulation",
+    "choices": ["circulation", "collision", "bargain", "behalf"]
+  },
   "notes": []
 }

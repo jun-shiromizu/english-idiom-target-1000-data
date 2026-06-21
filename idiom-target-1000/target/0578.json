@@ -9,7 +9,18 @@
       "partOfSpeech": "preposition",
       "choiceType": "prepositional-phrase",
       "example-sentence": "The evidence was not enough to prove that the suspect was guilty of the crime.",
-      "sentence-jp": "その証拠は容疑者がその犯罪について有罪であると証明するには十分ではなかった。"
+      "sentence-jp": "その証拠は容疑者がその犯罪について有罪であると証明するには十分ではなかった。",
+      "cloze": {
+        "maskedText": "The evidence was not enough to prove that the suspect was ____ the crime.",
+        "answerBase": "be guilty of ~",
+        "answerSurface": "guilty of",
+        "choices": [
+          "guilty of",
+          "confident of",
+          "considerate of",
+          "tolerant of"
+        ]
+      }
     }
   ],
   "notes": [

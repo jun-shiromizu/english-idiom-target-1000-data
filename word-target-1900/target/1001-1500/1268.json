@@ -12,5 +12,11 @@
       "sentence-jp": "ベトナム戦争では，戦闘に入った兵士たちに従軍したカメラマンがいた。"
     }
   ],
+  "cloze": {
+    "maskedText": "The soldiers were trained for ____ in the desert.",
+    "answerBase": "combat",
+    "answerSurface": "combat",
+    "choices": ["combat", "drill", "consent", "asset"]
+  },
   "notes": []
 }

@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I’m under the impression that that guy is out to make money at our expense.",
-      "sentence-jp": "あの男は私たちのお金で金もうけをしようとしているのではないかという気がする。"
+      "sentence-jp": "あの男は私たちのお金で金もうけをしようとしているのではないかという気がする。",
+      "cloze": {
+        "maskedText": "I’m under the impression that that guy is ____ make money at our expense.",
+        "answerBase": "be out to do",
+        "answerSurface": "out to",
+        "choices": [
+          "out to",
+          "cut out to",
+          "all ears to",
+          "worth to"
+        ]
+      }
     }
   ],
   "notes": [

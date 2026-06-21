@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "My mother had trouble washing out a widespread stain on my T-shirt.",
-      "sentence-jp": "母は私のTシャツについた広範囲のしみを洗い落とすのに苦労した。"
+      "sentence-jp": "母は私のTシャツについた広範囲のしみを洗い落とすのに苦労した。",
+      "cloze": {
+        "maskedText": "My mother had trouble washing out a ____ stain on my T-shirt.",
+        "answerBase": "widespread",
+        "answerSurface": "widespread",
+        "choices": [
+          "widespread",
+          "private",
+          "curious",
+          "formal"
+        ]
+      }
     }
   ],
   "notes": []

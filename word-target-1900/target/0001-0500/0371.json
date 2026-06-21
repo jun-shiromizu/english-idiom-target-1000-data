@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Japanese people have a custom of visiting a shrine on New Year's Day.",
-      "sentence-jp": "日本人には元日に神社に参拝するという慣習がある。"
+      "sentence-jp": "日本人には元日に神社に参拝するという慣習がある。",
+      "cloze": {
+        "maskedText": "Japanese people have a ____ of visiting a shrine on New Year's Day.",
+        "answerBase": "custom",
+        "answerSurface": "custom",
+        "choices": [
+          "custom",
+          "budget",
+          "lecture",
+          "vehicle"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Future generations will be left with a legacy of plastic pollution.",
-      "sentence-jp": "未来の世代はプラスチック汚染という遺産を残されることになる。"
+      "sentence-jp": "未来の世代はプラスチック汚染という遺産を残されることになる。",
+      "cloze": {
+        "maskedText": "Future generations will be left with a ____ of plastic pollution.",
+        "answerBase": "legacy",
+        "answerSurface": "legacy",
+        "choices": [
+          "legacy",
+          "supply",
+          "picture",
+          "demand"
+        ]
+      }
     }
   ],
   "notes": []

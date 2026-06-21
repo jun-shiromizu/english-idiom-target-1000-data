@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "I cannot afford to buy luxurious goods.",
-      "sentence-jp": "私はぜいたく品を買う余裕がない。"
+      "sentence-jp": "私はぜいたく品を買う余裕がない。",
+      "cloze": {
+        "maskedText": "I cannot ____ to buy luxurious goods.",
+        "answerBase": "afford",
+        "answerSurface": "afford",
+        "choices": [
+          "afford",
+          "depend",
+          "sail",
+          "borrow"
+        ]
+      }
     }
   ],
   "notes": []

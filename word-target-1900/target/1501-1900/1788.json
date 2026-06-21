@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "You had better eat ripe fruit before it goes bad.",
-      "sentence-jp": "熟した果物は腐る前に食べたほうがいい。"
+      "sentence-jp": "熟した果物は腐る前に食べたほうがいい。",
+      "cloze": {
+        "maskedText": "You had better eat ____ fruit before it goes bad.",
+        "answerBase": "ripe",
+        "answerSurface": "ripe",
+        "choices": [
+          "ripe",
+          "narrow",
+          "formal",
+          "weekly"
+        ]
+      }
     }
   ],
   "notes": []

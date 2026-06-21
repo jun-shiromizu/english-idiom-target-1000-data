@@ -9,7 +9,18 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "Even as I write this, thinking of her, I can still feel her soft, warm hand in mine.",
-      "sentence-jp": "まさに彼女のことを思ってこれを書いているときも、私は自分の手の中の彼女の柔らかくて温かい手を今でも感じられる。"
+      "sentence-jp": "まさに彼女のことを思ってこれを書いているときも、私は自分の手の中の彼女の柔らかくて温かい手を今でも感じられる。",
+      "cloze": {
+        "maskedText": "____ I write this, thinking of her, I can still feel her soft, warm hand in mine.",
+        "answerBase": "even as ...",
+        "answerSurface": "Even as",
+        "choices": [
+          "Even as",
+          "Now that",
+          "As long as",
+          "In case"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "The teacher explained how to collect empirical evidence.",
-      "sentence-jp": "その教師は経験的証拠の集め方を説明した。"
+      "sentence-jp": "その教師は経験的証拠の集め方を説明した。",
+      "cloze": {
+        "maskedText": "The teacher explained how to collect ____ evidence.",
+        "answerBase": "empirical",
+        "answerSurface": "empirical",
+        "choices": [
+          "empirical",
+          "essential",
+          "historical",
+          "visual"
+        ]
+      }
     }
   ],
   "notes": []

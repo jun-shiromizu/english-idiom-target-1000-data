@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "You cannot conceal your true feelings when you speak.",
-      "sentence-jp": "人は話すとき自分の真情を隠すことができない。"
+      "sentence-jp": "人は話すとき自分の真情を隠すことができない。",
+      "cloze": {
+        "maskedText": "You cannot ____ your true feelings when you speak.",
+        "answerBase": "conceal",
+        "answerSurface": "conceal",
+        "choices": ["conceal", "chew", "swallow", "migrate"]
+      }
     }
   ],
   "notes": []

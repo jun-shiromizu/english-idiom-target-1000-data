@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "The person who is in charge of the ski school at the moment is Mr. John Smith.",
-      "sentence-jp": "現在スキースクールを管理している人物は、ジョン・スミス氏だ。"
+      "sentence-jp": "現在スキースクールを管理している人物は、ジョン・スミス氏だ。",
+      "cloze": {
+        "maskedText": "The person who is ____ the ski school at the moment is Mr. John Smith.",
+        "answerBase": "in charge of ~",
+        "answerSurface": "in charge of",
+        "choices": [
+          "in charge of",
+          "in need of",
+          "in favor of",
+          "in exchange for"
+        ]
+      }
     }
   ],
   "notes": [

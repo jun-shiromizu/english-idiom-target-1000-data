@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "There has been controversy over revisions to the constitution.",
-      "sentence-jp": "憲法の改正に関する論争が続いてきている。"
+      "sentence-jp": "憲法の改正に関する論争が続いてきている。",
+      "cloze": {
+        "maskedText": "There has been ____ over revisions to the constitution.",
+        "answerBase": "controversy",
+        "answerSurface": "controversy",
+        "choices": ["controversy", "enterprise", "scent", "supplement"]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She reserved a flight for New York three months ahead of time.",
-      "sentence-jp": "彼女は出発日の3か月前にニューヨーク行きの航空便を予約した。"
+      "sentence-jp": "彼女は出発日の3か月前にニューヨーク行きの航空便を予約した。",
+      "cloze": {
+        "maskedText": "She ____ a flight for New York three months ahead of time.",
+        "answerBase": "reserve",
+        "answerSurface": "reserved",
+        "choices": [
+          "reserved",
+          "bothered",
+          "traced",
+          "coped"
+        ]
+      }
     }
   ],
   "notes": []

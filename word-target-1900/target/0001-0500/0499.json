@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "It is crucial that you are very careful when checking documents.",
-      "sentence-jp": "書類を確認する際は非常に注意することが重要である。"
+      "sentence-jp": "書類を確認する際は非常に注意することが重要である。",
+      "cloze": {
+        "maskedText": "It is ____ that you are very careful when checking documents.",
+        "answerBase": "crucial",
+        "answerSurface": "crucial",
+        "choices": [
+          "crucial",
+          "unknown",
+          "annual",
+          "narrow"
+        ]
+      }
     }
   ],
   "notes": []

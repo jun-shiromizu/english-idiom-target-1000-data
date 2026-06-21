@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Please refer to the attached file for the details.",
-      "sentence-jp": "詳細については添付のファイルを参照してください。"
+      "sentence-jp": "詳細については添付のファイルを参照してください。",
+      "cloze": {
+        "maskedText": "Please refer to the attached ____ for the details.",
+        "answerBase": "file",
+        "answerSurface": "file",
+        "choices": ["file", "clinic", "curve", "panic"]
+      }
     }
   ],
   "notes": []

@@ -13,7 +13,18 @@
         "be involved in ~"
       ],
       "example-sentence": "The lawyer is popular because she is dedicated to her clients.",
-      "sentence-jp": "その弁護士は自分の依頼人のことに専念するので、人気がある。"
+      "sentence-jp": "その弁護士は自分の依頼人のことに専念するので、人気がある。",
+      "cloze": {
+        "maskedText": "The lawyer is popular because she is ____ her clients.",
+        "answerBase": "be dedicated to ~",
+        "answerSurface": "dedicated to",
+        "choices": [
+          "dedicated to",
+          "indifferent to",
+          "subject to",
+          "superior to"
+        ]
+      }
     }
   ],
   "notes": [

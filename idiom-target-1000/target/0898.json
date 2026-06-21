@@ -14,7 +14,18 @@
         "keep up with ~"
       ],
       "example-sentence": "My father always reads a newspaper attentively to keep abreast of economic trends.",
-      "sentence-jp": "父は経済の動向に遅れずついて行くためにいつも新聞を注意深く読む。"
+      "sentence-jp": "父は経済の動向に遅れずついて行くためにいつも新聞を注意深く読む。",
+      "cloze": {
+        "maskedText": "My father always reads a newspaper attentively to ____ economic trends.",
+        "answerBase": "keep abreast of ~ / keep abreast with ~",
+        "answerSurface": "keep abreast of",
+        "choices": [
+          "keep abreast of",
+          "keep track of",
+          "take notice of",
+          "live up to"
+        ]
+      }
     }
   ],
   "notes": [

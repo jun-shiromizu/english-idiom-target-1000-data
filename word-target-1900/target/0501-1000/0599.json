@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "The precise height of the tower is 634 meters.",
-      "sentence-jp": "そのタワーの正確な高さは634メートルである。"
+      "sentence-jp": "そのタワーの正確な高さは634メートルである。",
+      "cloze": {
+        "maskedText": "The ____ height of the tower is 634 meters.",
+        "answerBase": "precise",
+        "answerSurface": "precise",
+        "choices": [
+          "precise",
+          "ethnic",
+          "unexpected",
+          "latter"
+        ]
+      }
     }
   ],
   "notes": []

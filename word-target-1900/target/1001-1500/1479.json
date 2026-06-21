@@ -12,5 +12,11 @@
       "sentence-jp": "昔は多くの国で，王は最高権力者だった。"
     }
   ],
+  "cloze": {
+    "maskedText": "The court is the ____ legal authority.",
+    "answerBase": "supreme",
+    "answerSurface": "supreme",
+    "choices": ["supreme", "vacuum", "revenue", "county"]
+  },
   "notes": []
 }

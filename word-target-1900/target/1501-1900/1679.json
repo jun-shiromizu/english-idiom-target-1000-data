@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "He gave a plausible explanation for making the floor wet.",
-      "sentence-jp": "彼は床をぬらしたことについてもっともらしい説明をした。"
+      "sentence-jp": "彼は床をぬらしたことについてもっともらしい説明をした。",
+      "cloze": {
+        "maskedText": "He gave a ____ explanation for making the floor wet.",
+        "answerBase": "plausible",
+        "answerSurface": "plausible",
+        "choices": [
+          "plausible",
+          "careless",
+          "wooden",
+          "silent"
+        ]
+      }
     }
   ],
   "notes": []

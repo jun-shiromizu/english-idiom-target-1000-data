@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The newspaper gives priority to providing accurate information.",
-      "sentence-jp": "その新聞は正確な情報を提供することを優先させる。"
+      "sentence-jp": "その新聞は正確な情報を提供することを優先させる。",
+      "cloze": {
+        "maskedText": "The newspaper gives ____ to providing accurate information.",
+        "answerBase": "priority",
+        "answerSurface": "priority",
+        "choices": [
+          "priority",
+          "logic",
+          "bond",
+          "frame"
+        ]
+      }
     }
   ],
   "notes": []

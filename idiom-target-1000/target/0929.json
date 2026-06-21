@@ -13,7 +13,18 @@
         "a large number of ~"
       ],
       "example-sentence": "At the time the family was faced with a host of difficulties, including financial ones.",
-      "sentence-jp": "当時、その家族は財政難を含む多くの困難に直面していた。"
+      "sentence-jp": "当時、その家族は財政難を含む多くの困難に直面していた。",
+      "cloze": {
+        "maskedText": "At the time the family was faced with ____ difficulties, including financial ones.",
+        "answerBase": "a host of ~",
+        "answerSurface": "a host of",
+        "choices": [
+          "a host of",
+          "in spite of",
+          "on behalf of",
+          "by means of"
+        ]
+      }
     }
   ],
   "notes": [

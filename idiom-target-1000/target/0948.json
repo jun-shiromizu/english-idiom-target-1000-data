@@ -12,7 +12,18 @@
         "on the go"
       ],
       "example-sentence": "Don’t you think we need a law or something to control smartphone use by people on the move?",
-      "sentence-jp": "移動中の人々のスマートフォン使用を規制する法律か何かが必要だとは思いませんか。"
+      "sentence-jp": "移動中の人々のスマートフォン使用を規制する法律か何かが必要だとは思いませんか。",
+      "cloze": {
+        "maskedText": "Don’t you think we need a law or something to control smartphone use by people ____?",
+        "answerBase": "on the move",
+        "answerSurface": "on the move",
+        "choices": [
+          "on the move",
+          "in good shape",
+          "in the works",
+          "for a rainy day"
+        ]
+      }
     }
   ],
   "notes": []

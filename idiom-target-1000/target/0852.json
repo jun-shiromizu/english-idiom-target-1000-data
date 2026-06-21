@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "We arranged our trip to coincide with the start of baseball season.",
-      "sentence-jp": "私たちは野球シーズンの始まりと一致するように旅行を手配した。"
+      "sentence-jp": "私たちは野球シーズンの始まりと一致するように旅行を手配した。",
+      "cloze": {
+        "maskedText": "We arranged our trip to ____ the start of baseball season.",
+        "answerBase": "coincide with ~",
+        "answerSurface": "coincide with",
+        "choices": [
+          "coincide with",
+          "cope with",
+          "comply with",
+          "deal in"
+        ]
+      }
     }
   ],
   "notes": [

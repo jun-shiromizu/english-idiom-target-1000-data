@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The museum houses several masterpieces of modern art.",
-      "sentence-jp": "その美術館は数点の現代美術の傑作を収蔵している。"
+      "sentence-jp": "その美術館は数点の現代美術の傑作を収蔵している。",
+      "cloze": {
+        "maskedText": "The museum houses several ____ of modern art.",
+        "answerBase": "masterpiece",
+        "answerSurface": "masterpieces",
+        "choices": [
+          "masterpieces",
+          "suitcases",
+          "headlines",
+          "sandwiches"
+        ]
+      }
     }
   ],
   "notes": []

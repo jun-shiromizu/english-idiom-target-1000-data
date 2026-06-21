@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The piece of music evoked memories of his youth.",
-      "sentence-jp": "その楽曲は彼の若いころの記憶を呼び起こした。"
+      "sentence-jp": "その楽曲は彼の若いころの記憶を呼び起こした。",
+      "cloze": {
+        "maskedText": "The piece of music ____ memories of his youth.",
+        "answerBase": "evoke",
+        "answerSurface": "evoked",
+        "choices": [
+          "evoked",
+          "balanced",
+          "repaired",
+          "replaced"
+        ]
+      }
     }
   ],
   "notes": []

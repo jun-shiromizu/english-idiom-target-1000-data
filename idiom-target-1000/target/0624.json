@@ -16,7 +16,18 @@
         "about"
       ],
       "example-sentence": "The first change I would like to inform you of is with regard to the uniforms of our team.",
-      "sentence-jp": "皆に伝えたい最初の変更点は、私たちのチームのユニフォームに関してです。"
+      "sentence-jp": "皆に伝えたい最初の変更点は、私たちのチームのユニフォームに関してです。",
+      "cloze": {
+        "maskedText": "The first change I would like to inform you of is ____ the uniforms of our team.",
+        "answerBase": "with regard to ~ / in regard to ~",
+        "answerSurface": "with regard to",
+        "choices": [
+          "with regard to",
+          "in part because of",
+          "in great demand at",
+          "at a loss as to"
+        ]
+      }
     }
   ],
   "notes": []

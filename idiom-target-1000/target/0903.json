@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "He’s trying hard to come to terms with the earlier life he’d lived recklessly.",
-      "sentence-jp": "彼は無謀に生きた若いころの生活に折り合いをつけようと努力している。"
+      "sentence-jp": "彼は無謀に生きた若いころの生活に折り合いをつけようと努力している。",
+      "cloze": {
+        "maskedText": "He’s trying hard to ____ the earlier life he’d lived recklessly.",
+        "answerBase": "come to terms with ~",
+        "answerSurface": "come to terms with",
+        "choices": [
+          "come to terms with",
+          "come to light with",
+          "fall short of",
+          "pave the way for"
+        ]
+      }
     }
   ],
   "notes": [

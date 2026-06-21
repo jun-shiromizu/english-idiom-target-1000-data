@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She grabbed the handrail to stop herself from falling.",
-      "sentence-jp": "彼女は倒れないように手すりをつかんだ。"
+      "sentence-jp": "彼女は倒れないように手すりをつかんだ。",
+      "cloze": {
+        "maskedText": "She ____ the handrail to stop herself from falling.",
+        "answerBase": "grab",
+        "answerSurface": "grabbed",
+        "choices": ["grabbed", "restored", "triggered", "regulated"]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "She is learning sign language to communicate with deaf people.",
-      "sentence-jp": "彼女は耳が聞こえない人と意思疎通を図るために手話を学んでいる。"
+      "sentence-jp": "彼女は耳が聞こえない人と意思疎通を図るために手話を学んでいる。",
+      "cloze": {
+        "maskedText": "She is learning sign language to communicate with ____ people.",
+        "answerBase": "deaf",
+        "answerSurface": "deaf",
+        "choices": ["deaf", "eager", "visible", "wealthy"]
+      }
     }
   ],
   "notes": []

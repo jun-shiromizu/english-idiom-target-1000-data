@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Seeing certain colors seems to inhibit anger.",
-      "sentence-jp": "ある色を見ると怒りを抑制するように思える。"
+      "sentence-jp": "ある色を見ると怒りを抑制するように思える。",
+      "cloze": {
+        "maskedText": "Seeing certain colors seems to ____ anger.",
+        "answerBase": "inhibit",
+        "answerSurface": "inhibit",
+        "choices": [
+          "inhibit",
+          "express",
+          "increase",
+          "describe"
+        ]
+      }
     }
   ],
   "notes": []

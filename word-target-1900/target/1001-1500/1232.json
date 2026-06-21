@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Some colleges spend a lot of money to recruit talented students.",
-      "sentence-jp": "才能のある学生を募るために多額の金を使う大学もある。"
+      "sentence-jp": "才能のある学生を募るために多額の金を使う大学もある。",
+      "cloze": {
+        "maskedText": "Some colleges spend a lot of money to ____ talented students.",
+        "answerBase": "recruit",
+        "answerSurface": "recruit",
+        "choices": ["recruit", "twist", "crush", "pin"]
+      }
     }
   ],
   "notes": []

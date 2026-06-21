@@ -12,5 +12,11 @@
       "sentence-jp": "医師は診断を下すのに特定の基準一式を用いる。"
     }
   ],
+  "cloze": {
+    "maskedText": "Safety is the main ____ for selecting the material.",
+    "answerBase": "criterion",
+    "answerSurface": "criterion",
+    "choices": ["criterion", "quest", "nightmare", "hive"]
+  },
   "notes": []
 }

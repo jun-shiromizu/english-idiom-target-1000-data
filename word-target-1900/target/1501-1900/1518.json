@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She dips biscuits in tea before eating them.",
-      "sentence-jp": "彼女は食べる前に紅茶にビスケットを浸す。"
+      "sentence-jp": "彼女は食べる前に紅茶にビスケットを浸す。",
+      "cloze": {
+        "maskedText": "She ____ biscuits in tea before eating them.",
+        "answerBase": "dip",
+        "answerSurface": "dips",
+        "choices": [
+          "dips",
+          "drops",
+          "mixes",
+          "stirs"
+        ]
+      }
     }
   ],
   "notes": []

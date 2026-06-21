@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The banner for minorities' rights was flapping in the wind.",
-      "sentence-jp": "少数民族の権利を求める横断幕が風の中ではためいていた。"
+      "sentence-jp": "少数民族の権利を求める横断幕が風の中ではためいていた。",
+      "cloze": {
+        "maskedText": "The banner for minorities' rights was ____ in the wind.",
+        "answerBase": "flap",
+        "answerSurface": "flapping",
+        "choices": [
+          "flapping",
+          "glowing",
+          "sleeping",
+          "settling"
+        ]
+      }
     }
   ],
   "notes": []

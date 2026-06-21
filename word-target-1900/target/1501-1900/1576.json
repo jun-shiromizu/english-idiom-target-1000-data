@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She seemed to have an obsession with losing weight.",
-      "sentence-jp": "彼女は痩せることに取りつかれているように見えた。"
+      "sentence-jp": "彼女は痩せることに取りつかれているように見えた。",
+      "cloze": {
+        "maskedText": "She seemed to have an ____ with losing weight.",
+        "answerBase": "obsession",
+        "answerSurface": "obsession",
+        "choices": [
+          "obsession",
+          "ability",
+          "agreement",
+          "impression"
+        ]
+      }
     }
   ],
   "notes": []

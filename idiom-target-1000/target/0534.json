@@ -14,7 +14,18 @@
         "capitalize on ~"
       ],
       "example-sentence": "Today more employers are letting workers make use of flextime and telework.",
-      "sentence-jp": "今日、ますます多くの企業主は従業員がフレックスタイム制とテレワークを活用することを許可している。"
+      "sentence-jp": "今日、ますます多くの企業主は従業員がフレックスタイム制とテレワークを活用することを許可している。",
+      "cloze": {
+        "maskedText": "Today more employers are letting workers ____ flextime and telework.",
+        "answerBase": "make use of ~",
+        "answerSurface": "make use of",
+        "choices": [
+          "make use of",
+          "make much of",
+          "have access to",
+          "keep an eye on"
+        ]
+      }
     }
   ],
   "notes": [

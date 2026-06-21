@@ -9,7 +9,13 @@
       "partOfSpeech": "phrase",
       "choiceType": "comparative-expression",
       "example-sentence": "I think this wine is inferior to that wine in flavor.",
-      "sentence-jp": "このワインはあのワインより風味が劣っていると私は思う。"
+      "sentence-jp": "このワインはあのワインより風味が劣っていると私は思う。",
+      "cloze": {
+        "maskedText": "I think this wine is ____ to that wine in flavor.",
+        "answerBase": "inferior",
+        "answerSurface": "inferior",
+        "choices": ["inferior", "grateful", "obese", "sacred"]
+      }
     }
   ],
   "notes": []

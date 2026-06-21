@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "He was a brave fighter who challenged hundreds of enemies by himself.",
-      "sentence-jp": "彼は1人で何百人もの敵兵に挑んだ勇敢な兵士であった。"
+      "sentence-jp": "彼は1人で何百人もの敵兵に挑んだ勇敢な兵士であった。",
+      "cloze": {
+        "maskedText": "He was a ____ fighter who challenged hundreds of enemies by himself.",
+        "answerBase": "brave",
+        "answerSurface": "brave",
+        "choices": ["brave", "oral", "obese", "grateful"]
+      }
     }
   ],
   "notes": []

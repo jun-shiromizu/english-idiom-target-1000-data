@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Given that he is richly experienced, we think he’s suitable for the new post.",
-      "sentence-jp": "彼が経験豊富であることを考慮すれば、私たちは彼が新しいポストに適任だと思う。"
+      "sentence-jp": "彼が経験豊富であることを考慮すれば、私たちは彼が新しいポストに適任だと思う。",
+      "cloze": {
+        "maskedText": "____ he is richly experienced, we think he’s suitable for the new post.",
+        "answerBase": "given (that) ...",
+        "answerSurface": "Given that",
+        "choices": [
+          "Given that",
+          "By the time",
+          "In case",
+          "If any"
+        ]
+      }
     }
   ],
   "notes": [

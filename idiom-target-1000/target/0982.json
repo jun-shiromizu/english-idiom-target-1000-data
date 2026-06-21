@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I’ve become a bit tired of this game. How about trying something new for a change?",
-      "sentence-jp": "私はこのゲームに少し飽きてきました。気分転換に何か新しいのをやってみるのはどうですか。"
+      "sentence-jp": "私はこのゲームに少し飽きてきました。気分転換に何か新しいのをやってみるのはどうですか。",
+      "cloze": {
+        "maskedText": "I’ve become a bit tired of this game. How about trying something new ____?",
+        "answerBase": "for a change",
+        "answerSurface": "for a change",
+        "choices": [
+          "for a change",
+          "for all I know",
+          "for nothing",
+          "on second thought"
+        ]
+      }
     }
   ],
   "notes": []

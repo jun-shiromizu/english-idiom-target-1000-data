@@ -14,7 +14,18 @@
         "voluntarily"
       ],
       "example-sentence": "The boy came to school of his own accord after having stayed away for half a year.",
-      "sentence-jp": "その少年は半年間欠席した後、自分の意志で登校した。"
+      "sentence-jp": "その少年は半年間欠席した後、自分の意志で登校した。",
+      "cloze": {
+        "maskedText": "The boy came to school ____ after having stayed away for half a year.",
+        "answerBase": "of one's own accord / of one's own free will",
+        "answerSurface": "of his own accord",
+        "choices": [
+          "of his own accord",
+          "without fail",
+          "for sure",
+          "behind the times"
+        ]
+      }
     }
   ],
   "notes": []

@@ -12,7 +12,18 @@
         "for ~"
       ],
       "example-sentence": "The latest research has found that most people are in favor of using more solar energy.",
-      "sentence-jp": "最新の調査で、ほとんどの人が太陽エネルギーをもっと利用することに賛成しているとわかった。"
+      "sentence-jp": "最新の調査で、ほとんどの人が太陽エネルギーをもっと利用することに賛成しているとわかった。",
+      "cloze": {
+        "maskedText": "The latest research has found that most people are ____ using more solar energy.",
+        "answerBase": "in favor of ~",
+        "answerSurface": "in favor of",
+        "choices": [
+          "in favor of",
+          "in charge of",
+          "in place of",
+          "in honor of"
+        ]
+      }
     }
   ],
   "notes": [

@@ -13,7 +13,18 @@
         "be inclined to do"
       ],
       "example-sentence": "People who do not sleep sufficiently tend to have a bigger appetite and eat more.",
-      "sentence-jp": "十分に睡眠をとらない人は、食欲がより旺盛でより多く食べる傾向がある。"
+      "sentence-jp": "十分に睡眠をとらない人は、食欲がより旺盛でより多く食べる傾向がある。",
+      "cloze": {
+        "maskedText": "People who do not sleep sufficiently ____ have a bigger appetite and eat more.",
+        "answerBase": "tend to do",
+        "answerSurface": "tend to",
+        "choices": [
+          "tend to",
+          "happen to",
+          "manage to",
+          "bother to"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "She has been contemplating changing her career.",
-      "sentence-jp": "彼女は転職をずっと熟考している。"
+      "sentence-jp": "彼女は転職をずっと熟考している。",
+      "cloze": {
+        "maskedText": "She has been ____ changing her career.",
+        "answerBase": "contemplate",
+        "answerSurface": "contemplating",
+        "choices": [
+          "contemplating",
+          "avoiding",
+          "denying",
+          "reporting"
+        ]
+      }
     }
   ],
   "notes": []

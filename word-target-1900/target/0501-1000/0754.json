@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The non-profit shelter provides a safe haven for people in need.",
-      "sentence-jp": "非営利の保護施設は困っている人々にとって安全な避難所となる。"
+      "sentence-jp": "非営利の保護施設は困っている人々にとって安全な避難所となる。",
+      "cloze": {
+        "maskedText": "The non-profit shelter provides a safe ____ for people in need.",
+        "answerBase": "haven",
+        "answerSurface": "haven",
+        "choices": [
+          "haven",
+          "row",
+          "session",
+          "editor"
+        ]
+      }
     }
   ],
   "notes": []

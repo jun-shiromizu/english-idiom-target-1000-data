@@ -12,5 +12,11 @@
       "sentence-jp": "彼女はコンサートの案内係にホールに入れてくれるように切に頼んだ。"
     }
   ],
+  "cloze": {
+    "maskedText": "They ____ him to stay a little longer.",
+    "answerBase": "beg",
+    "answerSurface": "begged",
+    "choices": ["begged", "refreshed", "updated", "bloomed"]
+  },
   "notes": []
 }

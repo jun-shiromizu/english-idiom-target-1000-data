@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Unlike the U.S., Germany never abandoned vocational education.",
-      "sentence-jp": "アメリカとは異なり，ドイツは職業教育を決して放棄しなかった。"
+      "sentence-jp": "アメリカとは異なり，ドイツは職業教育を決して放棄しなかった。",
+      "cloze": {
+        "maskedText": "Unlike the U.S., Germany never abandoned ____ education.",
+        "answerBase": "vocational",
+        "answerSurface": "vocational",
+        "choices": [
+          "vocational",
+          "wooden",
+          "nervous",
+          "popular"
+        ]
+      }
     }
   ],
   "notes": []

@@ -12,5 +12,11 @@
       "sentence-jp": "知識を探究して，その生徒は毎日何冊もの本を読破した。"
     }
   ],
+  "cloze": {
+    "maskedText": "They began a ____ for the lost treasure.",
+    "answerBase": "quest",
+    "answerSurface": "quest",
+    "choices": ["quest", "dignity", "agenda", "cluster"]
+  },
   "notes": []
 }

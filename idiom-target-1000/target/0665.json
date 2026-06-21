@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I thought he said he was coming, but I may well not have heard him right.",
-      "sentence-jp": "彼は来ると言ったと思ったが、おそらく私が正しく聞いていなかったのだろう。"
+      "sentence-jp": "彼は来ると言ったと思ったが、おそらく私が正しく聞いていなかったのだろう。",
+      "cloze": {
+        "maskedText": "I thought he said he was coming, but I ____.",
+        "answerBase": "may well do",
+        "answerSurface": "may well not have heard him right",
+        "choices": [
+          "may well not have heard him right",
+          "might just as well talk to a brick wall",
+          "cannot be too careful",
+          "feel like wearing"
+        ]
+      }
     }
   ],
   "notes": [

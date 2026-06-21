@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The soprano's beautiful voice amazed the audience.",
-      "sentence-jp": "そのソプラノ歌手の美しい声は聴衆をびっくりさせた。"
+      "sentence-jp": "そのソプラノ歌手の美しい声は聴衆をびっくりさせた。",
+      "cloze": {
+        "maskedText": "The soprano's beautiful voice ____ the audience.",
+        "answerBase": "amaze",
+        "answerSurface": "amazed",
+        "choices": [
+          "amazed",
+          "measured",
+          "buried",
+          "washed"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The child receives balanced nutrition from a variety of foods.",
-      "sentence-jp": "その子供は種々の食べ物からバランスのいい栄養をとっている。"
+      "sentence-jp": "その子供は種々の食べ物からバランスのいい栄養をとっている。",
+      "cloze": {
+        "maskedText": "The child receives balanced ____ from a variety of foods.",
+        "answerBase": "nutrition",
+        "answerSurface": "nutrition",
+        "choices": ["nutrition", "expedition", "jury", "ethic"]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Negative comments on an online review site may hurt businesses' reputations.",
-      "sentence-jp": "インターネットのレビューサイト上の否定的な意見は，企業の評判を損なう恐れがある。"
+      "sentence-jp": "インターネットのレビューサイト上の否定的な意見は，企業の評判を損なう恐れがある。",
+      "cloze": {
+        "maskedText": "Negative ____ on an online review site may hurt businesses' reputations.",
+        "answerBase": "comment",
+        "answerSurface": "comments",
+        "choices": [
+          "comments",
+          "engines",
+          "blankets",
+          "suitcases"
+        ]
+      }
     }
   ],
   "notes": []

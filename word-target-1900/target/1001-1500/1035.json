@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The coffee brand blends Ethiopian beans with Brazilian ones.",
-      "sentence-jp": "そのコーヒーブランドはエチオピア産の豆をブラジル産の豆と混ぜ合わせる。"
+      "sentence-jp": "そのコーヒーブランドはエチオピア産の豆をブラジル産の豆と混ぜ合わせる。",
+      "cloze": {
+        "maskedText": "The coffee brand ____ Ethiopian beans with Brazilian ones.",
+        "answerBase": "blend",
+        "answerSurface": "blends",
+        "choices": ["blends", "complicates", "pitches", "dedicates"]
+      }
     }
   ],
   "notes": []

@@ -13,7 +13,18 @@
         "without difficulty"
       ],
       "example-sentence": "Now that he has lived in Paris for six months, Kei speaks French with greater ease.",
-      "sentence-jp": "ケイはパリに住んでもう半年になるので、フランス語をずっと容易に話す。"
+      "sentence-jp": "ケイはパリに住んでもう半年になるので、フランス語をずっと容易に話す。",
+      "cloze": {
+        "maskedText": "Now that he has lived in Paris for six months, Kei speaks French ____.",
+        "answerBase": "with ease",
+        "answerSurface": "with greater ease",
+        "choices": [
+          "with greater ease",
+          "with a view to buying",
+          "in the way",
+          "to death"
+        ]
+      }
     }
   ],
   "notes": [

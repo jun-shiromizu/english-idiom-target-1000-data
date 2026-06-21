@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "His jokes and funny stories amused us.",
-      "sentence-jp": "彼の冗談や滑稽な話は私たちをおもしろがらせた。"
+      "sentence-jp": "彼の冗談や滑稽な話は私たちをおもしろがらせた。",
+      "cloze": {
+        "maskedText": "His jokes and funny stories ____ us.",
+        "answerBase": "amuse",
+        "answerSurface": "amused",
+        "choices": ["amused", "clicked", "dragged", "yawned"]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "It is dangerous to overtake a car on an inside lane.",
-      "sentence-jp": "内側車線で車を追い抜くのは危険である。"
+      "sentence-jp": "内側車線で車を追い抜くのは危険である。",
+      "cloze": {
+        "maskedText": "It is dangerous to ____ a car on an inside lane.",
+        "answerBase": "overtake",
+        "answerSurface": "overtake",
+        "choices": [
+          "overtake",
+          "observe",
+          "overcome",
+          "overlook"
+        ]
+      }
     }
   ],
   "notes": []

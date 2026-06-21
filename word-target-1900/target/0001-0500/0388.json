@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "One important military use of parachutes is for dropping cargo.",
-      "sentence-jp": "パラシュートの重要な軍事的使用法の1つは荷を投下することである。"
+      "sentence-jp": "パラシュートの重要な軍事的使用法の1つは荷を投下することである。",
+      "cloze": {
+        "maskedText": "One important ____ use of parachutes is for dropping cargo.",
+        "answerBase": "military",
+        "answerSurface": "military",
+        "choices": [
+          "military",
+          "domestic",
+          "visual",
+          "typical"
+        ]
+      }
     }
   ],
   "notes": []

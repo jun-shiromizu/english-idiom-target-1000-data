@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She wants to major in sociology at college.",
-      "sentence-jp": "彼女は大学で社会学を専攻したいと思っている。"
+      "sentence-jp": "彼女は大学で社会学を専攻したいと思っている。",
+      "cloze": {
+        "maskedText": "She wants to major in ____ at college.",
+        "answerBase": "sociology",
+        "answerSurface": "sociology",
+        "choices": [
+          "sociology",
+          "psychology",
+          "ideology",
+          "geography"
+        ]
+      }
     }
   ],
   "notes": []

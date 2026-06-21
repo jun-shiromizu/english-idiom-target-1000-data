@@ -12,5 +12,11 @@
       "sentence-jp": "チェコ共和国とスロバキア共和国は今では2つの独立した国家である。"
     }
   ],
+  "cloze": {
+    "maskedText": "France is a ____ with an elected president.",
+    "answerBase": "republic",
+    "answerSurface": "republic",
+    "choices": ["republic", "hierarchy", "commodity", "jail"]
+  },
   "notes": []
 }

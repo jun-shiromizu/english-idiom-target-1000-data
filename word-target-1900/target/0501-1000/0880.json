@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "The professor was generous enough to extend the deadline for the paper.",
-      "sentence-jp": "教授は寛大にもレポートの締め切りを延ばしてくれた。"
+      "sentence-jp": "教授は寛大にもレポートの締め切りを延ばしてくれた。",
+      "cloze": {
+        "maskedText": "The professor was ____ enough to extend the deadline for the paper.",
+        "answerBase": "generous",
+        "answerSurface": "generous",
+        "choices": ["generous", "silent", "fragile", "formal"]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Young people are often anxious about their future.",
-      "sentence-jp": "若者はよく自分の将来を心配している。"
+      "sentence-jp": "若者はよく自分の将来を心配している。",
+      "cloze": {
+        "maskedText": "Young people are often ____ about their future.",
+        "answerBase": "anxious",
+        "answerSurface": "anxious",
+        "choices": [
+          "anxious",
+          "minor",
+          "stable",
+          "abstract"
+        ]
+      }
     }
   ],
   "notes": []

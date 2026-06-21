@@ -12,5 +12,11 @@
       "sentence-jp": "無線ルーターは信号を送受信する。"
     }
   ],
+  "cloze": {
+    "maskedText": "A ____ mouse is more convenient for travel.",
+    "answerBase": "wireless",
+    "answerSurface": "wireless",
+    "choices": ["wireless", "innate", "interior", "steep"]
+  },
   "notes": []
 }

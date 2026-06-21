@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Picasso's paintings have long fascinated people in the world.",
-      "sentence-jp": "ピカソの絵画は長い間世界中の人々を魅了してきた。"
+      "sentence-jp": "ピカソの絵画は長い間世界中の人々を魅了してきた。",
+      "cloze": {
+        "maskedText": "Picasso's paintings have long ____ people in the world.",
+        "answerBase": "fascinate",
+        "answerSurface": "fascinated",
+        "choices": [
+          "fascinated",
+          "dropped",
+          "stored",
+          "balanced"
+        ]
+      }
     }
   ],
   "notes": []

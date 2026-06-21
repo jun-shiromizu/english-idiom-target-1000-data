@@ -12,5 +12,11 @@
       "sentence-jp": "宇宙人が現れて地球を征服するかもしれないと恐れている人もいる。"
     }
   ],
+  "cloze": {
+    "maskedText": "She worked hard to ____ her fear of failure.",
+    "answerBase": "conquer",
+    "answerSurface": "conquer",
+    "choices": ["conquer", "retrieve", "depart", "sigh"]
+  },
   "notes": []
 }

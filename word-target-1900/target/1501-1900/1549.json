@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She wrote some notes in the margin of the page.",
-      "sentence-jp": "彼女はそのページの余白にメモを書いた。"
+      "sentence-jp": "彼女はそのページの余白にメモを書いた。",
+      "cloze": {
+        "maskedText": "She wrote some notes in the ____ of the page.",
+        "answerBase": "margin",
+        "answerSurface": "margin",
+        "choices": [
+          "margin",
+          "center",
+          "surface",
+          "cover"
+        ]
+      }
     }
   ],
   "notes": []

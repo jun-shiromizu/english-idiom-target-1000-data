@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The children plunged into the swimming pool one by one.",
-      "sentence-jp": "子供たちは1人ずつプールに飛び込んだ。"
+      "sentence-jp": "子供たちは1人ずつプールに飛び込んだ。",
+      "cloze": {
+        "maskedText": "The children ____ into the swimming pool one by one.",
+        "answerBase": "plunge",
+        "answerSurface": "plunged",
+        "choices": [
+          "plunged",
+          "looked",
+          "waited",
+          "traveled"
+        ]
+      }
     }
   ],
   "notes": []

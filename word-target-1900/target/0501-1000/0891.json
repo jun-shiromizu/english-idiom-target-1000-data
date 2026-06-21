@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "They can talk to their children via e-mail and instant messaging.",
-      "sentence-jp": "Eメールやインスタントメッセージ機能を通じて彼らは自分の子供たちと話すことができる。"
+      "sentence-jp": "Eメールやインスタントメッセージ機能を通じて彼らは自分の子供たちと話すことができる。",
+      "cloze": {
+        "maskedText": "They can talk to their children via e-mail and ____ messaging.",
+        "answerBase": "instant",
+        "answerSurface": "instant",
+        "choices": ["instant", "fragile", "narrow", "formal"]
+      }
     }
   ],
   "notes": []

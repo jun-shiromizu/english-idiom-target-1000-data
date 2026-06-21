@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "It seems she has completely made up her mind; you might just as well talk to a brick wall.",
-      "sentence-jp": "彼女は完全に決心がついているように見える。レンガの壁に話しかけるようなものだ。"
+      "sentence-jp": "彼女は完全に決心がついているように見える。レンガの壁に話しかけるようなものだ。",
+      "cloze": {
+        "maskedText": "It seems she has completely made up her mind; you ____.",
+        "answerBase": "might (just) as well do",
+        "answerSurface": "might just as well talk to a brick wall",
+        "choices": [
+          "might just as well talk to a brick wall",
+          "may well not have heard him right",
+          "cannot be too careful",
+          "came very close to uttering a few angry words"
+        ]
+      }
     }
   ],
   "notes": [

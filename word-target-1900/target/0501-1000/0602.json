@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "A good foreign policy stimulates the economy.",
-      "sentence-jp": "すぐれた外交政策は経済を刺激する。"
+      "sentence-jp": "すぐれた外交政策は経済を刺激する。",
+      "cloze": {
+        "maskedText": "A good foreign policy ____ the economy.",
+        "answerBase": "stimulate",
+        "answerSurface": "stimulates",
+        "choices": [
+          "stimulates",
+          "reacts",
+          "stares",
+          "quits"
+        ]
+      }
     }
   ],
   "notes": []

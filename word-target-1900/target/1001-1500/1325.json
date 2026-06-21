@@ -12,5 +12,11 @@
       "sentence-jp": "その研究者は，自分の研究結果が事実であると主張した。"
     }
   ],
+  "cloze": {
+    "maskedText": "He continued to ____ that he was innocent.",
+    "answerBase": "assert",
+    "answerSurface": "assert",
+    "choices": ["assert", "renew", "startle", "descend"]
+  },
   "notes": []
 }

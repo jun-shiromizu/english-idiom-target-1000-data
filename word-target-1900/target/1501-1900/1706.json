@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The chairs in the room are stacked in three neat piles.",
-      "sentence-jp": "その部屋の椅子は3つの山にきちんと積み重ねられている。"
+      "sentence-jp": "その部屋の椅子は3つの山にきちんと積み重ねられている。",
+      "cloze": {
+        "maskedText": "The chairs in the room are ____ in three neat piles.",
+        "answerBase": "stack",
+        "answerSurface": "stacked",
+        "choices": [
+          "stacked",
+          "hidden",
+          "broken",
+          "washed"
+        ]
+      }
     }
   ],
   "notes": []

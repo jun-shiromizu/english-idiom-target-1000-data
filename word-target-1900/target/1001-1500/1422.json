@@ -12,5 +12,11 @@
       "sentence-jp": "その少年は口に1切れのパンを詰め込んだ。"
     }
   ],
+  "cloze": {
+    "maskedText": "She tried to ____ all her books into one bag.",
+    "answerBase": "cram",
+    "answerSurface": "cram",
+    "choices": ["cram", "clarify", "seize", "glow"]
+  },
   "notes": []
 }

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He conceived a new business plan while taking a bath.",
-      "sentence-jp": "彼は入浴中に新しい事業計画を思いついた。"
+      "sentence-jp": "彼は入浴中に新しい事業計画を思いついた。",
+      "cloze": {
+        "maskedText": "He ____ a new business plan while taking a bath.",
+        "answerBase": "conceive",
+        "answerSurface": "conceived",
+        "choices": [
+          "conceived",
+          "described",
+          "borrowed",
+          "accepted"
+        ]
+      }
     }
   ],
   "notes": []

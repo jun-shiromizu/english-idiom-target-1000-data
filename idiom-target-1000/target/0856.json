@@ -13,7 +13,18 @@
         "wish for ~"
       ],
       "example-sentence": "As a girl, Eri aspired to a career in medicine, but changed her mind later.",
-      "sentence-jp": "少女のころ、エリは医学分野での職業を熱望していたが、後に考えを変えた。"
+      "sentence-jp": "少女のころ、エリは医学分野での職業を熱望していたが、後に考えを変えた。",
+      "cloze": {
+        "maskedText": "As a girl, Eri ____ a career in medicine, but changed her mind later.",
+        "answerBase": "aspire to ~",
+        "answerSurface": "aspired to",
+        "choices": [
+          "aspired to",
+          "attended to",
+          "submitted to",
+          "consented to"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She inherited her musical talent from her father.",
-      "sentence-jp": "彼女は父親から音楽的才能を受け継いだ。"
+      "sentence-jp": "彼女は父親から音楽的才能を受け継いだ。",
+      "cloze": {
+        "maskedText": "She ____ her musical talent from her father.",
+        "answerBase": "inherit",
+        "answerSurface": "inherited",
+        "choices": ["inherited", "vanished", "spoiled", "ceased"]
+      }
     }
   ],
   "notes": []

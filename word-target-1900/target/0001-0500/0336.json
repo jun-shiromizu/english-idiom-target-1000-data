@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "People often complain about the government's reaction to natural disasters.",
-      "sentence-jp": "人々はよく自然災害に対する政府の反応について不平を言う。"
+      "sentence-jp": "人々はよく自然災害に対する政府の反応について不平を言う。",
+      "cloze": {
+        "maskedText": "People often ____ about the government's reaction to natural disasters.",
+        "answerBase": "complain about",
+        "answerSurface": "complain",
+        "choices": [
+          "complain",
+          "depend",
+          "arrive",
+          "travel"
+        ]
+      }
     }
   ],
   "notes": []

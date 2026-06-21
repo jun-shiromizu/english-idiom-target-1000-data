@@ -12,7 +12,18 @@
         "instead of ~"
       ],
       "example-sentence": "The word “aloha” is used in place of hello and goodbye, but it means much more than that.",
-      "sentence-jp": "「アロハ」という言葉はこんにちはとさようならの代わりに使われているが、それよりずっと多くの意味を持つ。"
+      "sentence-jp": "「アロハ」という言葉はこんにちはとさようならの代わりに使われているが、それよりずっと多くの意味を持つ。",
+      "cloze": {
+        "maskedText": "The word “aloha” is used ____ hello and goodbye, but it means much more than that.",
+        "answerBase": "in place of ~",
+        "answerSurface": "in place of",
+        "choices": [
+          "in place of",
+          "in honor of",
+          "in light of",
+          "at the mercy of"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The storm caused a flood in the river basin.",
-      "sentence-jp": "暴風雨は河川流域に氾濫を引き起こした。"
+      "sentence-jp": "暴風雨は河川流域に氾濫を引き起こした。",
+      "cloze": {
+        "maskedText": "The storm caused a flood in the river ____.",
+        "answerBase": "basin",
+        "answerSurface": "basin",
+        "choices": [
+          "basin",
+          "captain",
+          "lecture",
+          "blanket"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Today many ordinary people deal in stocks via the internet.",
-      "sentence-jp": "今日では多くの普通の人がインターネット経由で株を扱っている。"
+      "sentence-jp": "今日では多くの普通の人がインターネット経由で株を扱っている。",
+      "cloze": {
+        "maskedText": "Today many ordinary people ____ stocks via the internet.",
+        "answerBase": "deal in ~",
+        "answerSurface": "deal in",
+        "choices": [
+          "deal in",
+          "persist in",
+          "count for",
+          "submit to"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "People often act on the basis of their voluntary will.",
-      "sentence-jp": "人々はよく自らの自発的意志に基づいて行動する。"
+      "sentence-jp": "人々はよく自らの自発的意志に基づいて行動する。",
+      "cloze": {
+        "maskedText": "People often act on the basis of their ____ will.",
+        "answerBase": "voluntary",
+        "answerSurface": "voluntary",
+        "choices": ["voluntary", "inclined", "seasonal", "parallel"]
+      }
     }
   ],
   "notes": []

@@ -12,7 +12,18 @@
         "could do with ~"
       ],
       "example-sentence": "I’ve been trying in vain to repair this for hours. I could use some help from someone.",
-      "sentence-jp": "私は何時間もこれを修理しようとしているが、だめだ。誰かの手助けがあればありがたい。"
+      "sentence-jp": "私は何時間もこれを修理しようとしているが、だめだ。誰かの手助けがあればありがたい。",
+      "cloze": {
+        "maskedText": "I’ve been trying in vain to repair this for hours. I ____ some help from someone.",
+        "answerBase": "could use ~",
+        "answerSurface": "could use",
+        "choices": [
+          "could use",
+          "have no idea",
+          "take office",
+          "pay a visit"
+        ]
+      }
     }
   ],
   "notes": [

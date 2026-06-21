@@ -12,5 +12,11 @@
       "sentence-jp": "私たちは子供を教育し，勤労し，納税する義務がある。"
     }
   ],
+  "cloze": {
+    "maskedText": "The law does not ____ you to answer that question.",
+    "answerBase": "oblige",
+    "answerSurface": "oblige",
+    "choices": ["oblige", "flock", "soar", "glow"]
+  },
   "notes": []
 }

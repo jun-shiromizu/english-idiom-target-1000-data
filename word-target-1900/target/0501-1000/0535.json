@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "My parents celebrated their 25 th wedding anniversary in December.",
-      "sentence-jp": "私の両親は12月に結婚25周年を祝った。"
+      "sentence-jp": "私の両親は12月に結婚25周年を祝った。",
+      "cloze": {
+        "maskedText": "My parents ____ their 25 th wedding anniversary in December.",
+        "answerBase": "celebrate",
+        "answerSurface": "celebrated",
+        "choices": [
+          "celebrated",
+          "transported",
+          "adjusted",
+          "opposed"
+        ]
+      }
     }
   ],
   "notes": []

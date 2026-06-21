@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She piled up the plates and put them on the shelf.",
-      "sentence-jp": "彼女は皿を積み重ねてそれらを棚に置いた。"
+      "sentence-jp": "彼女は皿を積み重ねてそれらを棚に置いた。",
+      "cloze": {
+        "maskedText": "She ____ up the plates and put them on the shelf.",
+        "answerBase": "pile",
+        "answerSurface": "piled",
+        "choices": [
+          "piled",
+          "greeted",
+          "derived",
+          "peered"
+        ]
+      }
     }
   ],
   "notes": []

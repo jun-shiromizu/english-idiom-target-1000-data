@@ -12,5 +12,11 @@
       "sentence-jp": "彼女の情熱は知識不足を補う。"
     }
   ],
+  "cloze": {
+    "maskedText": "Nothing can fully ____ for the lost time.",
+    "answerBase": "compensate",
+    "answerSurface": "compensate",
+    "choices": ["compensate", "prevail", "flip", "compute"]
+  },
   "notes": []
 }

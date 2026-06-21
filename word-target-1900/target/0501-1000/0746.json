@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The American economy seems to be dominated by the business elite.",
-      "sentence-jp": "アメリカ経済はビジネスエリートに支配されているように思える。"
+      "sentence-jp": "アメリカ経済はビジネスエリートに支配されているように思える。",
+      "cloze": {
+        "maskedText": "The American economy seems to be dominated by the business ____.",
+        "answerBase": "elite",
+        "answerSurface": "elite",
+        "choices": [
+          "elite",
+          "wisdom",
+          "layer",
+          "protein"
+        ]
+      }
     }
   ],
   "notes": []

@@ -12,7 +12,18 @@
         "be concerned with [in] ~"
       ],
       "example-sentence": "My father has long been involved in a campaign to prevent power harassment.",
-      "sentence-jp": "私の父は長いことパワハラ防止の運動に携わっている。"
+      "sentence-jp": "私の父は長いことパワハラ防止の運動に携わっている。",
+      "cloze": {
+        "maskedText": "My father has long been ____ a campaign to prevent power harassment.",
+        "answerBase": "be involved in ~",
+        "answerSurface": "involved in",
+        "choices": [
+          "involved in",
+          "busy with",
+          "popular with",
+          "content with"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "According to a philosopher, one's house reflects one's personality.",
-      "sentence-jp": "ある哲学者によると，人の家はその人の個性を反映するとのことである。"
+      "sentence-jp": "ある哲学者によると，人の家はその人の個性を反映するとのことである。",
+      "cloze": {
+        "maskedText": "According to a philosopher, one's house reflects one's ____.",
+        "answerBase": "personality",
+        "answerSurface": "personality",
+        "choices": [
+          "personality",
+          "capacity",
+          "atmosphere",
+          "surface"
+        ]
+      }
     }
   ],
   "notes": []

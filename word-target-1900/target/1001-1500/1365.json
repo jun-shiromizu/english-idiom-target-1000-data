@@ -12,5 +12,11 @@
       "sentence-jp": "この記入用紙にあなたの署名をしてください。"
     }
   ],
+  "cloze": {
+    "maskedText": "Please add your ____ at the bottom of the page.",
+    "answerBase": "signature",
+    "answerSurface": "signature",
+    "choices": ["signature", "rumor", "kidney", "worship"]
+  },
   "notes": []
 }

@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The books are classified according to the authors' names.",
-      "sentence-jp": "本は作家の名前に従って分類されている。"
+      "sentence-jp": "本は作家の名前に従って分類されている。",
+      "cloze": {
+        "maskedText": "The books are ____ according to the authors' names.",
+        "answerBase": "classify",
+        "answerSurface": "classified",
+        "choices": ["classified", "submitted", "grabbed", "entertained"]
+      }
     }
   ],
   "notes": []

@@ -12,7 +12,18 @@
         "do (~) by chance"
       ],
       "example-sentence": "It was just pure luck that we happened to be there and witness the historic incident.",
-      "sentence-jp": "私たちが偶然そこにいて歴史的事件を目撃したのはまったくの幸運だった。"
+      "sentence-jp": "私たちが偶然そこにいて歴史的事件を目撃したのはまったくの幸運だった。",
+      "cloze": {
+        "maskedText": "It was just pure luck that we ____ be there and witness the historic incident.",
+        "answerBase": "happen to do",
+        "answerSurface": "happened to",
+        "choices": [
+          "happened to",
+          "managed to",
+          "bothered to",
+          "went so far as to"
+        ]
+      }
     }
   ],
   "notes": [

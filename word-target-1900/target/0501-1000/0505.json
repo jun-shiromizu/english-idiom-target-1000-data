@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Employees criticized the company president for poor management.",
-      "sentence-jp": "従業員たちは下手な経営を理由に社長を批判した。"
+      "sentence-jp": "従業員たちは下手な経営を理由に社長を批判した。",
+      "cloze": {
+        "maskedText": "Employees ____ the company president for poor management.",
+        "answerBase": "criticize",
+        "answerSurface": "criticized",
+        "choices": [
+          "criticized",
+          "invited",
+          "guarded",
+          "washed"
+        ]
+      }
     }
   ],
   "notes": []

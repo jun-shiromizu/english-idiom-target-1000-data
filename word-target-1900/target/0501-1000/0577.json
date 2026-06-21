@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He has made a three-year contract with a professional soccer team.",
-      "sentence-jp": "彼はプロサッカーチームとの3年契約を結んだ。"
+      "sentence-jp": "彼はプロサッカーチームとの3年契約を結んだ。",
+      "cloze": {
+        "maskedText": "He has made a three-year ____ with a professional soccer team.",
+        "answerBase": "contract",
+        "answerSurface": "contract",
+        "choices": [
+          "contract",
+          "welfare",
+          "alarm",
+          "fee"
+        ]
+      }
     }
   ],
   "notes": []

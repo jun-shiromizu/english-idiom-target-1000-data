@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Japan has produced many young entrepreneurs in the IT field.",
-      "sentence-jp": "日本はIT分野において多くの若い起業家を輩出してきた。"
+      "sentence-jp": "日本はIT分野において多くの若い起業家を輩出してきた。",
+      "cloze": {
+        "maskedText": "Japan has produced many young ____ in the IT field.",
+        "answerBase": "entrepreneur",
+        "answerSurface": "entrepreneurs",
+        "choices": [
+          "entrepreneurs",
+          "engineers",
+          "investors",
+          "employees"
+        ]
+      }
     }
   ],
   "notes": []

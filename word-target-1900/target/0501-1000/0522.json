@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Tim hopes to beat last year's champion in the next game.",
-      "sentence-jp": "ティムは次の試合で昨年の優勝者を打ち負かしたいと思っている。"
+      "sentence-jp": "ティムは次の試合で昨年の優勝者を打ち負かしたいと思っている。",
+      "cloze": {
+        "maskedText": "Tim hopes to ____ last year's champion in the next game.",
+        "answerBase": "beat",
+        "answerSurface": "beat",
+        "choices": [
+          "beat",
+          "freeze",
+          "store",
+          "divide"
+        ]
+      }
     }
   ],
   "notes": []

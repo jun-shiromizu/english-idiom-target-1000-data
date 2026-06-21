@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "She broke off her conversation at intervals and smiled at me.",
-      "sentence-jp": "彼女は時折会話をやめ、私にほほえみかけた。"
+      "sentence-jp": "彼女は時折会話をやめ、私にほほえみかけた。",
+      "cloze": {
+        "maskedText": "She broke off her conversation ____ and smiled at me.",
+        "answerBase": "at intervals",
+        "answerSurface": "at intervals",
+        "choices": [
+          "at intervals",
+          "at heart",
+          "on average",
+          "on a daily basis"
+        ]
+      }
     }
   ],
   "notes": [

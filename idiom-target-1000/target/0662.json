@@ -12,7 +12,18 @@
         "what is called ~"
       ],
       "example-sentence": "Welsh is what we call a minority language.",
-      "sentence-jp": "ウェールズ語はいわゆる少数言語だ。"
+      "sentence-jp": "ウェールズ語はいわゆる少数言語だ。",
+      "cloze": {
+        "maskedText": "Welsh is ____ a minority language.",
+        "answerBase": "what we call ~",
+        "answerSurface": "what we call",
+        "choices": [
+          "what we call",
+          "what he used to be",
+          "the last person to",
+          "To tell the truth"
+        ]
+      }
     }
   ],
   "notes": [

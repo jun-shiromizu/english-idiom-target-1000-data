@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "During the war, the solider transmitted messages through radio signals.",
-      "sentence-jp": "戦争中，その兵士は無線信号を通じてメッセージを伝えた。"
+      "sentence-jp": "戦争中，その兵士は無線信号を通じてメッセージを伝えた。",
+      "cloze": {
+        "maskedText": "During the war, the solider ____ messages through radio signals.",
+        "answerBase": "transmit",
+        "answerSurface": "transmitted",
+        "choices": ["transmitted", "cheated", "fostered", "obeyed"]
+      }
     }
   ],
   "notes": []

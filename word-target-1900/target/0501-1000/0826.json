@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The country wants to impose greater control on immigration.",
-      "sentence-jp": "その国は移民に対しより厳しい制限を課すことを望んでいる。"
+      "sentence-jp": "その国は移民に対しより厳しい制限を課すことを望んでいる。",
+      "cloze": {
+        "maskedText": "The country wants to ____ greater control on immigration.",
+        "answerBase": "impose",
+        "answerSurface": "impose",
+        "choices": [
+          "impose",
+          "rescue",
+          "resolve",
+          "wed"
+        ]
+      }
     }
   ],
   "notes": []

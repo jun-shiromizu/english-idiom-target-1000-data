@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Humans should never disturb the balance of the natural world.",
-      "sentence-jp": "人間は決して自然界のバランスをかき乱してはならない。"
+      "sentence-jp": "人間は決して自然界のバランスをかき乱してはならない。",
+      "cloze": {
+        "maskedText": "Humans should never ____ the balance of the natural world.",
+        "answerBase": "disturb",
+        "answerSurface": "disturb",
+        "choices": [
+          "disturb",
+          "cope",
+          "crash",
+          "suspect"
+        ]
+      }
     }
   ],
   "notes": []

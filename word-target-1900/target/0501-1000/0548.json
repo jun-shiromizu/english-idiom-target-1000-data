@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He was blamed for not doing his duty as a parent.",
-      "sentence-jp": "彼は親としての義務を果たさないことで責められた。"
+      "sentence-jp": "彼は親としての義務を果たさないことで責められた。",
+      "cloze": {
+        "maskedText": "He was blamed for not doing his ____ as a parent.",
+        "answerBase": "duty",
+        "answerSurface": "duty",
+        "choices": [
+          "duty",
+          "route",
+          "stereotype",
+          "candidate"
+        ]
+      }
     }
   ],
   "notes": []

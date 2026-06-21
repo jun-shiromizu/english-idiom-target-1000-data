@@ -12,5 +12,11 @@
       "sentence-jp": "史上最大の美術品窃盗は第二次世界大戦中に起こった。"
     }
   ],
+  "cloze": {
+    "maskedText": "He was arrested for car ____.",
+    "answerBase": "theft",
+    "answerSurface": "theft",
+    "choices": ["theft", "bargain", "landmark", "sphere"]
+  },
   "notes": []
 }

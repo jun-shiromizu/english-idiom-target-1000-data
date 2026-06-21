@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Computer programming is his principal source of income.",
-      "sentence-jp": "コンピュータープログラミングが彼の主要な収入源である。"
+      "sentence-jp": "コンピュータープログラミングが彼の主要な収入源である。",
+      "cloze": {
+        "maskedText": "Computer programming is his ____ source of income.",
+        "answerBase": "principal",
+        "answerSurface": "principal",
+        "choices": [
+          "principal",
+          "rational",
+          "remote",
+          "frequent"
+        ]
+      }
     }
   ],
   "notes": []

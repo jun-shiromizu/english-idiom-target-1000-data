@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Brown rice is rich in dietary fiber and vitamin B.",
-      "sentence-jp": "玄米は食物繊維とビタミンBが豊富である。"
+      "sentence-jp": "玄米は食物繊維とビタミンBが豊富である。",
+      "cloze": {
+        "maskedText": "Brown rice is rich in dietary ____ and vitamin B.",
+        "answerBase": "fiber",
+        "answerSurface": "fiber",
+        "choices": ["fiber", "scent", "beverage", "consensus"]
+      }
     }
   ],
   "notes": []

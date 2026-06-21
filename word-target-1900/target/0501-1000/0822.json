@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Walt Disney delighted many people with his attractive stories.",
-      "sentence-jp": "ウォルト・ディズニーは彼の作る魅力的な物語で多くの人々を喜ばせた。"
+      "sentence-jp": "ウォルト・ディズニーは彼の作る魅力的な物語で多くの人々を喜ばせた。",
+      "cloze": {
+        "maskedText": "Walt Disney ____ many people with his attractive stories.",
+        "answerBase": "delight",
+        "answerSurface": "delighted",
+        "choices": [
+          "delighted",
+          "boosted",
+          "endured",
+          "registered"
+        ]
+      }
     }
   ],
   "notes": []

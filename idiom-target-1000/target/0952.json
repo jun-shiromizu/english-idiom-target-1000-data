@@ -12,7 +12,18 @@
         "per person [head]"
       ],
       "example-sentence": "In the last forty years, the per capita income of Americans has more than doubled.",
-      "sentence-jp": "過去40年で、アメリカ人1人当たりの収入は倍以上になった。"
+      "sentence-jp": "過去40年で、アメリカ人1人当たりの収入は倍以上になった。",
+      "cloze": {
+        "maskedText": "In the last forty years, the ____ income of Americans has more than doubled.",
+        "answerBase": "per capita",
+        "answerSurface": "per capita",
+        "choices": [
+          "per capita",
+          "second to none",
+          "something of a",
+          "regardless of"
+        ]
+      }
     }
   ],
   "notes": []

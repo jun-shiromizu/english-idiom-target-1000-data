@@ -12,7 +12,18 @@
         "short of breath"
       ],
       "example-sentence": "After running hard for thirty minutes, Emily was out of breath, so she sat down to rest.",
-      "sentence-jp": "エミリーは30分間一生懸命走って息切れしたので、腰を下ろして休んだ。"
+      "sentence-jp": "エミリーは30分間一生懸命走って息切れしたので、腰を下ろして休んだ。",
+      "cloze": {
+        "maskedText": "After running hard for thirty minutes, Emily was ____, so she sat down to rest.",
+        "answerBase": "out of breath",
+        "answerSurface": "out of breath",
+        "choices": [
+          "out of breath",
+          "out of character",
+          "behind the times",
+          "beyond description"
+        ]
+      }
     }
   ],
   "notes": []

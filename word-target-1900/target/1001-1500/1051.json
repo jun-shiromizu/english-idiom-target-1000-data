@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Society must protect adolescents from dangerous websites.",
-      "sentence-jp": "社会は青年を危険なウェブサイトから守らなければならない。"
+      "sentence-jp": "社会は青年を危険なウェブサイトから守らなければならない。",
+      "cloze": {
+        "maskedText": "Society must protect ____ from dangerous websites.",
+        "answerBase": "adolescent",
+        "answerSurface": "adolescents",
+        "choices": ["adolescents", "penalties", "faculties", "particles"]
+      }
     }
   ],
   "notes": []

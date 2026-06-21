@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "I admitted that I lost my father's favorite watch.",
-      "sentence-jp": "私は父のお気に入りの時計をなくしたことを認めた。"
+      "sentence-jp": "私は父のお気に入りの時計をなくしたことを認めた。",
+      "cloze": {
+        "maskedText": "I ____ that I lost my father's favorite watch.",
+        "answerBase": "admit",
+        "answerSurface": "admitted",
+        "choices": [
+          "admitted",
+          "collected",
+          "painted",
+          "borrowed"
+        ]
+      }
     }
   ],
   "notes": []

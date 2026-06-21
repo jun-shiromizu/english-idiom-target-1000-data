@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Several international treaties ban the use of biological and chemical weapons.",
-      "sentence-jp": "いくつかの国際条約が生物・化学兵器の使用を禁じている。a"
+      "sentence-jp": "いくつかの国際条約が生物・化学兵器の使用を禁じている。a",
+      "cloze": {
+        "maskedText": "Several international treaties ban the use of biological and chemical ____.",
+        "answerBase": "weapon",
+        "answerSurface": "weapons",
+        "choices": [
+          "weapons",
+          "fellows",
+          "candles",
+          "pillows"
+        ]
+      }
     }
   ],
   "notes": []

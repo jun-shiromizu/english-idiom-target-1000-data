@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "The police ruled out the possibility that the robber might have entered through the window.",
-      "sentence-jp": "警察は強盗が窓から侵入したかもしれないという可能性を排除した。"
+      "sentence-jp": "警察は強盗が窓から侵入したかもしれないという可能性を排除した。",
+      "cloze": {
+        "maskedText": "The police ____ the possibility that the robber might have entered through the window.",
+        "answerBase": "rule out ~",
+        "answerSurface": "ruled out",
+        "choices": [
+          "ruled out",
+          "worked out",
+          "singled out",
+          "told on"
+        ]
+      }
     }
   ],
   "notes": [

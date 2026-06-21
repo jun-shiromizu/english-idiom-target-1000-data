@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Legend has it that there used to live kappa, imaginary creatures, in the river around here.",
-      "sentence-jp": "伝説によると、想像上の生き物である河童がかつてこの辺りの川に住んでいたということだ。"
+      "sentence-jp": "伝説によると、想像上の生き物である河童がかつてこの辺りの川に住んでいたということだ。",
+      "cloze": {
+        "maskedText": "____ there used to live kappa, imaginary creatures, in the river around here.",
+        "answerBase": "Legend has it (that) ...",
+        "answerSurface": "Legend has it that",
+        "choices": [
+          "Legend has it that",
+          "Come to think of it",
+          "How come",
+          "Here we are"
+        ]
+      }
     }
   ],
   "notes": [

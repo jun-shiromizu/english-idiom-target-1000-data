@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I think it’s quite out of character for her to give up anything in the middle of making an effort.",
-      "sentence-jp": "頑張っている途中で何かをあきらめるなんて、まったく彼女らしくないと思う。"
+      "sentence-jp": "頑張っている途中で何かをあきらめるなんて、まったく彼女らしくないと思う。",
+      "cloze": {
+        "maskedText": "I think it’s quite ____ for her to give up anything in the middle of making an effort.",
+        "answerBase": "out of character",
+        "answerSurface": "out of character",
+        "choices": [
+          "out of character",
+          "out of breath",
+          "behind the times",
+          "beyond description"
+        ]
+      }
     }
   ],
   "notes": [

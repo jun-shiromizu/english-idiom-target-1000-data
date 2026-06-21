@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "According to statistics, some 2.1 billion people worldwide don’t have access to safe water at home.",
-      "sentence-jp": "統計によれば、世界中で21億人ほどが家庭で安全な水を利用できない。"
+      "sentence-jp": "統計によれば、世界中で21億人ほどが家庭で安全な水を利用できない。",
+      "cloze": {
+        "maskedText": "According to statistics, some 2.1 billion people worldwide don’t ____ safe water at home.",
+        "answerBase": "have access to ~",
+        "answerSurface": "have access to",
+        "choices": [
+          "have access to",
+          "have a say in",
+          "have difficulty",
+          "have an influence on"
+        ]
+      }
     }
   ],
   "notes": [

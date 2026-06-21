@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He believes it is his fate to marry his girlfriend.",
-      "sentence-jp": "彼はガールフレンドと結婚することは自分の運命だと信じている。"
+      "sentence-jp": "彼はガールフレンドと結婚することは自分の運命だと信じている。",
+      "cloze": {
+        "maskedText": "He believes it is his ____ to marry his girlfriend.",
+        "answerBase": "fate",
+        "answerSurface": "fate",
+        "choices": ["fate", "wound", "metaphor", "minimum"]
+      }
     }
   ],
   "notes": []

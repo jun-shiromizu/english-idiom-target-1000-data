@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Fresh food easily decays in the summer.",
-      "sentence-jp": "夏の間は生鮮食品はすぐに腐敗する。"
+      "sentence-jp": "夏の間は生鮮食品はすぐに腐敗する。",
+      "cloze": {
+        "maskedText": "Fresh food easily ____ in the summer.",
+        "answerBase": "decay",
+        "answerSurface": "decays",
+        "choices": [
+          "decays",
+          "dissolves",
+          "disappears",
+          "shrinks"
+        ]
+      }
     }
   ],
   "notes": []

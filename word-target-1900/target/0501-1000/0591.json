@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "I have tried to keep my explanation brief.",
-      "sentence-jp": "私は自分の説明を簡潔にしておこうと努めた。"
+      "sentence-jp": "私は自分の説明を簡潔にしておこうと努めた。",
+      "cloze": {
+        "maskedText": "I have tried to keep my explanation ____.",
+        "answerBase": "brief",
+        "answerSurface": "brief",
+        "choices": [
+          "brief",
+          "visible",
+          "aggressive",
+          "precise"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "The teacher took hold of the child’s hand and led her gently into the classroom.",
-      "sentence-jp": "先生はその子供の手を取り、優しく教室の中へいざなった。"
+      "sentence-jp": "先生はその子供の手を取り、優しく教室の中へいざなった。",
+      "cloze": {
+        "maskedText": "The teacher ____ the child’s hand and led her gently into the classroom.",
+        "answerBase": "take hold of ~",
+        "answerSurface": "took hold of",
+        "choices": [
+          "took hold of",
+          "took notice of",
+          "kept track of",
+          "let go of"
+        ]
+      }
     }
   ],
   "notes": [

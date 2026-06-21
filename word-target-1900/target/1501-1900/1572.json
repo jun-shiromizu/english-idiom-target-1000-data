@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He thinks that he is a man of superior intellect.",
-      "sentence-jp": "彼は自分がすぐれた知性を持つ人間だと思っている。"
+      "sentence-jp": "彼は自分がすぐれた知性を持つ人間だと思っている。",
+      "cloze": {
+        "maskedText": "He thinks that he is a man of superior ____.",
+        "answerBase": "intellect",
+        "answerSurface": "intellect",
+        "choices": [
+          "intellect",
+          "instinct",
+          "emotion",
+          "patience"
+        ]
+      }
     }
   ],
   "notes": []

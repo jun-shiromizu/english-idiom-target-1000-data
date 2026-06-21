@@ -14,7 +14,18 @@
         "in jeopardy"
       ],
       "example-sentence": "We shouldn’t forget that polluted air is putting the health of the whole nation at risk.",
-      "sentence-jp": "私たちは汚染された大気が全国民の健康を危険な状態にさらしていることを忘れるべきではない。"
+      "sentence-jp": "私たちは汚染された大気が全国民の健康を危険な状態にさらしていることを忘れるべきではない。",
+      "cloze": {
+        "maskedText": "We shouldn’t forget that polluted air is putting the health of the whole nation ____.",
+        "answerBase": "at risk",
+        "answerSurface": "at risk",
+        "choices": [
+          "at risk",
+          "at a loss",
+          "at first sight",
+          "at heart"
+        ]
+      }
     }
   ],
   "notes": [

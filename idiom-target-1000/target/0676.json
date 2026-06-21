@@ -13,7 +13,18 @@
         "for the purpose of ~"
       ],
       "example-sentence": "Aya went to the department store with a view to buying a present for her friend.",
-      "sentence-jp": "アヤは友達へのプレゼントを買う目的でデパートへ行った。"
+      "sentence-jp": "アヤは友達へのプレゼントを買う目的でデパートへ行った。",
+      "cloze": {
+        "maskedText": "Aya went to the department store ____ buying a present for her friend.",
+        "answerBase": "with a view to doing",
+        "answerSurface": "with a view to",
+        "choices": [
+          "with a view to",
+          "Joking aside",
+          "Speaking of",
+          "Judging from"
+        ]
+      }
     }
   ],
   "notes": [

@@ -12,5 +12,11 @@
       "sentence-jp": "彼は誤って友人の伝言を否定的に歪めた。"
     }
   ],
+  "cloze": {
+    "maskedText": "The mirror can ____ your reflection.",
+    "answerBase": "distort",
+    "answerSurface": "distort",
+    "choices": ["distort", "abolish", "dispose", "glow"]
+  },
   "notes": []
 }

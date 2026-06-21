@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "When she heard a strange sound, she looked around in alarm.",
-      "sentence-jp": "彼女は奇妙な物音を聞いたとき，不安を感じて辺りを見回した。"
+      "sentence-jp": "彼女は奇妙な物音を聞いたとき，不安を感じて辺りを見回した。",
+      "cloze": {
+        "maskedText": "When she heard a strange sound, she looked around in ____.",
+        "answerBase": "alarm",
+        "answerSurface": "alarm",
+        "choices": [
+          "alarm",
+          "budget",
+          "minister",
+          "loan"
+        ]
+      }
     }
   ],
   "notes": []

@@ -12,5 +12,11 @@
       "sentence-jp": "ゾウの大きな群れが野原に移動した。"
     }
   ],
+  "cloze": {
+    "maskedText": "A ____ of deer crossed the road at dawn.",
+    "answerBase": "herd",
+    "answerSurface": "herd",
+    "choices": ["herd", "chamber", "appetite", "utility"]
+  },
   "notes": []
 }

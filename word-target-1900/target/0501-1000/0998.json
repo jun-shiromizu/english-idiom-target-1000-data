@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "He always shows a modest attitude towards everyone.",
-      "sentence-jp": "彼はだれに対しても常に謙虚な態度を示す。"
+      "sentence-jp": "彼はだれに対しても常に謙虚な態度を示す。",
+      "cloze": {
+        "maskedText": "He always shows a ____ attitude towards everyone.",
+        "answerBase": "modest",
+        "answerSurface": "modest",
+        "choices": ["modest", "awful", "vulnerable", "passive"]
+      }
     }
   ],
   "notes": []

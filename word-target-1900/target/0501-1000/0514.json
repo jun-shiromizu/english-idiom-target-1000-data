@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Humans differ from other animals mostly due to their large brains.",
-      "sentence-jp": "人間は主としてその大きな脳のためにほかの動物と異なる。"
+      "sentence-jp": "人間は主としてその大きな脳のためにほかの動物と異なる。",
+      "cloze": {
+        "maskedText": "Humans ____ from other animals mostly due to their large brains.",
+        "answerBase": "differ",
+        "answerSurface": "differ",
+        "choices": [
+          "differ",
+          "gather",
+          "travel",
+          "charge"
+        ]
+      }
     }
   ],
   "notes": []

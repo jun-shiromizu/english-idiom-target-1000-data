@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "The church should not interfere in politics.",
-      "sentence-jp": "教会は政治に干渉するべきでない。"
+      "sentence-jp": "教会は政治に干渉するべきでない。",
+      "cloze": {
+        "maskedText": "The church should not ____ in politics.",
+        "answerBase": "interfere",
+        "answerSurface": "interfere",
+        "choices": ["interfere", "cultivate", "justify", "submit"]
+      }
     }
   ],
   "notes": []

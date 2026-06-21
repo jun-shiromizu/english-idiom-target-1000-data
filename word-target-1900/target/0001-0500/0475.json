@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Singapore has started the world's first public trial of the robo-taxi service.",
-      "sentence-jp": "シンガポールはロボットタクシー運行業務の世界初の公開試験を始めた。"
+      "sentence-jp": "シンガポールはロボットタクシー運行業務の世界初の公開試験を始めた。",
+      "cloze": {
+        "maskedText": "Singapore has started the world's first public ____ of the robo-taxi service.",
+        "answerBase": "trial",
+        "answerSurface": "trial",
+        "choices": [
+          "trial",
+          "blanket",
+          "planet",
+          "wardrobe"
+        ]
+      }
     }
   ],
   "notes": []

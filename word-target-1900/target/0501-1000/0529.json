@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The ambulance rushed to the scene of the accident to help the man.",
-      "sentence-jp": "救急車はその男性を助けるために事故現場に急行した。"
+      "sentence-jp": "救急車はその男性を助けるために事故現場に急行した。",
+      "cloze": {
+        "maskedText": "The ambulance ____ to the scene of the accident to help the man.",
+        "answerBase": "rush",
+        "answerSurface": "rushed",
+        "choices": [
+          "rushed",
+          "stored",
+          "balanced",
+          "wished"
+        ]
+      }
     }
   ],
   "notes": []

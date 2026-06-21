@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Many people hesitate to contact someone by phone these days.",
-      "sentence-jp": "最近，電話で人に連絡するのをためらう人が多い。"
+      "sentence-jp": "最近，電話で人に連絡するのをためらう人が多い。",
+      "cloze": {
+        "maskedText": "Many people ____ to contact someone by phone these days.",
+        "answerBase": "hesitate",
+        "answerSurface": "hesitate",
+        "choices": ["hesitate", "pump", "mount", "consult"]
+      }
     }
   ],
   "notes": []

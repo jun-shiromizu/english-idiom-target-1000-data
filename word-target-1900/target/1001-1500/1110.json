@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Vegans advocate avoiding all food of animal origin.",
-      "sentence-jp": "完全菜食主義者は動物由来のすべての食べ物を避けることを主張する。"
+      "sentence-jp": "完全菜食主義者は動物由来のすべての食べ物を避けることを主張する。",
+      "cloze": {
+        "maskedText": "Vegans ____ avoiding all food of animal origin.",
+        "answerBase": "advocate",
+        "answerSurface": "advocate",
+        "choices": ["advocate", "constitute", "undertake", "conceal"]
+      }
     }
   ],
   "notes": []

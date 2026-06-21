@@ -12,5 +12,11 @@
       "sentence-jp": "昔の人々は穀物の不作のせいで飢饉に苦しんだ。"
     }
   ],
+  "cloze": {
+    "maskedText": "Millions suffered during the severe ____.",
+    "answerBase": "famine",
+    "answerSurface": "famine",
+    "choices": ["famine", "syndrome", "profile", "script"]
+  },
   "notes": []
 }

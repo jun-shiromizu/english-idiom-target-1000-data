@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "It is said that American football is a violent sport.",
-      "sentence-jp": "アメフトは激しいスポーツであると言われている。"
+      "sentence-jp": "アメフトは激しいスポーツであると言われている。",
+      "cloze": {
+        "maskedText": "It is said that American football is a ____ sport.",
+        "answerBase": "violent",
+        "answerSurface": "violent",
+        "choices": [
+          "violent",
+          "unknown",
+          "annual",
+          "narrow"
+        ]
+      }
     }
   ],
   "notes": []

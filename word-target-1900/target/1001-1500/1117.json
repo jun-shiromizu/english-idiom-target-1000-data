@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "You should chew your food well when you eat.",
-      "sentence-jp": "食事するときは食べ物をよくかむべきだ。"
+      "sentence-jp": "食事するときは食べ物をよくかむべきだ。",
+      "cloze": {
+        "maskedText": "You should ____ your food well when you eat.",
+        "answerBase": "chew",
+        "answerSurface": "chew",
+        "choices": ["chew", "swallow", "seal", "proceed"]
+      }
     }
   ],
   "notes": []

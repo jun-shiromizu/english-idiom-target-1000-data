@@ -9,7 +9,18 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "Erina is right as rain now; in fact, she’s already started taking some dance classes.",
-      "sentence-jp": "エリナは今ではすっかり健康だ。実際、彼女はすでにいくつかのダンスの授業を取り始めている。"
+      "sentence-jp": "エリナは今ではすっかり健康だ。実際、彼女はすでにいくつかのダンスの授業を取り始めている。",
+      "cloze": {
+        "maskedText": "Erina is ____ now; in fact, she’s already started taking some dance classes.",
+        "answerBase": "right as rain",
+        "answerSurface": "right as rain",
+        "choices": [
+          "right as rain",
+          "out of the question",
+          "in accordance with",
+          "in the wake of"
+        ]
+      }
     }
   ],
   "notes": [

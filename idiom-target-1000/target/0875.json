@@ -9,14 +9,36 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "After he’d tried several times, Jim finally threw up his hands and gave up the attempt.",
-      "sentence-jp": "ジムは何回か挑戦した後で、とうとう両手を上げ、試みをあきらめた。"
+      "sentence-jp": "ジムは何回か挑戦した後で、とうとう両手を上げ、試みをあきらめた。",
+      "cloze": {
+        "maskedText": "After he’d tried several times, Jim finally ____ his hands and gave up the attempt.",
+        "answerBase": "throw up (~)",
+        "answerSurface": "threw up",
+        "choices": [
+          "threw up",
+          "pulled up",
+          "rounded up",
+          "singled out"
+        ]
+      }
     },
     {
       "idiom-jp": "(食べた物を)吐く；〜を吐く",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Hiro became sick soon after dinner and had thrown up several times by midnight.",
-      "sentence-jp": "ヒロは夕食の直後に気分が悪くなり、真夜中までに何回も吐いた。"
+      "sentence-jp": "ヒロは夕食の直後に気分が悪くなり、真夜中までに何回も吐いた。",
+      "cloze": {
+        "maskedText": "Hiro became sick soon after dinner and had ____ several times by midnight.",
+        "answerBase": "throw up (~)",
+        "answerSurface": "thrown up",
+        "choices": [
+          "thrown up",
+          "pulled up",
+          "caught on",
+          "hung around"
+        ]
+      }
     }
   ],
   "notes": [

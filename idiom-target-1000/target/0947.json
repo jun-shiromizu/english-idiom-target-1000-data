@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "He seems to be in trouble again, but all those problems are of his own making.",
-      "sentence-jp": "彼はまたトラブルになっているようだが、そうした問題はすべて彼自身が引き起こしたものだ。"
+      "sentence-jp": "彼はまたトラブルになっているようだが、そうした問題はすべて彼自身が引き起こしたものだ。",
+      "cloze": {
+        "maskedText": "He seems to be in trouble again, but all those problems are ____.",
+        "answerBase": "of one’s (own) doing",
+        "answerSurface": "of his own making",
+        "choices": [
+          "of his own making",
+          "of his own",
+          "in store",
+          "out of hand"
+        ]
+      }
     }
   ],
   "notes": [

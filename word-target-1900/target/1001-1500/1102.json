@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "This event is helpful for orienting new students to our university.",
-      "sentence-jp": "このイベントは新入生を我が大学に慣れさせるのに役立つ。"
+      "sentence-jp": "このイベントは新入生を我が大学に慣れさせるのに役立つ。",
+      "cloze": {
+        "maskedText": "This event is helpful for ____ new students to our university.",
+        "answerBase": "orient",
+        "answerSurface": "orienting",
+        "choices": ["orienting", "surfing", "resorting", "betting"]
+      }
     }
   ],
   "notes": []

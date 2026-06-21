@@ -12,5 +12,11 @@
       "sentence-jp": "彼らの突然の結婚は今週の新聞の大見出しで取り上げられた。"
     }
   ],
+  "cloze": {
+    "maskedText": "The scandal made the front-page ____.",
+    "answerBase": "headline",
+    "answerSurface": "headlines",
+    "choices": ["headlines", "transactions", "remedies", "pills"]
+  },
   "notes": []
 }

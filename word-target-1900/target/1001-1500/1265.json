@@ -12,5 +12,11 @@
       "sentence-jp": "工場労働者は定期的な消防訓練を行うべきである。"
     }
   ],
+  "cloze": {
+    "maskedText": "The school held a fire ____ this morning.",
+    "answerBase": "drill",
+    "answerSurface": "drill",
+    "choices": ["drill", "format", "index", "asset"]
+  },
   "notes": []
 }

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Children imitate the actions of others.",
-      "sentence-jp": "子供は他人の行動をまねる。"
+      "sentence-jp": "子供は他人の行動をまねる。",
+      "cloze": {
+        "maskedText": "Children ____ the actions of others.",
+        "answerBase": "imitate",
+        "answerSurface": "imitate",
+        "choices": [
+          "imitate",
+          "assist",
+          "secure",
+          "resist"
+        ]
+      }
     }
   ],
   "notes": []

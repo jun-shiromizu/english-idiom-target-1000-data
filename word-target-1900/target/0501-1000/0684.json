@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "There is a huge demand for sophisticated translation software.",
-      "sentence-jp": "高性能な翻訳ソフトに対する大きな需要がある。"
+      "sentence-jp": "高性能な翻訳ソフトに対する大きな需要がある。",
+      "cloze": {
+        "maskedText": "There is a huge demand for ____ translation software.",
+        "answerBase": "sophisticated",
+        "answerSurface": "sophisticated",
+        "choices": [
+          "sophisticated",
+          "principal",
+          "rational",
+          "remote"
+        ]
+      }
     }
   ],
   "notes": []

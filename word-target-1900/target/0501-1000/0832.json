@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The new law prohibits smoking in all restaurants.",
-      "sentence-jp": "新しい法律はすべてのレストランでの喫煙を禁止している。"
+      "sentence-jp": "新しい法律はすべてのレストランでの喫煙を禁止している。",
+      "cloze": {
+        "maskedText": "The new law ____ smoking in all restaurants.",
+        "answerBase": "prohibit",
+        "answerSurface": "prohibits",
+        "choices": ["prohibits", "imagines", "discusses", "borrows"]
+      }
     }
   ],
   "notes": []

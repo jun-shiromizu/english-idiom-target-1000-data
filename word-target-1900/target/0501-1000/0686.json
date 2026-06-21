@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "In decision-making, we should use the rational part of the mind.",
-      "sentence-jp": "決定を下すとき，私たちは精神の理性的な部分を使うべきである。"
+      "sentence-jp": "決定を下すとき，私たちは精神の理性的な部分を使うべきである。",
+      "cloze": {
+        "maskedText": "In decision-making, we should use the ____ part of the mind.",
+        "answerBase": "rational",
+        "answerSurface": "rational",
+        "choices": [
+          "rational",
+          "remote",
+          "relevant",
+          "frequent"
+        ]
+      }
     }
   ],
   "notes": []

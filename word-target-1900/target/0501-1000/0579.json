@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Staring at your computer monitor is the prime cause of dry eye.",
-      "sentence-jp": "コンピューター画面をじっと見ることはドライアイの主要な原因である。"
+      "sentence-jp": "コンピューター画面をじっと見ることはドライアイの主要な原因である。",
+      "cloze": {
+        "maskedText": "Staring at your computer monitor is the ____ cause of dry eye.",
+        "answerBase": "prime",
+        "answerSurface": "prime",
+        "choices": [
+          "prime",
+          "curious",
+          "minor",
+          "flexible"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "When the doorbell rang, he leaped from the bed and rushed to the entrance.",
-      "sentence-jp": "玄関のベルが鳴ったとき，彼はベッドから跳び下りて戸口に急いだ。"
+      "sentence-jp": "玄関のベルが鳴ったとき，彼はベッドから跳び下りて戸口に急いだ。",
+      "cloze": {
+        "maskedText": "When the doorbell rang, he ____ from the bed and rushed to the entrance.",
+        "answerBase": "leap",
+        "answerSurface": "leaped",
+        "choices": ["leaped", "nodded", "blended", "persisted"]
+      }
     }
   ],
   "notes": []

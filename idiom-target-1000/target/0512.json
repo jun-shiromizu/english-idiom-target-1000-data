@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "The old students of the retiring teacher presented her with a gold watch.",
-      "sentence-jp": "退職する教師の昔の生徒たちは彼女に金時計を贈った。"
+      "sentence-jp": "退職する教師の昔の生徒たちは彼女に金時計を贈った。",
+      "cloze": {
+        "maskedText": "The old students of the retiring teacher ____ her with a gold watch.",
+        "answerBase": "present A with B",
+        "answerSurface": "presented",
+        "choices": [
+          "presented",
+          "diagnosed",
+          "struck",
+          "named"
+        ]
+      }
     }
   ],
   "notes": [

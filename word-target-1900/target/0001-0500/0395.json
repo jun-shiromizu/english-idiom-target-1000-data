@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Online shopping is convenient for buying things these days.",
-      "sentence-jp": "今日，オンラインショッピングは物を買うのに便利である。"
+      "sentence-jp": "今日，オンラインショッピングは物を買うのに便利である。",
+      "cloze": {
+        "maskedText": "Online shopping is ____ for buying things these days.",
+        "answerBase": "convenient",
+        "answerSurface": "convenient",
+        "choices": [
+          "convenient",
+          "severe",
+          "mass",
+          "nuclear"
+        ]
+      }
     }
   ],
   "notes": []

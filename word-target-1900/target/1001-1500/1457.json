@@ -12,5 +12,11 @@
       "sentence-jp": "私たちの太陽系は宇宙全体の断片にすぎない。"
     }
   ],
+  "cloze": {
+    "maskedText": "Only a small ____ of the vase remained.",
+    "answerBase": "fragment",
+    "answerSurface": "fragment",
+    "choices": ["fragment", "outlet", "funeral", "dairy"]
+  },
   "notes": []
 }

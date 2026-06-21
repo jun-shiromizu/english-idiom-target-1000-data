@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The police enforce laws which the government has made.",
-      "sentence-jp": "警察は政府が作った法律を実施する。"
+      "sentence-jp": "警察は政府が作った法律を実施する。",
+      "cloze": {
+        "maskedText": "The police ____ laws which the government has made.",
+        "answerBase": "enforce",
+        "answerSurface": "enforce",
+        "choices": ["enforce", "suspend", "revise", "exploit"]
+      }
     }
   ],
   "notes": []

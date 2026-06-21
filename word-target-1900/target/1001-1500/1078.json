@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Most children are taught the virtue of honesty from old stories.",
-      "sentence-jp": "たいていの子供は昔話から正直という美徳を教わる。"
+      "sentence-jp": "たいていの子供は昔話から正直という美徳を教わる。",
+      "cloze": {
+        "maskedText": "Most children are taught the ____ of honesty from old stories.",
+        "answerBase": "virtue",
+        "answerSurface": "virtue",
+        "choices": ["virtue", "queue", "file", "panic"]
+      }
     }
   ],
   "notes": []

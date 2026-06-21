@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "They organized the summer festival effectively.",
-      "sentence-jp": "彼らは効果的に夏祭りを準備した。"
+      "sentence-jp": "彼らは効果的に夏祭りを準備した。",
+      "cloze": {
+        "maskedText": "They ____ the summer festival effectively.",
+        "answerBase": "organize",
+        "answerSurface": "organized",
+        "choices": [
+          "organized",
+          "ignored",
+          "measured",
+          "predicted"
+        ]
+      }
     }
   ],
   "notes": []

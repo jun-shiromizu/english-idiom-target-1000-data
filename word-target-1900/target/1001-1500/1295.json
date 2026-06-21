@@ -12,5 +12,11 @@
       "sentence-jp": "女性に特有の病気がある。"
     }
   ],
+  "cloze": {
+    "maskedText": "This custom is ____ to the region.",
+    "answerBase": "peculiar",
+    "answerSurface": "peculiar",
+    "choices": ["peculiar", "ongoing", "trivial", "wireless"]
+  },
   "notes": []
 }

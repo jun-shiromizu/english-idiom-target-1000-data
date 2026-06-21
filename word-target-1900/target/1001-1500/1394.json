@@ -12,5 +12,11 @@
       "sentence-jp": "サンクトペテルブルクはかつて帝政ロシアの首都であった。"
     }
   ],
+  "cloze": {
+    "maskedText": "They visited the old ____ palace.",
+    "answerBase": "imperial",
+    "answerSurface": "imperial",
+    "choices": ["imperial", "skeptical", "vivid", "gradual"]
+  },
   "notes": []
 }

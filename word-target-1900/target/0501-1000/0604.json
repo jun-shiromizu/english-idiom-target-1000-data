@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "I hope to pursue my own interests at a university.",
-      "sentence-jp": "私は大学で自分自身の興味を追求することを望んでいる。"
+      "sentence-jp": "私は大学で自分自身の興味を追求することを望んでいる。",
+      "cloze": {
+        "maskedText": "I hope to ____ my own interests at a university.",
+        "answerBase": "pursue",
+        "answerSurface": "pursue",
+        "choices": [
+          "pursue",
+          "disagree",
+          "react",
+          "stare"
+        ]
+      }
     }
   ],
   "notes": []

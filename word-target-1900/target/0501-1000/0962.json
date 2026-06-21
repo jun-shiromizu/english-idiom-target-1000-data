@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Today, young folks are listening to music influenced by classic jazz.",
-      "sentence-jp": "今日，若い人々はクラシックジャズの影響を受けた音楽を聞いている。"
+      "sentence-jp": "今日，若い人々はクラシックジャズの影響を受けた音楽を聞いている。",
+      "cloze": {
+        "maskedText": "Today, young ____ are listening to music influenced by classic jazz.",
+        "answerBase": "folk",
+        "answerSurface": "folks",
+        "choices": ["folks", "fares", "galaxies", "strokes"]
+      }
     }
   ],
   "notes": []

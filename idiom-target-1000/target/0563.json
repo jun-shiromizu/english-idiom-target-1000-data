@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "The student was so absorbed in a book that he didn’t seem to hear me.",
-      "sentence-jp": "その生徒は本に熱中していたので、私の言うことが聞こえないようだった。"
+      "sentence-jp": "その生徒は本に熱中していたので、私の言うことが聞こえないようだった。",
+      "cloze": {
+        "maskedText": "The student was so ____ a book that he didn’t seem to hear me.",
+        "answerBase": "be absorbed in ~",
+        "answerSurface": "absorbed in",
+        "choices": [
+          "absorbed in",
+          "versed in",
+          "abundant in",
+          "guilty of"
+        ]
+      }
     }
   ],
   "notes": [

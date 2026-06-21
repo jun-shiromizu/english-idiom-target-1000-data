@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Her strange behavior at the party puzzled us.",
-      "sentence-jp": "パーティーでの彼女の奇妙な行動は私たちを当惑させた。"
+      "sentence-jp": "パーティーでの彼女の奇妙な行動は私たちを当惑させた。",
+      "cloze": {
+        "maskedText": "Her strange behavior at the party ____ us.",
+        "answerBase": "puzzle",
+        "answerSurface": "puzzled",
+        "choices": [
+          "puzzled",
+          "coped",
+          "crashed",
+          "conveyed"
+        ]
+      }
     }
   ],
   "notes": []

@@ -12,5 +12,11 @@
       "sentence-jp": "記者は新市長の人物紹介を書くように言われた。"
     }
   ],
+  "cloze": {
+    "maskedText": "The magazine published a ____ of the young scientist.",
+    "answerBase": "profile",
+    "answerSurface": "profile",
+    "choices": ["profile", "appetite", "chamber", "utility"]
+  },
   "notes": []
 }

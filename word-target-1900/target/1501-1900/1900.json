@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Her zealous commitment to her studies will lead her toward success.",
-      "sentence-jp": "自分の研究に対する彼女の熱心な献身は彼女を成功に導くだろう。"
+      "sentence-jp": "自分の研究に対する彼女の熱心な献身は彼女を成功に導くだろう。",
+      "cloze": {
+        "maskedText": "Her ____ commitment to her studies will lead her toward success.",
+        "answerBase": "zealous",
+        "answerSurface": "zealous",
+        "choices": [
+          "zealous",
+          "humid",
+          "cynical",
+          "monotonous"
+        ]
+      }
     }
   ],
   "notes": []

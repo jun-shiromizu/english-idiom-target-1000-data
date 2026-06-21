@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Alex is now able to indulge in her favorite hobby, knitting, because she retired last month.",
-      "sentence-jp": "アレックスは先月退職したので、今は大好きな趣味である編み物を思う存分することができる。"
+      "sentence-jp": "アレックスは先月退職したので、今は大好きな趣味である編み物を思う存分することができる。",
+      "cloze": {
+        "maskedText": "Alex is now able to ____ her favorite hobby, knitting, because she retired last month.",
+        "answerBase": "indulge in ~",
+        "answerSurface": "indulge in",
+        "choices": [
+          "indulge in",
+          "embark on",
+          "dwell on",
+          "tell on"
+        ]
+      }
     }
   ],
   "notes": [

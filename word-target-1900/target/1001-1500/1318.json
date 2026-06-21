@@ -12,5 +12,11 @@
       "sentence-jp": "彼らはスペイン滞在を延長することを選んだ。"
     }
   ],
+  "cloze": {
+    "maskedText": "This medicine may ____ the patient's life.",
+    "answerBase": "prolong",
+    "answerSurface": "prolong",
+    "choices": ["prolong", "deceive", "deposit", "whisper"]
+  },
   "notes": []
 }

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "I will give you a useful tip: be honest to yourself.",
-      "sentence-jp": "君に役立つアドバイスをあげるよ。自分に正直であれということだ。"
+      "sentence-jp": "君に役立つアドバイスをあげるよ。自分に正直であれということだ。",
+      "cloze": {
+        "maskedText": "I will give you a useful ____: be honest to yourself.",
+        "answerBase": "tip",
+        "answerSurface": "tip",
+        "choices": [
+          "tip",
+          "mirror",
+          "planet",
+          "blanket"
+        ]
+      }
     }
   ],
   "notes": []

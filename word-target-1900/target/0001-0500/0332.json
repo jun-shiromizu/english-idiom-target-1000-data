@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Robots with AI might one day be able to participate in childcare.",
-      "sentence-jp": "AIロボットはいつの日か育児に参加することができるようになるかもしれない。"
+      "sentence-jp": "AIロボットはいつの日か育児に参加することができるようになるかもしれない。",
+      "cloze": {
+        "maskedText": "Robots with AI might one day be able to ____ in childcare.",
+        "answerBase": "participate in",
+        "answerSurface": "participate",
+        "choices": [
+          "participate",
+          "belong",
+          "travel",
+          "flow"
+        ]
+      }
     }
   ],
   "notes": []

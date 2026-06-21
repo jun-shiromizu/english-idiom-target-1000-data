@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Some power plants are vulnerable to hacking.",
-      "sentence-jp": "コンピューターへの不法侵入に弱い発電所もある。"
+      "sentence-jp": "コンピューターへの不法侵入に弱い発電所もある。",
+      "cloze": {
+        "maskedText": "Some power plants are ____ to hacking.",
+        "answerBase": "vulnerable",
+        "answerSurface": "vulnerable",
+        "choices": ["vulnerable", "urgent", "modest", "awful"]
+      }
     }
   ],
   "notes": []

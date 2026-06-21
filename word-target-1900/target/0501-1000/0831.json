@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "The dentist got rid of the pain in my tooth.",
-      "sentence-jp": "歯科医が私の歯の痛みを取り除いた。"
+      "sentence-jp": "歯科医が私の歯の痛みを取り除いた。",
+      "cloze": {
+        "maskedText": "The dentist got ____ of the pain in my tooth.",
+        "answerBase": "rid",
+        "answerSurface": "rid",
+        "choices": ["rid", "eager", "silent", "useful"]
+      }
     }
   ],
   "notes": []

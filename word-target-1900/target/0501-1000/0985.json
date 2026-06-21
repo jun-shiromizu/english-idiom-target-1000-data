@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The police officers are now alert to the rising crime in the area.",
-      "sentence-jp": "警官たちはその地域で増加している犯罪に対し現在警戒している。"
+      "sentence-jp": "警官たちはその地域で増加している犯罪に対し現在警戒している。",
+      "cloze": {
+        "maskedText": "The police officers are now ____ to the rising crime in the area.",
+        "answerBase": "alert",
+        "answerSurface": "alert",
+        "choices": ["alert", "mutual", "fluent", "external"]
+      }
     }
   ],
   "notes": []

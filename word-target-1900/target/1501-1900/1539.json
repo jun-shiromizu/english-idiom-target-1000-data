@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "He is often awakened by nightmares.",
-      "sentence-jp": "彼は悪夢で目覚めることが多い。"
+      "sentence-jp": "彼は悪夢で目覚めることが多い。",
+      "cloze": {
+        "maskedText": "He is often ____ by nightmares.",
+        "answerBase": "awaken",
+        "answerSurface": "awakened",
+        "choices": [
+          "awakened",
+          "disturbed",
+          "troubled",
+          "shaken"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Human brains seem to be changing due to frequent use of the Internet.",
-      "sentence-jp": "人間の脳はインターネットの頻繁な使用のせいで変化しているように思える。"
+      "sentence-jp": "人間の脳はインターネットの頻繁な使用のせいで変化しているように思える。",
+      "cloze": {
+        "maskedText": "Human brains seem to be changing due to ____ use of the Internet.",
+        "answerBase": "frequent",
+        "answerSurface": "frequent",
+        "choices": [
+          "frequent",
+          "absolute",
+          "principal",
+          "relevant"
+        ]
+      }
     }
   ],
   "notes": []

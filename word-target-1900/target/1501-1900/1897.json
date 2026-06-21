@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The man sighed, rubbing his weary eyes with his hand.",
-      "sentence-jp": "その男性は，疲れた目を手でこすりながらため息をついた。"
+      "sentence-jp": "その男性は，疲れた目を手でこすりながらため息をついた。",
+      "cloze": {
+        "maskedText": "The man sighed, rubbing his ____ eyes with his hand.",
+        "answerBase": "weary",
+        "answerSurface": "weary",
+        "choices": [
+          "weary",
+          "furious",
+          "reckless",
+          "cynical"
+        ]
+      }
     }
   ],
   "notes": []

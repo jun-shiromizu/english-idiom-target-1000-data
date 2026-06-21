@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Accurate weather forecasts are likely to produce huge economic benefits.",
-      "sentence-jp": "正確な天気予報は莫大な経済的利益を生む可能性がある。"
+      "sentence-jp": "正確な天気予報は莫大な経済的利益を生む可能性がある。",
+      "cloze": {
+        "maskedText": "____ weather forecasts are likely to produce huge economic benefits.",
+        "answerBase": "accurate",
+        "answerSurface": "Accurate",
+        "choices": [
+          "Accurate",
+          "Mass",
+          "Domestic",
+          "Military"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The little girl was frightened by the big dog.",
-      "sentence-jp": "その小さな女の子は大きな犬におびえた。"
+      "sentence-jp": "その小さな女の子は大きな犬におびえた。",
+      "cloze": {
+        "maskedText": "The little girl was ____ by the big dog.",
+        "answerBase": "frighten",
+        "answerSurface": "frightened",
+        "choices": [
+          "frightened",
+          "launched",
+          "eased",
+          "calculated"
+        ]
+      }
     }
   ],
   "notes": []

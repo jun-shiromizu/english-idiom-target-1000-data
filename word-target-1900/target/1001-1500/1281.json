@@ -12,5 +12,11 @@
       "sentence-jp": "その哲学的な問いに対する単純な答えはない。"
     }
   ],
+  "cloze": {
+    "maskedText": "There is no ____ way to solve this puzzle.",
+    "answerBase": "straightforward",
+    "answerSurface": "straightforward",
+    "choices": ["straightforward", "delicate", "toxic", "ongoing"]
+  },
   "notes": []
 }

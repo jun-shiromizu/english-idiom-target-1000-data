@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "He sneezed after breathing the cold wind when he opened the front door.",
-      "sentence-jp": "彼は玄関を開けたとき，冷たい風を吸ってくしゃみをした。"
+      "sentence-jp": "彼は玄関を開けたとき，冷たい風を吸ってくしゃみをした。",
+      "cloze": {
+        "maskedText": "He ____ after breathing the cold wind when he opened the front door.",
+        "answerBase": "sneeze",
+        "answerSurface": "sneezed",
+        "choices": [
+          "sneezed",
+          "laughed",
+          "slept",
+          "arrived"
+        ]
+      }
     }
   ],
   "notes": []

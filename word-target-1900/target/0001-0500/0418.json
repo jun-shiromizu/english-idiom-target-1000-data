@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Many people sent supplies to aid disaster victims.",
-      "sentence-jp": "被災者を援助するために多くの人が救援物資を送った。"
+      "sentence-jp": "被災者を援助するために多くの人が救援物資を送った。",
+      "cloze": {
+        "maskedText": "Many people sent supplies to ____ disaster victims.",
+        "answerBase": "aid",
+        "answerSurface": "aid",
+        "choices": [
+          "aid",
+          "fold",
+          "shake",
+          "measure"
+        ]
+      }
     }
   ],
   "notes": []

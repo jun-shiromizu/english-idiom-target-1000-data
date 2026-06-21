@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The corporation declared that they will enter the space industry.",
-      "sentence-jp": "その企業は宇宙産業へ参入することを宣言した。"
+      "sentence-jp": "その企業は宇宙産業へ参入することを宣言した。",
+      "cloze": {
+        "maskedText": "The corporation ____ that they will enter the space industry.",
+        "answerBase": "declare",
+        "answerSurface": "declared",
+        "choices": [
+          "declared",
+          "evaluated",
+          "reversed",
+          "buried"
+        ]
+      }
     }
   ],
   "notes": []

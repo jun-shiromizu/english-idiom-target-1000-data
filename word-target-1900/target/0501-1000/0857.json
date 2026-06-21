@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The company's workers all expressed faith in their president.",
-      "sentence-jp": "その会社の社員全員が社長への信頼を示した。"
+      "sentence-jp": "その会社の社員全員が社長への信頼を示した。",
+      "cloze": {
+        "maskedText": "The company's workers all expressed ____ in their president.",
+        "answerBase": "faith",
+        "answerSurface": "faith",
+        "choices": ["faith", "doubt", "anger", "shadow"]
+      }
     }
   ],
   "notes": []

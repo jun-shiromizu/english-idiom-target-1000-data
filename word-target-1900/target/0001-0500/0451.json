@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Some companies in western countries have foreign capital in Asia.",
-      "sentence-jp": "西洋諸国のいくつかの会社はアジアに外資を持っている。"
+      "sentence-jp": "西洋諸国のいくつかの会社はアジアに外資を持っている。",
+      "cloze": {
+        "maskedText": "Some companies in western countries have foreign ____ in Asia.",
+        "answerBase": "capital",
+        "answerSurface": "capital",
+        "choices": [
+          "capital",
+          "curtain",
+          "chapter",
+          "festival"
+        ]
+      }
     }
   ],
   "notes": []

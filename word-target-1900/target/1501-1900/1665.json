@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He bought some noodles at a stall in Taipei.",
-      "sentence-jp": "彼は台北の露店でめん料理を買った。"
+      "sentence-jp": "彼は台北の露店でめん料理を買った。",
+      "cloze": {
+        "maskedText": "He bought some noodles at a ____ in Taipei.",
+        "answerBase": "stall",
+        "answerSurface": "stall",
+        "choices": [
+          "stall",
+          "temple",
+          "factory",
+          "tunnel"
+        ]
+      }
     }
   ],
   "notes": []

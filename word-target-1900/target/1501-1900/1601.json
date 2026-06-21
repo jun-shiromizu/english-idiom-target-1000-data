@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Researchers from many countries collaborated to analyze the data.",
-      "sentence-jp": "多くの国の研究者が共同してそのデータを分析した。"
+      "sentence-jp": "多くの国の研究者が共同してそのデータを分析した。",
+      "cloze": {
+        "maskedText": "Researchers from many countries ____ to analyze the data.",
+        "answerBase": "collaborate",
+        "answerSurface": "collaborated",
+        "choices": [
+          "collaborated",
+          "competed",
+          "hesitated",
+          "struggled"
+        ]
+      }
     }
   ],
   "notes": []

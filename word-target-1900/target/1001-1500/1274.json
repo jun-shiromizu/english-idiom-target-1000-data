@@ -12,5 +12,11 @@
       "sentence-jp": "彼女が英語を勉強する動機はアメリカ映画を見ることである。"
     }
   ],
+  "cloze": {
+    "maskedText": "Police could not find a clear ____ for the crime.",
+    "answerBase": "motive",
+    "answerSurface": "motive",
+    "choices": ["motive", "fraction", "asset", "index"]
+  },
   "notes": []
 }

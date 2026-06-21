@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "He delivers packages every day regardless of the weather.",
-      "sentence-jp": "天気にかかわらず，彼は毎日小包を配達する。"
+      "sentence-jp": "天気にかかわらず，彼は毎日小包を配達する。",
+      "cloze": {
+        "maskedText": "He ____ packages every day regardless of the weather.",
+        "answerBase": "deliver",
+        "answerSurface": "delivers",
+        "choices": [
+          "delivers",
+          "collects",
+          "follows",
+          "pushes"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "This book is aimed at students at the intermediate level.",
-      "sentence-jp": "この本は中級レベルの学生に向けたものである。"
+      "sentence-jp": "この本は中級レベルの学生に向けたものである。",
+      "cloze": {
+        "maskedText": "This book is aimed at students at the ____ level.",
+        "answerBase": "intermediate",
+        "answerSurface": "intermediate",
+        "choices": [
+          "intermediate",
+          "wooden",
+          "private",
+          "nervous"
+        ]
+      }
     }
   ],
   "notes": []

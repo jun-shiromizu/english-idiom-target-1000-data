@@ -12,5 +12,11 @@
       "sentence-jp": "その湿地は保護地域に指定された。"
     }
   ],
+  "cloze": {
+    "maskedText": "The city will ____ this zone as a park.",
+    "answerBase": "designate",
+    "answerSurface": "designate",
+    "choices": ["designate", "diagnose", "refresh", "bloom"]
+  },
   "notes": []
 }

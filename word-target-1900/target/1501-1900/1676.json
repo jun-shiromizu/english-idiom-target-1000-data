@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The twin sisters enjoyed their health and longevity.",
-      "sentence-jp": "その双子の姉妹は自らの健康と長寿を享受した。"
+      "sentence-jp": "その双子の姉妹は自らの健康と長寿を享受した。",
+      "cloze": {
+        "maskedText": "The twin sisters enjoyed their health and ____.",
+        "answerBase": "longevity",
+        "answerSurface": "longevity",
+        "choices": [
+          "longevity",
+          "luxury",
+          "fashion",
+          "privacy"
+        ]
+      }
     }
   ],
   "notes": []

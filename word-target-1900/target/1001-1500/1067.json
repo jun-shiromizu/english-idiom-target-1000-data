@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He joined the queue of people waiting for the bus.",
-      "sentence-jp": "彼はバスを待つ人々の列に加わった。"
+      "sentence-jp": "彼はバスを待つ人々の列に加わった。",
+      "cloze": {
+        "maskedText": "He joined the ____ of people waiting for the bus.",
+        "answerBase": "queue",
+        "answerSurface": "queue",
+        "choices": ["queue", "curve", "narrative", "fabric"]
+      }
     }
   ],
   "notes": []

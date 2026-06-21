@@ -9,14 +9,36 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "This detective story caught on probably because its ending is really surprising.",
-      "sentence-jp": "この探偵小説はおそらく結末が本当に意外なので人気が出た。"
+      "sentence-jp": "この探偵小説はおそらく結末が本当に意外なので人気が出た。",
+      "cloze": {
+        "maskedText": "This detective story ____ probably because its ending is really surprising.",
+        "answerBase": "catch on",
+        "answerSurface": "caught on",
+        "choices": [
+          "caught on",
+          "passed out",
+          "wound up",
+          "hung around"
+        ]
+      }
     },
     {
       "idiom-jp": "理解する、気づく",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "It took a minute before I caught on to what he meant by his joke.",
-      "sentence-jp": "彼が冗談で言おうとしたことを理解するのにちょっと時間がかかった。"
+      "sentence-jp": "彼が冗談で言おうとしたことを理解するのにちょっと時間がかかった。",
+      "cloze": {
+        "maskedText": "It took a minute before I ____ what he meant by his joke.",
+        "answerBase": "catch on",
+        "answerSurface": "caught on to",
+        "choices": [
+          "caught on to",
+          "missed out on",
+          "got away with",
+          "shied away from"
+        ]
+      }
     }
   ],
   "notes": [

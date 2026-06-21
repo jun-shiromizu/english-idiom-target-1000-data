@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "It remains to be seen whether our efforts to stop climate change are really sufficient.",
-      "sentence-jp": "気候変動を阻止するための我々の努力が本当に十分かどうかはまだわからない。"
+      "sentence-jp": "気候変動を阻止するための我々の努力が本当に十分かどうかはまだわからない。",
+      "cloze": {
+        "maskedText": "It ____ whether our efforts to stop climate change are really sufficient.",
+        "answerBase": "remain to be seen",
+        "answerSurface": "remains to be seen",
+        "choices": [
+          "remains to be seen",
+          "brings itself to mind",
+          "takes the trouble to know",
+          "leaves nothing to be desired"
+        ]
+      }
     }
   ],
   "notes": [

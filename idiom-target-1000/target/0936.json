@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Yuta has on average 5,000 yen at his disposal as pocket money each month.",
-      "sentence-jp": "ユウタには毎月のお小遣いとして自分の自由に使えるお金が平均5千円ある。"
+      "sentence-jp": "ユウタには毎月のお小遣いとして自分の自由に使えるお金が平均5千円ある。",
+      "cloze": {
+        "maskedText": "Yuta has on average 5,000 yen ____ as pocket money each month.",
+        "answerBase": "at ~’s disposal",
+        "answerSurface": "at his disposal",
+        "choices": [
+          "at his disposal",
+          "at issue",
+          "at stake",
+          "for a rainy day"
+        ]
+      }
     }
   ],
   "notes": [

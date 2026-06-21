@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He supported his view by analogy with another view.",
-      "sentence-jp": "彼は別の見解との類推によって自分の見解を立証した。"
+      "sentence-jp": "彼は別の見解との類推によって自分の見解を立証した。",
+      "cloze": {
+        "maskedText": "He supported his view by ____ with another view.",
+        "answerBase": "analogy",
+        "answerSurface": "analogy",
+        "choices": [
+          "analogy",
+          "accident",
+          "request",
+          "ceremony"
+        ]
+      }
     }
   ],
   "notes": []

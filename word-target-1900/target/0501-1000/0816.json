@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "I didn't know that the word derives from Greek.",
-      "sentence-jp": "私はその単語がギリシャ語に由来することを知らなかった。"
+      "sentence-jp": "私はその単語がギリシャ語に由来することを知らなかった。",
+      "cloze": {
+        "maskedText": "I didn't know that the word ____ from Greek.",
+        "answerBase": "derive",
+        "answerSurface": "derives",
+        "choices": [
+          "derives",
+          "greets",
+          "piles",
+          "defeats"
+        ]
+      }
     }
   ],
   "notes": []

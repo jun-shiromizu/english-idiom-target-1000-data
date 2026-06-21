@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She is a prominent researcher in the field of science.",
-      "sentence-jp": "彼女は科学分野において卓越した研究者である。"
+      "sentence-jp": "彼女は科学分野において卓越した研究者である。",
+      "cloze": {
+        "maskedText": "She is a ____ researcher in the field of science.",
+        "answerBase": "prominent",
+        "answerSurface": "prominent",
+        "choices": ["prominent", "neutral", "passive", "informal"]
+      }
     }
   ],
   "notes": []

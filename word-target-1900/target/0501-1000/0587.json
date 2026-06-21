@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "The mechanic found that there were minor problems with the car.",
-      "sentence-jp": "整備士はその車にささいな問題があるのを見つけた。"
+      "sentence-jp": "整備士はその車にささいな問題があるのを見つけた。",
+      "cloze": {
+        "maskedText": "The mechanic found that there were ____ problems with the car.",
+        "answerBase": "minor",
+        "answerSurface": "minor",
+        "choices": [
+          "minor",
+          "prime",
+          "vital",
+          "dramatic"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Please ensure that your safety belts are fastened.",
-      "sentence-jp": "確実に安全ベルトが締まっているようにしてください。"
+      "sentence-jp": "確実に安全ベルトが締まっているようにしてください。",
+      "cloze": {
+        "maskedText": "Please ____ that your safety belts are fastened.",
+        "answerBase": "ensure",
+        "answerSurface": "ensure",
+        "choices": [
+          "ensure",
+          "admire",
+          "collect",
+          "borrow"
+        ]
+      }
     }
   ],
   "notes": []

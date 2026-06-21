@@ -9,7 +9,18 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "You should apologize to him for what you have done.",
-      "sentence-jp": "あなたは自分のしたことを彼に謝るべきだ。"
+      "sentence-jp": "あなたは自分のしたことを彼に謝るべきだ。",
+      "cloze": {
+        "maskedText": "You should ____ to him for what you have done.",
+        "answerBase": "apologize",
+        "answerSurface": "apologize",
+        "choices": [
+          "apologize",
+          "relieve",
+          "derive",
+          "defeat"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Small animals need to protect themselves from large predators like tigers.",
-      "sentence-jp": "小さな動物はトラのような大きな捕食動物から身を守る必要がある。"
+      "sentence-jp": "小さな動物はトラのような大きな捕食動物から身を守る必要がある。",
+      "cloze": {
+        "maskedText": "Small animals need to protect themselves from large ____ like tigers.",
+        "answerBase": "predator",
+        "answerSurface": "predators",
+        "choices": [
+          "predators",
+          "districts",
+          "harvests",
+          "boundaries"
+        ]
+      }
     }
   ],
   "notes": []

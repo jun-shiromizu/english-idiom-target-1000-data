@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Since this is very complicated, I myself will see to it that there is no mistake.",
-      "sentence-jp": "これは非常に複雑なので、私自身が間違いがないように気をつけます。"
+      "sentence-jp": "これは非常に複雑なので、私自身が間違いがないように気をつけます。",
+      "cloze": {
+        "maskedText": "Since this is very complicated, I myself will ____ there is no mistake.",
+        "answerBase": "see (to it) that ...",
+        "answerSurface": "see to it that",
+        "choices": [
+          "see to it that",
+          "go so far as to",
+          "have no choice but to",
+          "make a point of"
+        ]
+      }
     }
   ],
   "notes": [

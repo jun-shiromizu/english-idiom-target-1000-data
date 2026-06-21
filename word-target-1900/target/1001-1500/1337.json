@@ -12,5 +12,11 @@
       "sentence-jp": "彼が階段を降りているのが聞こえる。"
     }
   ],
+  "cloze": {
+    "maskedText": "We watched the hikers ____ from the mountain.",
+    "answerBase": "descend",
+    "answerSurface": "descend",
+    "choices": ["descend", "rub", "assemble", "worsen"]
+  },
   "notes": []
 }

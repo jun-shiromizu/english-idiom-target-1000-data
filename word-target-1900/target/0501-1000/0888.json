@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "This bag is made from genuine leather.",
-      "sentence-jp": "このかばんは本物の革でできている。"
+      "sentence-jp": "このかばんは本物の革でできている。",
+      "cloze": {
+        "maskedText": "This bag is made from ____ leather.",
+        "answerBase": "genuine",
+        "answerSurface": "genuine",
+        "choices": ["genuine", "central", "modest", "distant"]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The research center now employs more than 100 scientists.",
-      "sentence-jp": "その研究センターは現在100人以上の科学者を雇っている。"
+      "sentence-jp": "その研究センターは現在100人以上の科学者を雇っている。",
+      "cloze": {
+        "maskedText": "The research center now ____ more than 100 scientists.",
+        "answerBase": "employ",
+        "answerSurface": "employs",
+        "choices": [
+          "employs",
+          "notices",
+          "balances",
+          "covers"
+        ]
+      }
     }
   ],
   "notes": []

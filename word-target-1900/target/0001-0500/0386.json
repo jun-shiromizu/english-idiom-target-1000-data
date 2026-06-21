@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "The overall cost of the project was more than we expected.",
-      "sentence-jp": "プロジェクトの総費用は私たちの予想以上であった。"
+      "sentence-jp": "プロジェクトの総費用は私たちの予想以上であった。",
+      "cloze": {
+        "maskedText": "The ____ cost of the project was more than we expected.",
+        "answerBase": "overall",
+        "answerSurface": "overall",
+        "choices": [
+          "overall",
+          "typical",
+          "severe",
+          "nuclear"
+        ]
+      }
     }
   ],
   "notes": []

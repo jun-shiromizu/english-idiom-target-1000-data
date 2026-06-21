@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "He feels the London Eye spoils the view of London.",
-      "sentence-jp": "彼はロンドンアイがロンドンの景色を台無しにしていると感じている。"
+      "sentence-jp": "彼はロンドンアイがロンドンの景色を台無しにしていると感じている。",
+      "cloze": {
+        "maskedText": "He feels the London Eye ____ the view of London.",
+        "answerBase": "spoil",
+        "answerSurface": "spoils",
+        "choices": ["spoils", "commutes", "ceases", "elects"]
+      }
     }
   ],
   "notes": []

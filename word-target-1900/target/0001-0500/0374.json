@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Many farmers are improving their soil using living organisms.",
-      "sentence-jp": "多くの農家の人たちは生物を使って土壌を改良している。"
+      "sentence-jp": "多くの農家の人たちは生物を使って土壌を改良している。",
+      "cloze": {
+        "maskedText": "Many farmers are improving their ____ using living organisms.",
+        "answerBase": "soil",
+        "answerSurface": "soil",
+        "choices": [
+          "soil",
+          "court",
+          "desert",
+          "custom"
+        ]
+      }
     }
   ],
   "notes": []

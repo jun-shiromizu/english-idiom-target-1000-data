@@ -14,7 +14,18 @@
         "from (the) want of ~"
       ],
       "example-sentence": "Many millions of people worldwide tend to get sick for lack of access to clean drinking water.",
-      "sentence-jp": "世界中で何百万もの人々がきれいな飲み水の入手方法がないために病気になる傾向がある。"
+      "sentence-jp": "世界中で何百万もの人々がきれいな飲み水の入手方法がないために病気になる傾向がある。",
+      "cloze": {
+        "maskedText": "Many millions of people worldwide tend to get sick ____ access to clean drinking water.",
+        "answerBase": "for lack of ~ / for want of ~",
+        "answerSurface": "for lack of",
+        "choices": [
+          "for lack of",
+          "for fear of",
+          "at the mercy of",
+          "by means of"
+        ]
+      }
     }
   ],
   "notes": [

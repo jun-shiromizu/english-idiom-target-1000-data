@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "His wool sweater shrank in the dryer.",
-      "sentence-jp": "彼のウールのセーターは乾燥機で縮んだ。"
+      "sentence-jp": "彼のウールのセーターは乾燥機で縮んだ。",
+      "cloze": {
+        "maskedText": "His wool sweater ____ in the dryer.",
+        "answerBase": "shrink",
+        "answerSurface": "shrank",
+        "choices": ["shrank", "restored", "grabbed", "submitted"]
+      }
     }
   ],
   "notes": []

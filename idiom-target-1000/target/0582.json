@@ -13,7 +13,18 @@
         "be fit for ~"
       ],
       "example-sentence": "Unfortunately, no planets which seem to be suitable for human life have yet been found.",
-      "sentence-jp": "残念ながら、人間の生命に適していると思われる惑星はいまだ発見されていない。"
+      "sentence-jp": "残念ながら、人間の生命に適していると思われる惑星はいまだ発見されていない。",
+      "cloze": {
+        "maskedText": "Unfortunately, no planets which seem to be ____ human life have yet been found.",
+        "answerBase": "be suitable for ~ / be suitable to ~",
+        "answerSurface": "suitable for",
+        "choices": [
+          "suitable for",
+          "grateful for",
+          "particular about",
+          "in contrast to"
+        ]
+      }
     }
   ],
   "notes": [

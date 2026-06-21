@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Europe has made efforts to regulate content on the Internet.",
-      "sentence-jp": "ヨーロッパはインターネット上のコンテンツを規制するための努力をしてきている。"
+      "sentence-jp": "ヨーロッパはインターネット上のコンテンツを規制するための努力をしてきている。",
+      "cloze": {
+        "maskedText": "Europe has made efforts to ____ content on the Internet.",
+        "answerBase": "regulate",
+        "answerSurface": "regulate",
+        "choices": ["regulate", "scan", "classify", "submit"]
+      }
     }
   ],
   "notes": []

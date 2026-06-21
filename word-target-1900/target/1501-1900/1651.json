@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Western culture emphasizes personal autonomy and freedom of speech.",
-      "sentence-jp": "西欧文化は個人の自律と言論の自由を重視する。"
+      "sentence-jp": "西欧文化は個人の自律と言論の自由を重視する。",
+      "cloze": {
+        "maskedText": "Western culture emphasizes personal ____ and freedom of speech.",
+        "answerBase": "autonomy",
+        "answerSurface": "autonomy",
+        "choices": [
+          "autonomy",
+          "charity",
+          "ceremony",
+          "property"
+        ]
+      }
     }
   ],
   "notes": []

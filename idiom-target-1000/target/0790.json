@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Could I ask you a favor? Please post this letter for me.",
-      "sentence-jp": "あなたにお願いがあるのですか。この手紙を投函してください。"
+      "sentence-jp": "あなたにお願いがあるのですか。この手紙を投函してください。",
+      "cloze": {
+        "maskedText": "Could I ____? Please post this letter for me.",
+        "answerBase": "ask ~ a favor",
+        "answerSurface": "ask you a favor",
+        "choices": [
+          "ask you a favor",
+          "give you a hand",
+          "see you off",
+          "call you back"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "After graduation, he obtained a position in a large company.",
-      "sentence-jp": "卒業後，彼は大手企業で職を得た。"
+      "sentence-jp": "卒業後，彼は大手企業で職を得た。",
+      "cloze": {
+        "maskedText": "After graduation, he ____ a position in a large company.",
+        "answerBase": "obtain",
+        "answerSurface": "obtained",
+        "choices": [
+          "obtained",
+          "buried",
+          "borrowed",
+          "warned"
+        ]
+      }
     }
   ],
   "notes": []

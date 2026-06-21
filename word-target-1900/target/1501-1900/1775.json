@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She has the courtesy of greeting everyone with a smile.",
-      "sentence-jp": "彼女には笑顔でみんなに挨拶する礼儀正しさがある。"
+      "sentence-jp": "彼女には笑顔でみんなに挨拶する礼儀正しさがある。",
+      "cloze": {
+        "maskedText": "She has the ____ of greeting everyone with a smile.",
+        "answerBase": "courtesy",
+        "answerSurface": "courtesy",
+        "choices": [
+          "courtesy",
+          "machinery",
+          "property",
+          "creativity"
+        ]
+      }
     }
   ],
   "notes": []

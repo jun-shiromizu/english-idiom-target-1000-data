@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "The salesperson compromised with the buyer on the price.",
-      "sentence-jp": "その販売員は価格面で買い手と妥協した。"
+      "sentence-jp": "その販売員は価格面で買い手と妥協した。",
+      "cloze": {
+        "maskedText": "The salesperson ____ with the buyer on the price.",
+        "answerBase": "compromise",
+        "answerSurface": "compromised",
+        "choices": ["compromised", "elected", "inherited", "reared"]
+      }
     }
   ],
   "notes": []

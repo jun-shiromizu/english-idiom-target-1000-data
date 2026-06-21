@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The two singers have compiled this album from live recordings.",
-      "sentence-jp": "その2人の歌手はライブ録音からこのアルバムを編集した。"
+      "sentence-jp": "その2人の歌手はライブ録音からこのアルバムを編集した。",
+      "cloze": {
+        "maskedText": "The two singers have ____ this album from live recordings.",
+        "answerBase": "compile",
+        "answerSurface": "compiled",
+        "choices": [
+          "compiled",
+          "destroyed",
+          "borrowed",
+          "delivered"
+        ]
+      }
     }
   ],
   "notes": []

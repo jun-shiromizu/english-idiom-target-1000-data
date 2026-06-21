@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The children were able to grasp the new ideas from the lesson.",
-      "sentence-jp": "子供たちはその課に出てきた新しい考えを理解することができた。"
+      "sentence-jp": "子供たちはその課に出てきた新しい考えを理解することができた。",
+      "cloze": {
+        "maskedText": "The children were able to ____ the new ideas from the lesson.",
+        "answerBase": "grasp",
+        "answerSurface": "grasp",
+        "choices": ["grasp", "donate", "exclude", "burst"]
+      }
     }
   ],
   "notes": []

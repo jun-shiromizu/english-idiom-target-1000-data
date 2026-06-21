@@ -12,5 +12,11 @@
       "sentence-jp": "その会社は近くに住む人々を雇い，彼らにまずまずの賃金を払っている。"
     }
   ],
+  "cloze": {
+    "maskedText": "They offered us a ____ meal for a low price.",
+    "answerBase": "decent",
+    "answerSurface": "decent",
+    "choices": ["decent", "asset", "bug", "index"]
+  },
   "notes": []
 }

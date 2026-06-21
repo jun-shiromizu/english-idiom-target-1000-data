@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The strategy entails great risk, but it is worth trying.",
-      "sentence-jp": "その戦略は大きなリスクを伴うが，やってみる価値がある。"
+      "sentence-jp": "その戦略は大きなリスクを伴うが，やってみる価値がある。",
+      "cloze": {
+        "maskedText": "The strategy ____ great risk, but it is worth trying.",
+        "answerBase": "entail",
+        "answerSurface": "entails",
+        "choices": [
+          "entails",
+          "removes",
+          "hides",
+          "repairs"
+        ]
+      }
     }
   ],
   "notes": []

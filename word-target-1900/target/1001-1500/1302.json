@@ -12,5 +12,11 @@
       "sentence-jp": "トルコでは，世間話がどんなビジネスの議論にも先行する。"
     }
   ],
+  "cloze": {
+    "maskedText": "A short greeting usually ____ the formal speech.",
+    "answerBase": "precede",
+    "answerSurface": "precedes",
+    "choices": ["precedes", "revives", "terrifies", "suppresses"]
+  },
   "notes": []
 }

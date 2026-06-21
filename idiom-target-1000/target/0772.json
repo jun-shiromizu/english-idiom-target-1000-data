@@ -13,7 +13,18 @@
         "for fear (that) ..."
       ],
       "example-sentence": "The couple talked in low voices lest the people around them overhear.",
-      "sentence-jp": "そのカップルは周りの人に聞かれないように小声で話した。"
+      "sentence-jp": "そのカップルは周りの人に聞かれないように小声で話した。",
+      "cloze": {
+        "maskedText": "The couple talked in low voices ____ the people around them overhear.",
+        "answerBase": "lest ~ (should) do",
+        "answerSurface": "lest",
+        "choices": [
+          "lest",
+          "so that",
+          "on the condition that",
+          "now that"
+        ]
+      }
     }
   ],
   "notes": []

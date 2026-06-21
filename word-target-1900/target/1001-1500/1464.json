@@ -12,5 +12,11 @@
       "sentence-jp": "日本はアメリカ合衆国の同盟国であり貿易相手国である。"
     }
   ],
+  "cloze": {
+    "maskedText": "They consider France a close ____.",
+    "answerBase": "ally",
+    "answerSurface": "ally",
+    "choices": ["ally", "revenue", "vacuum", "landmark"]
+  },
   "notes": []
 }

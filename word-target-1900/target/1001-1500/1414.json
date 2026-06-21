@@ -12,5 +12,11 @@
       "sentence-jp": "気候変動は農業経済を混乱させかねない。"
     }
   ],
+  "cloze": {
+    "maskedText": "The storm may ____ train services.",
+    "answerBase": "disrupt",
+    "answerSurface": "disrupt",
+    "choices": ["disrupt", "conquer", "bloom", "beg"]
+  },
   "notes": []
 }

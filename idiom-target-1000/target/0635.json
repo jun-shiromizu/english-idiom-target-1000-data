@@ -13,7 +13,18 @@
         "at first blush"
       ],
       "example-sentence": "At first sight I took a tall boy with a broad smile to be Tom, but I was completely wrong.",
-      "sentence-jp": "一見したところ、にこにこしている背の高い少年がトムだと思ったが、全然違っていた。"
+      "sentence-jp": "一見したところ、にこにこしている背の高い少年がトムだと思ったが、全然違っていた。",
+      "cloze": {
+        "maskedText": "____ I took a tall boy with a broad smile to be Tom, but I was completely wrong.",
+        "answerBase": "at first sight",
+        "answerSurface": "At first sight",
+        "choices": [
+          "At first sight",
+          "At intervals",
+          "On average",
+          "At heart"
+        ]
+      }
     }
   ],
   "notes": []

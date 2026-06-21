@@ -12,5 +12,11 @@
       "sentence-jp": "若者の集団がその有名な俳優の周りに立っていた。"
     }
   ],
+  "cloze": {
+    "maskedText": "A ____ of stars was visible above the hill.",
+    "answerBase": "cluster",
+    "answerSurface": "cluster",
+    "choices": ["cluster", "agenda", "suicide", "dignity"]
+  },
   "notes": []
 }

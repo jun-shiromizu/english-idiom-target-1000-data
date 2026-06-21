@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "His disease is unrelated to his eating habits.",
-      "sentence-jp": "彼の病気は彼の食習慣とは無関係である。"
+      "sentence-jp": "彼の病気は彼の食習慣とは無関係である。",
+      "cloze": {
+        "maskedText": "His disease is ____ to his eating habits.",
+        "answerBase": "unrelated",
+        "answerSurface": "unrelated",
+        "choices": ["unrelated", "keen", "fake", "cruel"]
+      }
     }
   ],
   "notes": []

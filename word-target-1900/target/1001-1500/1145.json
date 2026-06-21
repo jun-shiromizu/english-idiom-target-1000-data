@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "In 1894, Congress passed a law making Labor Day a federal holiday.",
-      "sentence-jp": "1894年，米国議会は「労働者の日」を連邦の祝日にする法律を通過させた。"
+      "sentence-jp": "1894年，米国議会は「労働者の日」を連邦の祝日にする法律を通過させた。",
+      "cloze": {
+        "maskedText": "In 1894, ____ passed a law making Labor Day a federal holiday.",
+        "answerBase": "congress",
+        "answerSurface": "Congress",
+        "choices": ["Congress", "Empathy", "Estate", "Caution"]
+      }
     }
   ],
   "notes": []

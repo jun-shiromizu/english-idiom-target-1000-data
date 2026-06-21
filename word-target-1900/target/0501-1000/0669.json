@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Don't fall into the trap of buying something just because it is on sale.",
-      "sentence-jp": "ただ安売りされているというだけで何かを買うというわなにはまってはいけない。"
+      "sentence-jp": "ただ安売りされているというだけで何かを買うというわなにはまってはいけない。",
+      "cloze": {
+        "maskedText": "Don't fall into the ____ of buying something just because it is on sale.",
+        "answerBase": "trap",
+        "answerSurface": "trap",
+        "choices": [
+          "trap",
+          "habitat",
+          "territory",
+          "conservation"
+        ]
+      }
     }
   ],
   "notes": []

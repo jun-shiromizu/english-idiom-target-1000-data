@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Young children are generally passive receivers of knowledge.",
-      "sentence-jp": "幼児はたいてい知識の受動的な受け手である。"
+      "sentence-jp": "幼児はたいてい知識の受動的な受け手である。",
+      "cloze": {
+        "maskedText": "Young children are generally ____ receivers of knowledge.",
+        "answerBase": "passive",
+        "answerSurface": "passive",
+        "choices": ["passive", "prominent", "radical", "alert"]
+      }
     }
   ],
   "notes": []

@@ -13,7 +13,18 @@
         "be keen on ~"
       ],
       "example-sentence": "The politician who was arrested for vote buying seemed to have been intent on reelection.",
-      "sentence-jp": "票の買収で逮捕されたその政治家は再選に懸命だったように思われた。"
+      "sentence-jp": "票の買収で逮捕されたその政治家は再選に懸命だったように思われた。",
+      "cloze": {
+        "maskedText": "The politician who was arrested for vote buying seemed to have been ____ reelection.",
+        "answerBase": "be intent on ~ / be intent upon ~",
+        "answerSurface": "intent on",
+        "choices": [
+          "intent on",
+          "at odds with",
+          "eligible for",
+          "no match for"
+        ]
+      }
     }
   ],
   "notes": [

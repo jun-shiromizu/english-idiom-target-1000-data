@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Some scholars think the Ainu populated Hokkaido by the 13 th century.",
-      "sentence-jp": "アイヌ民族は13世紀までには北海道に住みついたと考える学者もいる。"
+      "sentence-jp": "アイヌ民族は13世紀までには北海道に住みついたと考える学者もいる。",
+      "cloze": {
+        "maskedText": "Some scholars think the Ainu ____ Hokkaido by the 13 th century.",
+        "answerBase": "populate",
+        "answerSurface": "populated",
+        "choices": [
+          "populated",
+          "expanded",
+          "approached",
+          "surrounded"
+        ]
+      }
     }
   ],
   "notes": []

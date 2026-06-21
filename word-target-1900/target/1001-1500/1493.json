@@ -12,5 +12,11 @@
       "sentence-jp": "その男性は毎日の食習慣に抜本的な変更を加えた。"
     }
   ],
+  "cloze": {
+    "maskedText": "The company made ____ cuts to its budget.",
+    "answerBase": "drastic",
+    "answerSurface": "drastic",
+    "choices": ["drastic", "spatial", "loyal", "sincere"]
+  },
   "notes": []
 }

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Robots are displacing human workers in many workplaces.",
-      "sentence-jp": "多くの職場でロボットが人間の労働者に取って代わっている。"
+      "sentence-jp": "多くの職場でロボットが人間の労働者に取って代わっている。",
+      "cloze": {
+        "maskedText": "Robots are ____ human workers in many workplaces.",
+        "answerBase": "displace",
+        "answerSurface": "displacing",
+        "choices": [
+          "displacing",
+          "greeting",
+          "following",
+          "visiting"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She accused me of having spread rumors about her father.",
-      "sentence-jp": "彼女は自分の父親に関するうわさを広めたことで私を非難した。"
+      "sentence-jp": "彼女は自分の父親に関するうわさを広めたことで私を非難した。",
+      "cloze": {
+        "maskedText": "She ____ me of having spread rumors about her father.",
+        "answerBase": "accuse",
+        "answerSurface": "accused",
+        "choices": ["accused", "polished", "spoiled", "commuted"]
+      }
     }
   ],
   "notes": []

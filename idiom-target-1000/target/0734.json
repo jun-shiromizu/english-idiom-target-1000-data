@@ -12,7 +12,18 @@
         "do not even do"
       ],
       "example-sentence": "John left us in such a great hurry that he didn’t so much as say goodbye to us.",
-      "sentence-jp": "ジョンは大急ぎで去ったので、私たちにさよならを言うことさえしなかった。"
+      "sentence-jp": "ジョンは大急ぎで去ったので、私たちにさよならを言うことさえしなかった。",
+      "cloze": {
+        "maskedText": "John left us in such a great hurry that he didn’t so much as ____ goodbye to us.",
+        "answerBase": "not so much as do",
+        "answerSurface": "say",
+        "choices": [
+          "say",
+          "speak",
+          "tell",
+          "call"
+        ]
+      }
     }
   ],
   "notes": [

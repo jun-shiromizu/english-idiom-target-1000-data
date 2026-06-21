@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She had a business meeting with an important client.",
-      "sentence-jp": "彼女は重要な顧客との商談を持った。"
+      "sentence-jp": "彼女は重要な顧客との商談を持った。",
+      "cloze": {
+        "maskedText": "She had a business meeting with an important ____.",
+        "answerBase": "client",
+        "answerSurface": "client",
+        "choices": [
+          "client",
+          "colony",
+          "contract",
+          "treasure"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "What with overwork and exhaustion, nearly half the members fell ill.",
-      "sentence-jp": "過労やら疲労やらで、ほぼ半数のメンバーが病気になった。"
+      "sentence-jp": "過労やら疲労やらで、ほぼ半数のメンバーが病気になった。",
+      "cloze": {
+        "maskedText": "____ overwork and exhaustion, nearly half the members fell ill.",
+        "answerBase": "what with A and B",
+        "answerSurface": "What with",
+        "choices": [
+          "What with",
+          "Just about",
+          "Even as",
+          "If any"
+        ]
+      }
     }
   ],
   "notes": [

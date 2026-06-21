@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "They say that music is good for the soul.",
-      "sentence-jp": "音楽は精神によいと言われる。"
+      "sentence-jp": "音楽は精神によいと言われる。",
+      "cloze": {
+        "maskedText": "They say that music is good for the ____.",
+        "answerBase": "soul",
+        "answerSurface": "soul",
+        "choices": ["soul", "fence", "license", "valley"]
+      }
     }
   ],
   "notes": []

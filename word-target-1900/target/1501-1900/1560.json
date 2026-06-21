@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Day care nurseries are available to pre-school children in the city.",
-      "sentence-jp": "保育用託児所は市内の就学前の子供が利用できる。"
+      "sentence-jp": "保育用託児所は市内の就学前の子供が利用できる。",
+      "cloze": {
+        "maskedText": "Day care ____ are available to pre-school children in the city.",
+        "answerBase": "nursery",
+        "answerSurface": "nurseries",
+        "choices": [
+          "nurseries",
+          "realms",
+          "prairies",
+          "bullets"
+        ]
+      }
     }
   ],
   "notes": []

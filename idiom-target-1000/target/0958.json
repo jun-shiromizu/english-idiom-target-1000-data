@@ -12,7 +12,18 @@
         "according to ~"
       ],
       "example-sentence": "In accordance with her instructions, I went to see him myself.",
-      "sentence-jp": "私は彼女の指示に従って、私自身で彼に会いに行った。"
+      "sentence-jp": "私は彼女の指示に従って、私自身で彼に会いに行った。",
+      "cloze": {
+        "maskedText": "____ her instructions, I went to see him myself.",
+        "answerBase": "in accordance with ~",
+        "answerSurface": "In accordance with",
+        "choices": [
+          "In accordance with",
+          "Regardless of",
+          "In proportion to",
+          "In the wake of"
+        ]
+      }
     }
   ],
   "notes": [

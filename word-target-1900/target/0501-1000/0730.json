@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "There are many government programs for assisting the elderly.",
-      "sentence-jp": "高齢者を援助する政府の施策はたくさんある。"
+      "sentence-jp": "高齢者を援助する政府の施策はたくさんある。",
+      "cloze": {
+        "maskedText": "There are many government programs for ____ the elderly.",
+        "answerBase": "assist",
+        "answerSurface": "assisting",
+        "choices": [
+          "assisting",
+          "pretending",
+          "reversing",
+          "attributing"
+        ]
+      }
     }
   ],
   "notes": []

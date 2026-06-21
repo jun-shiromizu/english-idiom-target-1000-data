@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "His speech mentioned the core of the problem.",
-      "sentence-jp": "彼の演説は問題の核心に触れた。"
+      "sentence-jp": "彼の演説は問題の核心に触れた。",
+      "cloze": {
+        "maskedText": "His speech mentioned the ____ of the problem.",
+        "answerBase": "core",
+        "answerSurface": "core",
+        "choices": ["core", "salary", "branch", "fever"]
+      }
     }
   ],
   "notes": []

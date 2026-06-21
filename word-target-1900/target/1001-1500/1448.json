@@ -12,5 +12,11 @@
       "sentence-jp": "化学薬品の中には人間の遺伝子の突然変異を引き起こしかねないものがある。"
     }
   ],
+  "cloze": {
+    "maskedText": "Scientists discovered a rare genetic ____.",
+    "answerBase": "mutation",
+    "answerSurface": "mutation",
+    "choices": ["mutation", "reception", "posture", "maze"]
+  },
   "notes": []
 }

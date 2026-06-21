@@ -12,5 +12,11 @@
       "sentence-jp": "今日，私たちは前例のない経済危機に直面している。"
     }
   ],
+  "cloze": {
+    "maskedText": "The city faced an ____ shortage of water.",
+    "answerBase": "unprecedented",
+    "answerSurface": "unprecedented",
+    "choices": ["unprecedented", "outstanding", "formula", "grief"]
+  },
   "notes": []
 }

@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Collective and individual thinking are influenced by language.",
-      "sentence-jp": "集団の思考や個人の思考は言語に影響される。"
+      "sentence-jp": "集団の思考や個人の思考は言語に影響される。",
+      "cloze": {
+        "maskedText": "____ and individual thinking are influenced by language.",
+        "answerBase": "collective",
+        "answerSurface": "Collective",
+        "choices": ["Collective", "Mechanical", "Distant", "Fragile"]
+      }
     }
   ],
   "notes": []

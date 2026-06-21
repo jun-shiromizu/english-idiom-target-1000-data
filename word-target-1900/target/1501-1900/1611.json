@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Many people have become addicted to online games.",
-      "sentence-jp": "多くの人がオンラインゲームの中毒になっている。"
+      "sentence-jp": "多くの人がオンラインゲームの中毒になっている。",
+      "cloze": {
+        "maskedText": "Many people have become ____ to online games.",
+        "answerBase": "addict",
+        "answerSurface": "addicted",
+        "choices": [
+          "addicted",
+          "attached",
+          "devoted",
+          "committed"
+        ]
+      }
     }
   ],
   "notes": []

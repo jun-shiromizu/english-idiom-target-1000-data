@@ -12,5 +12,11 @@
       "sentence-jp": "私はこれらのユリは数日たてば花が咲くと思う。"
     }
   ],
+  "cloze": {
+    "maskedText": "The roses will ____ in early June.",
+    "answerBase": "bloom",
+    "answerSurface": "bloom",
+    "choices": ["bloom", "attain", "designate", "diagnose"]
+  },
   "notes": []
 }

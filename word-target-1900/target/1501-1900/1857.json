@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "I don't like the empty rhetoric he uses to impress others.",
-      "sentence-jp": "私は，人に感銘を与えるために彼が使う空虚な修辞が好きでない。"
+      "sentence-jp": "私は，人に感銘を与えるために彼が使う空虚な修辞が好きでない。",
+      "cloze": {
+        "maskedText": "I don't like the empty ____ he uses to impress others.",
+        "answerBase": "rhetoric",
+        "answerSurface": "rhetoric",
+        "choices": [
+          "rhetoric",
+          "luggage",
+          "texture",
+          "hardware"
+        ]
+      }
     }
   ],
   "notes": []

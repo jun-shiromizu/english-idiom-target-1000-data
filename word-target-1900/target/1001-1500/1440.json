@@ -12,5 +12,11 @@
       "sentence-jp": "案内人がツアーの人々のために旅行日程を調整した。"
     }
   ],
+  "cloze": {
+    "maskedText": "She helped ____ the entire event.",
+    "answerBase": "coordinate",
+    "answerSurface": "coordinate",
+    "choices": ["coordinate", "abolish", "glow", "cram"]
+  },
   "notes": []
 }

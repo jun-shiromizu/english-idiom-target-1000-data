@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She made a rough draft of her speech.",
-      "sentence-jp": "彼女は自分のスピーチの大ざっぱな下書きを書いた。"
+      "sentence-jp": "彼女は自分のスピーチの大ざっぱな下書きを書いた。",
+      "cloze": {
+        "maskedText": "She made a rough ____ of her speech.",
+        "answerBase": "draft",
+        "answerSurface": "draft",
+        "choices": [
+          "draft",
+          "copy",
+          "gesture",
+          "rule"
+        ]
+      }
     }
   ],
   "notes": []

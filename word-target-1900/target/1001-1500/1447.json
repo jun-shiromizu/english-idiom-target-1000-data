@@ -12,5 +12,11 @@
       "sentence-jp": "私は私たちのオンライン取引がどれくらい安全かと思っている。"
     }
   ],
+  "cloze": {
+    "maskedText": "The bank checks every online ____ carefully.",
+    "answerBase": "transaction",
+    "answerSurface": "transaction",
+    "choices": ["transaction", "headline", "dairy", "compassion"]
+  },
   "notes": []
 }

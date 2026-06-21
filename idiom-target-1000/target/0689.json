@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "This book is as interesting as any I have read.",
-      "sentence-jp": "この本は私が読んだことのあるどれにも劣らず興味深い。"
+      "sentence-jp": "この本は私が読んだことのあるどれにも劣らず興味深い。",
+      "cloze": {
+        "maskedText": "This book is ____ I have read.",
+        "answerBase": "as ~ as any",
+        "answerSurface": "as interesting as any",
+        "choices": [
+          "as interesting as any",
+          "as many as 100",
+          "all the more nervous",
+          "that much harder"
+        ]
+      }
     }
   ],
   "notes": [

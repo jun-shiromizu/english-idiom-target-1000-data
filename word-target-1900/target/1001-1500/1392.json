@@ -12,5 +12,11 @@
       "sentence-jp": "その歌手は3オクターブの声域を持っている。"
     }
   ],
+  "cloze": {
+    "maskedText": "She has an impressive ____ range.",
+    "answerBase": "vocal",
+    "answerSurface": "vocal",
+    "choices": ["vocal", "gross", "infinite", "scarce"]
+  },
   "notes": []
 }

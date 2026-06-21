@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "He contends that he never said such a thing.",
-      "sentence-jp": "彼は自分は決してそのようなことを言っていないと主張している。"
+      "sentence-jp": "彼は自分は決してそのようなことを言っていないと主張している。",
+      "cloze": {
+        "maskedText": "He ____ that he never said such a thing.",
+        "answerBase": "contend",
+        "answerSurface": "contends",
+        "choices": [
+          "contends",
+          "forgets",
+          "returns",
+          "travels"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The robot accomplished the task without any help from humans.",
-      "sentence-jp": "そのロボットは人間のいっさいの助けなしでその作業を成し遂げた。"
+      "sentence-jp": "そのロボットは人間のいっさいの助けなしでその作業を成し遂げた。",
+      "cloze": {
+        "maskedText": "The robot ____ the task without any help from humans.",
+        "answerBase": "accomplish",
+        "answerSurface": "accomplished",
+        "choices": [
+          "accomplished",
+          "reformed",
+          "owed",
+          "protested"
+        ]
+      }
     }
   ],
   "notes": []

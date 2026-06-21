@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He won a major award for his painting.",
-      "sentence-jp": "彼は自作の絵画で主要な賞を獲得した。"
+      "sentence-jp": "彼は自作の絵画で主要な賞を獲得した。",
+      "cloze": {
+        "maskedText": "He won a major ____ for his painting.",
+        "answerBase": "award",
+        "answerSurface": "award",
+        "choices": [
+          "award",
+          "burden",
+          "tone",
+          "witness"
+        ]
+      }
     }
   ],
   "notes": []

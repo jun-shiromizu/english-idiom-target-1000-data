@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Nancy punished herself for having been too strict with her students the previous day.",
-      "sentence-jp": "ナンシーは、前日生徒たちに厳しくしすぎたことで自分を責めた。"
+      "sentence-jp": "ナンシーは、前日生徒たちに厳しくしすぎたことで自分を責めた。",
+      "cloze": {
+        "maskedText": "Nancy ____ herself for having been too strict with her students the previous day.",
+        "answerBase": "punish A for B",
+        "answerSurface": "punished",
+        "choices": [
+          "punished",
+          "blamed",
+          "forgave",
+          "suspected"
+        ]
+      }
     }
   ],
   "notes": []

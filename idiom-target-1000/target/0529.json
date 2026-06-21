@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "More stockholders want to have a say in the running of their companies these days.",
-      "sentence-jp": "最近では会社の運営について発言権を持ちたいと思う株主が増えている。"
+      "sentence-jp": "最近では会社の運営について発言権を持ちたいと思う株主が増えている。",
+      "cloze": {
+        "maskedText": "More stockholders want to ____ in the running of their companies these days.",
+        "answerBase": "have a say (in ~)",
+        "answerSurface": "have a say",
+        "choices": [
+          "have a say",
+          "have one's way",
+          "make much of",
+          "have access to"
+        ]
+      }
     }
   ],
   "notes": [

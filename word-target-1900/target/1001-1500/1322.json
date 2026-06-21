@@ -12,5 +12,11 @@
       "sentence-jp": "食料生産は二酸化炭素を排出する。"
     }
   ],
+  "cloze": {
+    "maskedText": "Cars ____ harmful gases into the air.",
+    "answerBase": "emit",
+    "answerSurface": "emit",
+    "choices": ["emit", "shed", "assert", "boast"]
+  },
   "notes": []
 }

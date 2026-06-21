@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He is studying acoustic phonetics at a London university.",
-      "sentence-jp": "彼はロンドンの大学で音響音声学を学んでいる。"
+      "sentence-jp": "彼はロンドンの大学で音響音声学を学んでいる。",
+      "cloze": {
+        "maskedText": "He is studying ____ phonetics at a London university.",
+        "answerBase": "acoustic",
+        "answerSurface": "acoustic",
+        "choices": [
+          "acoustic",
+          "wooden",
+          "fragile",
+          "modest"
+        ]
+      }
     }
   ],
   "notes": []

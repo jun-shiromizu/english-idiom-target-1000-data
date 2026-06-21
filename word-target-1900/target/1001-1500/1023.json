@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "We ought to obey traffic rules so we have fewer accidents.",
-      "sentence-jp": "私たちは事故を少なくするために交通規則に従うべきである。"
+      "sentence-jp": "私たちは事故を少なくするために交通規則に従うべきである。",
+      "cloze": {
+        "maskedText": "We ought to ____ traffic rules so we have fewer accidents.",
+        "answerBase": "obey",
+        "answerSurface": "obey",
+        "choices": ["obey", "govern", "nod", "pitch"]
+      }
     }
   ],
   "notes": []

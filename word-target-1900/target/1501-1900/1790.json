@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Typewriters have become obsolete due to computers.",
-      "sentence-jp": "タイプライターはコンピューターのせいで廃れてしまった。"
+      "sentence-jp": "タイプライターはコンピューターのせいで廃れてしまった。",
+      "cloze": {
+        "maskedText": "Typewriters have become ____ due to computers.",
+        "answerBase": "obsolete",
+        "answerSurface": "obsolete",
+        "choices": [
+          "obsolete",
+          "cheerful",
+          "honest",
+          "elastic"
+        ]
+      }
     }
   ],
   "notes": []

@@ -10,7 +10,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "From April 1 on, we students are supposed to wear our new school uniform.",
-      "sentence-jp": "4月1日以降は、私たち生徒は新しい制服を着ることになっている。"
+      "sentence-jp": "4月1日以降は、私たち生徒は新しい制服を着ることになっている。",
+      "cloze": {
+        "maskedText": "____, we students are supposed to wear our new school uniform.",
+        "answerBase": "from ~ on / from ~ onward(s)",
+        "answerSurface": "From April 1 on",
+        "choices": [
+          "From April 1 on",
+          "From an evolutionary point of view",
+          "On Friday evenings",
+          "Of his own accord"
+        ]
+      }
     }
   ],
   "notes": [

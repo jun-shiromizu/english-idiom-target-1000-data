@@ -9,14 +9,36 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "When you visit London, be sure to check out the Tower of London and Big Ben.",
-      "sentence-jp": "ロンドンを訪れる際には、ぜひロンドン塔とビッグ・ベンを見てみなさい。"
+      "sentence-jp": "ロンドンを訪れる際には、ぜひロンドン塔とビッグ・ベンを見てみなさい。",
+      "cloze": {
+        "maskedText": "When you visit London, be sure to ____ the Tower of London and Big Ben.",
+        "answerBase": "check out ~",
+        "answerSurface": "check out",
+        "choices": [
+          "check out",
+          "hang up",
+          "hold on",
+          "go ahead"
+        ]
+      }
     },
     {
       "idiom-jp": "(図書館などから)〜を借り出す",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Sara is thinking of going to the library to check out a few books.",
-      "sentence-jp": "サラは数冊の本を借り出すために図書館に行こうかと考えている。"
+      "sentence-jp": "サラは数冊の本を借り出すために図書館に行こうかと考えている。",
+      "cloze": {
+        "maskedText": "Sara is thinking of going to the library to ____ a few books.",
+        "answerBase": "check out ~",
+        "answerSurface": "check out",
+        "choices": [
+          "check out",
+          "hold on to",
+          "go ahead and",
+          "hang up"
+        ]
+      }
     }
   ],
   "notes": [

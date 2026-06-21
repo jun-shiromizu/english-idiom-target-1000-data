@@ -14,7 +14,18 @@
         "since"
       ],
       "example-sentence": "Giving people gifts is a pleasure for me, inasmuch as it also makes me happy to see people smile.",
-      "sentence-jp": "人がにっこりするのを見ると私もうれしくなるので、人に贈り物をすることは私にとって喜びだ。"
+      "sentence-jp": "人がにっこりするのを見ると私もうれしくなるので、人に贈り物をすることは私にとって喜びだ。",
+      "cloze": {
+        "maskedText": "Giving people gifts is a pleasure for me, ____ it also makes me happy to see people smile.",
+        "answerBase": "inasmuch as ...",
+        "answerSurface": "inasmuch as",
+        "choices": [
+          "inasmuch as",
+          "even as",
+          "lest",
+          "if any"
+        ]
+      }
     }
   ],
   "notes": [

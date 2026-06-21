@@ -12,7 +12,18 @@
         "commit oneself to do [doing]"
       ],
       "example-sentence": "My father is a policeman and is committed to the safety and security of society.",
-      "sentence-jp": "私の父は警察官で、社会の安全・安心に献身している。"
+      "sentence-jp": "私の父は警察官で、社会の安全・安心に献身している。",
+      "cloze": {
+        "maskedText": "My father is a policeman and is ____ the safety and security of society.",
+        "answerBase": "be committed to ~",
+        "answerSurface": "committed to",
+        "choices": [
+          "committed to",
+          "susceptible to",
+          "vulnerable to",
+          "eligible for"
+        ]
+      }
     }
   ],
   "notes": [

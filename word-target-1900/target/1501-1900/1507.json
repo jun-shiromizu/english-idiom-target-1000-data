@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The topic of immigration usually provokes emotional reactions.",
-      "sentence-jp": "移民の話題はたいてい感情的な反応を引き起こす。"
+      "sentence-jp": "移民の話題はたいてい感情的な反応を引き起こす。",
+      "cloze": {
+        "maskedText": "The topic of immigration usually ____ emotional reactions.",
+        "answerBase": "provoke",
+        "answerSurface": "provokes",
+        "choices": [
+          "provokes",
+          "contains",
+          "protects",
+          "promotes"
+        ]
+      }
     }
   ],
   "notes": []

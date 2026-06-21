@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Many people in the U.S. enjoy more than forty TV channels.",
-      "sentence-jp": "アメリカの多くの人は40以上のテレビチャンネルを享受している。"
+      "sentence-jp": "アメリカの多くの人は40以上のテレビチャンネルを享受している。",
+      "cloze": {
+        "maskedText": "Many people in the U.S. enjoy more than forty TV ____.",
+        "answerBase": "channel",
+        "answerSurface": "channels",
+        "choices": [
+          "channels",
+          "sectors",
+          "platforms",
+          "glaciers"
+        ]
+      }
     }
   ],
   "notes": []

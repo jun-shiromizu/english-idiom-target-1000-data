@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She drove on a road that is parallel to the main road.",
-      "sentence-jp": "彼女は本街道と並行している道路を車で走った。"
+      "sentence-jp": "彼女は本街道と並行している道路を車で走った。",
+      "cloze": {
+        "maskedText": "She drove on a road that is ____ to the main road.",
+        "answerBase": "parallel",
+        "answerSurface": "parallel",
+        "choices": ["parallel", "indigenous", "abundant", "sensory"]
+      }
     }
   ],
   "notes": []

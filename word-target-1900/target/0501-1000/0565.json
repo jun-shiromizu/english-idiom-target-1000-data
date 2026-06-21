@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Exercise may improve your body's range of motion.",
-      "sentence-jp": "運動は身体の可動域を改善し得る。"
+      "sentence-jp": "運動は身体の可動域を改善し得る。",
+      "cloze": {
+        "maskedText": "Exercise may improve your body's range of ____.",
+        "answerBase": "motion",
+        "answerSurface": "motion",
+        "choices": [
+          "motion",
+          "barrier",
+          "mood",
+          "debt"
+        ]
+      }
     }
   ],
   "notes": []

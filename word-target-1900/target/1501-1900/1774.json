@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "A breakdown of morals will increase crime rates.",
-      "sentence-jp": "道徳の崩壊は犯罪率を高める。"
+      "sentence-jp": "道徳の崩壊は犯罪率を高める。",
+      "cloze": {
+        "maskedText": "A ____ of morals will increase crime rates.",
+        "answerBase": "breakdown",
+        "answerSurface": "breakdown",
+        "choices": [
+          "breakdown",
+          "landscape",
+          "backyard",
+          "motorcycle"
+        ]
+      }
     }
   ],
   "notes": []

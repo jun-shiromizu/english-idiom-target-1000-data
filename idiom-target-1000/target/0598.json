@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "In terms of population, our prefecture is the fourth largest in the country.",
-      "sentence-jp": "人口の観点では、私たちの県は全国で4番目の多さだ。"
+      "sentence-jp": "人口の観点では、私たちの県は全国で4番目の多さだ。",
+      "cloze": {
+        "maskedText": "____ population, our prefecture is the fourth largest in the country.",
+        "answerBase": "in terms of ~",
+        "answerSurface": "In terms of",
+        "choices": [
+          "In terms of",
+          "In contrast to",
+          "In danger of",
+          "By surprise"
+        ]
+      }
     }
   ],
   "notes": [

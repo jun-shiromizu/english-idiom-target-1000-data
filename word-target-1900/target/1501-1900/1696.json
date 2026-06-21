@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "A careless person is apt to make the same mistakes.",
-      "sentence-jp": "不注意な人は同じ間違いをする傾向がある。"
+      "sentence-jp": "不注意な人は同じ間違いをする傾向がある。",
+      "cloze": {
+        "maskedText": "A careless person is ____ to make the same mistakes.",
+        "answerBase": "apt",
+        "answerSurface": "apt",
+        "choices": [
+          "apt",
+          "ready",
+          "glad",
+          "proud"
+        ]
+      }
     }
   ],
   "notes": []

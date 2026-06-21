@@ -12,7 +12,18 @@
         "There is no use (in) doing."
       ],
       "example-sentence": "It is no use regretting what you didn’t do.",
-      "sentence-jp": "やらなかったことを後悔しても無駄だ。"
+      "sentence-jp": "やらなかったことを後悔しても無駄だ。",
+      "cloze": {
+        "maskedText": "It is no use ____ what you didn’t do.",
+        "answerBase": "It is no use doing.",
+        "answerSurface": "regretting",
+        "choices": [
+          "regretting",
+          "denying",
+          "believing",
+          "saying"
+        ]
+      }
     }
   ],
   "notes": []

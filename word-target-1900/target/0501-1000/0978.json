@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He finally achieved his ambition of competing in the Olympic games.",
-      "sentence-jp": "彼はついにオリンピックで競うという願望を達成した。"
+      "sentence-jp": "彼はついにオリンピックで競うという願望を達成した。",
+      "cloze": {
+        "maskedText": "He finally achieved his ____ of competing in the Olympic games.",
+        "answerBase": "ambition",
+        "answerSurface": "ambition",
+        "choices": ["ambition", "charm", "trail", "mixture"]
+      }
     }
   ],
   "notes": []

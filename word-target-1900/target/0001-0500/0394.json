@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Human activity has an enormous effect on the natural environment.",
-      "sentence-jp": "人間の活動は自然環境に莫大な影響を及ぼす。"
+      "sentence-jp": "人間の活動は自然環境に莫大な影響を及ぼす。",
+      "cloze": {
+        "maskedText": "Human activity has an ____ effect on the natural environment.",
+        "answerBase": "enormous",
+        "answerSurface": "enormous",
+        "choices": [
+          "enormous",
+          "constant",
+          "typical",
+          "convenient"
+        ]
+      }
     }
   ],
   "notes": []

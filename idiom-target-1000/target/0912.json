@@ -10,7 +10,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "I’m really looking forward to seeing the sights of your country on my trip next month.",
-      "sentence-jp": "私は来月の旅行であなたの国の観光をするのを本当に楽しみにしています。"
+      "sentence-jp": "私は来月の旅行であなたの国の観光をするのを本当に楽しみにしています。",
+      "cloze": {
+        "maskedText": "I’m really looking forward to ____ your country on my trip next month.",
+        "answerBase": "see the sights (of ~) / do the sights (of ~)",
+        "answerSurface": "seeing the sights of",
+        "choices": [
+          "seeing the sights of",
+          "reading between the lines of",
+          "following suit in",
+          "playing a joke on"
+        ]
+      }
     }
   ],
   "notes": [

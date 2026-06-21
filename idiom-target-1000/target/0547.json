@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I recognized Mary as soon as I caught sight of her at the airport.",
-      "sentence-jp": "私は空港でメアリーを見かけるとすぐに彼女だとわかった。"
+      "sentence-jp": "私は空港でメアリーを見かけるとすぐに彼女だとわかった。",
+      "cloze": {
+        "maskedText": "I recognized Mary as soon as I ____ her at the airport.",
+        "answerBase": "catch sight of ~",
+        "answerSurface": "caught sight of",
+        "choices": [
+          "caught sight of",
+          "kept an eye on",
+          "fell victim to",
+          "was similar to"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The court found her innocent and she was released.",
-      "sentence-jp": "裁判所が彼女を無罪だと判定し，彼女は釈放された。"
+      "sentence-jp": "裁判所が彼女を無罪だと判定し，彼女は釈放された。",
+      "cloze": {
+        "maskedText": "The court found her ____ and she was released.",
+        "answerBase": "innocent",
+        "answerSurface": "innocent",
+        "choices": ["innocent", "awkward", "obese", "valid"]
+      }
     }
   ],
   "notes": []

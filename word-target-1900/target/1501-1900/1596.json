@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "My grandfather is good at picking out edible mushrooms in the forest.",
-      "sentence-jp": "私の祖父は森で食用キノコを選び出すことが得意である。"
+      "sentence-jp": "私の祖父は森で食用キノコを選び出すことが得意である。",
+      "cloze": {
+        "maskedText": "My grandfather is good at picking out ____ mushrooms in the forest.",
+        "answerBase": "edible",
+        "answerSurface": "edible",
+        "choices": [
+          "edible",
+          "hollow",
+          "weird",
+          "accidental"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "The opportunity to work in all careers should be equal regardless of gender.",
-      "sentence-jp": "あらゆる職業において働く機会は性別にかかわらず均等であるべきである。"
+      "sentence-jp": "あらゆる職業において働く機会は性別にかかわらず均等であるべきである。",
+      "cloze": {
+        "maskedText": "The opportunity to work in all careers should be equal ____ of gender.",
+        "answerBase": "regardless",
+        "answerSurface": "regardless",
+        "choices": [
+          "regardless",
+          "superior",
+          "somewhat",
+          "unknown"
+        ]
+      }
     }
   ],
   "notes": []

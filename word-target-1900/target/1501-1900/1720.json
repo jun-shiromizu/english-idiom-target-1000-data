@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "They finally surrendered their weapons to the police.",
-      "sentence-jp": "彼らはようやく警察に武器を引き渡した。"
+      "sentence-jp": "彼らはようやく警察に武器を引き渡した。",
+      "cloze": {
+        "maskedText": "They finally ____ their weapons to the police.",
+        "answerBase": "surrender",
+        "answerSurface": "surrendered",
+        "choices": [
+          "surrendered",
+          "displayed",
+          "borrowed",
+          "examined"
+        ]
+      }
     }
   ],
   "notes": []

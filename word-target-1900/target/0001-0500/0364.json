@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "This is a cheap version of the famous brand.",
-      "sentence-jp": "これはその有名ブランドの廉価版である。"
+      "sentence-jp": "これはその有名ブランドの廉価版である。",
+      "cloze": {
+        "maskedText": "This is a cheap ____ of the famous brand.",
+        "answerBase": "version",
+        "answerSurface": "version",
+        "choices": [
+          "version",
+          "custom",
+          "target",
+          "profit"
+        ]
+      }
     }
   ],
   "notes": []

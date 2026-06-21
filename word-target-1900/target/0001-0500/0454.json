@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "I read his review of the newly published book.",
-      "sentence-jp": "私はその新刊書についての彼の論評を読んだ。"
+      "sentence-jp": "私はその新刊書についての彼の論評を読んだ。",
+      "cloze": {
+        "maskedText": "I read his ____ of the newly published book.",
+        "answerBase": "review",
+        "answerSurface": "review",
+        "choices": [
+          "review",
+          "ladder",
+          "wallet",
+          "village"
+        ]
+      }
     }
   ],
   "notes": []

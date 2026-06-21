@@ -10,7 +10,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Judging from the short speech he has just made, I think he is a very intelligent person.",
-      "sentence-jp": "彼が今した短いスピーチから判断すると、彼はとても知的な人物だと思う。"
+      "sentence-jp": "彼が今した短いスピーチから判断すると、彼はとても知的な人物だと思う。",
+      "cloze": {
+        "maskedText": "____ he has just made, I think he is a very intelligent person.",
+        "answerBase": "judging from ~ / judging by ~",
+        "answerSurface": "Judging from the short speech",
+        "choices": [
+          "Judging from the short speech",
+          "Speaking of movies",
+          "To tell the truth",
+          "Needless to say"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "We often interpret dreams as a reflection of our true thoughts.",
-      "sentence-jp": "私たちは夢を自分自身の本心の現れとして解釈することが多い。"
+      "sentence-jp": "私たちは夢を自分自身の本心の現れとして解釈することが多い。",
+      "cloze": {
+        "maskedText": "We often ____ dreams as a reflection of our true thoughts.",
+        "answerBase": "interpret",
+        "answerSurface": "interpret",
+        "choices": [
+          "interpret",
+          "borrow",
+          "deliver",
+          "measure"
+        ]
+      }
     }
   ],
   "notes": []

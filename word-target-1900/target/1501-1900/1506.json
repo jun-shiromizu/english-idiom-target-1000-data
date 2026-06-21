@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The specialists were not able to halt the spread of this year's flu.",
-      "sentence-jp": "専門家たちは今年のインフルエンザの蔓延を食い止めることができなかった。"
+      "sentence-jp": "専門家たちは今年のインフルエンザの蔓延を食い止めることができなかった。",
+      "cloze": {
+        "maskedText": "The specialists were not able to ____ the spread of this year's flu.",
+        "answerBase": "halt",
+        "answerSurface": "halt",
+        "choices": [
+          "halt",
+          "measure",
+          "observe",
+          "examine"
+        ]
+      }
     }
   ],
   "notes": []

@@ -12,7 +12,18 @@
         "make allowance(s) for ~"
       ],
       "example-sentence": "Moving around the world allows for a new way of seeing things.",
-      "sentence-jp": "世界中を巡ることは物事の新しい見方を可能にする。"
+      "sentence-jp": "世界中を巡ることは物事の新しい見方を可能にする。",
+      "cloze": {
+        "maskedText": "Moving around the world ____ a new way of seeing things.",
+        "answerBase": "allow for ~",
+        "answerSurface": "allows for",
+        "choices": [
+          "allows for",
+          "accounts for",
+          "settles for",
+          "yearns for"
+        ]
+      }
     }
   ],
   "notes": []

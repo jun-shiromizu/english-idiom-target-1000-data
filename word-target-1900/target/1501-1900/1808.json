@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "He was bleeding from a large cut on his shoulder.",
-      "sentence-jp": "彼は肩の大きな切り傷から出血していた。"
+      "sentence-jp": "彼は肩の大きな切り傷から出血していた。",
+      "cloze": {
+        "maskedText": "He was ____ from a large cut on his shoulder.",
+        "answerBase": "bleed",
+        "answerSurface": "bleeding",
+        "choices": [
+          "bleeding",
+          "shouting",
+          "arguing",
+          "traveling"
+        ]
+      }
     }
   ],
   "notes": []

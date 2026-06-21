@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "She was too shocked to utter a word at all.",
-      "sentence-jp": "彼女はひどくショックを受けて，言葉を発することがまったくできなかった。"
+      "sentence-jp": "彼女はひどくショックを受けて，言葉を発することがまったくできなかった。",
+      "cloze": {
+        "maskedText": "She was too shocked to ____ a word at all.",
+        "answerBase": "utter",
+        "answerSurface": "utter",
+        "choices": [
+          "utter",
+          "repeat",
+          "deliver",
+          "mention"
+        ]
+      }
     }
   ],
   "notes": []

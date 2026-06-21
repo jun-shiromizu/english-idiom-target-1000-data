@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Please don’t forget to give my best regards to your father.",
-      "sentence-jp": "忘れずにあなたのお父さんにくれぐれもよろしくとお伝えください。"
+      "sentence-jp": "忘れずにあなたのお父さんにくれぐれもよろしくとお伝えください。",
+      "cloze": {
+        "maskedText": "Please don’t forget to ____ your father.",
+        "answerBase": "give one’s regards to ~",
+        "answerSurface": "give my best regards to",
+        "choices": [
+          "give my best regards to",
+          "treat yourself to",
+          "watch your step with",
+          "hit it off with"
+        ]
+      }
     }
   ],
   "notes": [

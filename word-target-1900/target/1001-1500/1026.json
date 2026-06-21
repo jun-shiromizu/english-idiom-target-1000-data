@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "The mayor governed our city for over ten years.",
-      "sentence-jp": "その市長は10年以上にわたって我が市を統治した。"
+      "sentence-jp": "その市長は10年以上にわたって我が市を統治した。",
+      "cloze": {
+        "maskedText": "The mayor ____ our city for over ten years.",
+        "answerBase": "govern",
+        "answerSurface": "governed",
+        "choices": ["governed", "leaped", "nodded", "persisted"]
+      }
     }
   ],
   "notes": []

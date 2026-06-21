@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "After the storm, I saw that my house's fence was leaning slightly.",
-      "sentence-jp": "嵐の後，私の家の塀が少し傾いているのがわかった。"
+      "sentence-jp": "嵐の後，私の家の塀が少し傾いているのがわかった。",
+      "cloze": {
+        "maskedText": "After the storm, I saw that my house's fence was ____ slightly.",
+        "answerBase": "lean",
+        "answerSurface": "leaning",
+        "choices": ["leaning", "pausing", "grabbing", "justifying"]
+      }
     }
   ],
   "notes": []

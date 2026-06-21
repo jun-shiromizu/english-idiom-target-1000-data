@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Many visitors to New York are eager to go to Broadway musicals.",
-      "sentence-jp": "ニューヨークを訪れる多くの人は，ブロードウェイミュージカルをしきりに見に行きたがる。"
+      "sentence-jp": "ニューヨークを訪れる多くの人は，ブロードウェイミュージカルをしきりに見に行きたがる。",
+      "cloze": {
+        "maskedText": "Many visitors to New York are ____ to go to Broadway musicals.",
+        "answerBase": "eager",
+        "answerSurface": "eager",
+        "choices": [
+          "eager",
+          "guilty",
+          "reluctant",
+          "plain"
+        ]
+      }
     }
   ],
   "notes": []

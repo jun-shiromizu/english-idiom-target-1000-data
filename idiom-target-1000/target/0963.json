@@ -9,7 +9,18 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "Jimmy has been on friendly terms with me for many years.",
-      "sentence-jp": "ジミーは長年にわたって私と親しい間柄である。"
+      "sentence-jp": "ジミーは長年にわたって私と親しい間柄である。",
+      "cloze": {
+        "maskedText": "Jimmy has been ____ me for many years.",
+        "answerBase": "on ~ terms with ...",
+        "answerSurface": "on friendly terms with",
+        "choices": [
+          "on friendly terms with",
+          "on the verge of",
+          "within walking distance of",
+          "to the effect that"
+        ]
+      }
     }
   ],
   "notes": [

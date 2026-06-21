@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He bid $ 1, 000 for the painting at the auction.",
-      "sentence-jp": "彼は競売でその絵に1,000ドルの値をつけた。"
+      "sentence-jp": "彼は競売でその絵に1,000ドルの値をつけた。",
+      "cloze": {
+        "maskedText": "He ____ $ 1, 000 for the painting at the auction.",
+        "answerBase": "bid",
+        "answerSurface": "bid",
+        "choices": [
+          "bid",
+          "lent",
+          "hid",
+          "paid"
+        ]
+      }
     }
   ],
   "notes": []

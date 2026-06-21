@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "We must commit to making diplomacy with other countries.",
-      "sentence-jp": "我々は他国との外交を構築することに献身しなければならない。"
+      "sentence-jp": "我々は他国との外交を構築することに献身しなければならない。",
+      "cloze": {
+        "maskedText": "We must commit to making ____ with other countries.",
+        "answerBase": "diplomacy",
+        "answerSurface": "diplomacy",
+        "choices": [
+          "diplomacy",
+          "machinery",
+          "furniture",
+          "chemistry"
+        ]
+      }
     }
   ],
   "notes": []

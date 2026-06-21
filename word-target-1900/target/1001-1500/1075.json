@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Using organic cotton as fabric for clothes has become widespread.",
-      "sentence-jp": "洋服の生地としてオーガニックコットンを使うことが広まってきている。"
+      "sentence-jp": "洋服の生地としてオーガニックコットンを使うことが広まってきている。",
+      "cloze": {
+        "maskedText": "Using organic cotton as ____ for clothes has become widespread.",
+        "answerBase": "fabric",
+        "answerSurface": "fabric",
+        "choices": ["fabric", "fantasy", "fancy", "virtue"]
+      }
     }
   ],
   "notes": []

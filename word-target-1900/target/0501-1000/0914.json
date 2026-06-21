@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Heavy rain triggered a sudden flood in the village.",
-      "sentence-jp": "大雨がその村で突然の洪水を引き起こした。"
+      "sentence-jp": "大雨がその村で突然の洪水を引き起こした。",
+      "cloze": {
+        "maskedText": "Heavy rain ____ a sudden flood in the village.",
+        "answerBase": "trigger",
+        "answerSurface": "triggered",
+        "choices": ["triggered", "grabbed", "retained", "submitted"]
+      }
     }
   ],
   "notes": []

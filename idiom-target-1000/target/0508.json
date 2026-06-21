@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "We suspected the boy of having hidden his classmate’s book on purpose.",
-      "sentence-jp": "私たちはわざと級友の本を隠したことについてその少年を疑った。"
+      "sentence-jp": "私たちはわざと級友の本を隠したことについてその少年を疑った。",
+      "cloze": {
+        "maskedText": "We ____ the boy of having hidden his classmate’s book on purpose.",
+        "answerBase": "suspect A of B",
+        "answerSurface": "suspected",
+        "choices": [
+          "suspected",
+          "accused",
+          "assured",
+          "transformed"
+        ]
+      }
     }
   ],
   "notes": [

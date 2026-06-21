@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "He inserted an IC card into the ticket machine.",
-      "sentence-jp": "彼は券売機にICカードを挿入した。"
+      "sentence-jp": "彼は券売機にICカードを挿入した。",
+      "cloze": {
+        "maskedText": "He ____ an IC card into the ticket machine.",
+        "answerBase": "insert",
+        "answerSurface": "inserted",
+        "choices": [
+          "inserted",
+          "invented",
+          "invested",
+          "inspected"
+        ]
+      }
     }
   ],
   "notes": []

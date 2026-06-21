@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He is faced with the dilemma of whether to quit his job.",
-      "sentence-jp": "彼は仕事を辞めるかどうかというジレンマに直面している。"
+      "sentence-jp": "彼は仕事を辞めるかどうかというジレンマに直面している。",
+      "cloze": {
+        "maskedText": "He is faced with the ____ of whether to quit his job.",
+        "answerBase": "dilemma",
+        "answerSurface": "dilemma",
+        "choices": ["dilemma", "queue", "curve", "file"]
+      }
     }
   ],
   "notes": []

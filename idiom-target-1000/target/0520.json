@@ -10,7 +10,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "A long time ago, my uncle made a living selling marine products in the surrounding area.",
-      "sentence-jp": "私のおじは昔、周辺地域で海産物を売って生計を立てていた。"
+      "sentence-jp": "私のおじは昔、周辺地域で海産物を売って生計を立てていた。",
+      "cloze": {
+        "maskedText": "A long time ago, my uncle ____ selling marine products in the surrounding area.",
+        "answerBase": "make a living / earn one's living",
+        "answerSurface": "made a living",
+        "choices": [
+          "made a living",
+          "made way",
+          "made an effort",
+          "lived a full and happy life"
+        ]
+      }
     }
   ],
   "notes": [

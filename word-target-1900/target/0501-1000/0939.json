@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "The political candidate consulted his adviser about an election campaign.",
-      "sentence-jp": "その立候補者は選挙運動について顧問に相談した。"
+      "sentence-jp": "その立候補者は選挙運動について顧問に相談した。",
+      "cloze": {
+        "maskedText": "The political candidate ____ his adviser about an election campaign.",
+        "answerBase": "consult",
+        "answerSurface": "consulted",
+        "choices": ["consulted", "mounted", "underwent", "fulfilled"]
+      }
     }
   ],
   "notes": []

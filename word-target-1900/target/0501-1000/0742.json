@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Literacy rates vary considerably from country to country.",
-      "sentence-jp": "識字率は国によってかなり異なる。"
+      "sentence-jp": "識字率は国によってかなり異なる。",
+      "cloze": {
+        "maskedText": "____ rates vary considerably from country to country.",
+        "answerBase": "literacy",
+        "answerSurface": "Literacy",
+        "choices": [
+          "Literacy",
+          "Mission",
+          "License",
+          "Protein"
+        ]
+      }
     }
   ],
   "notes": []

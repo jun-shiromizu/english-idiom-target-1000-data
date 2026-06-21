@@ -12,5 +12,11 @@
       "sentence-jp": "大きなストレスを感じると，人は食欲が増す傾向にある。"
     }
   ],
+  "cloze": {
+    "maskedText": "Stress can increase your ____ for sweets.",
+    "answerBase": "appetite",
+    "answerSurface": "appetite",
+    "choices": ["appetite", "temper", "script", "pension"]
+  },
   "notes": []
 }

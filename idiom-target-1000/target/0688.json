@@ -12,7 +12,18 @@
         "almost"
       ],
       "example-sentence": "Chris, the eldest of their three children, is as good as grown up now.",
-      "sentence-jp": "彼らの3人の子供たちのうちで一番年長のクリスは、今では大人も同然だ。"
+      "sentence-jp": "彼らの3人の子供たちのうちで一番年長のクリスは、今では大人も同然だ。",
+      "cloze": {
+        "maskedText": "Chris, the eldest of their three children, is ____ grown up now.",
+        "answerBase": "as good as ~",
+        "answerSurface": "as good as",
+        "choices": [
+          "as good as",
+          "as interesting as any",
+          "all the more",
+          "for sure"
+        ]
+      }
     }
   ],
   "notes": [

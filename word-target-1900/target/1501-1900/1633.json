@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Anna can converse with perfect strangers about any topic.",
-      "sentence-jp": "アナはどんな話題についてもまったく見知らぬ人と会話することができる。"
+      "sentence-jp": "アナはどんな話題についてもまったく見知らぬ人と会話することができる。",
+      "cloze": {
+        "maskedText": "Anna can ____ with perfect strangers about any topic.",
+        "answerBase": "converse",
+        "answerSurface": "converse",
+        "choices": [
+          "converse",
+          "agree",
+          "travel",
+          "compete"
+        ]
+      }
     }
   ],
   "notes": []

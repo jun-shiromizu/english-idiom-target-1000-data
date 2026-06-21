@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "They anticipate a bright future for their only son.",
-      "sentence-jp": "彼らは一人息子に明るい将来を期待している。"
+      "sentence-jp": "彼らは一人息子に明るい将来を期待している。",
+      "cloze": {
+        "maskedText": "They ____ a bright future for their only son.",
+        "answerBase": "anticipate",
+        "answerSurface": "anticipate",
+        "choices": ["anticipate", "scan", "regulate", "pause"]
+      }
     }
   ],
   "notes": []

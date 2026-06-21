@@ -9,7 +9,18 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "There was heavy damage in this area in the wake of the typhoon.",
-      "sentence-jp": "台風が通った後にこの地域ではひどい被害があった。"
+      "sentence-jp": "台風が通った後にこの地域ではひどい被害があった。",
+      "cloze": {
+        "maskedText": "There was heavy damage in this area ____ the typhoon.",
+        "answerBase": "in the wake of ~",
+        "answerSurface": "in the wake of",
+        "choices": [
+          "in the wake of",
+          "in accordance with",
+          "in proportion to",
+          "regardless of"
+        ]
+      }
     }
   ],
   "notes": [

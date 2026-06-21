@@ -12,5 +12,11 @@
       "sentence-jp": "有史以前，人々は熱湯で食べ物を料理していたかもしれない。"
     }
   ],
+  "cloze": {
+    "maskedText": "Dinosaurs lived in ____ times.",
+    "answerBase": "prehistoric",
+    "answerSurface": "prehistoric",
+    "choices": ["prehistoric", "ongoing", "wireless", "toxic"]
+  },
   "notes": []
 }

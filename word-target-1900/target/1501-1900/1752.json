@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The energy-storage revolution will improve the electricity grid.",
-      "sentence-jp": "エネルギー貯蔵における革命は電気供給網を改善するだろう。"
+      "sentence-jp": "エネルギー貯蔵における革命は電気供給網を改善するだろう。",
+      "cloze": {
+        "maskedText": "The energy-storage revolution will improve the electricity ____.",
+        "answerBase": "grid",
+        "answerSurface": "grid",
+        "choices": [
+          "grid",
+          "forest",
+          "ticket",
+          "balance"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He learned how to work as a security guard.",
-      "sentence-jp": "彼は警備員として働く方法を学んだ。"
+      "sentence-jp": "彼は警備員として働く方法を学んだ。",
+      "cloze": {
+        "maskedText": "He learned how to work as a security ____.",
+        "answerBase": "guard",
+        "answerSurface": "guard",
+        "choices": [
+          "guard",
+          "opponent",
+          "divorce",
+          "guideline"
+        ]
+      }
     }
   ],
   "notes": []

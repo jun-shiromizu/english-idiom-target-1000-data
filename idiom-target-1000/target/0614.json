@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "In the English conversation class, most of the students kept silent for fear of making mistakes.",
-      "sentence-jp": "英会話の授業では、ほとんどの生徒が間違えることを恐れて黙っていた。"
+      "sentence-jp": "英会話の授業では、ほとんどの生徒が間違えることを恐れて黙っていた。",
+      "cloze": {
+        "maskedText": "In the English conversation class, most of the students kept silent ____ making mistakes.",
+        "answerBase": "for fear of ~",
+        "answerSurface": "for fear of",
+        "choices": [
+          "for fear of",
+          "for the sake of",
+          "at the sight of",
+          "as opposed to"
+        ]
+      }
     }
   ],
   "notes": [

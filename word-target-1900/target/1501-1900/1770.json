@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Hundreds of good biographies of presidents throughout history exist.",
-      "sentence-jp": "歴代の大統領に関する何百ものすぐれた伝記が存在する。"
+      "sentence-jp": "歴代の大統領に関する何百ものすぐれた伝記が存在する。",
+      "cloze": {
+        "maskedText": "Hundreds of good ____ of presidents throughout history exist.",
+        "answerBase": "biography",
+        "answerSurface": "biographies",
+        "choices": [
+          "biographies",
+          "factories",
+          "staircases",
+          "vegetables"
+        ]
+      }
     }
   ],
   "notes": []

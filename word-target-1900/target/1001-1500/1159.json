@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "There is a close link between obesity and diabetes.",
-      "sentence-jp": "肥満と糖尿病との間には密接な関連がある。"
+      "sentence-jp": "肥満と糖尿病との間には密接な関連がある。",
+      "cloze": {
+        "maskedText": "There is a close link between obesity and ____.",
+        "answerBase": "diabetes",
+        "answerSurface": "diabetes",
+        "choices": ["diabetes", "caution", "retail", "scent"]
+      }
     }
   ],
   "notes": []

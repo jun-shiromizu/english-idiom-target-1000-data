@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Thirty percent of driving in business districts is spent looking for parking.",
-      "sentence-jp": "商業地区での車の運転の30%は駐車スペースを探すことに費やされる。"
+      "sentence-jp": "商業地区での車の運転の30%は駐車スペースを探すことに費やされる。",
+      "cloze": {
+        "maskedText": "Thirty percent of driving in business ____ is spent looking for parking.",
+        "answerBase": "district",
+        "answerSurface": "districts",
+        "choices": [
+          "districts",
+          "predators",
+          "harvests",
+          "tricks"
+        ]
+      }
     }
   ],
   "notes": []

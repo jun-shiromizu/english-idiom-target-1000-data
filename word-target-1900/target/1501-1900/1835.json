@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "My father told me to reconcile my statements with my conduct.",
-      "sentence-jp": "父は私に自分の発言を行動と一致させるように言った。"
+      "sentence-jp": "父は私に自分の発言を行動と一致させるように言った。",
+      "cloze": {
+        "maskedText": "My father told me to ____ my statements with my conduct.",
+        "answerBase": "reconcile",
+        "answerSurface": "reconcile",
+        "choices": [
+          "reconcile",
+          "exchange",
+          "advertise",
+          "decorate"
+        ]
+      }
     }
   ],
   "notes": []

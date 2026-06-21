@@ -10,7 +10,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Yui followed through on the promise to return home by ten.",
-      "sentence-jp": "ユイは10時までに帰宅するという約束を最後まで守った。"
+      "sentence-jp": "ユイは10時までに帰宅するという約束を最後まで守った。",
+      "cloze": {
+        "maskedText": "Yui ____ the promise to return home by ten.",
+        "answerBase": "follow through on ~ / follow through with ~",
+        "answerSurface": "followed through on",
+        "choices": [
+          "followed through on",
+          "got down to",
+          "pulled off",
+          "let down"
+        ]
+      }
     }
   ],
   "notes": [

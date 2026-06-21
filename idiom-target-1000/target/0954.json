@@ -12,7 +12,18 @@
         "the best"
       ],
       "example-sentence": "As far as math is concerned, Rupert is second to none in his class.",
-      "sentence-jp": "数学に関する限り、ルーパートはクラスの誰にも劣らない。"
+      "sentence-jp": "数学に関する限り、ルーパートはクラスの誰にも劣らない。",
+      "cloze": {
+        "maskedText": "As far as math is concerned, Rupert is ____ in his class.",
+        "answerBase": "second to none",
+        "answerSurface": "second to none",
+        "choices": [
+          "second to none",
+          "right as rain",
+          "out of the question",
+          "in store"
+        ]
+      }
     }
   ],
   "notes": []

@@ -12,7 +12,18 @@
         "assume office"
       ],
       "example-sentence": "It’s been almost two years since she took office as governor of this prefecture.",
-      "sentence-jp": "彼女がこの県の知事に就任してから2年になろうとしている。"
+      "sentence-jp": "彼女がこの県の知事に就任してから2年になろうとしている。",
+      "cloze": {
+        "maskedText": "It’s been almost two years since she ____ as governor of this prefecture.",
+        "answerBase": "take office",
+        "answerSurface": "took office",
+        "choices": [
+          "took office",
+          "paid a visit",
+          "went to the polls",
+          "called it a day"
+        ]
+      }
     }
   ],
   "notes": [

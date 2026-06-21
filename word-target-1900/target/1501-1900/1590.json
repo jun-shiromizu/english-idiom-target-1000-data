@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "As she had not eaten anything, her stomach felt hollow.",
-      "sentence-jp": "彼女は何も食べていなかったので，胃が空っぽの感じがした。"
+      "sentence-jp": "彼女は何も食べていなかったので，胃が空っぽの感じがした。",
+      "cloze": {
+        "maskedText": "As she had not eaten anything, her stomach felt ____.",
+        "answerBase": "hollow",
+        "answerSurface": "hollow",
+        "choices": [
+          "hollow",
+          "legitimate",
+          "authentic",
+          "immense"
+        ]
+      }
     }
   ],
   "notes": []

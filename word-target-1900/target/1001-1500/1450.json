@@ -12,5 +12,11 @@
       "sentence-jp": "彼女はその事故の犠牲者に深い同情を感じた。"
     }
   ],
+  "cloze": {
+    "maskedText": "He showed great ____ for the homeless people.",
+    "answerBase": "compassion",
+    "answerSurface": "compassion",
+    "choices": ["compassion", "outlet", "mutation", "patch"]
+  },
   "notes": []
 }

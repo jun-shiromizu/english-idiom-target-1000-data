@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Tradition is often an obstacle to development.",
-      "sentence-jp": "伝統はしばしば進歩に対する障害となる。"
+      "sentence-jp": "伝統はしばしば進歩に対する障害となる。",
+      "cloze": {
+        "maskedText": "Tradition is often an ____ to development.",
+        "answerBase": "obstacle",
+        "answerSurface": "obstacle",
+        "choices": ["obstacle", "tribute", "circle", "harvest"]
+      }
     }
   ],
   "notes": []

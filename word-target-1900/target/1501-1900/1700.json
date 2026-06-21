@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "We should try to keep the world's remaining jungles intact.",
-      "sentence-jp": "私たちは世界中の残存しているジャングルを手つかずのままにしておくよう努めるべきである。"
+      "sentence-jp": "私たちは世界中の残存しているジャングルを手つかずのままにしておくよう努めるべきである。",
+      "cloze": {
+        "maskedText": "We should try to keep the world's remaining jungles ____.",
+        "answerBase": "intact",
+        "answerSurface": "intact",
+        "choices": [
+          "intact",
+          "popular",
+          "careful",
+          "gentle"
+        ]
+      }
     }
   ],
   "notes": []

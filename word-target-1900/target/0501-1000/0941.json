@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Intelligence is not the privilege of the human species alone.",
-      "sentence-jp": "知能は人類だけの特権ではない。"
+      "sentence-jp": "知能は人類だけの特権ではない。",
+      "cloze": {
+        "maskedText": "Intelligence is not the ____ of the human species alone.",
+        "answerBase": "privilege",
+        "answerSurface": "privilege",
+        "choices": ["privilege", "formation", "sensation", "semester"]
+      }
     }
   ],
   "notes": []

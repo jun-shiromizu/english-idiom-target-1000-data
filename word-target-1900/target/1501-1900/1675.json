@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Public sanitation needs to be at the top of the world's agenda.",
-      "sentence-jp": "公衆衛生は世界の課題の最優先事項である必要がある。"
+      "sentence-jp": "公衆衛生は世界の課題の最優先事項である必要がある。",
+      "cloze": {
+        "maskedText": "Public ____ needs to be at the top of the world's agenda.",
+        "answerBase": "sanitation",
+        "answerSurface": "sanitation",
+        "choices": [
+          "sanitation",
+          "navigation",
+          "celebration",
+          "decoration"
+        ]
+      }
     }
   ],
   "notes": []

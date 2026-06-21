@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "There is a network of neurons in the brain.",
-      "sentence-jp": "脳内にはニューロンの網状組織がある。"
+      "sentence-jp": "脳内にはニューロンの網状組織がある。",
+      "cloze": {
+        "maskedText": "There is a network of ____ in the brain.",
+        "answerBase": "neuron",
+        "answerSurface": "neurons",
+        "choices": ["neurons", "charts", "semesters", "privileges"]
+      }
     }
   ],
   "notes": []

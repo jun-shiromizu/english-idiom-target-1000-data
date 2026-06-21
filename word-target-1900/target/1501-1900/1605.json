@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Visitors surged through the gates to the entrance of the museum.",
-      "sentence-jp": "来場者はゲートを通り抜け博物館の入り口に殺到した。"
+      "sentence-jp": "来場者はゲートを通り抜け博物館の入り口に殺到した。",
+      "cloze": {
+        "maskedText": "Visitors ____ through the gates to the entrance of the museum.",
+        "answerBase": "surge",
+        "answerSurface": "surged",
+        "choices": [
+          "surged",
+          "rested",
+          "settled",
+          "stayed"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "He has three offshore companies for legitimate tax avoidance purposes.",
-      "sentence-jp": "彼は合法的な租税回避の目的で海外の会社を3つ持っている。"
+      "sentence-jp": "彼は合法的な租税回避の目的で海外の会社を3つ持っている。",
+      "cloze": {
+        "maskedText": "He has three offshore companies for ____ tax avoidance purposes.",
+        "answerBase": "legitimate",
+        "answerSurface": "legitimate",
+        "choices": [
+          "legitimate",
+          "authentic",
+          "extreme",
+          "random"
+        ]
+      }
     }
   ],
   "notes": []

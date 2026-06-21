@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "The conclusion he drew from the evidence was valid.",
-      "sentence-jp": "彼がその証拠から導いた結論は妥当であった。"
+      "sentence-jp": "彼がその証拠から導いた結論は妥当であった。",
+      "cloze": {
+        "maskedText": "The conclusion he drew from the evidence was ____.",
+        "answerBase": "valid",
+        "answerSurface": "valid",
+        "choices": ["valid", "grateful", "panic", "fancy"]
+      }
     }
   ],
   "notes": []

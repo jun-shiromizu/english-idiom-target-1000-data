@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Virtual reality goggles make you unaware of your actual surroundings.",
-      "sentence-jp": "仮想現実ゴーグルをかけると，実際の周囲の状況に気づかなくなる。"
+      "sentence-jp": "仮想現実ゴーグルをかけると，実際の周囲の状況に気づかなくなる。",
+      "cloze": {
+        "maskedText": "____ reality goggles make you unaware of your actual surroundings.",
+        "answerBase": "virtual",
+        "answerSurface": "Virtual",
+        "choices": [
+          "Virtual",
+          "Careful",
+          "Immediate",
+          "Sensitive"
+        ]
+      }
     }
   ],
   "notes": []

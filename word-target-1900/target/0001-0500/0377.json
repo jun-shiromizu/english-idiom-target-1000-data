@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The original role of the library was to store important documents.",
-      "sentence-jp": "図書館の本来の役割は重要な文書を保管することだった。"
+      "sentence-jp": "図書館の本来の役割は重要な文書を保管することだった。",
+      "cloze": {
+        "maskedText": "The original role of the library was to store important ____.",
+        "answerBase": "document",
+        "answerSurface": "documents",
+        "choices": [
+          "documents",
+          "campaigns",
+          "residents",
+          "lectures"
+        ]
+      }
     }
   ],
   "notes": []

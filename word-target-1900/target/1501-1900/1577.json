@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The hospital's standard of hygiene is high.",
-      "sentence-jp": "その病院の衛生基準は高い。"
+      "sentence-jp": "その病院の衛生基準は高い。",
+      "cloze": {
+        "maskedText": "The hospital's standard of ____ is high.",
+        "answerBase": "hygiene",
+        "answerSurface": "hygiene",
+        "choices": [
+          "hygiene",
+          "justice",
+          "comfort",
+          "safety"
+        ]
+      }
     }
   ],
   "notes": []

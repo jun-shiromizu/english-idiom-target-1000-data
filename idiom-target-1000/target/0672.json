@@ -12,7 +12,18 @@
         "be inclined to do"
       ],
       "example-sentence": "People wear what they feel like wearing even at work these days.",
-      "sentence-jp": "近ごろでは職場でさえ人々は着てみたいものを着る。"
+      "sentence-jp": "近ごろでは職場でさえ人々は着てみたいものを着る。",
+      "cloze": {
+        "maskedText": "People wear what they ____ even at work these days.",
+        "answerBase": "feel like doing",
+        "answerSurface": "feel like wearing",
+        "choices": [
+          "feel like wearing",
+          "are used to performing",
+          "cannot help laughing at myself",
+          "catch you sleeping"
+        ]
+      }
     }
   ],
   "notes": [

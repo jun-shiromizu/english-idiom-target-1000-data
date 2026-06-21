@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "There are a lot of theories about the formation of the universe.",
-      "sentence-jp": "宇宙の形成に関して多くの理論がある。"
+      "sentence-jp": "宇宙の形成に関して多くの理論がある。",
+      "cloze": {
+        "maskedText": "There are a lot of theories about the ____ of the universe.",
+        "answerBase": "formation",
+        "answerSurface": "formation",
+        "choices": ["formation", "neuron", "chart", "workforce"]
+      }
     }
   ],
   "notes": []

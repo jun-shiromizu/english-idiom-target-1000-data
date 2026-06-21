@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Christine stood on the hilltop and peered into the distance.",
-      "sentence-jp": "クリスティーンは丘の頂上に立ち遠くをじっと見た。"
+      "sentence-jp": "クリスティーンは丘の頂上に立ち遠くをじっと見た。",
+      "cloze": {
+        "maskedText": "Christine stood on the hilltop and ____ into the distance.",
+        "answerBase": "peer",
+        "answerSurface": "peered",
+        "choices": [
+          "peered",
+          "deserved",
+          "apologized",
+          "frustrated"
+        ]
+      }
     }
   ],
   "notes": []

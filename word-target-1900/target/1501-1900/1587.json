@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "His friend was jealous of his cooking skills.",
-      "sentence-jp": "彼の友人は彼の料理の腕前に嫉妬していた。"
+      "sentence-jp": "彼の友人は彼の料理の腕前に嫉妬していた。",
+      "cloze": {
+        "maskedText": "His friend was ____ of his cooking skills.",
+        "answerBase": "jealous",
+        "answerSurface": "jealous",
+        "choices": [
+          "jealous",
+          "uneasy",
+          "swift",
+          "empirical"
+        ]
+      }
     }
   ],
   "notes": []

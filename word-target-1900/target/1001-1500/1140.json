@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "This is a good place to rear young children.",
-      "sentence-jp": "ここは幼い子供を育てるのによい所である。"
+      "sentence-jp": "ここは幼い子供を育てるのによい所である。",
+      "cloze": {
+        "maskedText": "This is a good place to ____ young children.",
+        "answerBase": "rear",
+        "answerSurface": "rear",
+        "choices": ["rear", "vanish", "explode", "disgust"]
+      }
     }
   ],
   "notes": []

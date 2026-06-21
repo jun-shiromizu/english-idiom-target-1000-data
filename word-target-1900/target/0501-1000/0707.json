@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "A smoke alarm is used to detect a fire.",
-      "sentence-jp": "煙探知器は火事を感知するのに使われる。"
+      "sentence-jp": "煙探知器は火事を感知するのに使われる。",
+      "cloze": {
+        "maskedText": "A smoke alarm is used to ____ a fire.",
+        "answerBase": "detect",
+        "answerSurface": "detect",
+        "choices": [
+          "detect",
+          "melt",
+          "urge",
+          "lend"
+        ]
+      }
     }
   ],
   "notes": []

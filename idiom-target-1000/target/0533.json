@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "The city gradually began to take control of the situation after the damage by the flood.",
-      "sentence-jp": "市は次第に洪水の被害後の状況を制御し始めた。"
+      "sentence-jp": "市は次第に洪水の被害後の状況を制御し始めた。",
+      "cloze": {
+        "maskedText": "The city gradually began to ____ the situation after the damage by the flood.",
+        "answerBase": "take control of ~",
+        "answerSurface": "take control of",
+        "choices": [
+          "take control of",
+          "take advantage of",
+          "make use of",
+          "make much of"
+        ]
+      }
     }
   ],
   "notes": [

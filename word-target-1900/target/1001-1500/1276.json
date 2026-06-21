@@ -12,5 +12,11 @@
       "sentence-jp": "その会社には管理職の複雑な階層がある。"
     }
   ],
+  "cloze": {
+    "maskedText": "The military has a strict ____ of ranks.",
+    "answerBase": "hierarchy",
+    "answerSurface": "hierarchy",
+    "choices": ["hierarchy", "monument", "recipient", "commodity"]
+  },
   "notes": []
 }

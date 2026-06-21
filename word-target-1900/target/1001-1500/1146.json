@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Animal species have been breeding with one another for many millennia.",
-      "sentence-jp": "動物種は何千年もの間，互いに交わり繁殖してきた。"
+      "sentence-jp": "動物種は何千年もの間，互いに交わり繁殖してきた。",
+      "cloze": {
+        "maskedText": "Animal species have been breeding with one another for many ____.",
+        "answerBase": "millennium",
+        "answerSurface": "millennia",
+        "choices": ["millennia", "provinces", "beverages", "controversies"]
+      }
     }
   ],
   "notes": []

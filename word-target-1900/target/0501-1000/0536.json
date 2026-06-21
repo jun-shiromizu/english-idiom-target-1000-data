@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The electronics company manufactures large quantities of smartphones.",
-      "sentence-jp": "その電子機器会社は大量のスマートフォンを製造している。"
+      "sentence-jp": "その電子機器会社は大量のスマートフォンを製造している。",
+      "cloze": {
+        "maskedText": "The electronics company ____ large quantities of smartphones.",
+        "answerBase": "manufacture",
+        "answerSurface": "manufactures",
+        "choices": [
+          "manufactures",
+          "requests",
+          "freezes",
+          "notices"
+        ]
+      }
     }
   ],
   "notes": []

@@ -16,7 +16,18 @@
         "with reference [respect] to ~"
       ],
       "example-sentence": "The population of Native Americans has declined in relation to immigrants.",
-      "sentence-jp": "アメリカ先住民の人口は移民と比べて減少している。"
+      "sentence-jp": "アメリカ先住民の人口は移民と比べて減少している。",
+      "cloze": {
+        "maskedText": "The population of Native Americans has declined ____ immigrants.",
+        "answerBase": "in relation to ~",
+        "answerSurface": "in relation to",
+        "choices": [
+          "in relation to",
+          "in place of",
+          "in the presence of",
+          "in honor of"
+        ]
+      }
     }
   ],
   "notes": [

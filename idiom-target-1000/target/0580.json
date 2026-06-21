@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "To grow up mentally, it’s important to learn to be tolerant of other views and ideas.",
-      "sentence-jp": "精神的に大人になるためには、ほかの見方や考えに対して寛大になることが大切だ。"
+      "sentence-jp": "精神的に大人になるためには、ほかの見方や考えに対して寛大になることが大切だ。",
+      "cloze": {
+        "maskedText": "To grow up mentally, it’s important to learn to be ____ other views and ideas.",
+        "answerBase": "be tolerant of ~",
+        "answerSurface": "tolerant of",
+        "choices": [
+          "tolerant of",
+          "considerate of",
+          "ignorant of",
+          "guilty of"
+        ]
+      }
     }
   ],
   "notes": [

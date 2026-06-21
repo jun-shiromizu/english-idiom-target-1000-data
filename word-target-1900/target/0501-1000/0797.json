@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "It is incredible that he refused the bank's financial support.",
-      "sentence-jp": "彼が銀行からの資金援助を断ったとは信じられない。"
+      "sentence-jp": "彼が銀行からの資金援助を断ったとは信じられない。",
+      "cloze": {
+        "maskedText": "It is ____ that he refused the bank's financial support.",
+        "answerBase": "incredible",
+        "answerSurface": "incredible",
+        "choices": [
+          "incredible",
+          "adequate",
+          "temporary",
+          "royal"
+        ]
+      }
     }
   ],
   "notes": []

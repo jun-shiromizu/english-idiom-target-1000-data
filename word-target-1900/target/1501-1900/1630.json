@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Someone smashed the window of his car and stole the audio equipment.",
-      "sentence-jp": "だれかが彼の車の窓を粉砕し，オーディオ装置を盗んだ。"
+      "sentence-jp": "だれかが彼の車の窓を粉砕し，オーディオ装置を盗んだ。",
+      "cloze": {
+        "maskedText": "Someone ____ the window of his car and stole the audio equipment.",
+        "answerBase": "smash",
+        "answerSurface": "smashed",
+        "choices": [
+          "smashed",
+          "cleaned",
+          "painted",
+          "covered"
+        ]
+      }
     }
   ],
   "notes": []

@@ -13,7 +13,18 @@
         "B rather than A"
       ],
       "example-sentence": "He is not so much a scholar as a journalist.",
-      "sentence-jp": "彼は学者というよりジャーナリストだ。"
+      "sentence-jp": "彼は学者というよりジャーナリストだ。",
+      "cloze": {
+        "maskedText": "He is ____ a scholar ____ a journalist.",
+        "answerBase": "not so much A as B",
+        "answerSurface": "not so much / as",
+        "choices": [
+          "not so much / as",
+          "hardly / when",
+          "no sooner / than",
+          "the former / the latter"
+        ]
+      }
     }
   ],
   "notes": [

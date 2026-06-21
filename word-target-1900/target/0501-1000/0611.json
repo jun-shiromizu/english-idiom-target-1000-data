@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The gallery will transfer one item of its collection to a Tokyo art museum.",
-      "sentence-jp": "その美術館は収蔵品の1点を東京の美術館に移す予定である。"
+      "sentence-jp": "その美術館は収蔵品の1点を東京の美術館に移す予定である。",
+      "cloze": {
+        "maskedText": "The gallery will ____ one item of its collection to a Tokyo art museum.",
+        "answerBase": "transfer",
+        "answerSurface": "transfer",
+        "choices": [
+          "transfer",
+          "invest",
+          "trace",
+          "advise"
+        ]
+      }
     }
   ],
   "notes": []

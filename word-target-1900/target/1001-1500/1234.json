@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Every morning, commuters in Tokyo are crushed on trains.",
-      "sentence-jp": "毎朝，東京の通勤者は列車の中で押しつぶされる。"
+      "sentence-jp": "毎朝，東京の通勤者は列車の中で押しつぶされる。",
+      "cloze": {
+        "maskedText": "Every morning, commuters in Tokyo are ____ on trains.",
+        "answerBase": "crush",
+        "answerSurface": "crushed",
+        "choices": ["crushed", "pinned", "uncovered", "integrated"]
+      }
     }
   ],
   "notes": []

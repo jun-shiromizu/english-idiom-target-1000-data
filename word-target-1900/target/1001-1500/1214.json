@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "I saw people dragging big bags at the airport.",
-      "sentence-jp": "私は空港で人々が大きなバッグを引きずっているのを見た。"
+      "sentence-jp": "私は空港で人々が大きなバッグを引きずっているのを見た。",
+      "cloze": {
+        "maskedText": "I saw people ____ big bags at the airport.",
+        "answerBase": "drag",
+        "answerSurface": "dragging",
+        "choices": ["dragging", "casting", "tempting", "blinking"]
+      }
     }
   ],
   "notes": []

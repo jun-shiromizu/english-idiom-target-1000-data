@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Kyoto is an old capital city with numerous temples and shrines.",
-      "sentence-jp": "京都は非常に多くの寺や神社がある古都である。"
+      "sentence-jp": "京都は非常に多くの寺や神社がある古都である。",
+      "cloze": {
+        "maskedText": "Kyoto is an old capital city with ____ temples and shrines.",
+        "answerBase": "numerous",
+        "answerSurface": "numerous",
+        "choices": [
+          "numerous",
+          "central",
+          "formal",
+          "nervous"
+        ]
+      }
     }
   ],
   "notes": []

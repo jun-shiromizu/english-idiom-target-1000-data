@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Ships are used to transport most of the world's commercial goods.",
-      "sentence-jp": "船は世界の商品の大半を輸送するのに用いられる。"
+      "sentence-jp": "船は世界の商品の大半を輸送するのに用いられる。",
+      "cloze": {
+        "maskedText": "Ships are used to ____ most of the world's commercial goods.",
+        "answerBase": "transport",
+        "answerSurface": "transport",
+        "choices": [
+          "transport",
+          "criticize",
+          "freeze",
+          "borrow"
+        ]
+      }
     }
   ],
   "notes": []

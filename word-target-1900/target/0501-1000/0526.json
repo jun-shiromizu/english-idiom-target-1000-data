@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "They were disappointed with the poor service of the restaurant.",
-      "sentence-jp": "彼らはそのレストランのお粗末なサービスに失望した。"
+      "sentence-jp": "彼らはそのレストランのお粗末なサービスに失望した。",
+      "cloze": {
+        "maskedText": "They were ____ with the poor service of the restaurant.",
+        "answerBase": "disappoint",
+        "answerSurface": "disappointed",
+        "choices": [
+          "disappointed",
+          "borrowed",
+          "painted",
+          "measured"
+        ]
+      }
     }
   ],
   "notes": []

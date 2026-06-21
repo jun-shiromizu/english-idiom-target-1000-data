@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "There is not much prospect that the world economy will improve this year.",
-      "sentence-jp": "今年世界経済が上向く見込みはあまりない。"
+      "sentence-jp": "今年世界経済が上向く見込みはあまりない。",
+      "cloze": {
+        "maskedText": "There is not much ____ that the world economy will improve this year.",
+        "answerBase": "prospect",
+        "answerSurface": "prospect",
+        "choices": ["prospect", "custom", "evidence", "garbage"]
+      }
     }
   ],
   "notes": []

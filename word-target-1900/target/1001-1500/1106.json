@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "If the criminals' demands are not accepted, they may resort to force.",
-      "sentence-jp": "犯人たちの要求が受け入れられなければ，彼らは武力に訴えるかもしれない。"
+      "sentence-jp": "犯人たちの要求が受け入れられなければ，彼らは武力に訴えるかもしれない。",
+      "cloze": {
+        "maskedText": "If the criminals' demands are not accepted, they may ____ to force.",
+        "answerBase": "resort",
+        "answerSurface": "resort",
+        "choices": ["resort", "reinforce", "accumulate", "migrate"]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The doctor scanned the patient's body using a machine.",
-      "sentence-jp": "医師は機械を使って患者の体をスキャンした。"
+      "sentence-jp": "医師は機械を使って患者の体をスキャンした。",
+      "cloze": {
+        "maskedText": "The doctor ____ the patient's body using a machine.",
+        "answerBase": "scan",
+        "answerSurface": "scanned",
+        "choices": ["scanned", "justified", "underlay", "paused"]
+      }
     }
   ],
   "notes": []

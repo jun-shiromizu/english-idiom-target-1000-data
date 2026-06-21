@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The book's popularity guaranteed the success of the film version.",
-      "sentence-jp": "その本の人気は映画版の成功を保証した。"
+      "sentence-jp": "その本の人気は映画版の成功を保証した。",
+      "cloze": {
+        "maskedText": "The book's popularity ____ the success of the film version.",
+        "answerBase": "guarantee",
+        "answerSurface": "guaranteed",
+        "choices": [
+          "guaranteed",
+          "detected",
+          "devoted",
+          "embarrassed"
+        ]
+      }
     }
   ],
   "notes": []

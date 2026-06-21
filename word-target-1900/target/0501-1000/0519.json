@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Solar panels transform the sun's energy into electricity.",
-      "sentence-jp": "太陽電池パネルは太陽エネルギーを電力に変える。"
+      "sentence-jp": "太陽電池パネルは太陽エネルギーを電力に変える。",
+      "cloze": {
+        "maskedText": "Solar panels ____ the sun's energy into electricity.",
+        "answerBase": "transform",
+        "answerSurface": "transform",
+        "choices": [
+          "transform",
+          "deliver",
+          "occupy",
+          "borrow"
+        ]
+      }
     }
   ],
   "notes": []

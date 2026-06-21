@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "They simulated an economic crisis that would arise in Japan.",
-      "sentence-jp": "彼らは日本で起こるであろう経済危機をシミュレーションした。"
+      "sentence-jp": "彼らは日本で起こるであろう経済危機をシミュレーションした。",
+      "cloze": {
+        "maskedText": "They ____ an economic crisis that would arise in Japan.",
+        "answerBase": "simulate",
+        "answerSurface": "simulated",
+        "choices": [
+          "simulated",
+          "avoided",
+          "greeted",
+          "measured"
+        ]
+      }
     }
   ],
   "notes": []

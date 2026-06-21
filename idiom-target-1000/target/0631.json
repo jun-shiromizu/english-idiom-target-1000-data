@@ -14,7 +14,18 @@
         "in all probability"
       ],
       "example-sentence": "We think rapid expansion of our business will in all likelihood reduce short-term profits.",
-      "sentence-jp": "私たちのビジネスの急速な拡張は、十中八九短期的な利益を減らすだろうと私たちは考えている。"
+      "sentence-jp": "私たちのビジネスの急速な拡張は、十中八九短期的な利益を減らすだろうと私たちは考えている。",
+      "cloze": {
+        "maskedText": "We think rapid expansion of our business will ____ reduce short-term profits.",
+        "answerBase": "in all likelihood",
+        "answerSurface": "in all likelihood",
+        "choices": [
+          "in all likelihood",
+          "at work",
+          "at risk",
+          "on a daily basis"
+        ]
+      }
     }
   ],
   "notes": []

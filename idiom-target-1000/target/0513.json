@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "The doctor diagnosed my condition as the common cold.",
-      "sentence-jp": "その医師は私の体調を普通の風邪と診断した。"
+      "sentence-jp": "その医師は私の体調を普通の風邪と診断した。",
+      "cloze": {
+        "maskedText": "The doctor ____ my condition as the common cold.",
+        "answerBase": "diagnose A as B",
+        "answerSurface": "diagnosed",
+        "choices": [
+          "diagnosed",
+          "presented",
+          "named",
+          "congratulated"
+        ]
+      }
     }
   ],
   "notes": [

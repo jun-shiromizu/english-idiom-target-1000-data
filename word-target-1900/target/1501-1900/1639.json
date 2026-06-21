@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "My brother aspires to be a top basketball player.",
-      "sentence-jp": "私の兄は一流のバスケットボール選手になることを熱望している。"
+      "sentence-jp": "私の兄は一流のバスケットボール選手になることを熱望している。",
+      "cloze": {
+        "maskedText": "My brother ____ to be a top basketball player.",
+        "answerBase": "aspire",
+        "answerSurface": "aspires",
+        "choices": [
+          "aspires",
+          "belongs",
+          "appears",
+          "returns"
+        ]
+      }
     }
   ],
   "notes": []

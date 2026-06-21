@@ -13,7 +13,18 @@
         "be bored with [of] ~"
       ],
       "example-sentence": "We were completely fed up with all those traffic jams during the “Golden Week” holidays.",
-      "sentence-jp": "私たちはゴールデンウィーク中のそうした交通渋滞にすっかりうんざりしていた。"
+      "sentence-jp": "私たちはゴールデンウィーク中のそうした交通渋滞にすっかりうんざりしていた。",
+      "cloze": {
+        "maskedText": "We were completely ____ all those traffic jams during the “Golden Week” holidays.",
+        "answerBase": "be fed up with ~",
+        "answerSurface": "fed up with",
+        "choices": [
+          "fed up with",
+          "highly thought of by",
+          "treated to",
+          "kidding about"
+        ]
+      }
     }
   ],
   "notes": [

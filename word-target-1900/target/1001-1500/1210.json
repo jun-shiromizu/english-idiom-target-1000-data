@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She nurtured her talents by painting and writing poems.",
-      "sentence-jp": "彼女は絵を描いたり詩を書いたりして自分の才能をはぐくんだ。"
+      "sentence-jp": "彼女は絵を描いたり詩を書いたりして自分の才能をはぐくんだ。",
+      "cloze": {
+        "maskedText": "She ____ her talents by painting and writing poems.",
+        "answerBase": "nurture",
+        "answerSurface": "nurtured",
+        "choices": ["nurtured", "clicked", "spun", "blinked"]
+      }
     }
   ],
   "notes": []

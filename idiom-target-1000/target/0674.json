@@ -12,7 +12,18 @@
         "cannot help but do"
       ],
       "example-sentence": "I couldn’t help laughing at myself for having said such a foolish thing.",
-      "sentence-jp": "そんなばかなことを言ってしまって、私は自分のことを笑わずにはいられなかった。"
+      "sentence-jp": "そんなばかなことを言ってしまって、私は自分のことを笑わずにはいられなかった。",
+      "cloze": {
+        "maskedText": "I ____ at myself for having said such a foolish thing.",
+        "answerBase": "cannot help doing",
+        "answerSurface": "couldn’t help laughing",
+        "choices": [
+          "couldn’t help laughing",
+          "was used to performing",
+          "felt like wearing",
+          "caught you sleeping"
+        ]
+      }
     }
   ],
   "notes": [

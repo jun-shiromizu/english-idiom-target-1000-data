@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "All logical arguments have two premises and a conclusion.",
-      "sentence-jp": "論理的な主張はすべて2つの前提と1つの結論を備えている。"
+      "sentence-jp": "論理的な主張はすべて2つの前提と1つの結論を備えている。",
+      "cloze": {
+        "maskedText": "All logical arguments have two ____ and a conclusion.",
+        "answerBase": "premise",
+        "answerSurface": "premises",
+        "choices": ["premises", "compliments", "expeditions", "molecules"]
+      }
     }
   ],
   "notes": []

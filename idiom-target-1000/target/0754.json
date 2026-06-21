@@ -12,7 +12,18 @@
         "make it a point to do"
       ],
       "example-sentence": "She makes a point of doing light exercise before she goes to bed.",
-      "sentence-jp": "彼女は寝る前に必ず軽い運動をするよう努力している。"
+      "sentence-jp": "彼女は寝る前に必ず軽い運動をするよう努力している。",
+      "cloze": {
+        "maskedText": "She ____ doing light exercise before she goes to bed.",
+        "answerBase": "make a point of doing",
+        "answerSurface": "makes a point of",
+        "choices": [
+          "makes a point of",
+          "remains to be",
+          "brings herself to",
+          "takes the trouble to"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "A high proportion of the younger population reads no newspapers at all.",
-      "sentence-jp": "若い世代の高い割合が新聞をまったく読まない。"
+      "sentence-jp": "若い世代の高い割合が新聞をまったく読まない。",
+      "cloze": {
+        "maskedText": "A high ____ of the younger population reads no newspapers at all.",
+        "answerBase": "proportion",
+        "answerSurface": "proportion",
+        "choices": [
+          "proportion",
+          "suitcase",
+          "festival",
+          "garage"
+        ]
+      }
     }
   ],
   "notes": []

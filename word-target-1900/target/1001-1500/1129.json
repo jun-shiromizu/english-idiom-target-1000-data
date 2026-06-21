@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "His sudden illness compounded the financial problems of his company.",
-      "sentence-jp": "彼の突然の病気は彼の会社の財務問題を悪化させた。"
+      "sentence-jp": "彼の突然の病気は彼の会社の財務問題を悪化させた。",
+      "cloze": {
+        "maskedText": "His sudden illness ____ the financial problems of his company.",
+        "answerBase": "compound",
+        "answerSurface": "compounded",
+        "choices": ["compounded", "disgusted", "decorated", "reared"]
+      }
     }
   ],
   "notes": []

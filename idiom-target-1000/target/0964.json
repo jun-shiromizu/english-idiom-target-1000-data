@@ -12,7 +12,18 @@
         "on the brink of ~"
       ],
       "example-sentence": "“It’s hard!” exclaimed one student, on the verge of tears.",
-      "sentence-jp": "「難しい！」泣きそうになって、1人の生徒が叫んだ。"
+      "sentence-jp": "「難しい！」泣きそうになって、1人の生徒が叫んだ。",
+      "cloze": {
+        "maskedText": "“It’s hard!” exclaimed one student, ____ tears.",
+        "answerBase": "on the verge of ~",
+        "answerSurface": "on the verge of",
+        "choices": [
+          "on the verge of",
+          "on friendly terms with",
+          "within walking distance of",
+          "in proportion to"
+        ]
+      }
     }
   ],
   "notes": []

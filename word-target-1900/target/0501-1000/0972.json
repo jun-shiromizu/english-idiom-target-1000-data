@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Be sure to stay on the hiking trail for your own safety.",
-      "sentence-jp": "自身の安全のために決してハイキング用の小道からはずれないでください。"
+      "sentence-jp": "自身の安全のために決してハイキング用の小道からはずれないでください。",
+      "cloze": {
+        "maskedText": "Be sure to stay on the hiking ____ for your own safety.",
+        "answerBase": "trail",
+        "answerSurface": "trail",
+        "choices": ["trail", "ecology", "charm", "ambition"]
+      }
     }
   ],
   "notes": []

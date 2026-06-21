@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "He always greets his neighbors in a friendly way.",
-      "sentence-jp": "彼はいつも親しげに隣人たちに挨拶する。"
+      "sentence-jp": "彼はいつも親しげに隣人たちに挨拶する。",
+      "cloze": {
+        "maskedText": "He always ____ his neighbors in a friendly way.",
+        "answerBase": "greet",
+        "answerSurface": "greets",
+        "choices": [
+          "greets",
+          "piles",
+          "deserves",
+          "defeats"
+        ]
+      }
     }
   ],
   "notes": []

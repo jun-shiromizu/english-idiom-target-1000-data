@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He has caused trouble by his greed for money.",
-      "sentence-jp": "彼は自分の金銭欲によってもめ事を起こしてきた。"
+      "sentence-jp": "彼は自分の金銭欲によってもめ事を起こしてきた。",
+      "cloze": {
+        "maskedText": "He has caused trouble by his ____ for money.",
+        "answerBase": "greed",
+        "answerSurface": "greed",
+        "choices": [
+          "greed",
+          "lecture",
+          "texture",
+          "village"
+        ]
+      }
     }
   ],
   "notes": []

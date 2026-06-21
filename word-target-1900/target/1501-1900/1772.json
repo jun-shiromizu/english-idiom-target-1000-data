@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She chants a rhyme with her child every night.",
-      "sentence-jp": "毎晩彼女は子供と一緒に押韻詩を詠唱する。"
+      "sentence-jp": "毎晩彼女は子供と一緒に押韻詩を詠唱する。",
+      "cloze": {
+        "maskedText": "She chants a ____ with her child every night.",
+        "answerBase": "rhyme",
+        "answerSurface": "rhyme",
+        "choices": [
+          "rhyme",
+          "ticket",
+          "harbor",
+          "uniform"
+        ]
+      }
     }
   ],
   "notes": []

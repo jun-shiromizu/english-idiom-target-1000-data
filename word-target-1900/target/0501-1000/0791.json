@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "You should not refuse the invitation for no apparent reason.",
-      "sentence-jp": "明白な理由なしで招待を断るべきではない。"
+      "sentence-jp": "明白な理由なしで招待を断るべきではない。",
+      "cloze": {
+        "maskedText": "You should not refuse the invitation for no ____ reason.",
+        "answerBase": "apparent",
+        "answerSurface": "apparent",
+        "choices": [
+          "apparent",
+          "royal",
+          "pure",
+          "guilty"
+        ]
+      }
     }
   ],
   "notes": []

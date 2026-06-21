@@ -12,5 +12,11 @@
       "sentence-jp": "その試合の観客たちは勝利にとても興奮していた。"
     }
   ],
+  "cloze": {
+    "maskedText": "Every ____ cheered when the goal was scored.",
+    "answerBase": "spectator",
+    "answerSurface": "spectator",
+    "choices": ["spectator", "county", "circulation", "treaty"]
+  },
   "notes": []
 }

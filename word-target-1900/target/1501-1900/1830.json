@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "British people tend to furnish their rooms with large mirrors.",
-      "sentence-jp": "イギリス人は自分の部屋に大きな鏡を備えつける傾向がある。"
+      "sentence-jp": "イギリス人は自分の部屋に大きな鏡を備えつける傾向がある。",
+      "cloze": {
+        "maskedText": "British people tend to ____ their rooms with large mirrors.",
+        "answerBase": "furnish",
+        "answerSurface": "furnish",
+        "choices": [
+          "furnish",
+          "fill",
+          "paint",
+          "guard"
+        ]
+      }
     }
   ],
   "notes": []

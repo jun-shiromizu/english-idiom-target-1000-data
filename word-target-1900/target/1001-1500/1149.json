@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The property is part of my late mother's estate.",
-      "sentence-jp": "その不動産は私の亡き母の財産の一部である。"
+      "sentence-jp": "その不動産は私の亡き母の財産の一部である。",
+      "cloze": {
+        "maskedText": "The property is part of my late mother's ____.",
+        "answerBase": "estate",
+        "answerSurface": "estate",
+        "choices": ["estate", "landmine", "consensus", "diabetes"]
+      }
     }
   ],
   "notes": []

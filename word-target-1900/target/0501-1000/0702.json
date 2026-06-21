@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "In Italy and Spain, immigration issues have begun to dominate politics.",
-      "sentence-jp": "イタリアとスペインでは移民問題が政治を支配し始めている。"
+      "sentence-jp": "イタリアとスペインでは移民問題が政治を支配し始めている。",
+      "cloze": {
+        "maskedText": "In Italy and Spain, immigration issues have begun to ____ politics.",
+        "answerBase": "dominate",
+        "answerSurface": "dominate",
+        "choices": [
+          "dominate",
+          "melt",
+          "detect",
+          "lend"
+        ]
+      }
     }
   ],
   "notes": []

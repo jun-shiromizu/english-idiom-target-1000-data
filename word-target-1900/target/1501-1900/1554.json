@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Students can study at the frontiers of space engineering at this university.",
-      "sentence-jp": "この大学では学生たちは宇宙工学の最先端で研究できる。"
+      "sentence-jp": "この大学では学生たちは宇宙工学の最先端で研究できる。",
+      "cloze": {
+        "maskedText": "Students can study at the ____ of space engineering at this university.",
+        "answerBase": "frontier",
+        "answerSurface": "frontiers",
+        "choices": [
+          "frontiers",
+          "bullets",
+          "margins",
+          "placebos"
+        ]
+      }
     }
   ],
   "notes": []

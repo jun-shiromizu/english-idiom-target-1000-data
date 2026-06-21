@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Jim said I missed out on something interesting by not going with him to the exhibition.",
-      "sentence-jp": "ジムは、彼と展覧会に行かなかったことで私がおもしろいことを逃したと言った。"
+      "sentence-jp": "ジムは、彼と展覧会に行かなかったことで私がおもしろいことを逃したと言った。",
+      "cloze": {
+        "maskedText": "Jim said I ____ something interesting by not going with him to the exhibition.",
+        "answerBase": "miss out on ~",
+        "answerSurface": "missed out on",
+        "choices": [
+          "missed out on",
+          "got away with",
+          "shied away from",
+          "rounded up"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The magazine uncovered the actor's secret.",
-      "sentence-jp": "雑誌はその俳優の秘密を暴いた。"
+      "sentence-jp": "雑誌はその俳優の秘密を暴いた。",
+      "cloze": {
+        "maskedText": "The magazine ____ the actor's secret.",
+        "answerBase": "uncover",
+        "answerSurface": "uncovered",
+        "choices": ["uncovered", "exploited", "implemented", "integrated"]
+      }
     }
   ],
   "notes": []

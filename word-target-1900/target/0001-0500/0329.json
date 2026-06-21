@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "She warned her little brother not to touch her PC.",
-      "sentence-jp": "彼女は自分のパソコンに触らないように弟に注意した。"
+      "sentence-jp": "彼女は自分のパソコンに触らないように弟に注意した。",
+      "cloze": {
+        "maskedText": "She ____ her little brother not to touch her PC.",
+        "answerBase": "warn 人 not to do",
+        "answerSurface": "warned",
+        "choices": [
+          "warned",
+          "allowed",
+          "invited",
+          "taught"
+        ]
+      }
     }
   ],
   "notes": []

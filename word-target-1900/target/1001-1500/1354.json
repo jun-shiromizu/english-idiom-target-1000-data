@@ -12,5 +12,11 @@
       "sentence-jp": "彼は大きなゴキブリを見て恐怖で後ずさった。"
     }
   ],
+  "cloze": {
+    "maskedText": "She watched in ____ as the fire spread.",
+    "answerBase": "horror",
+    "answerSurface": "horror",
+    "choices": ["horror", "quest", "criterion", "hive"]
+  },
   "notes": []
 }

@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Between 1880 and 1914, nearly three million Italians migrated to the U.S.",
-      "sentence-jp": "1880年から1914年にかけて300万人近くのイタリア人がアメリカに移住した。"
+      "sentence-jp": "1880年から1914年にかけて300万人近くのイタリア人がアメリカに移住した。",
+      "cloze": {
+        "maskedText": "Between 1880 and 1914, nearly three million Italians ____ to the U.S.",
+        "answerBase": "migrate",
+        "answerSurface": "migrated",
+        "choices": ["migrated", "proceeded", "surfed", "bet"]
+      }
     }
   ],
   "notes": []

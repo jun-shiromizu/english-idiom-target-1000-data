@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "He still cherishes his memories in London.",
-      "sentence-jp": "彼は今でもロンドンでの思い出を大切にしている。"
+      "sentence-jp": "彼は今でもロンドンでの思い出を大切にしている。",
+      "cloze": {
+        "maskedText": "He still ____ his memories in London.",
+        "answerBase": "cherish",
+        "answerSurface": "cherishes",
+        "choices": [
+          "cherishes",
+          "forgets",
+          "measures",
+          "attacks"
+        ]
+      }
     }
   ],
   "notes": []

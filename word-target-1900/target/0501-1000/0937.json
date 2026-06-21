@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "After the war, our country underwent many social changes.",
-      "sentence-jp": "戦後，我が国は多くの社会的変化を経験した。"
+      "sentence-jp": "戦後，我が国は多くの社会的変化を経験した。",
+      "cloze": {
+        "maskedText": "After the war, our country ____ many social changes.",
+        "answerBase": "undergo",
+        "answerSurface": "underwent",
+        "choices": ["underwent", "exceeded", "consulted", "fulfilled"]
+      }
     }
   ],
   "notes": []

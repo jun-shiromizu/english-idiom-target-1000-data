@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She sings her favorite karaoke songs to relieve stress.",
-      "sentence-jp": "彼女はストレスを和らげるために大好きなカラオケの歌を歌う。"
+      "sentence-jp": "彼女はストレスを和らげるために大好きなカラオケの歌を歌う。",
+      "cloze": {
+        "maskedText": "She sings her favorite karaoke songs to ____ stress.",
+        "answerBase": "relieve",
+        "answerSurface": "relieve",
+        "choices": [
+          "relieve",
+          "apologize",
+          "derive",
+          "peer"
+        ]
+      }
     }
   ],
   "notes": []

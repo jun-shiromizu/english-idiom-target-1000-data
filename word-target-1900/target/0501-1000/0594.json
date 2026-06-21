@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "There was an unexpected delay in the arrival of my train.",
-      "sentence-jp": "私が乗る列車の到着に思いがけない遅れがあった。"
+      "sentence-jp": "私が乗る列車の到着に思いがけない遅れがあった。",
+      "cloze": {
+        "maskedText": "There was an ____ delay in the arrival of my train.",
+        "answerBase": "unexpected",
+        "answerSurface": "unexpected",
+        "choices": [
+          "unexpected",
+          "ethnic",
+          "precise",
+          "latter"
+        ]
+      }
     }
   ],
   "notes": []

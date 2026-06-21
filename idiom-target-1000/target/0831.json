@@ -13,7 +13,18 @@
         "be liable to ~"
       ],
       "example-sentence": "Our brain is especially susceptible to temptation when we’re feeling bad or sad.",
-      "sentence-jp": "気分が悪いときや悲しいとき、私たちの脳は特に誘惑の影響を受けやすい。"
+      "sentence-jp": "気分が悪いときや悲しいとき、私たちの脳は特に誘惑の影響を受けやすい。",
+      "cloze": {
+        "maskedText": "Our brain is especially ____ temptation when we’re feeling bad or sad.",
+        "answerBase": "be susceptible to ~",
+        "answerSurface": "susceptible to",
+        "choices": [
+          "susceptible to",
+          "committed to",
+          "eligible for",
+          "worth seeing"
+        ]
+      }
     }
   ],
   "notes": []

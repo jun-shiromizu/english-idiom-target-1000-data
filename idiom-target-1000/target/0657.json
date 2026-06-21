@@ -12,7 +12,18 @@
         "out of date"
       ],
       "example-sentence": "My father writes letters by hand, so we often jokingly say he’s a bit behind the times.",
-      "sentence-jp": "私の父は手書きで手紙を書くので、私たちはしばしば冗談めかしてちょっと時代遅れだねと言う。"
+      "sentence-jp": "私の父は手書きで手紙を書くので、私たちはしばしば冗談めかしてちょっと時代遅れだねと言う。",
+      "cloze": {
+        "maskedText": "My father writes letters by hand, so we often jokingly say he’s a bit ____.",
+        "answerBase": "behind the times",
+        "answerSurface": "behind the times",
+        "choices": [
+          "behind the times",
+          "beyond description",
+          "out of breath",
+          "out of character"
+        ]
+      }
     }
   ],
   "notes": [

@@ -12,7 +12,18 @@
         "come out"
       ],
       "example-sentence": "It came to light that some athletes had been gambling at illegal casinos.",
-      "sentence-jp": "違法カジノでギャンブルをしていたスポーツ選手たちがいたことが明るみに出た。"
+      "sentence-jp": "違法カジノでギャンブルをしていたスポーツ選手たちがいたことが明るみに出た。",
+      "cloze": {
+        "maskedText": "It ____ that some athletes had been gambling at illegal casinos.",
+        "answerBase": "come to light",
+        "answerSurface": "came to light",
+        "choices": [
+          "came to light",
+          "came in handy",
+          "fell short",
+          "went a long way"
+        ]
+      }
     }
   ],
   "notes": [

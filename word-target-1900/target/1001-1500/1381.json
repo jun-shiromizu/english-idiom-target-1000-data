@@ -12,5 +12,11 @@
       "sentence-jp": "宇宙船は無限の空間を進んだ。"
     }
   ],
+  "cloze": {
+    "maskedText": "The universe seems almost ____.",
+    "answerBase": "infinite",
+    "answerSurface": "infinite",
+    "choices": ["infinite", "fragile", "vivid", "gross"]
+  },
   "notes": []
 }

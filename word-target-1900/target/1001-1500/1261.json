@@ -12,5 +12,11 @@
       "sentence-jp": "犯人は住居侵入罪で告発され，刑務所に送られた。"
     }
   ],
+  "cloze": {
+    "maskedText": "The thief was taken to ____ after the arrest.",
+    "answerBase": "jail",
+    "answerSurface": "jail",
+    "choices": ["jail", "commodity", "republic", "asset"]
+  },
   "notes": []
 }

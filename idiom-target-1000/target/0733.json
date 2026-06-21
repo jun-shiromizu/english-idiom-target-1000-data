@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Friendship is to people what sunshine is to flowers.",
-      "sentence-jp": "友情の人に対する関係は日光の花に対する関係に等しい。"
+      "sentence-jp": "友情の人に対する関係は日光の花に対する関係に等しい。",
+      "cloze": {
+        "maskedText": "Friendship is to people ____ sunshine is to flowers.",
+        "answerBase": "A is to B what C is to D.",
+        "answerSurface": "what",
+        "choices": [
+          "what",
+          "that",
+          "than",
+          "when"
+        ]
+      }
     }
   ],
   "notes": [

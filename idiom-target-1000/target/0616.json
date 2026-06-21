@@ -12,7 +12,18 @@
         "at the cost of ~"
       ],
       "example-sentence": "The craftsman said that he couldn’t increase quantity at the expense of quality.",
-      "sentence-jp": "その職人は、質を犠牲にして量を増やすことはできないと言った。"
+      "sentence-jp": "その職人は、質を犠牲にして量を増やすことはできないと言った。",
+      "cloze": {
+        "maskedText": "The craftsman said that he couldn’t increase quantity ____ quality.",
+        "answerBase": "at the expense of ~",
+        "answerSurface": "at the expense of",
+        "choices": [
+          "at the expense of",
+          "at the sight of",
+          "at the mercy of",
+          "for lack of"
+        ]
+      }
     }
   ],
   "notes": [

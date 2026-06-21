@@ -12,5 +12,11 @@
       "sentence-jp": "まず包みからテープをはがす必要がある。"
     }
   ],
+  "cloze": {
+    "maskedText": "You should ____ the old paint from the door.",
+    "answerBase": "strip",
+    "answerSurface": "strip",
+    "choices": ["strip", "dump", "soar", "spark"]
+  },
   "notes": []
 }

@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Smoking in a crowded place is a terrible vice.",
-      "sentence-jp": "混み合った場所での喫煙はひどい悪である。"
+      "sentence-jp": "混み合った場所での喫煙はひどい悪である。",
+      "cloze": {
+        "maskedText": "Smoking in a crowded place is a terrible ____.",
+        "answerBase": "vice",
+        "answerSurface": "vice",
+        "choices": ["vice", "scenario", "allergy", "galaxy"]
+      }
     }
   ],
   "notes": []

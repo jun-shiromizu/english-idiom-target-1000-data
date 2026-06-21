@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She was exhausted from walking all day.",
-      "sentence-jp": "彼女は一日中歩いて疲れ果てた。"
+      "sentence-jp": "彼女は一日中歩いて疲れ果てた。",
+      "cloze": {
+        "maskedText": "She was ____ from walking all day.",
+        "answerBase": "exhaust",
+        "answerSurface": "exhausted",
+        "choices": [
+          "exhausted",
+          "restricted",
+          "declared",
+          "evaluated"
+        ]
+      }
     }
   ],
   "notes": []

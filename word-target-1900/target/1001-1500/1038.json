@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "His sadness persisted for a long time after his mother's death.",
-      "sentence-jp": "母親の死後，彼の悲しみは長い間続いた。"
+      "sentence-jp": "母親の死後，彼の悲しみは長い間続いた。",
+      "cloze": {
+        "maskedText": "His sadness ____ for a long time after his mother's death.",
+        "answerBase": "persist",
+        "answerSurface": "persisted",
+        "choices": ["persisted", "pitched", "nodded", "bowed"]
+      }
     }
   ],
   "notes": []

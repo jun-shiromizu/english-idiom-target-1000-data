@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Computers have surpassed the human mind in some aspects.",
-      "sentence-jp": "コンピューターはいくつかの点で人間の知力を上回った。"
+      "sentence-jp": "コンピューターはいくつかの点で人間の知力を上回った。",
+      "cloze": {
+        "maskedText": "Computers have ____ the human mind in some aspects.",
+        "answerBase": "surpass",
+        "answerSurface": "surpassed",
+        "choices": [
+          "surpassed",
+          "stimulated",
+          "supported",
+          "strengthened"
+        ]
+      }
     }
   ],
   "notes": []

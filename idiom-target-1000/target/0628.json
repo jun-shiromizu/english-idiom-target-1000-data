@@ -14,7 +14,18 @@
         "in effect"
       ],
       "example-sentence": "In philosophical terms, it may be so, but in practice, it isn’t that simple.",
-      "sentence-jp": "哲学の観点からはそうかもしれないが、実際にはそれほど単純ではない。"
+      "sentence-jp": "哲学の観点からはそうかもしれないが、実際にはそれほど単純ではない。",
+      "cloze": {
+        "maskedText": "In philosophical terms, it may be so, but ____, it isn’t that simple.",
+        "answerBase": "in practice",
+        "answerSurface": "in practice",
+        "choices": [
+          "in practice",
+          "in demand",
+          "at first sight",
+          "at intervals"
+        ]
+      }
     }
   ],
   "notes": [

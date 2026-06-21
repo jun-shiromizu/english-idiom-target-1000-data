@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Leaves absorb moisture from the damp air.",
-      "sentence-jp": "葉は湿った空気から水分を吸収する。"
+      "sentence-jp": "葉は湿った空気から水分を吸収する。",
+      "cloze": {
+        "maskedText": "Leaves absorb ____ from the damp air.",
+        "answerBase": "moisture",
+        "answerSurface": "moisture",
+        "choices": [
+          "moisture",
+          "noise",
+          "smoke",
+          "dust"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He asked the teacher a question irrelevant to the topic.",
-      "sentence-jp": "彼は先生にその話題に無関係の質問をした。"
+      "sentence-jp": "彼は先生にその話題に無関係の質問をした。",
+      "cloze": {
+        "maskedText": "He asked the teacher a question ____ to the topic.",
+        "answerBase": "irrelevant",
+        "answerSurface": "irrelevant",
+        "choices": ["irrelevant", "fairy", "chronic", "inclined"]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Some kinds of scientists are focused on researching the marine fossils.",
-      "sentence-jp": "いくつかの分野の科学者は海洋化石の研究に集中している。"
+      "sentence-jp": "いくつかの分野の科学者は海洋化石の研究に集中している。",
+      "cloze": {
+        "maskedText": "Some kinds of scientists are focused on researching the marine ____.",
+        "answerBase": "fossil",
+        "answerSurface": "fossils",
+        "choices": [
+          "fossils",
+          "deserts",
+          "courts",
+          "customs"
+        ]
+      }
     }
   ],
   "notes": []

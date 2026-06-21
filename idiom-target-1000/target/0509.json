@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "This system assures all citizens of the same medical treatments.",
-      "sentence-jp": "この制度はすべての国民に同じ医療を保証している。"
+      "sentence-jp": "この制度はすべての国民に同じ医療を保証している。",
+      "cloze": {
+        "maskedText": "This system ____ all citizens of the same medical treatments.",
+        "answerBase": "assure A of B",
+        "answerSurface": "assures",
+        "choices": [
+          "assures",
+          "cures",
+          "robs",
+          "suspects"
+        ]
+      }
     }
   ],
   "notes": [

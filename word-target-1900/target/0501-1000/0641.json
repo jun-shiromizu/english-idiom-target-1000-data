@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Identical twins have the same gene sequence.",
-      "sentence-jp": "一卵性の双子は同じ遺伝子配列を持っている。"
+      "sentence-jp": "一卵性の双子は同じ遺伝子配列を持っている。",
+      "cloze": {
+        "maskedText": "Identical twins have the same gene ____.",
+        "answerBase": "sequence",
+        "answerSurface": "sequence",
+        "choices": [
+          "sequence",
+          "therapy",
+          "incident",
+          "honor"
+        ]
+      }
     }
   ],
   "notes": []

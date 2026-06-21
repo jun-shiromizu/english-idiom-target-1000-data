@@ -13,7 +13,18 @@
         "hang around [about]"
       ],
       "example-sentence": "Adam and I really wanted to see what was in that bedroom, so we stuck around.",
-      "sentence-jp": "アダムと私はその寝室に何があるのか本当に確かめたかったので、その辺で待った。"
+      "sentence-jp": "アダムと私はその寝室に何があるのか本当に確かめたかったので、その辺で待った。",
+      "cloze": {
+        "maskedText": "Adam and I really wanted to see what was in that bedroom, so we ____.",
+        "answerBase": "stick around",
+        "answerSurface": "stuck around",
+        "choices": [
+          "stuck around",
+          "called it a day",
+          "paid a visit",
+          "went to the polls"
+        ]
+      }
     }
   ],
   "notes": [

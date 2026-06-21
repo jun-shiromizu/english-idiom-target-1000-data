@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "I'll be somewhat late for your birthday party on Friday.",
-      "sentence-jp": "私は金曜日のあなたの誕生パーティーに少し遅れます。"
+      "sentence-jp": "私は金曜日のあなたの誕生パーティーに少し遅れます。",
+      "cloze": {
+        "maskedText": "I'll be ____ late for your birthday party on Friday.",
+        "answerBase": "somewhat",
+        "answerSurface": "somewhat",
+        "choices": [
+          "somewhat",
+          "virtual",
+          "proper",
+          "strict"
+        ]
+      }
     }
   ],
   "notes": []

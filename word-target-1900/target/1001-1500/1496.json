@@ -12,5 +12,11 @@
       "sentence-jp": "彼は演説の後，聴衆からの自然発生的な拍手を受けた。"
     }
   ],
+  "cloze": {
+    "maskedText": "The crowd gave a ____ round of applause.",
+    "answerBase": "spontaneous",
+    "answerSurface": "spontaneous",
+    "choices": ["spontaneous", "naked", "sole", "dim"]
+  },
   "notes": []
 }

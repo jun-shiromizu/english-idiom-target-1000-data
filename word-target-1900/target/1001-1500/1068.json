@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He drove through many curves on the mountain roads.",
-      "sentence-jp": "彼は山道のたくさんのカーブを車で通り抜けた。"
+      "sentence-jp": "彼は山道のたくさんのカーブを車で通り抜けた。",
+      "cloze": {
+        "maskedText": "He drove through many ____ on the mountain roads.",
+        "answerBase": "curve",
+        "answerSurface": "curves",
+        "choices": ["curves", "files", "pesticides", "virtues"]
+      }
     }
   ],
   "notes": []

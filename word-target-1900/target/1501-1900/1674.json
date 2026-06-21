@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "A defect in the electrical system caused the fire.",
-      "sentence-jp": "電気系統の欠陥がその火災を引き起こした。"
+      "sentence-jp": "電気系統の欠陥がその火災を引き起こした。",
+      "cloze": {
+        "maskedText": "A ____ in the electrical system caused the fire.",
+        "answerBase": "defect",
+        "answerSurface": "defect",
+        "choices": [
+          "defect",
+          "schedule",
+          "benefit",
+          "ceremony"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "He was kind enough to lend me some money.",
-      "sentence-jp": "彼は親切にも私にいくらかのお金を貸してくれた。"
+      "sentence-jp": "彼は親切にも私にいくらかのお金を貸してくれた。",
+      "cloze": {
+        "maskedText": "He was kind enough to ____ me some money.",
+        "answerBase": "lend",
+        "answerSurface": "lend",
+        "choices": [
+          "lend",
+          "detect",
+          "devote",
+          "melt"
+        ]
+      }
     }
   ],
   "notes": []

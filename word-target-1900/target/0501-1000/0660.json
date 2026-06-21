@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He put his most recent photo in a frame.",
-      "sentence-jp": "彼は自分のごく最近の写真を額縁に入れた。"
+      "sentence-jp": "彼は自分のごく最近の写真を額縁に入れた。",
+      "cloze": {
+        "maskedText": "He put his most recent photo in a ____.",
+        "answerBase": "frame",
+        "answerSurface": "frame",
+        "choices": [
+          "frame",
+          "virus",
+          "surgery",
+          "bond"
+        ]
+      }
     }
   ],
   "notes": []

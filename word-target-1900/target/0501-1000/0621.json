@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "It is said that smiles convey many different emotions.",
-      "sentence-jp": "ほほえみは多くの異なる感情を伝えると言われる。"
+      "sentence-jp": "ほほえみは多くの異なる感情を伝えると言われる。",
+      "cloze": {
+        "maskedText": "It is said that smiles ____ many different emotions.",
+        "answerBase": "convey",
+        "answerSurface": "convey",
+        "choices": [
+          "convey",
+          "cope",
+          "crash",
+          "suspect"
+        ]
+      }
     }
   ],
   "notes": []

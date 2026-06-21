@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Buddhists in Osaka paid a large sum to maintain their sacred temple.",
-      "sentence-jp": "大阪の仏教徒たちは自分たちの神聖な寺を維持するために大金を払った。"
+      "sentence-jp": "大阪の仏教徒たちは自分たちの神聖な寺を維持するために大金を払った。",
+      "cloze": {
+        "maskedText": "Buddhists in Osaka paid a large sum to maintain their ____ temple.",
+        "answerBase": "sacred",
+        "answerSurface": "sacred",
+        "choices": ["sacred", "grateful", "awkward", "pregnant"]
+      }
     }
   ],
   "notes": []

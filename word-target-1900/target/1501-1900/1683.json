@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "The new medicine may have adverse effects on patients' skin.",
-      "sentence-jp": "その新薬は患者の肌に悪影響があるかもしれない。"
+      "sentence-jp": "その新薬は患者の肌に悪影響があるかもしれない。",
+      "cloze": {
+        "maskedText": "The new medicine may have ____ effects on patients' skin.",
+        "answerBase": "adverse",
+        "answerSurface": "adverse",
+        "choices": [
+          "adverse",
+          "brief",
+          "formal",
+          "distant"
+        ]
+      }
     }
   ],
   "notes": []

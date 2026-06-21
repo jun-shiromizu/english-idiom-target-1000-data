@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She uses charts and tables when explaining her projects.",
-      "sentence-jp": "彼女は自分の研究課題を説明するとき図や表を使う。"
+      "sentence-jp": "彼女は自分の研究課題を説明するとき図や表を使う。",
+      "cloze": {
+        "maskedText": "She uses ____ and tables when explaining her projects.",
+        "answerBase": "chart",
+        "answerSurface": "charts",
+        "choices": ["charts", "neurons", "panels", "privileges"]
+      }
     }
   ],
   "notes": []

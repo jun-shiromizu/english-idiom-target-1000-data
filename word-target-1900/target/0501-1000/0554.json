@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Today she interviewed four candidates for the new position.",
-      "sentence-jp": "今日，彼女は新しい職に対する4人の候補者を面接した。"
+      "sentence-jp": "今日，彼女は新しい職に対する4人の候補者を面接した。",
+      "cloze": {
+        "maskedText": "Today she interviewed four ____ for the new position.",
+        "answerBase": "candidate",
+        "answerSurface": "candidates",
+        "choices": [
+          "candidates",
+          "insights",
+          "weapons",
+          "loans"
+        ]
+      }
     }
   ],
   "notes": []

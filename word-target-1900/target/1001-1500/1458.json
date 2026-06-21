@@ -12,5 +12,11 @@
       "sentence-jp": "ジャイアントパンダには目の周りに黒い部分がある。"
     }
   ],
+  "cloze": {
+    "maskedText": "There was a wet ____ on his shirt.",
+    "answerBase": "patch",
+    "answerSurface": "patch",
+    "choices": ["patch", "compassion", "transaction", "encyclopedia"]
+  },
   "notes": []
 }

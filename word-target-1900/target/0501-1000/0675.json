@@ -8,8 +8,19 @@
       "idiom-jp": "特許（権）；特許品",
       "partOfSpeech": "noun",
       "choiceType": "noun",
-      "example-sentence": "Laughter promotes cooperation and positive communication with one another.",
-      "sentence-jp": "笑いはお互いの協力と積極的な意思の疎通を促進する。"
+      "example-sentence": "The inventor applied for a patent on the new device.",
+      "sentence-jp": "その発明家は新しい装置の特許を申請した。",
+      "cloze": {
+        "maskedText": "The inventor applied for a ____ on the new device.",
+        "answerBase": "patent",
+        "answerSurface": "patent",
+        "choices": [
+          "patent",
+          "discount",
+          "dialogue",
+          "reputation"
+        ]
+      }
     }
   ],
   "notes": []

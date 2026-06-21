@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Yesterday, I installed some new apps on my smartphone.",
-      "sentence-jp": "昨日私はスマートフォンに新しいアプリをいくつかインストールした。"
+      "sentence-jp": "昨日私はスマートフォンに新しいアプリをいくつかインストールした。",
+      "cloze": {
+        "maskedText": "Yesterday, I ____ some new apps on my smartphone.",
+        "answerBase": "install",
+        "answerSurface": "installed",
+        "choices": ["installed", "diminished", "cited", "disputed"]
+      }
     }
   ],
   "notes": []

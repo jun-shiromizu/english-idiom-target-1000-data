@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "A really eloquent speaker keeps the audience interested.",
-      "sentence-jp": "本当に雄弁な話し手は聴衆の興味をひき続ける。"
+      "sentence-jp": "本当に雄弁な話し手は聴衆の興味をひき続ける。",
+      "cloze": {
+        "maskedText": "A really ____ speaker keeps the audience interested.",
+        "answerBase": "eloquent",
+        "answerSurface": "eloquent",
+        "choices": [
+          "eloquent",
+          "vacant",
+          "timid",
+          "humid"
+        ]
+      }
     }
   ],
   "notes": []

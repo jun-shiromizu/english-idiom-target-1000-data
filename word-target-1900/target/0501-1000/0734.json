@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "If selfishness were seen everywhere, public order would collapse.",
-      "sentence-jp": "わがままが至る所で見られるようになったら，社会秩序は崩壊するだろう。"
+      "sentence-jp": "わがままが至る所で見られるようになったら，社会秩序は崩壊するだろう。",
+      "cloze": {
+        "maskedText": "If selfishness were seen everywhere, public order would ____.",
+        "answerBase": "collapse",
+        "answerSurface": "collapse",
+        "choices": [
+          "collapse",
+          "neglect",
+          "assign",
+          "owe"
+        ]
+      }
     }
   ],
   "notes": []

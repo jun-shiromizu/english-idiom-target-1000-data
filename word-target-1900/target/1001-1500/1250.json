@@ -12,5 +12,11 @@
       "sentence-jp": "ガイドは私を連れて城の部屋を案内した。"
     }
   ],
+  "cloze": {
+    "maskedText": "The queen waited in a private ____ inside the palace.",
+    "answerBase": "chamber",
+    "answerSurface": "chamber",
+    "choices": ["chamber", "profile", "utility", "herd"]
+  },
   "notes": []
 }

@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "His casual remark caused us a lot of trouble.",
-      "sentence-jp": "彼の何気ない発言のせいで私たちは大変な迷惑を被った。"
+      "sentence-jp": "彼の何気ない発言のせいで私たちは大変な迷惑を被った。",
+      "cloze": {
+        "maskedText": "His ____ remark caused us a lot of trouble.",
+        "answerBase": "casual",
+        "answerSurface": "casual",
+        "choices": ["casual", "steady", "native", "curious"]
+      }
     }
   ],
   "notes": []

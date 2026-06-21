@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "The price of this painting is equivalent to his month's salary.",
-      "sentence-jp": "この絵画の値段は彼の月収に相当する。"
+      "sentence-jp": "この絵画の値段は彼の月収に相当する。",
+      "cloze": {
+        "maskedText": "The price of this painting is ____ to his month's salary.",
+        "answerBase": "equivalent",
+        "answerSurface": "equivalent",
+        "choices": [
+          "equivalent",
+          "absolute",
+          "solid",
+          "frequent"
+        ]
+      }
     }
   ],
   "notes": []

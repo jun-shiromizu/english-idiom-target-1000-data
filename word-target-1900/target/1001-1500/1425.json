@@ -12,5 +12,11 @@
       "sentence-jp": "その男性は自分のプレゼンの最重要ポイントを明確にした。"
     }
   ],
+  "cloze": {
+    "maskedText": "Could you ____ your final point?",
+    "answerBase": "clarify",
+    "answerSurface": "clarify",
+    "choices": ["clarify", "oblige", "dump", "weave"]
+  },
   "notes": []
 }

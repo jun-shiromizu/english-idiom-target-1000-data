@@ -15,7 +15,18 @@
         "be specific to ~"
       ],
       "example-sentence": "Up in the mountain, we enjoyed those beautiful flowers which were peculiar to high elevations.",
-      "sentence-jp": "山上では、高地に特有なそれらの美しい花々を私たちは楽しんだ。"
+      "sentence-jp": "山上では、高地に特有なそれらの美しい花々を私たちは楽しんだ。",
+      "cloze": {
+        "maskedText": "Up in the mountain, we enjoyed those beautiful flowers which were ____ high elevations.",
+        "answerBase": "be peculiar to ~",
+        "answerSurface": "peculiar to",
+        "choices": [
+          "peculiar to",
+          "preferable to",
+          "dedicated to",
+          "superior to"
+        ]
+      }
     }
   ],
   "notes": []

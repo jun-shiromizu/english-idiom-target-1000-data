@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "We often blame a politician for having made a careless remark.",
-      "sentence-jp": "私たちは不注意な発言をしたことでよく政治家を責める。"
+      "sentence-jp": "私たちは不注意な発言をしたことでよく政治家を責める。",
+      "cloze": {
+        "maskedText": "We often ____ a politician for having made a careless remark.",
+        "answerBase": "blame",
+        "answerSurface": "blame",
+        "choices": [
+          "blame",
+          "freeze",
+          "collect",
+          "deliver"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The reporter asked him a ridiculous question at the press conference.",
-      "sentence-jp": "その記者は記者会見で彼にばかげた質問をした。"
+      "sentence-jp": "その記者は記者会見で彼にばかげた質問をした。",
+      "cloze": {
+        "maskedText": "The reporter asked him a ____ question at the press conference.",
+        "answerBase": "ridiculous",
+        "answerSurface": "ridiculous",
+        "choices": ["ridiculous", "sensory", "chronic", "voluntary"]
+      }
     }
   ],
   "notes": []

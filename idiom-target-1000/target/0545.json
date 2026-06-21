@@ -13,7 +13,18 @@
         "look after ~"
       ],
       "example-sentence": "We have to keep an eye on obesity because it can lead to a range of health problems.",
-      "sentence-jp": "さまざまな健康問題を引き起こす可能性があるので、私たちは肥満に気をつけなければならない。"
+      "sentence-jp": "さまざまな健康問題を引き起こす可能性があるので、私たちは肥満に気をつけなければならない。",
+      "cloze": {
+        "maskedText": "We have to ____ obesity because it can lead to a range of health problems.",
+        "answerBase": "keep an eye on ~",
+        "answerSurface": "keep an eye on",
+        "choices": [
+          "keep an eye on",
+          "fall victim to",
+          "catch sight of",
+          "put emphasis on"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Dogs are remarkably similar to human infants in the way they pay attention to us adults.",
-      "sentence-jp": "犬は、私たち大人に注目するという点からすると人間の幼児に著しく似ている。"
+      "sentence-jp": "犬は、私たち大人に注目するという点からすると人間の幼児に著しく似ている。",
+      "cloze": {
+        "maskedText": "Dogs are remarkably similar to human infants ____ they pay attention to us adults.",
+        "answerBase": "(in) the way ...",
+        "answerSurface": "in the way",
+        "choices": [
+          "in the way",
+          "with ease",
+          "believe it or not",
+          "not all that"
+        ]
+      }
     }
   ],
   "notes": [

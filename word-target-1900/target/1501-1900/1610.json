@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "He carved the marble into the shape of a bird.",
-      "sentence-jp": "彼は大理石を彫って鳥の形にした。"
+      "sentence-jp": "彼は大理石を彫って鳥の形にした。",
+      "cloze": {
+        "maskedText": "He ____ the marble into the shape of a bird.",
+        "answerBase": "carve",
+        "answerSurface": "carved",
+        "choices": [
+          "carved",
+          "copied",
+          "covered",
+          "painted"
+        ]
+      }
     }
   ],
   "notes": []

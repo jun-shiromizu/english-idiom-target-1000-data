@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "I was about to die of hunger and thirst on that day.",
-      "sentence-jp": "私はその日，空腹とのどの渇きで死にそうだった。"
+      "sentence-jp": "私はその日，空腹とのどの渇きで死にそうだった。",
+      "cloze": {
+        "maskedText": "I was about to die of hunger and ____ on that day.",
+        "answerBase": "thirst",
+        "answerSurface": "thirst",
+        "choices": [
+          "thirst",
+          "traffic",
+          "fortune",
+          "fashion"
+        ]
+      }
     }
   ],
   "notes": []

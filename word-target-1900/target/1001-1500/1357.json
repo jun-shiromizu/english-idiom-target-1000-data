@@ -12,5 +12,11 @@
       "sentence-jp": "巣箱からハチミツを全部採取してはならない。"
     }
   ],
+  "cloze": {
+    "maskedText": "The beekeeper opened the ____ carefully.",
+    "answerBase": "hive",
+    "answerSurface": "hive",
+    "choices": ["hive", "criterion", "epidemic", "chaos"]
+  },
   "notes": []
 }

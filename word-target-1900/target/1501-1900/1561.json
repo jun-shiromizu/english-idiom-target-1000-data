@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The man is very glad that he has a supportive spouse.",
-      "sentence-jp": "その男性は自分に支えとなる配偶者がいることをとてもうれしく思っている。"
+      "sentence-jp": "その男性は自分に支えとなる配偶者がいることをとてもうれしく思っている。",
+      "cloze": {
+        "maskedText": "The man is very glad that he has a supportive ____.",
+        "answerBase": "spouse",
+        "answerSurface": "spouse",
+        "choices": [
+          "spouse",
+          "neighbor",
+          "relative",
+          "assistant"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The student took the class of modern philosophy just for fun.",
-      "sentence-jp": "その学生は単に楽しみのために現代哲学の授業を取った。"
+      "sentence-jp": "その学生は単に楽しみのために現代哲学の授業を取った。",
+      "cloze": {
+        "maskedText": "The student took the class of modern ____ just for fun.",
+        "answerBase": "philosophy",
+        "answerSurface": "philosophy",
+        "choices": [
+          "philosophy",
+          "calendar",
+          "playground",
+          "umbrella"
+        ]
+      }
     }
   ],
   "notes": []

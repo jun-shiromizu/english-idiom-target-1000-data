@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "He polishes the floors of his apartment once a week.",
-      "sentence-jp": "彼は週に1度自宅マンションの床を磨く。"
+      "sentence-jp": "彼は週に1度自宅マンションの床を磨く。",
+      "cloze": {
+        "maskedText": "He ____ the floors of his apartment once a week.",
+        "answerBase": "polish",
+        "answerSurface": "polishes",
+        "choices": ["polishes", "misleads", "elects", "inherits"]
+      }
     }
   ],
   "notes": []

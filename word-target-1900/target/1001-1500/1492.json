@@ -12,5 +12,11 @@
       "sentence-jp": "太陽の光は神の恩寵や啓示を表すのによく使われる。"
     }
   ],
+  "cloze": {
+    "maskedText": "They believed the king had a ____ mission.",
+    "answerBase": "divine",
+    "answerSurface": "divine",
+    "choices": ["divine", "partial", "dim", "tidy"]
+  },
   "notes": []
 }

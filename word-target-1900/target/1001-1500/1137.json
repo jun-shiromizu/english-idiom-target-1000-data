@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The voters were sensible enough to elect him a member of the Diet.",
-      "sentence-jp": "有権者は賢明にも彼を国会議員に選んだ。"
+      "sentence-jp": "有権者は賢明にも彼を国会議員に選んだ。",
+      "cloze": {
+        "maskedText": "The voters were sensible enough to ____ him a member of the Diet.",
+        "answerBase": "elect",
+        "answerSurface": "elect",
+        "choices": ["elect", "extract", "inherit", "rear"]
+      }
     }
   ],
   "notes": []

@@ -12,5 +12,11 @@
       "sentence-jp": "彼女は政治の変化の可能性に懐疑的である。"
     }
   ],
+  "cloze": {
+    "maskedText": "Many scientists are ____ about the claim.",
+    "answerBase": "skeptical",
+    "answerSurface": "skeptical",
+    "choices": ["skeptical", "probable", "vivid", "imperial"]
+  },
   "notes": []
 }

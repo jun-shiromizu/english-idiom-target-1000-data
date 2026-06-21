@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "The manager told us to go ahead and make a reservation at the restaurant.",
-      "sentence-jp": "部長は私たちに、先に行ってレストランの予約をするように言った。"
+      "sentence-jp": "部長は私たちに、先に行ってレストランの予約をするように言った。",
+      "cloze": {
+        "maskedText": "The manager told us to ____ and make a reservation at the restaurant.",
+        "answerBase": "go ahead",
+        "answerSurface": "go ahead",
+        "choices": [
+          "go ahead",
+          "hold on",
+          "hang up",
+          "check out"
+        ]
+      }
     }
   ],
   "notes": [

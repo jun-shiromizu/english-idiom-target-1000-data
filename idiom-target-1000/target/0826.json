@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Here we are at the end of the line. This is where I’ve wanted to be for a long time.",
-      "sentence-jp": "終点に着きました。ここは私が長いこと来たいと思っていた場所です。"
+      "sentence-jp": "終点に着きました。ここは私が長いこと来たいと思っていた場所です。",
+      "cloze": {
+        "maskedText": "____ at the end of the line. This is where I’ve wanted to be for a long time.",
+        "answerBase": "Here we are.",
+        "answerSurface": "Here we are",
+        "choices": [
+          "Here we are",
+          "You’re kidding",
+          "My pleasure",
+          "I’m afraid not"
+        ]
+      }
     }
   ],
   "notes": [

@@ -12,5 +12,11 @@
       "sentence-jp": "議会のメンバーは今月，数回の会合を持った。"
     }
   ],
+  "cloze": {
+    "maskedText": "The bill will be debated in ____ next week.",
+    "answerBase": "parliament",
+    "answerSurface": "parliament",
+    "choices": ["parliament", "mainstream", "horror", "irrigation"]
+  },
   "notes": []
 }

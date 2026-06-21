@@ -12,5 +12,11 @@
       "sentence-jp": "彼は東京の法律事務所での1年間の実務研修を修了した。"
     }
   ],
+  "cloze": {
+    "maskedText": "She got valuable experience during her summer ____.",
+    "answerBase": "internship",
+    "answerSurface": "internship",
+    "choices": ["internship", "reception", "mutation", "compassion"]
+  },
   "notes": []
 }

@@ -12,5 +12,11 @@
       "sentence-jp": "この電子辞書は15巻の百科事典を収録している。"
     }
   ],
+  "cloze": {
+    "maskedText": "She looked up the topic in an ____.",
+    "answerBase": "encyclopedia",
+    "answerSurface": "encyclopedia",
+    "choices": ["encyclopedia", "fragment", "maze", "dairy"]
+  },
   "notes": []
 }

@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Aboriginal art varies across the regions of Australia.",
-      "sentence-jp": "アボリジニの芸術はオーストラリア国内の地域によりさまざまである。"
+      "sentence-jp": "アボリジニの芸術はオーストラリア国内の地域によりさまざまである。",
+      "cloze": {
+        "maskedText": "____ art varies across the regions of Australia.",
+        "answerBase": "aboriginal",
+        "answerSurface": "Aboriginal",
+        "choices": ["Aboriginal", "Seasonal", "Hybrid", "Chronic"]
+      }
     }
   ],
   "notes": []

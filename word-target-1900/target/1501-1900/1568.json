@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "I cannot tell whether the tide is going out or coming in.",
-      "sentence-jp": "潮が引いているのか満ちているのか，私にはわからない。"
+      "sentence-jp": "潮が引いているのか満ちているのか，私にはわからない。",
+      "cloze": {
+        "maskedText": "I cannot tell whether the ____ is going out or coming in.",
+        "answerBase": "tide",
+        "answerSurface": "tide",
+        "choices": [
+          "tide",
+          "wind",
+          "storm",
+          "wave"
+        ]
+      }
     }
   ],
   "notes": []

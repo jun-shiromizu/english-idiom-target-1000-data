@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He went into exile to another country due to political suppression.",
-      "sentence-jp": "彼は政治的弾圧のためにほかの国に亡命した。"
+      "sentence-jp": "彼は政治的弾圧のためにほかの国に亡命した。",
+      "cloze": {
+        "maskedText": "He went into ____ to another country due to political suppression.",
+        "answerBase": "exile",
+        "answerSurface": "exile",
+        "choices": [
+          "exile",
+          "traffic",
+          "sunlight",
+          "ceremony"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The opera conductor commanded the chorus to sing more in harmony.",
-      "sentence-jp": "オペラの指揮者は合唱隊にもっと音を合わせて歌うように命じた。"
+      "sentence-jp": "オペラの指揮者は合唱隊にもっと音を合わせて歌うように命じた。",
+      "cloze": {
+        "maskedText": "The opera conductor ____ the chorus to sing more in harmony.",
+        "answerBase": "command",
+        "answerSurface": "commanded",
+        "choices": [
+          "commanded",
+          "yielded",
+          "approved",
+          "assessed"
+        ]
+      }
     }
   ],
   "notes": []

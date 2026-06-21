@@ -12,5 +12,11 @@
       "sentence-jp": "社会は尊厳死の問題について議論してきている。"
     }
   ],
+  "cloze": {
+    "maskedText": "She faced the criticism with quiet ____.",
+    "answerBase": "dignity",
+    "answerSurface": "dignity",
+    "choices": ["dignity", "paradox", "troop", "pollen"]
+  },
   "notes": []
 }

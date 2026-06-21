@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Caught in the rain, the man took refuge under the bridge.",
-      "sentence-jp": "雨に見舞われて，その男性は橋の下に避難した。"
+      "sentence-jp": "雨に見舞われて，その男性は橋の下に避難した。",
+      "cloze": {
+        "maskedText": "Caught in the rain, the man took ____ under the bridge.",
+        "answerBase": "refuge",
+        "answerSurface": "refuge",
+        "choices": [
+          "refuge",
+          "portrait",
+          "ticket",
+          "balance"
+        ]
+      }
     }
   ],
   "notes": []

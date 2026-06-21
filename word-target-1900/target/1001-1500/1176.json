@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The plot of this detective novel is too complicated to understand.",
-      "sentence-jp": "この探偵小説の筋は複雑すぎて理解できない。"
+      "sentence-jp": "この探偵小説の筋は複雑すぎて理解できない。",
+      "cloze": {
+        "maskedText": "The ____ of this detective novel is too complicated to understand.",
+        "answerBase": "plot",
+        "answerSurface": "plot",
+        "choices": ["plot", "sculpture", "tablet", "excess"]
+      }
     }
   ],
   "notes": []

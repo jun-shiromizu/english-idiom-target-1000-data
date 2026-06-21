@@ -12,5 +12,11 @@
       "sentence-jp": "大都市圏には概して便利な交通機関がある。"
     }
   ],
+  "cloze": {
+    "maskedText": "Housing costs are high in the ____ area.",
+    "answerBase": "metropolitan",
+    "answerSurface": "metropolitan",
+    "choices": ["metropolitan", "sincere", "sole", "fierce"]
+  },
   "notes": []
 }

@@ -10,7 +10,18 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "Though my grandmother is in her mid-90s, she still wants to live her life to the fullest.",
-      "sentence-jp": "私の祖母は90代半ばだが、今も人生を心ゆくまで生きたいと思っている。"
+      "sentence-jp": "私の祖母は90代半ばだが、今も人生を心ゆくまで生きたいと思っている。",
+      "cloze": {
+        "maskedText": "Though my grandmother is in her mid-90s, she still wants to live her life ____.",
+        "answerBase": "to the full / to the fullest",
+        "answerSurface": "to the fullest",
+        "choices": [
+          "to the fullest",
+          "by far",
+          "for sure",
+          "of late"
+        ]
+      }
     }
   ],
   "notes": [

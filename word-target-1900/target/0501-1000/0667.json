@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "We expect to have a good harvest of crops this year.",
-      "sentence-jp": "私たちは今年，作物の収穫が多いことを期待している。"
+      "sentence-jp": "私たちは今年，作物の収穫が多いことを期待している。",
+      "cloze": {
+        "maskedText": "We expect to have a good ____ of crops this year.",
+        "answerBase": "harvest",
+        "answerSurface": "harvest",
+        "choices": [
+          "harvest",
+          "district",
+          "boundary",
+          "predator"
+        ]
+      }
     }
   ],
   "notes": []

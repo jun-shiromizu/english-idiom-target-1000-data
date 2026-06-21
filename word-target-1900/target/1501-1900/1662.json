@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Nothing could relieve her deep sorrow at the death of her pet.",
-      "sentence-jp": "ペットの死に対する彼女の深い悲しみを和らげるものは何もなかった。"
+      "sentence-jp": "ペットの死に対する彼女の深い悲しみを和らげるものは何もなかった。",
+      "cloze": {
+        "maskedText": "Nothing could relieve her deep ____ at the death of her pet.",
+        "answerBase": "sorrow",
+        "answerSurface": "sorrow",
+        "choices": [
+          "sorrow",
+          "curiosity",
+          "courage",
+          "ambition"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "You need to use an appropriate tone of voice when you speak.",
-      "sentence-jp": "話すときは適切な口調を用いる必要がある。"
+      "sentence-jp": "話すときは適切な口調を用いる必要がある。",
+      "cloze": {
+        "maskedText": "You need to use an appropriate ____ of voice when you speak.",
+        "answerBase": "tone",
+        "answerSurface": "tone",
+        "choices": [
+          "tone",
+          "sum",
+          "witness",
+          "award"
+        ]
+      }
     }
   ],
   "notes": []

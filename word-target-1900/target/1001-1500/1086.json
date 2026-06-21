@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Tokyo spent a tremendous amount of money on moving its fish market.",
-      "sentence-jp": "東京都は魚市場を移転することに莫大な金額を費やした。"
+      "sentence-jp": "東京都は魚市場を移転することに莫大な金額を費やした。",
+      "cloze": {
+        "maskedText": "Tokyo spent a ____ amount of money on moving its fish market.",
+        "answerBase": "tremendous",
+        "answerSurface": "tremendous",
+        "choices": ["tremendous", "shallow", "awkward", "intimate"]
+      }
     }
   ],
   "notes": []

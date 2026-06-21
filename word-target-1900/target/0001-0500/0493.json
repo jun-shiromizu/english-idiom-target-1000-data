@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "comparative-expression",
       "example-sentence": "It is not easy to determine which kinds of art are superior to others.",
-      "sentence-jp": "どの種類の芸術がほかのものよりすぐれているかを決めるのは，容易ではない。"
+      "sentence-jp": "どの種類の芸術がほかのものよりすぐれているかを決めるのは，容易ではない。",
+      "cloze": {
+        "maskedText": "It is not easy to determine which kinds of art are ____ to others.",
+        "answerBase": "superior",
+        "answerSurface": "superior",
+        "choices": [
+          "superior",
+          "curious",
+          "virtual",
+          "careful"
+        ]
+      }
     }
   ],
   "notes": []

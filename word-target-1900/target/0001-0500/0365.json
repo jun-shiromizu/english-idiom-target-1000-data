@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Immigrants bring fresh perspectives to any society.",
-      "sentence-jp": "移民はどの社会にも新鮮な観点をもたらす。"
+      "sentence-jp": "移民はどの社会にも新鮮な観点をもたらす。",
+      "cloze": {
+        "maskedText": "Immigrants bring fresh ____ to any society.",
+        "answerBase": "perspective",
+        "answerSurface": "perspectives",
+        "choices": [
+          "perspectives",
+          "documents",
+          "campaigns",
+          "customs"
+        ]
+      }
     }
   ],
   "notes": []

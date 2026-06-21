@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "He got angry and reversed his attitude completely.",
-      "sentence-jp": "彼は怒って完全に態度を逆転させた。"
+      "sentence-jp": "彼は怒って完全に態度を逆転させた。",
+      "cloze": {
+        "maskedText": "He got angry and ____ his attitude completely.",
+        "answerBase": "reverse",
+        "answerSurface": "reversed",
+        "choices": [
+          "reversed",
+          "pretended",
+          "specialized",
+          "attributed"
+        ]
+      }
     }
   ],
   "notes": []

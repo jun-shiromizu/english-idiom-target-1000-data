@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Getting bad grades at school is the worst scenario for me.",
-      "sentence-jp": "学校で悪い成績を取ることが私にとって最悪の事態である。"
+      "sentence-jp": "学校で悪い成績を取ることが私にとって最悪の事態である。",
+      "cloze": {
+        "maskedText": "Getting bad grades at school is the worst ____ for me.",
+        "answerBase": "scenario",
+        "answerSurface": "scenario",
+        "choices": ["scenario", "antibiotic", "metaphor", "fare"]
+      }
     }
   ],
   "notes": []

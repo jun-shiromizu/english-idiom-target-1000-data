@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Hot spring waters often contain minerals such as iron.",
-      "sentence-jp": "温泉水は鉄のような鉱物を含むことが多い。"
+      "sentence-jp": "温泉水は鉄のような鉱物を含むことが多い。",
+      "cloze": {
+        "maskedText": "Hot spring waters often contain ____ such as iron.",
+        "answerBase": "mineral",
+        "answerSurface": "minerals",
+        "choices": ["minerals", "scenarios", "metaphors", "counterparts"]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Many cities are facing the severe conditions of air pollution.",
-      "sentence-jp": "多くの都市が大気汚染という厳しい状況に直面している。"
+      "sentence-jp": "多くの都市が大気汚染という厳しい状況に直面している。",
+      "cloze": {
+        "maskedText": "Many cities are facing the ____ conditions of air pollution.",
+        "answerBase": "severe",
+        "answerSurface": "severe",
+        "choices": [
+          "severe",
+          "overall",
+          "visual",
+          "typical"
+        ]
+      }
     }
   ],
   "notes": []

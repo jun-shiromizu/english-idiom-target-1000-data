@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The flight attendant requested all the passengers to remain seated.",
-      "sentence-jp": "客室乗務員は乗客全員に座ったままでいるように求めた。"
+      "sentence-jp": "客室乗務員は乗客全員に座ったままでいるように求めた。",
+      "cloze": {
+        "maskedText": "The flight attendant ____ all the passengers to remain seated.",
+        "answerBase": "request",
+        "answerSurface": "requested",
+        "choices": [
+          "requested",
+          "stored",
+          "painted",
+          "dragged"
+        ]
+      }
     }
   ],
   "notes": []

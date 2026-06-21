@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He stretched his long limbs just after he got out of bed.",
-      "sentence-jp": "彼はベッドから出た直後にその長い手足を伸ばした。"
+      "sentence-jp": "彼はベッドから出た直後にその長い手足を伸ばした。",
+      "cloze": {
+        "maskedText": "He stretched his long ____ just after he got out of bed.",
+        "answerBase": "limb",
+        "answerSurface": "limbs",
+        "choices": [
+          "limbs",
+          "muscles",
+          "fingers",
+          "shoulders"
+        ]
+      }
     }
   ],
   "notes": []

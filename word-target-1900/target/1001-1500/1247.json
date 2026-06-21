@@ -12,5 +12,11 @@
       "sentence-jp": "彼女の気性は優しくて穏やかなので，だれもが彼女のことを好きである。"
     }
   ],
+  "cloze": {
+    "maskedText": "He lost his ____ and yelled at everyone.",
+    "answerBase": "temper",
+    "answerSurface": "temper",
+    "choices": ["temper", "appetite", "profile", "utility"]
+  },
   "notes": []
 }

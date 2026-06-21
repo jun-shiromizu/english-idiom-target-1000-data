@@ -12,7 +12,18 @@
         "There is nothing (else) for it but to do"
       ],
       "example-sentence": "Due to an approaching typhoon, we had no choice but to postpone our day at the beach.",
-      "sentence-jp": "接近する台風のために、私たちは海辺で過ごす予定を延期するよりほかに仕方がなかった。"
+      "sentence-jp": "接近する台風のために、私たちは海辺で過ごす予定を延期するよりほかに仕方がなかった。",
+      "cloze": {
+        "maskedText": "Due to an approaching typhoon, we ____ postpone our day at the beach.",
+        "answerBase": "have no (other) choice but to do",
+        "answerSurface": "had no choice but to",
+        "choices": [
+          "had no choice but to",
+          "spent time",
+          "made a point of",
+          "left nothing to be desired"
+        ]
+      }
     }
   ],
   "notes": [

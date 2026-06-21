@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Water pollution can endanger people's health.",
-      "sentence-jp": "水質汚染は人々の健康を危険にさらす可能性がある。"
+      "sentence-jp": "水質汚染は人々の健康を危険にさらす可能性がある。",
+      "cloze": {
+        "maskedText": "Water pollution can ____ people's health.",
+        "answerBase": "endanger",
+        "answerSurface": "endanger",
+        "choices": [
+          "endanger",
+          "admire",
+          "reverse",
+          "pretend"
+        ]
+      }
     }
   ],
   "notes": []

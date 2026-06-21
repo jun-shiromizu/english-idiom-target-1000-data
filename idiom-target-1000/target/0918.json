@@ -10,7 +10,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Bob wants to get even with Al for bullying him.",
-      "sentence-jp": "ボブはいじめられたことでアルに仕返しをしたいと思っている。"
+      "sentence-jp": "ボブはいじめられたことでアルに仕返しをしたいと思っている。",
+      "cloze": {
+        "maskedText": "Bob wants to ____ Al for bullying him.",
+        "answerBase": "get even with ~ / be even with ~",
+        "answerSurface": "get even with",
+        "choices": [
+          "get even with",
+          "get the better of",
+          "play a joke on",
+          "follow suit with"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Cooking can bring out the natural flavor of vegetables.",
-      "sentence-jp": "料理は野菜の自然の風味を引き出し得る。"
+      "sentence-jp": "料理は野菜の自然の風味を引き出し得る。",
+      "cloze": {
+        "maskedText": "Cooking can bring out the natural ____ of vegetables.",
+        "answerBase": "flavor",
+        "answerSurface": "flavor",
+        "choices": ["flavor", "battle", "shelter", "lecture"]
+      }
     }
   ],
   "notes": []

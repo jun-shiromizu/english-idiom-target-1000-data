@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The student reinforced his knowledge by taking extra lessons online.",
-      "sentence-jp": "その生徒はオンラインでの追加レッスンを受けることで知識を強化した。"
+      "sentence-jp": "その生徒はオンラインでの追加レッスンを受けることで知識を強化した。",
+      "cloze": {
+        "maskedText": "The student ____ his knowledge by taking extra lessons online.",
+        "answerBase": "reinforce",
+        "answerSurface": "reinforced",
+        "choices": ["reinforced", "accumulated", "advocated", "dismissed"]
+      }
     }
   ],
   "notes": []

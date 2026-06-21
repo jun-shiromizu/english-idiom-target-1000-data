@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "We concluded that our new sales plan is better than our old one.",
-      "sentence-jp": "私たちは新しい販売計画は以前のものよりもよいと結論づけた。"
+      "sentence-jp": "私たちは新しい販売計画は以前のものよりもよいと結論づけた。",
+      "cloze": {
+        "maskedText": "We ____ that our new sales plan is better than our old one.",
+        "answerBase": "conclude",
+        "answerSurface": "concluded",
+        "choices": [
+          "concluded",
+          "adopted",
+          "carried",
+          "poured"
+        ]
+      }
     }
   ],
   "notes": []

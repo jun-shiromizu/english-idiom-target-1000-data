@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The librarian recommended this book as a reference on English grammar.",
-      "sentence-jp": "その司書は英文法に関する参考図書としてこの本を薦めてくれた。"
+      "sentence-jp": "その司書は英文法に関する参考図書としてこの本を薦めてくれた。",
+      "cloze": {
+        "maskedText": "The ____ recommended this book as a reference on English grammar.",
+        "answerBase": "librarian",
+        "answerSurface": "librarian",
+        "choices": [
+          "librarian",
+          "journalist",
+          "technician",
+          "electrician"
+        ]
+      }
     }
   ],
   "notes": []

@@ -12,5 +12,11 @@
       "sentence-jp": "自分の部屋をきちんとした清潔な状態に保つことができない人がいる。"
     }
   ],
+  "cloze": {
+    "maskedText": "He always keeps his desk ____ and clean.",
+    "answerBase": "neat",
+    "answerSurface": "neat",
+    "choices": ["neat", "disabled", "partial", "acute"]
+  },
   "notes": []
 }

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "I suspect that she told a lie.",
-      "sentence-jp": "私は彼女がうそをついたのではないかと思う。"
+      "sentence-jp": "私は彼女がうそをついたのではないかと思う。",
+      "cloze": {
+        "maskedText": "I ____ that she told a lie.",
+        "answerBase": "suspect",
+        "answerSurface": "suspect",
+        "choices": [
+          "suspect",
+          "cope",
+          "permit",
+          "stretch"
+        ]
+      }
     }
   ],
   "notes": []

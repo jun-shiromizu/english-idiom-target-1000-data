@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Scientists are planning to capture an asteroid orbiting around Mars.",
-      "sentence-jp": "科学者は火星周辺の軌道を回る小惑星をとらえる計画を立てている。"
+      "sentence-jp": "科学者は火星周辺の軌道を回る小惑星をとらえる計画を立てている。",
+      "cloze": {
+        "maskedText": "Scientists are planning to capture an ____ orbiting around Mars.",
+        "answerBase": "asteroid",
+        "answerSurface": "asteroid",
+        "choices": ["asteroid", "continent", "ceremony", "citizen"]
+      }
     }
   ],
   "notes": []

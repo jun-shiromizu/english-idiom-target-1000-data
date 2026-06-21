@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She is still working on her doctoral thesis.",
-      "sentence-jp": "彼女はまだ博士論文に取り組んでいる。"
+      "sentence-jp": "彼女はまだ博士論文に取り組んでいる。",
+      "cloze": {
+        "maskedText": "She is still working on her doctoral ____.",
+        "answerBase": "thesis",
+        "answerSurface": "thesis",
+        "choices": [
+          "thesis",
+          "village",
+          "wardrobe",
+          "passport"
+        ]
+      }
     }
   ],
   "notes": []

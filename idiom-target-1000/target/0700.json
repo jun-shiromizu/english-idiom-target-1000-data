@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "That new building in front of the station is by far the tallest in the city.",
-      "sentence-jp": "駅の正面にあるその新しい建物は、市内では飛び抜けて高い。"
+      "sentence-jp": "駅の正面にあるその新しい建物は、市内では飛び抜けて高い。",
+      "cloze": {
+        "maskedText": "That new building in front of the station is ____ the tallest in the city.",
+        "answerBase": "by far",
+        "answerSurface": "by far",
+        "choices": [
+          "by far",
+          "for sure",
+          "of late",
+          "to the fullest"
+        ]
+      }
     }
   ],
   "notes": [

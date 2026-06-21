@@ -14,7 +14,18 @@
         "come to like ~"
       ],
       "example-sentence": "John and I hit it off from the moment we met in college five years ago.",
-      "sentence-jp": "ジョンと私は5年前に大学で会った瞬間から仲良くなった。"
+      "sentence-jp": "ジョンと私は5年前に大学で会った瞬間から仲良くなった。",
+      "cloze": {
+        "maskedText": "John and I ____ from the moment we met in college five years ago.",
+        "answerBase": "hit it off (with ~)",
+        "answerSurface": "hit it off",
+        "choices": [
+          "hit it off",
+          "came to think of it",
+          "watched our step",
+          "gave our regards"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Plastic is made by the synthesis of various chemicals.",
-      "sentence-jp": "プラスチックは種々の化学物質の合成により作られる。"
+      "sentence-jp": "プラスチックは種々の化学物質の合成により作られる。",
+      "cloze": {
+        "maskedText": "Plastic is made by the ____ of various chemicals.",
+        "answerBase": "synthesis",
+        "answerSurface": "synthesis",
+        "choices": [
+          "synthesis",
+          "distance",
+          "industry",
+          "heritage"
+        ]
+      }
     }
   ],
   "notes": []

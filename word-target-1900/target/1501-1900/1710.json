@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Most modern architecture withstands natural disasters well.",
-      "sentence-jp": "たいていの現代建築は自然災害によく耐える。"
+      "sentence-jp": "たいていの現代建築は自然災害によく耐える。",
+      "cloze": {
+        "maskedText": "Most modern architecture ____ natural disasters well.",
+        "answerBase": "withstand",
+        "answerSurface": "withstands",
+        "choices": [
+          "withstands",
+          "invites",
+          "collects",
+          "reflects"
+        ]
+      }
     }
   ],
   "notes": []

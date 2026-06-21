@@ -14,7 +14,18 @@
         "i.e."
       ],
       "example-sentence": "Wind is the air shifting from one place to another; that is, wind is moving air.",
-      "sentence-jp": "風とはある場所から別の場所へ移動する空気のことだ。すなわち、風とは動いている空気だ。"
+      "sentence-jp": "風とはある場所から別の場所へ移動する空気のことだ。すなわち、風とは動いている空気だ。",
+      "cloze": {
+        "maskedText": "Wind is the air shifting from one place to another; ____, wind is moving air.",
+        "answerBase": "that is (to say)",
+        "answerSurface": "that is",
+        "choices": [
+          "that is",
+          "in itself",
+          "one after another",
+          "by far"
+        ]
+      }
     }
   ],
   "notes": [

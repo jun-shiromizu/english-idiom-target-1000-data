@@ -14,7 +14,18 @@
         "by means of ~"
       ],
       "example-sentence": "It was utterly by virtue of his daily efforts that he’d successfully passed the exam.",
-      "sentence-jp": "彼が首尾よくその試験に合格したのは、まったく毎日の努力のおかげであった。"
+      "sentence-jp": "彼が首尾よくその試験に合格したのは、まったく毎日の努力のおかげであった。",
+      "cloze": {
+        "maskedText": "It was utterly ____ his daily efforts that he’d successfully passed the exam.",
+        "answerBase": "by virtue of ~ / in virtue of ~",
+        "answerSurface": "by virtue of",
+        "choices": [
+          "by virtue of",
+          "on behalf of",
+          "with regard to",
+          "in the meantime"
+        ]
+      }
     }
   ],
   "notes": [

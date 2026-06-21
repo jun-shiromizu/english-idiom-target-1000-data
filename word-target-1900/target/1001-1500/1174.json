@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She writes a newspaper column once a week.",
-      "sentence-jp": "彼女は週に1回新聞のコラムを書いている。"
+      "sentence-jp": "彼女は週に1回新聞のコラムを書いている。",
+      "cloze": {
+        "maskedText": "She writes a newspaper ____ once a week.",
+        "answerBase": "column",
+        "answerSurface": "column",
+        "choices": ["column", "scenery", "plot", "fiber"]
+      }
     }
   ],
   "notes": []

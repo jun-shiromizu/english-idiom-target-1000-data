@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "The scientist is hoping to discover a perpetual source of energy.",
-      "sentence-jp": "その科学者は永続的なエネルギー源を発見したいと願っている。"
+      "sentence-jp": "その科学者は永続的なエネルギー源を発見したいと願っている。",
+      "cloze": {
+        "maskedText": "The scientist is hoping to discover a ____ source of energy.",
+        "answerBase": "perpetual",
+        "answerSurface": "perpetual",
+        "choices": [
+          "perpetual",
+          "brief",
+          "mild",
+          "fragile"
+        ]
+      }
     }
   ],
   "notes": []

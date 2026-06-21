@@ -12,5 +12,11 @@
       "sentence-jp": "職場での長い1日の後，音楽が気分をさわやかにするのに役立つ。"
     }
   ],
+  "cloze": {
+    "maskedText": "A short walk can ____ your mind.",
+    "answerBase": "refresh",
+    "answerSurface": "refresh",
+    "choices": ["refresh", "scratch", "depart", "inhabit"]
+  },
   "notes": []
 }

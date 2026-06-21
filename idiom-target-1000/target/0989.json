@@ -12,7 +12,18 @@
         "usually"
       ],
       "example-sentence": "More often than not, a smile, the universal symbol of happiness, is used as a mask.",
-      "sentence-jp": "普通は、幸福の普遍的な象徴である笑顔は、仮面として使われる。"
+      "sentence-jp": "普通は、幸福の普遍的な象徴である笑顔は、仮面として使われる。",
+      "cloze": {
+        "maskedText": "____, a smile, the universal symbol of happiness, is used as a mask.",
+        "answerBase": "more often than not",
+        "answerSurface": "More often than not",
+        "choices": [
+          "More often than not",
+          "On second thought",
+          "For all I know",
+          "By and large"
+        ]
+      }
     }
   ],
   "notes": [

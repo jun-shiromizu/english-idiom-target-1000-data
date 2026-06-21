@@ -12,5 +12,11 @@
       "sentence-jp": "その市のシャトルバスは5分間隔で走っている。"
     }
   ],
+  "cloze": {
+    "maskedText": "The buses come at ten-minute ____.",
+    "answerBase": "interval",
+    "answerSurface": "intervals",
+    "choices": ["intervals", "allies", "counties", "treaties"]
+  },
   "notes": []
 }

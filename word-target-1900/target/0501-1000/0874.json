@@ -9,7 +9,13 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "I gave up smoking for the sake of my health.",
-      "sentence-jp": "私は健康のためにタバコを吸うのをやめた。"
+      "sentence-jp": "私は健康のためにタバコを吸うのをやめた。",
+      "cloze": {
+        "maskedText": "I gave up smoking for the ____ of my health.",
+        "answerBase": "sake",
+        "answerSurface": "sake",
+        "choices": ["sake", "phase", "habit", "value"]
+      }
     }
   ],
   "notes": []

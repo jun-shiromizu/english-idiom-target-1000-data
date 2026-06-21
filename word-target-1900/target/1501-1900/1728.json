@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She stumbled on a rough road.",
-      "sentence-jp": "彼女はでこぼこ道をよろけながら歩いた。"
+      "sentence-jp": "彼女はでこぼこ道をよろけながら歩いた。",
+      "cloze": {
+        "maskedText": "She ____ on a rough road.",
+        "answerBase": "stumble",
+        "answerSurface": "stumbled",
+        "choices": [
+          "stumbled",
+          "rested",
+          "agreed",
+          "performed"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She fainted, but soon regained consciousness.",
-      "sentence-jp": "彼女は失神したが，すぐに意識を取り戻した。"
+      "sentence-jp": "彼女は失神したが，すぐに意識を取り戻した。",
+      "cloze": {
+        "maskedText": "She fainted, but soon ____ consciousness.",
+        "answerBase": "regain",
+        "answerSurface": "regained",
+        "choices": [
+          "regained",
+          "revealed",
+          "reduced",
+          "retained"
+        ]
+      }
     }
   ],
   "notes": []

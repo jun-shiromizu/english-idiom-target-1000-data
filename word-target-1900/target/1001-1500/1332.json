@@ -12,5 +12,11 @@
       "sentence-jp": "私たちはその大きなイベントの費用を20億ドルになると計算した。"
     }
   ],
+  "cloze": {
+    "maskedText": "It is easy to ____ the total with this software.",
+    "answerBase": "compute",
+    "answerSurface": "compute",
+    "choices": ["compute", "rub", "prevail", "compensate"]
+  },
   "notes": []
 }

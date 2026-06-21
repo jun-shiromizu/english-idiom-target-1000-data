@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "I managed to persuade her to accept our offer.",
-      "sentence-jp": "私はなんとか彼女を説得して私たちの申し出を受け入れさせた。"
+      "sentence-jp": "私はなんとか彼女を説得して私たちの申し出を受け入れさせた。",
+      "cloze": {
+        "maskedText": "I managed to ____ her to accept our offer.",
+        "answerBase": "persuade",
+        "answerSurface": "persuade",
+        "choices": [
+          "persuade",
+          "invest",
+          "crash",
+          "trace"
+        ]
+      }
     }
   ],
   "notes": []

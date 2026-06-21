@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "He thrust the documents into his bag.",
-      "sentence-jp": "彼はかばんの中に書類を押し込んだ。"
+      "sentence-jp": "彼はかばんの中に書類を押し込んだ。",
+      "cloze": {
+        "maskedText": "He ____ the documents into his bag.",
+        "answerBase": "thrust",
+        "answerSurface": "thrust",
+        "choices": [
+          "thrust",
+          "folded",
+          "copied",
+          "measured"
+        ]
+      }
     }
   ],
   "notes": []

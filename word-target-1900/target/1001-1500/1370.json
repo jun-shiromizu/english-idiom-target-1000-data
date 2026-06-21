@@ -12,5 +12,11 @@
       "sentence-jp": "死後に腎臓を提供することを決めている人もいる。"
     }
   ],
+  "cloze": {
+    "maskedText": "The patient needs a new ____.",
+    "answerBase": "kidney",
+    "answerSurface": "kidney",
+    "choices": ["kidney", "formula", "rumor", "grief"]
+  },
   "notes": []
 }

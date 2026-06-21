@@ -12,5 +12,11 @@
       "sentence-jp": "恐竜の骨と頭蓋骨がその地域で見つかった。"
     }
   ],
+  "cloze": {
+    "maskedText": "The archaeologists discovered a human ____.",
+    "answerBase": "skull",
+    "answerSurface": "skull",
+    "choices": ["skull", "feast", "worship", "rumor"]
+  },
   "notes": []
 }

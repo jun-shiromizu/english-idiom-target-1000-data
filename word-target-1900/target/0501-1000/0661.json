@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "People took shelter from sudden hard rain in a roofed structure.",
-      "sentence-jp": "人々は突然の激しい雨から屋根付きの建物に避難した。"
+      "sentence-jp": "人々は突然の激しい雨から屋根付きの建物に避難した。",
+      "cloze": {
+        "maskedText": "People took ____ from sudden hard rain in a roofed structure.",
+        "answerBase": "shelter",
+        "answerSurface": "shelter",
+        "choices": [
+          "shelter",
+          "district",
+          "trick",
+          "trap"
+        ]
+      }
     }
   ],
   "notes": []

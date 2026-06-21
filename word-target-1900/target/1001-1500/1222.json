@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She accidentally spilled red wine on her white dress.",
-      "sentence-jp": "彼女は誤って自分の白いドレスに赤ワインをこぼした。"
+      "sentence-jp": "彼女は誤って自分の白いドレスに赤ワインをこぼした。",
+      "cloze": {
+        "maskedText": "She accidentally ____ red wine on her white dress.",
+        "answerBase": "spill",
+        "answerSurface": "spilled",
+        "choices": ["spilled", "irritated", "robbed", "forgave"]
+      }
     }
   ],
   "notes": []

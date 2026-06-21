@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The sales personnel attended a special training at headquarters.",
-      "sentence-jp": "営業部職員は本社での特別研修に参加した。"
+      "sentence-jp": "営業部職員は本社での特別研修に参加した。",
+      "cloze": {
+        "maskedText": "The sales ____ attended a special training at headquarters.",
+        "answerBase": "personnel",
+        "answerSurface": "personnel",
+        "choices": [
+          "personnel",
+          "sunlight",
+          "machinery",
+          "furniture"
+        ]
+      }
     }
   ],
   "notes": []

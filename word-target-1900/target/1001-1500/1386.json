@@ -12,5 +12,11 @@
       "sentence-jp": "その質問に対する彼の答えは非常にあいまいであった。"
     }
   ],
+  "cloze": {
+    "maskedText": "Her reply was too ____ to understand.",
+    "answerBase": "ambiguous",
+    "answerSurface": "ambiguous",
+    "choices": ["ambiguous", "infinite", "vocal", "gross"]
+  },
   "notes": []
 }

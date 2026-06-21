@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "People riding trains usually try to keep the noise level to a minimum.",
-      "sentence-jp": "電車に乗っている人は普通，雑音レベルを最小限に保とうとする。"
+      "sentence-jp": "電車に乗っている人は普通，雑音レベルを最小限に保とうとする。",
+      "cloze": {
+        "maskedText": "People riding trains usually try to keep the noise level to a ____.",
+        "answerBase": "minimum",
+        "answerSurface": "minimum",
+        "choices": [
+          "minimum",
+          "virus",
+          "frame",
+          "clue"
+        ]
+      }
     }
   ],
   "notes": []

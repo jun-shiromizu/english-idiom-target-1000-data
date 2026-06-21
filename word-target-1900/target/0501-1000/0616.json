@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "He invested some of his money in high-tech stocks.",
-      "sentence-jp": "彼は自分の金の一部をハイテク株に投資した。"
+      "sentence-jp": "彼は自分の金の一部をハイテク株に投資した。",
+      "cloze": {
+        "maskedText": "He ____ some of his money in high-tech stocks.",
+        "answerBase": "invest",
+        "answerSurface": "invested",
+        "choices": [
+          "invested",
+          "bothered",
+          "reserved",
+          "illustrated"
+        ]
+      }
     }
   ],
   "notes": []

@@ -12,7 +12,18 @@
         "all kinds [sorts] of ~"
       ],
       "example-sentence": "Wildlife rangers find all manner of items including toothbrushes in dead animals’ stomachs.",
-      "sentence-jp": "野生動物保護官は、死んだ動物の胃の中に歯ブラシを含むあらゆる種類のものを見つける。"
+      "sentence-jp": "野生動物保護官は、死んだ動物の胃の中に歯ブラシを含むあらゆる種類のものを見つける。",
+      "cloze": {
+        "maskedText": "Wildlife rangers find ____ items including toothbrushes in dead animals’ stomachs.",
+        "answerBase": "all manner of ~",
+        "answerSurface": "all manner of",
+        "choices": [
+          "all manner of",
+          "quite a few",
+          "many a",
+          "every other"
+        ]
+      }
     }
   ],
   "notes": [

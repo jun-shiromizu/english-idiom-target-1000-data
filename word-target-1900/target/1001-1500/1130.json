@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "If the bomb had exploded, many people would have suffered injuries.",
-      "sentence-jp": "もし爆弾が爆発していたら，多くの人がけがをしていただろう。"
+      "sentence-jp": "もし爆弾が爆発していたら，多くの人がけがをしていただろう。",
+      "cloze": {
+        "maskedText": "If the bomb had ____, many people would have suffered injuries.",
+        "answerBase": "explode",
+        "answerSurface": "exploded",
+        "choices": ["exploded", "ceased", "commuted", "compromised"]
+      }
     }
   ],
   "notes": []

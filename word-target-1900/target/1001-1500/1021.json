@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The salesperson cheated his customers out of their money.",
-      "sentence-jp": "その販売員は顧客から金をだまし取った。"
+      "sentence-jp": "その販売員は顧客から金をだまし取った。",
+      "cloze": {
+        "maskedText": "The salesperson ____ his customers out of their money.",
+        "answerBase": "cheat",
+        "answerSurface": "cheated",
+        "choices": ["cheated", "obeyed", "transmitted", "thrilled"]
+      }
     }
   ],
   "notes": []

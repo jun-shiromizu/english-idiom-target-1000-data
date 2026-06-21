@@ -12,5 +12,11 @@
       "sentence-jp": "彼はその計画を見直すために専門家チームを集めた。"
     }
   ],
+  "cloze": {
+    "maskedText": "They will ____ the furniture after delivery.",
+    "answerBase": "assemble",
+    "answerSurface": "assemble",
+    "choices": ["assemble", "descend", "prevail", "rub"]
+  },
   "notes": []
 }

@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She quoted an old Chinese proverb in her speech.",
-      "sentence-jp": "彼女は演説の中で古い中国のことわざを引用した。"
+      "sentence-jp": "彼女は演説の中で古い中国のことわざを引用した。",
+      "cloze": {
+        "maskedText": "She ____ an old Chinese proverb in her speech.",
+        "answerBase": "quote",
+        "answerSurface": "quoted",
+        "choices": ["quoted", "excluded", "burst", "healed"]
+      }
     }
   ],
   "notes": []

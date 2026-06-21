@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "While playing tennis, I twisted my ankle.",
-      "sentence-jp": "テニスをしていて，私は足首をひねった。"
+      "sentence-jp": "テニスをしていて，私は足首をひねった。",
+      "cloze": {
+        "maskedText": "While playing tennis, I ____ my ankle.",
+        "answerBase": "twist",
+        "answerSurface": "twisted",
+        "choices": ["twisted", "crushed", "pinned", "implemented"]
+      }
     }
   ],
   "notes": []

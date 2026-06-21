@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Computers are getting faster at processing algorithms these days.",
-      "sentence-jp": "最近，コンピューターはアルゴリズムの処理がより速くなりつつある。"
+      "sentence-jp": "最近，コンピューターはアルゴリズムの処理がより速くなりつつある。",
+      "cloze": {
+        "maskedText": "Computers are getting faster at processing ____ these days.",
+        "answerBase": "algorithm",
+        "answerSurface": "algorithms",
+        "choices": [
+          "algorithms",
+          "domains",
+          "margins",
+          "ideologies"
+        ]
+      }
     }
   ],
   "notes": []

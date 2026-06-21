@@ -13,7 +13,18 @@
         "be cautious about [of] ~"
       ],
       "example-sentence": "We should be wary of telephone calls from strangers.",
-      "sentence-jp": "私たちは知らない人からの電話に用心するべきだ。"
+      "sentence-jp": "私たちは知らない人からの電話に用心するべきだ。",
+      "cloze": {
+        "maskedText": "We should be ____ telephone calls from strangers.",
+        "answerBase": "be wary of ~",
+        "answerSurface": "wary of",
+        "choices": [
+          "wary of",
+          "grateful for",
+          "particular about",
+          "in danger of"
+        ]
+      }
     }
   ],
   "notes": []

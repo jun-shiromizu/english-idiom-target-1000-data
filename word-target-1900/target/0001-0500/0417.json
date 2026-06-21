@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "The library is located on the main street.",
-      "sentence-jp": "図書館は大通りに位置している。"
+      "sentence-jp": "図書館は大通りに位置している。",
+      "cloze": {
+        "maskedText": "The library is ____ on the main street.",
+        "answerBase": "locate",
+        "answerSurface": "located",
+        "choices": [
+          "located",
+          "painted",
+          "borrowed",
+          "invited"
+        ]
+      }
     }
   ],
   "notes": []

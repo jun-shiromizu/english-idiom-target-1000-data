@@ -12,5 +12,11 @@
       "sentence-jp": "その古来の習慣の起源は知られていないままだ。"
     }
   ],
+  "cloze": {
+    "maskedText": "The author's early works remained ____ for years.",
+    "answerBase": "obscure",
+    "answerSurface": "obscure",
+    "choices": ["obscure", "fragile", "gradual", "vocal"]
+  },
   "notes": []
 }

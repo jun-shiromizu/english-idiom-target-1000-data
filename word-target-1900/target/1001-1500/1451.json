@@ -12,5 +12,11 @@
       "sentence-jp": "この椅子は人がよい姿勢を保つ助けになる。"
     }
   ],
+  "cloze": {
+    "maskedText": "Sitting straight improves your ____.",
+    "answerBase": "posture",
+    "answerSurface": "posture",
+    "choices": ["posture", "curse", "maze", "rubbish"]
+  },
   "notes": []
 }

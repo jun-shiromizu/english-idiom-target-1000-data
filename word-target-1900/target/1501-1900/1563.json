@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The mummy found in the tomb was buried with a lot of gold.",
-      "sentence-jp": "その墓で見つかったミイラは多くの金製品とともに埋葬されていた。"
+      "sentence-jp": "その墓で見つかったミイラは多くの金製品とともに埋葬されていた。",
+      "cloze": {
+        "maskedText": "The ____ found in the tomb was buried with a lot of gold.",
+        "answerBase": "mummy",
+        "answerSurface": "mummy",
+        "choices": [
+          "mummy",
+          "warrior",
+          "soldier",
+          "artist"
+        ]
+      }
     }
   ],
   "notes": []

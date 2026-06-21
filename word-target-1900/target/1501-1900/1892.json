@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "I do not like his cynical view of society.",
-      "sentence-jp": "私は彼の冷笑的な社会観が好きではない。"
+      "sentence-jp": "私は彼の冷笑的な社会観が好きではない。",
+      "cloze": {
+        "maskedText": "I do not like his ____ view of society.",
+        "answerBase": "cynical",
+        "answerSurface": "cynical",
+        "choices": [
+          "cynical",
+          "earnest",
+          "timid",
+          "eloquent"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Every country has the right to defend itself against a military attack.",
-      "sentence-jp": "どの国も軍事攻撃から自国を防御する権利を有している。"
+      "sentence-jp": "どの国も軍事攻撃から自国を防御する権利を有している。",
+      "cloze": {
+        "maskedText": "Every country has the right to ____ itself against a military attack.",
+        "answerBase": "defend",
+        "answerSurface": "defend",
+        "choices": ["defend", "measure", "repeat", "gather"]
+      }
     }
   ],
   "notes": []

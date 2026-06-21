@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Eventually, there will be a transition to self-driving cars.",
-      "sentence-jp": "ゆくゆくは，自動運転の車への移行が起こるだろう。"
+      "sentence-jp": "ゆくゆくは，自動運転の車への移行が起こるだろう。",
+      "cloze": {
+        "maskedText": "Eventually, there will be a ____ to self-driving cars.",
+        "answerBase": "transition",
+        "answerSurface": "transition",
+        "choices": ["transition", "allergy", "skeleton", "stroke"]
+      }
     }
   ],
   "notes": []

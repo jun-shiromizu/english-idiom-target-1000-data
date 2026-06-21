@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Sarah interrupted my conversation with Jill.",
-      "sentence-jp": "サラは私とジルの会話を中断させた。"
+      "sentence-jp": "サラは私とジルの会話を中断させた。",
+      "cloze": {
+        "maskedText": "Sarah ____ my conversation with Jill.",
+        "answerBase": "interrupt",
+        "answerSurface": "interrupted",
+        "choices": [
+          "interrupted",
+          "registered",
+          "corresponded",
+          "imposed"
+        ]
+      }
     }
   ],
   "notes": []

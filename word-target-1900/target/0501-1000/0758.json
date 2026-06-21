@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He explained how useful the workshop sessions were.",
-      "sentence-jp": "彼はその研修会がどれほど役立つかを説明した。"
+      "sentence-jp": "彼はその研修会がどれほど役立つかを説明した。",
+      "cloze": {
+        "maskedText": "He explained how useful the workshop ____ were.",
+        "answerBase": "session",
+        "answerSurface": "sessions",
+        "choices": [
+          "sessions",
+          "agents",
+          "globes",
+          "sacrifices"
+        ]
+      }
     }
   ],
   "notes": []

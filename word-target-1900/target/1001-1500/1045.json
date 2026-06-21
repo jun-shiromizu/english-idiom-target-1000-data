@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "After receiving a compliment from his teacher, he smiled back.",
-      "sentence-jp": "先生から賛辞を受けた後，彼はほほえみを返した。"
+      "sentence-jp": "先生から賛辞を受けた後，彼はほほえみを返した。",
+      "cloze": {
+        "maskedText": "After receiving a ____ from his teacher, he smiled back.",
+        "answerBase": "compliment",
+        "answerSurface": "compliment",
+        "choices": ["compliment", "ray", "ethic", "molecule"]
+      }
     }
   ],
   "notes": []

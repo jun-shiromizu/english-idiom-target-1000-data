@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "His extrovert speaking style helped him make many friends.",
-      "sentence-jp": "彼の外向的な話し方は彼が多くの友人を作る助けとなった。"
+      "sentence-jp": "彼の外向的な話し方は彼が多くの友人を作る助けとなった。",
+      "cloze": {
+        "maskedText": "His ____ speaking style helped him make many friends.",
+        "answerBase": "extrovert",
+        "answerSurface": "extrovert",
+        "choices": [
+          "extrovert",
+          "careless",
+          "formal",
+          "fragile"
+        ]
+      }
     }
   ],
   "notes": []

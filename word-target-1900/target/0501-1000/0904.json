@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He got injured when he slipped on ice on the street.",
-      "sentence-jp": "通りに張った氷の上で滑ったとき，彼はけがをした。"
+      "sentence-jp": "通りに張った氷の上で滑ったとき，彼はけがをした。",
+      "cloze": {
+        "maskedText": "He got injured when he ____ on ice on the street.",
+        "answerBase": "slip",
+        "answerSurface": "slipped",
+        "choices": ["slipped", "gazed", "loaded", "substituted"]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "He is keen to gather information about the new company.",
-      "sentence-jp": "彼はその新会社に関する情報を集めるのに熱心である。"
+      "sentence-jp": "彼はその新会社に関する情報を集めるのに熱心である。",
+      "cloze": {
+        "maskedText": "He is ____ to gather information about the new company.",
+        "answerBase": "keen",
+        "answerSurface": "keen",
+        "choices": ["keen", "cruel", "fake", "spiritual"]
+      }
     }
   ],
   "notes": []

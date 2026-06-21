@@ -12,5 +12,11 @@
       "sentence-jp": "社長はこれほど有能な秘書がいることを幸運だと思っていた。"
     }
   ],
+  "cloze": {
+    "maskedText": "She is highly ____ at handling customer complaints.",
+    "answerBase": "competent",
+    "answerSurface": "competent",
+    "choices": ["competent", "asset", "bug", "consent"]
+  },
   "notes": []
 }

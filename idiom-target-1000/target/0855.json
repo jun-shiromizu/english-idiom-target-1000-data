@@ -13,7 +13,18 @@
         "pay attention to ~"
       ],
       "example-sentence": "Katy took a few days off to attend to her personal matters.",
-      "sentence-jp": "ケイティは自身の個人的な問題を処理するために数日休暇を取った。"
+      "sentence-jp": "ケイティは自身の個人的な問題を処理するために数日休暇を取った。",
+      "cloze": {
+        "maskedText": "Katy took a few days off to ____ her personal matters.",
+        "answerBase": "attend to ~",
+        "answerSurface": "attend to",
+        "choices": [
+          "attend to",
+          "aspire to",
+          "submit to",
+          "consent to"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Germany decided to gradually stop using nuclear energy.",
-      "sentence-jp": "ドイツは原子力の使用を徐々にやめることを決定した。"
+      "sentence-jp": "ドイツは原子力の使用を徐々にやめることを決定した。",
+      "cloze": {
+        "maskedText": "Germany decided to gradually stop using ____ energy.",
+        "answerBase": "nuclear",
+        "answerSurface": "nuclear",
+        "choices": [
+          "nuclear",
+          "rural",
+          "mass",
+          "domestic"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "A detailed analysis of the DNA shows that the men are brothers.",
-      "sentence-jp": "DNAの詳細な分析結果はその男性たちが兄弟であることを示している。"
+      "sentence-jp": "DNAの詳細な分析結果はその男性たちが兄弟であることを示している。",
+      "cloze": {
+        "maskedText": "A detailed ____ of the DNA shows that the men are brothers.",
+        "answerBase": "analysis",
+        "answerSurface": "analysis",
+        "choices": [
+          "analysis",
+          "journey",
+          "atmosphere",
+          "campaign"
+        ]
+      }
     }
   ],
   "notes": []

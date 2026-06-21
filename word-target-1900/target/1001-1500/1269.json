@@ -12,5 +12,11 @@
       "sentence-jp": "彼らは倒壊したビルの残骸を片づけている。"
     }
   ],
+  "cloze": {
+    "maskedText": "Workers cleared away the ____ after the storm.",
+    "answerBase": "debris",
+    "answerSurface": "debris",
+    "choices": ["debris", "commodity", "republic", "consent"]
+  },
   "notes": []
 }

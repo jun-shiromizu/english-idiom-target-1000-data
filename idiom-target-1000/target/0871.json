@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Father passed out last night and was rushed to the hospital by ambulance.",
-      "sentence-jp": "お父さんは昨夜気絶して、救急車で病院に急いで搬送された。"
+      "sentence-jp": "お父さんは昨夜気絶して、救急車で病院に急いで搬送された。",
+      "cloze": {
+        "maskedText": "Father ____ last night and was rushed to the hospital by ambulance.",
+        "answerBase": "pass out",
+        "answerSurface": "passed out",
+        "choices": [
+          "passed out",
+          "wound up",
+          "caught on",
+          "hung around"
+        ]
+      }
     }
   ],
   "notes": [

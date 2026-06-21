@@ -12,5 +12,11 @@
       "sentence-jp": "コンピューター・リテラシーは大学での学習に不可欠である。"
     }
   ],
+  "cloze": {
+    "maskedText": "Clean water is ____ for human life.",
+    "answerBase": "indispensable",
+    "answerSurface": "indispensable",
+    "choices": ["indispensable", "ambiguous", "scarce", "vivid"]
+  },
   "notes": []
 }

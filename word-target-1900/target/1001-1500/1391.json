@@ -12,5 +12,11 @@
       "sentence-jp": "その水域のクジラの数は緩やかな増加をしてきている。"
     }
   ],
+  "cloze": {
+    "maskedText": "We saw a ____ improvement in her condition.",
+    "answerBase": "gradual",
+    "answerSurface": "gradual",
+    "choices": ["gradual", "imperial", "fragile", "vocal"]
+  },
   "notes": []
 }

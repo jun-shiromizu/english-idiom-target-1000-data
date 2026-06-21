@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Her doctor advised her to cultivate healthier lifestyle habits.",
-      "sentence-jp": "主治医は彼女にもっと健康的な生活習慣を養うように忠告した。"
+      "sentence-jp": "主治医は彼女にもっと健康的な生活習慣を養うように忠告した。",
+      "cloze": {
+        "maskedText": "Her doctor advised her to ____ healthier lifestyle habits.",
+        "answerBase": "cultivate",
+        "answerSurface": "cultivate",
+        "choices": ["cultivate", "underlie", "anticipate", "pause"]
+      }
     }
   ],
   "notes": []

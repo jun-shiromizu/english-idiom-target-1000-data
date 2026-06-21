@@ -12,5 +12,11 @@
       "sentence-jp": "もしその買い物が価値のあるものであるならば，私はお金を使うことを気にしない。"
     }
   ],
+  "cloze": {
+    "maskedText": "It was a ____ experience for the whole team.",
+    "answerBase": "worthwhile",
+    "answerSurface": "worthwhile",
+    "choices": ["worthwhile", "static", "vocal", "hostile"]
+  },
   "notes": []
 }

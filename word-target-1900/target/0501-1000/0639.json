@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "This medicine is used to ease stomach pain.",
-      "sentence-jp": "この薬は胃痛を軽減するのに用いられる。"
+      "sentence-jp": "この薬は胃痛を軽減するのに用いられる。",
+      "cloze": {
+        "maskedText": "This medicine is used to ____ stomach pain.",
+        "answerBase": "ease",
+        "answerSurface": "ease",
+        "choices": [
+          "ease",
+          "launch",
+          "import",
+          "investigate"
+        ]
+      }
     }
   ],
   "notes": []

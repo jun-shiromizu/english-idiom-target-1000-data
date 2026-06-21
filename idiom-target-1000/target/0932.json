@@ -13,7 +13,18 @@
         "quite a lot of ~"
       ],
       "example-sentence": "I’ve read quite a few self-help books in my life, and learned a lot from them.",
-      "sentence-jp": "私はこれまでにかなりの数の自己啓発本を読んできて、それらから多くのことを学んだ。"
+      "sentence-jp": "私はこれまでにかなりの数の自己啓発本を読んできて、それらから多くのことを学んだ。",
+      "cloze": {
+        "maskedText": "I’ve read ____ self-help books in my life, and learned a lot from them.",
+        "answerBase": "quite a few ~",
+        "answerSurface": "quite a few",
+        "choices": [
+          "quite a few",
+          "all manner of",
+          "for a rainy day",
+          "at issue"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "There are clear advantages to using timber for building a house.",
-      "sentence-jp": "家を建てるのに木材を使用することには明白な利点がある。"
+      "sentence-jp": "家を建てるのに木材を使用することには明白な利点がある。",
+      "cloze": {
+        "maskedText": "There are clear advantages to using ____ for building a house.",
+        "answerBase": "timber",
+        "answerSurface": "timber",
+        "choices": [
+          "timber",
+          "plastic",
+          "paper",
+          "sand"
+        ]
+      }
     }
   ],
   "notes": []

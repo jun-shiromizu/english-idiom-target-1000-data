@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She stood up and stretched her arms forward.",
-      "sentence-jp": "彼女は立ち上がり両腕を前に伸ばした。"
+      "sentence-jp": "彼女は立ち上がり両腕を前に伸ばした。",
+      "cloze": {
+        "maskedText": "She stood up and ____ her arms forward.",
+        "answerBase": "stretch",
+        "answerSurface": "stretched",
+        "choices": [
+          "stretched",
+          "conveyed",
+          "permitted",
+          "suspected"
+        ]
+      }
     }
   ],
   "notes": []

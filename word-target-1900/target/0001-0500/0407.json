@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The manager sold the office building to generate income for the company.",
-      "sentence-jp": "その経営者は会社の利益を生み出すために社屋を売却した。"
+      "sentence-jp": "その経営者は会社の利益を生み出すために社屋を売却した。",
+      "cloze": {
+        "maskedText": "The manager sold the office building to ____ income for the company.",
+        "answerBase": "generate",
+        "answerSurface": "generate",
+        "choices": [
+          "generate",
+          "fold",
+          "delay",
+          "translate"
+        ]
+      }
     }
   ],
   "notes": []

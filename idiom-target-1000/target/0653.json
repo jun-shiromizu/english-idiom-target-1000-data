@@ -9,7 +9,18 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "When Sam visited the small fishing village, a wind farm was under construction nearby.",
-      "sentence-jp": "サムが小さな漁村を訪れたとき、近くで風力発電所が建設中だった。"
+      "sentence-jp": "サムが小さな漁村を訪れたとき、近くで風力発電所が建設中だった。",
+      "cloze": {
+        "maskedText": "When Sam visited the small fishing village, a wind farm was ____ nearby.",
+        "answerBase": "under construction",
+        "answerSurface": "under construction",
+        "choices": [
+          "under construction",
+          "under way",
+          "of his own accord",
+          "behind the times"
+        ]
+      }
     }
   ],
   "notes": [

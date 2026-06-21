@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "It is illegal to forge a passport.",
-      "sentence-jp": "パスポートを偽造するのは違法である。"
+      "sentence-jp": "パスポートを偽造するのは違法である。",
+      "cloze": {
+        "maskedText": "It is illegal to ____ a passport.",
+        "answerBase": "forge",
+        "answerSurface": "forge",
+        "choices": [
+          "forge",
+          "lend",
+          "repair",
+          "display"
+        ]
+      }
     }
   ],
   "notes": []

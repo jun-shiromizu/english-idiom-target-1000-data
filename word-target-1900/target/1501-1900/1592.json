@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "I have a sore throat due to a cold.",
-      "sentence-jp": "私は風邪のせいでのどが痛い。"
+      "sentence-jp": "私は風邪のせいでのどが痛い。",
+      "cloze": {
+        "maskedText": "I have a ____ throat due to a cold.",
+        "answerBase": "sore",
+        "answerSurface": "sore",
+        "choices": [
+          "sore",
+          "crude",
+          "vain",
+          "sheer"
+        ]
+      }
     }
   ],
   "notes": []

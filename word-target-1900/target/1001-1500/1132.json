@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "If mass transit isn't available, people will commute with cars.",
-      "sentence-jp": "大量輸送機関が利用できないと，人々は車で通勤するだろう。"
+      "sentence-jp": "大量輸送機関が利用できないと，人々は車で通勤するだろう。",
+      "cloze": {
+        "maskedText": "If mass transit isn't available, people will ____ with cars.",
+        "answerBase": "commute",
+        "answerSurface": "commute",
+        "choices": ["commute", "decorate", "cease", "elect"]
+      }
     }
   ],
   "notes": []

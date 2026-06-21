@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "To apply for a passport, he attached his photo to the form.",
-      "sentence-jp": "パスポートを申請するのに，彼は申請書に写真を貼り付けた。"
+      "sentence-jp": "パスポートを申請するのに，彼は申請書に写真を貼り付けた。",
+      "cloze": {
+        "maskedText": "To apply for a passport, he ____ his photo to the form.",
+        "answerBase": "attach",
+        "answerSurface": "attached",
+        "choices": [
+          "attached",
+          "puzzled",
+          "disturbed",
+          "impressed"
+        ]
+      }
     }
   ],
   "notes": []

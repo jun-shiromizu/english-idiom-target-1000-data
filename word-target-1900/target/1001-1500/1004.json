@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The police arrested the suspect on charges of supplying drugs.",
-      "sentence-jp": "警察は麻薬を供給した罪でその容疑者を逮捕した。"
+      "sentence-jp": "警察は麻薬を供給した罪でその容疑者を逮捕した。",
+      "cloze": {
+        "maskedText": "The police ____ the suspect on charges of supplying drugs.",
+        "answerBase": "arrest",
+        "answerSurface": "arrested",
+        "choices": ["arrested", "grasped", "burst", "quoted"]
+      }
     }
   ],
   "notes": []

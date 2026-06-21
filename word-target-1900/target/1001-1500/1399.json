@@ -12,5 +12,11 @@
       "sentence-jp": "ロシア語はその本来的に備わった特性のせいで習得するのが難しい。"
     }
   ],
+  "cloze": {
+    "maskedText": "There are ____ risks in the job.",
+    "answerBase": "inherent",
+    "answerSurface": "inherent",
+    "choices": ["inherent", "compulsory", "hostile", "vivid"]
+  },
   "notes": []
 }

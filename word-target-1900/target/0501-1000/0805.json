@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The manager's brave decision yielded unexpected results.",
-      "sentence-jp": "その経営者の勇気ある決断は思いがけない結果をもたらした。"
+      "sentence-jp": "その経営者の勇気ある決断は思いがけない結果をもたらした。",
+      "cloze": {
+        "maskedText": "The manager's brave decision ____ unexpected results.",
+        "answerBase": "yield",
+        "answerSurface": "yielded",
+        "choices": [
+          "yielded",
+          "approved",
+          "commanded",
+          "occupied"
+        ]
+      }
     }
   ],
   "notes": []

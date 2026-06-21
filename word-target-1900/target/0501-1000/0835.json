@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The student was punished for his poor behavior.",
-      "sentence-jp": "その生徒は不品行で罰せられた。"
+      "sentence-jp": "その生徒は不品行で罰せられた。",
+      "cloze": {
+        "maskedText": "The student was ____ for his poor behavior.",
+        "answerBase": "punish",
+        "answerSurface": "punished",
+        "choices": ["punished", "applauded", "invited", "consulted"]
+      }
     }
   ],
   "notes": []

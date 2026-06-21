@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Many charities distribute food to victims in disaster areas.",
-      "sentence-jp": "多くの慈善事業は被災地で被災者に食料を分配する。"
+      "sentence-jp": "多くの慈善事業は被災地で被災者に食料を分配する。",
+      "cloze": {
+        "maskedText": "Many charities ____ food to victims in disaster areas.",
+        "answerBase": "distribute",
+        "answerSurface": "distribute",
+        "choices": [
+          "distribute",
+          "command",
+          "occupy",
+          "pose"
+        ]
+      }
     }
   ],
   "notes": []

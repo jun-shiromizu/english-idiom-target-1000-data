@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "His mother would often praise him for his good school performance.",
-      "sentence-jp": "彼の母は学校の成績がいいことでよく彼を賞賛したものだ。"
+      "sentence-jp": "彼の母は学校の成績がいいことでよく彼を賞賛したものだ。",
+      "cloze": {
+        "maskedText": "His mother would often ____ him for his good school performance.",
+        "answerBase": "praise",
+        "answerSurface": "praise",
+        "choices": [
+          "praise",
+          "damage",
+          "bury",
+          "enter"
+        ]
+      }
     }
   ],
   "notes": []

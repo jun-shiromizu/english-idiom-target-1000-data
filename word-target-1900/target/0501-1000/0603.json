@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Some say that traveling abroad will enhance your job opportunities.",
-      "sentence-jp": "海外旅行が仕事の機会を増やすことになると言う人がいる。"
+      "sentence-jp": "海外旅行が仕事の機会を増やすことになると言う人がいる。",
+      "cloze": {
+        "maskedText": "Some say that traveling abroad will ____ your job opportunities.",
+        "answerBase": "enhance",
+        "answerSurface": "enhance",
+        "choices": [
+          "enhance",
+          "react",
+          "stare",
+          "quit"
+        ]
+      }
     }
   ],
   "notes": []

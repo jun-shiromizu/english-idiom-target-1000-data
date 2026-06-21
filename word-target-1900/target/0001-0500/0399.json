@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Japanese people can easily travel overseas if the yen is strong.",
-      "sentence-jp": "円高であれば，日本人は容易に海外へ旅行することができる。"
+      "sentence-jp": "円高であれば，日本人は容易に海外へ旅行することができる。",
+      "cloze": {
+        "maskedText": "Japanese people can easily travel ____ if the yen is strong.",
+        "answerBase": "overseas",
+        "answerSurface": "overseas",
+        "choices": [
+          "overseas",
+          "suddenly",
+          "quietly",
+          "briefly"
+        ]
+      }
     }
   ],
   "notes": []

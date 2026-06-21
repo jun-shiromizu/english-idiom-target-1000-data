@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The man modified the car's engine to make it go faster.",
-      "sentence-jp": "その男性はもっと速く走らせるためにその車のエンジンを改造した。"
+      "sentence-jp": "その男性はもっと速く走らせるためにその車のエンジンを改造した。",
+      "cloze": {
+        "maskedText": "The man ____ the car's engine to make it go faster.",
+        "answerBase": "modify",
+        "answerSurface": "modified",
+        "choices": ["modified", "delivered", "attacked", "folded"]
+      }
     }
   ],
   "notes": []

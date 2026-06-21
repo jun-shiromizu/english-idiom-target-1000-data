@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Children can walk around in the shallow end of the pool.",
-      "sentence-jp": "子供たちはプールの浅いほうの端で歩き回ることができる。"
+      "sentence-jp": "子供たちはプールの浅いほうの端で歩き回ることができる。",
+      "cloze": {
+        "maskedText": "Children can walk around in the ____ end of the pool.",
+        "answerBase": "shallow",
+        "answerSurface": "shallow",
+        "choices": ["shallow", "indifferent", "inferior", "simultaneous"]
+      }
     }
   ],
   "notes": []

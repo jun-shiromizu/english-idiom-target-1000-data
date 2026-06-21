@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "The earth rotates about 1, 700 kilometers per hour.",
-      "sentence-jp": "地球は時速約1,700キロメートルの速さで自転している。"
+      "sentence-jp": "地球は時速約1,700キロメートルの速さで自転している。",
+      "cloze": {
+        "maskedText": "The earth ____ about 1, 700 kilometers per hour.",
+        "answerBase": "rotate",
+        "answerSurface": "rotates",
+        "choices": [
+          "rotates",
+          "shrinks",
+          "rests",
+          "travels"
+        ]
+      }
     }
   ],
   "notes": []

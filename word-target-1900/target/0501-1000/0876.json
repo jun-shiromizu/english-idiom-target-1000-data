@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The town council decided to cut down the roadside trees.",
-      "sentence-jp": "町議会は道路わきの木を切り倒すことに決めた。"
+      "sentence-jp": "町議会は道路わきの木を切り倒すことに決めた。",
+      "cloze": {
+        "maskedText": "The town ____ decided to cut down the roadside trees.",
+        "answerBase": "council",
+        "answerSurface": "council",
+        "choices": ["council", "shadow", "lecture", "engine"]
+      }
     }
   ],
   "notes": []

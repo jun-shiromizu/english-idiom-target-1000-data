@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Many people in town wanted to hold a memorial service in honor of the late mayor.",
-      "sentence-jp": "町の多くの人々は亡くなった市長に敬意を表して追悼式を開きたいと思った。"
+      "sentence-jp": "町の多くの人々は亡くなった市長に敬意を表して追悼式を開きたいと思った。",
+      "cloze": {
+        "maskedText": "Many people in town wanted to hold a memorial service ____ the late mayor.",
+        "answerBase": "in honor of ~",
+        "answerSurface": "in honor of",
+        "choices": [
+          "in honor of",
+          "in place of",
+          "in harmony with",
+          "in exchange for"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She is preoccupied with taking care of her father.",
-      "sentence-jp": "彼女は父親の介護に心を奪われている。"
+      "sentence-jp": "彼女は父親の介護に心を奪われている。",
+      "cloze": {
+        "maskedText": "She is ____ with taking care of her father.",
+        "answerBase": "preoccupy",
+        "answerSurface": "preoccupied",
+        "choices": [
+          "preoccupied",
+          "provided",
+          "delighted",
+          "associated"
+        ]
+      }
     }
   ],
   "notes": []

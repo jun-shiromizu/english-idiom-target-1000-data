@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "His approach seems to capture the essential characteristics of visual art.",
-      "sentence-jp": "彼の手法は視覚芸術の本質的特徴をとらえているように思える。"
+      "sentence-jp": "彼の手法は視覚芸術の本質的特徴をとらえているように思える。",
+      "cloze": {
+        "maskedText": "His approach seems to ____ the essential characteristics of visual art.",
+        "answerBase": "capture",
+        "answerSurface": "capture",
+        "choices": [
+          "capture",
+          "react",
+          "disagree",
+          "quit"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "He felt let down when she failed to do what she’d promised.",
-      "sentence-jp": "彼女が約束したことをできなかったとき、彼は失望させられたと感じた。"
+      "sentence-jp": "彼女が約束したことをできなかったとき、彼は失望させられたと感じた。",
+      "cloze": {
+        "maskedText": "He felt ____ when she failed to do what she’d promised.",
+        "answerBase": "let down ~",
+        "answerSurface": "let down",
+        "choices": [
+          "let down",
+          "pulled off",
+          "made do",
+          "found himself"
+        ]
+      }
     }
   ],
   "notes": [

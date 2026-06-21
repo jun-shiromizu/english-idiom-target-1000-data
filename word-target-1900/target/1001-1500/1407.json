@@ -12,5 +12,11 @@
       "sentence-jp": "その男性はすべての植物に殺虫剤を吹きかけた。"
     }
   ],
+  "cloze": {
+    "maskedText": "They ____ the wall with fresh paint.",
+    "answerBase": "spray",
+    "answerSurface": "sprayed",
+    "choices": ["sprayed", "retrieved", "comprehended", "departed"]
+  },
   "notes": []
 }

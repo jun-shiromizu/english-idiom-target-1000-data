@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "My hometown lies remote from cities.",
-      "sentence-jp": "私の故郷は都市から離れた所にある。"
+      "sentence-jp": "私の故郷は都市から離れた所にある。",
+      "cloze": {
+        "maskedText": "My hometown lies ____ from cities.",
+        "answerBase": "remote",
+        "answerSurface": "remote",
+        "choices": [
+          "remote",
+          "solid",
+          "absolute",
+          "frequent"
+        ]
+      }
     }
   ],
   "notes": []

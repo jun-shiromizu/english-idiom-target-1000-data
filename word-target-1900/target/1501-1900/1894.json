@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "I want to be away from my monotonous daily life.",
-      "sentence-jp": "私は単調な日常生活から離れていたい。"
+      "sentence-jp": "私は単調な日常生活から離れていたい。",
+      "cloze": {
+        "maskedText": "I want to be away from my ____ daily life.",
+        "answerBase": "monotonous",
+        "answerSurface": "monotonous",
+        "choices": [
+          "monotonous",
+          "cheerful",
+          "private",
+          "humid"
+        ]
+      }
     }
   ],
   "notes": []

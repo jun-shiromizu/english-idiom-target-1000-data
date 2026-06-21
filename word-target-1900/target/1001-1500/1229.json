@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The sailboat slowly drifted in the sea.",
-      "sentence-jp": "帆船はゆっくりと海の上を漂った。"
+      "sentence-jp": "帆船はゆっくりと海の上を漂った。",
+      "cloze": {
+        "maskedText": "The sailboat slowly ____ in the sea.",
+        "answerBase": "drift",
+        "answerSurface": "drifted",
+        "choices": ["drifted", "forgave", "twisted", "implemented"]
+      }
     }
   ],
   "notes": []

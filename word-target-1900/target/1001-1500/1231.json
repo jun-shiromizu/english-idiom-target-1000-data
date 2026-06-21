@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "I need to revise my essay draft by next Monday.",
-      "sentence-jp": "私は次の月曜日までに小論文の草稿を修正する必要がある。"
+      "sentence-jp": "私は次の月曜日までに小論文の草稿を修正する必要がある。",
+      "cloze": {
+        "maskedText": "I need to ____ my essay draft by next Monday.",
+        "answerBase": "revise",
+        "answerSurface": "revise",
+        "choices": ["revise", "recruit", "uncover", "integrate"]
+      }
     }
   ],
   "notes": []

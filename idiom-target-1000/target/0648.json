@@ -12,7 +12,18 @@
         "in one’s favor"
       ],
       "example-sentence": "It’s clearly to your advantage to be versed in the latest information technology.",
-      "sentence-jp": "最新の情報技術に精通していることは、明らかにあなたにとって都合がよい。"
+      "sentence-jp": "最新の情報技術に精通していることは、明らかにあなたにとって都合がよい。",
+      "cloze": {
+        "maskedText": "It’s clearly ____ to be versed in the latest information technology.",
+        "answerBase": "to one's advantage",
+        "answerSurface": "to your advantage",
+        "choices": [
+          "to your advantage",
+          "to the point",
+          "for sure",
+          "of late"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The long heavy rain completely ruined our holiday.",
-      "sentence-jp": "激しい長雨が私たちの休日を完全に台無しにした。"
+      "sentence-jp": "激しい長雨が私たちの休日を完全に台無しにした。",
+      "cloze": {
+        "maskedText": "The long heavy rain completely ____ our holiday.",
+        "answerBase": "ruin",
+        "answerSurface": "ruined",
+        "choices": ["ruined", "expanded", "noticed", "borrowed"]
+      }
     }
   ],
   "notes": []

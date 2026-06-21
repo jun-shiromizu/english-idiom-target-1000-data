@@ -10,7 +10,18 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "In order to reduce pollution, everyone should use public transportation as much as possible.",
-      "sentence-jp": "汚染を減らすためには、全員ができる限り公共交通機関を使うべきだ。"
+      "sentence-jp": "汚染を減らすためには、全員ができる限り公共交通機関を使うべきだ。",
+      "cloze": {
+        "maskedText": "____ reduce pollution, everyone should use public transportation as much as possible.",
+        "answerBase": "in order to do / so as to do",
+        "answerSurface": "In order to",
+        "choices": [
+          "In order to",
+          "In that",
+          "By means of",
+          "On behalf of"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She undertook the task of preparing all the necessary materials.",
-      "sentence-jp": "彼女は必要な資料をすべてそろえるという仕事を引き受けた。"
+      "sentence-jp": "彼女は必要な資料をすべてそろえるという仕事を引き受けた。",
+      "cloze": {
+        "maskedText": "She ____ the task of preparing all the necessary materials.",
+        "answerBase": "undertake",
+        "answerSurface": "undertook",
+        "choices": ["undertook", "gripped", "faded", "migrated"]
+      }
     }
   ],
   "notes": []

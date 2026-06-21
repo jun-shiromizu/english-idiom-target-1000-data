@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He is famous as a magazine editor.",
-      "sentence-jp": "彼は雑誌編集者として有名である。"
+      "sentence-jp": "彼は雑誌編集者として有名である。",
+      "cloze": {
+        "maskedText": "He is famous as a magazine ____.",
+        "answerBase": "editor",
+        "answerSurface": "editor",
+        "choices": [
+          "editor",
+          "agent",
+          "globe",
+          "league"
+        ]
+      }
     }
   ],
   "notes": []

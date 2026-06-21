@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Shame is a negative feeling towards oneself.",
-      "sentence-jp": "恥は自分自身に対する否定的な感情である。"
+      "sentence-jp": "恥は自分自身に対する否定的な感情である。",
+      "cloze": {
+        "maskedText": "____ is a negative feeling towards oneself.",
+        "answerBase": "shame",
+        "answerSurface": "Shame",
+        "choices": ["Shame", "Harvest", "Package", "Festival"]
+      }
     }
   ],
   "notes": []

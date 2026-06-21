@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "He felt bad when someone mocked his repeated mistakes.",
-      "sentence-jp": "彼はだれかが自分の度重なる失敗をばかにしたとき，嫌な気分になった。"
+      "sentence-jp": "彼はだれかが自分の度重なる失敗をばかにしたとき，嫌な気分になった。",
+      "cloze": {
+        "maskedText": "He felt bad when someone ____ his repeated mistakes.",
+        "answerBase": "mock",
+        "answerSurface": "mocked",
+        "choices": [
+          "mocked",
+          "repaired",
+          "accepted",
+          "measured"
+        ]
+      }
     }
   ],
   "notes": []

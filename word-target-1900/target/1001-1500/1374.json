@@ -12,5 +12,11 @@
       "sentence-jp": "彼女は医者になることが自分の運命だと思っていた。"
     }
   ],
+  "cloze": {
+    "maskedText": "He felt it was his ____ to become a musician.",
+    "answerBase": "destiny",
+    "answerSurface": "destiny",
+    "choices": ["destiny", "kidney", "proverb", "aisle"]
+  },
   "notes": []
 }

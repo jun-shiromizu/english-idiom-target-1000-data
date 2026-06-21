@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Gasses like carbon dioxide increase the temperature in the atmosphere.",
-      "sentence-jp": "二酸化炭素のような気体は大気の温度を上昇させる。"
+      "sentence-jp": "二酸化炭素のような気体は大気の温度を上昇させる。",
+      "cloze": {
+        "maskedText": "Gasses like carbon dioxide increase the temperature in the ____.",
+        "answerBase": "atmosphere",
+        "answerSurface": "atmosphere",
+        "choices": [
+          "atmosphere",
+          "section",
+          "garage",
+          "journey"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,13 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "Other people would do likewise in this kind of situation.",
-      "sentence-jp": "この種の状況においてはほかの人々も同じようにするだろう。"
+      "sentence-jp": "この種の状況においてはほかの人々も同じようにするだろう。",
+      "cloze": {
+        "maskedText": "Other people would do ____ in this kind of situation.",
+        "answerBase": "likewise",
+        "answerSurface": "likewise",
+        "choices": ["likewise", "barely", "politely", "privately"]
+      }
     }
   ],
   "notes": []

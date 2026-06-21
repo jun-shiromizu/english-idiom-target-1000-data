@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She was born and brought up in a tropical country.",
-      "sentence-jp": "彼女は熱帯の国で生まれ育った。"
+      "sentence-jp": "彼女は熱帯の国で生まれ育った。",
+      "cloze": {
+        "maskedText": "She was born and brought up in a ____ country.",
+        "answerBase": "tropical",
+        "answerSurface": "tropical",
+        "choices": [
+          "tropical",
+          "raw",
+          "extinct",
+          "intense"
+        ]
+      }
     }
   ],
   "notes": []

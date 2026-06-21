@@ -12,5 +12,11 @@
       "sentence-jp": "母親は赤ん坊を繊細な注意を払って扱う。"
     }
   ],
+  "cloze": {
+    "maskedText": "The baby has very ____ skin.",
+    "answerBase": "delicate",
+    "answerSurface": "delicate",
+    "choices": ["delicate", "ongoing", "interior", "wireless"]
+  },
   "notes": []
 }

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "The doctor prescribed some medicine for my high blood pressure.",
-      "sentence-jp": "医師は私の高血圧の薬を処方した。"
+      "sentence-jp": "医師は私の高血圧の薬を処方した。",
+      "cloze": {
+        "maskedText": "The doctor ____ some medicine for my high blood pressure.",
+        "answerBase": "prescribe",
+        "answerSurface": "prescribed",
+        "choices": [
+          "prescribed",
+          "prepared",
+          "discovered",
+          "contained"
+        ]
+      }
     }
   ],
   "notes": []

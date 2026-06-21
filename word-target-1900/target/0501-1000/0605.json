@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Life is decided by how you react to what happens to you.",
-      "sentence-jp": "人生は自分の身に起こることにどう反応するかによって決定される。"
+      "sentence-jp": "人生は自分の身に起こることにどう反応するかによって決定される。",
+      "cloze": {
+        "maskedText": "Life is decided by how you ____ to what happens to you.",
+        "answerBase": "react",
+        "answerSurface": "react",
+        "choices": [
+          "react",
+          "stimulate",
+          "enhance",
+          "pursue"
+        ]
+      }
     }
   ],
   "notes": []

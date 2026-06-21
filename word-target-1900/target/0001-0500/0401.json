@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The book demonstrates that education shapes the society.",
-      "sentence-jp": "その本は教育が社会を形作るということを論証している。"
+      "sentence-jp": "その本は教育が社会を形作るということを論証している。",
+      "cloze": {
+        "maskedText": "The book ____ that education shapes the society.",
+        "answerBase": "demonstrate",
+        "answerSurface": "demonstrates",
+        "choices": [
+          "demonstrates",
+          "borrows",
+          "travels",
+          "whispers"
+        ]
+      }
     }
   ],
   "notes": []

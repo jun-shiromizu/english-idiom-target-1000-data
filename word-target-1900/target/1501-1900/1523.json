@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "She resumed her career after two years of maternity leave.",
-      "sentence-jp": "彼女は2年間の産休の後，仕事を再開した。"
+      "sentence-jp": "彼女は2年間の産休の後，仕事を再開した。",
+      "cloze": {
+        "maskedText": "She ____ her career after two years of maternity leave.",
+        "answerBase": "resume",
+        "answerSurface": "resumed",
+        "choices": [
+          "resumed",
+          "changed",
+          "abandoned",
+          "enjoyed"
+        ]
+      }
     }
   ],
   "notes": []

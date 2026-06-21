@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Some teenagers shun their parents in front of their friends.",
-      "sentence-jp": "ティーンエージャーの中には友人の前では自分の親を避ける者もいる。"
+      "sentence-jp": "ティーンエージャーの中には友人の前では自分の親を避ける者もいる。",
+      "cloze": {
+        "maskedText": "Some teenagers ____ their parents in front of their friends.",
+        "answerBase": "shun",
+        "answerSurface": "shun",
+        "choices": [
+          "shun",
+          "praise",
+          "teach",
+          "comfort"
+        ]
+      }
     }
   ],
   "notes": []

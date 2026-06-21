@@ -10,7 +10,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "comparative-expression",
       "example-sentence": "Twenty years on, John says he would rather eat Japanese food than any other kind.",
-      "sentence-jp": "あれから20年たって、ジョンはほかのどんなものよりもむしろ日本食を食べたいと言っている。"
+      "sentence-jp": "あれから20年たって、ジョンはほかのどんなものよりもむしろ日本食を食べたいと言っている。",
+      "cloze": {
+        "maskedText": "Twenty years on, John says he ____ Japanese food than any other kind.",
+        "answerBase": "would rather do (than ~) / had rather do (than ~)",
+        "answerSurface": "would rather eat",
+        "choices": [
+          "would rather eat",
+          "is as good as",
+          "is as interesting as any",
+          "got all the more nervous"
+        ]
+      }
     }
   ],
   "notes": [

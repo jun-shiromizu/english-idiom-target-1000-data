@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Human language allows us to talk about abstract concepts.",
-      "sentence-jp": "人間の言語は私たちが抽象的概念について語るのを可能にする。"
+      "sentence-jp": "人間の言語は私たちが抽象的概念について語るのを可能にする。",
+      "cloze": {
+        "maskedText": "Human language allows us to talk about ____ concepts.",
+        "answerBase": "abstract",
+        "answerSurface": "abstract",
+        "choices": [
+          "abstract",
+          "minor",
+          "stable",
+          "curious"
+        ]
+      }
     }
   ],
   "notes": []

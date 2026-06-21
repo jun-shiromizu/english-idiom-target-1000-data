@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Most food is susceptible to heat, so it is wise to store it in a cool place.",
-      "sentence-jp": "たいていの食品は熱の影響を受けやすいので，涼しい場所に保管するのが賢明である。"
+      "sentence-jp": "たいていの食品は熱の影響を受けやすいので，涼しい場所に保管するのが賢明である。",
+      "cloze": {
+        "maskedText": "Most food is ____ to heat, so it is wise to store it in a cool place.",
+        "answerBase": "susceptible",
+        "answerSurface": "susceptible",
+        "choices": [
+          "susceptible",
+          "prone",
+          "explicit",
+          "affluent"
+        ]
+      }
     }
   ],
   "notes": []

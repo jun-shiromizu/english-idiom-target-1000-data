@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She came up against a strong opponent in the final match.",
-      "sentence-jp": "彼女は決勝戦で手ごわい相手と対戦した。"
+      "sentence-jp": "彼女は決勝戦で手ごわい相手と対戦した。",
+      "cloze": {
+        "maskedText": "She came up against a strong ____ in the final match.",
+        "answerBase": "opponent",
+        "answerSurface": "opponent",
+        "choices": [
+          "opponent",
+          "guard",
+          "tissue",
+          "justice"
+        ]
+      }
     }
   ],
   "notes": []

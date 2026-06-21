@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "He is notorious for putting his work off.",
-      "sentence-jp": "彼は仕事を先延ばしにすることで悪名高い。"
+      "sentence-jp": "彼は仕事を先延ばしにすることで悪名高い。",
+      "cloze": {
+        "maskedText": "He is ____ for putting his work off.",
+        "answerBase": "notorious",
+        "answerSurface": "notorious",
+        "choices": [
+          "notorious",
+          "grateful",
+          "gentle",
+          "modest"
+        ]
+      }
     }
   ],
   "notes": []

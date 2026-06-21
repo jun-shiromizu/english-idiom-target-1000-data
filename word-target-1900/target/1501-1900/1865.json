@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She bought a new outfit for attending a wedding reception.",
-      "sentence-jp": "彼女は結婚披露宴に出席するための新しい衣装一式を買った。"
+      "sentence-jp": "彼女は結婚披露宴に出席するための新しい衣装一式を買った。",
+      "cloze": {
+        "maskedText": "She bought a new ____ for attending a wedding reception.",
+        "answerBase": "outfit",
+        "answerSurface": "outfit",
+        "choices": [
+          "outfit",
+          "device",
+          "chapter",
+          "method"
+        ]
+      }
     }
   ],
   "notes": []

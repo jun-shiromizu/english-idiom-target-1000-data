@@ -13,7 +13,18 @@
         "without anyone’s help"
       ],
       "example-sentence": "He’s the type who prefers to do things on his own rather than to work with others.",
-      "sentence-jp": "彼は他人と一緒に働くよりも自分1人で物事をするのを好むタイプだ。"
+      "sentence-jp": "彼は他人と一緒に働くよりも自分1人で物事をするのを好むタイプだ。",
+      "cloze": {
+        "maskedText": "He’s the type who prefers to do things ____ rather than to work with others.",
+        "answerBase": "(all) on one’s own",
+        "answerSurface": "on his own",
+        "choices": [
+          "on his own",
+          "at stake",
+          "for a rainy day",
+          "in check"
+        ]
+      }
     }
   ],
   "notes": []

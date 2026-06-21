@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Learning how to read helps children pronounce words better.",
-      "sentence-jp": "読み方を学ぶことは，子供がもっと上手に言葉を発音する助けとなる。"
+      "sentence-jp": "読み方を学ぶことは，子供がもっと上手に言葉を発音する助けとなる。",
+      "cloze": {
+        "maskedText": "Learning how to read helps children ____ words better.",
+        "answerBase": "pronounce",
+        "answerSurface": "pronounce",
+        "choices": ["pronounce", "restore", "grab", "retain"]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She was intrigued by the article about a recently discovered plant.",
-      "sentence-jp": "彼女は最近発見された植物に関する記事に興味を抱いた。"
+      "sentence-jp": "彼女は最近発見された植物に関する記事に興味を抱いた。",
+      "cloze": {
+        "maskedText": "She was ____ by the article about a recently discovered plant.",
+        "answerBase": "intrigue",
+        "answerSurface": "intrigued",
+        "choices": [
+          "intrigued",
+          "amused",
+          "frightened",
+          "surrounded"
+        ]
+      }
     }
   ],
   "notes": []

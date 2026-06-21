@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Let’s get down to business: there’s a lot of work to do today.",
-      "sentence-jp": "仕事に本気で取り掛かりましょう。今日はたくさんやることがあるから。"
+      "sentence-jp": "仕事に本気で取り掛かりましょう。今日はたくさんやることがあるから。",
+      "cloze": {
+        "maskedText": "Let’s ____ business: there’s a lot of work to do today.",
+        "answerBase": "get down to ~",
+        "answerSurface": "get down to",
+        "choices": [
+          "get down to",
+          "let down",
+          "pull off",
+          "make do with"
+        ]
+      }
     }
   ],
   "notes": []

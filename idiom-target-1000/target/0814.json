@@ -12,7 +12,18 @@
         "take things easy"
       ],
       "example-sentence": "You’ve been very busy the whole week; maybe it’s best to take it easy over the weekend.",
-      "sentence-jp": "あなたはまる1週間とても忙しかった。週末はのんびりするのがいいでしょう。"
+      "sentence-jp": "あなたはまる1週間とても忙しかった。週末はのんびりするのがいいでしょう。",
+      "cloze": {
+        "maskedText": "You’ve been very busy the whole week; maybe it’s best to ____ over the weekend.",
+        "answerBase": "take it easy",
+        "answerSurface": "take it easy",
+        "choices": [
+          "take it easy",
+          "take your time",
+          "think again",
+          "see much of him"
+        ]
+      }
     }
   ],
   "notes": [

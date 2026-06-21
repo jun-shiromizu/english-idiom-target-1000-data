@@ -12,7 +12,18 @@
         "only if ..."
       ],
       "example-sentence": "Lily said that she would prefer a larger home if only her family could afford it.",
-      "sentence-jp": "リリーは家族に金銭的余裕がありさえすれば、より大きい家のほうがいいと言った。"
+      "sentence-jp": "リリーは家族に金銭的余裕がありさえすれば、より大きい家のほうがいいと言った。",
+      "cloze": {
+        "maskedText": "Lily said that she would prefer a larger home ____ her family could afford it.",
+        "answerBase": "if only ...",
+        "answerSurface": "if only",
+        "choices": [
+          "if only",
+          "if it were not for",
+          "in the way",
+          "to death"
+        ]
+      }
     },
     {
       "idiom-jp": "(現在・未来の願望を表して)…でさえあればなあ",
@@ -22,7 +33,18 @@
         "I wish ..."
       ],
       "example-sentence": "If only I could make them understand my viewpoint.",
-      "sentence-jp": "彼らに私の視点を理解させることができさえすればいいのに。"
+      "sentence-jp": "彼らに私の視点を理解させることができさえすればいいのに。",
+      "cloze": {
+        "maskedText": "____ I could make them understand my viewpoint.",
+        "answerBase": "if only ...",
+        "answerSurface": "If only",
+        "choices": [
+          "If only",
+          "Believe it or not",
+          "No wonder",
+          "It happens that"
+        ]
+      }
     }
   ],
   "notes": [

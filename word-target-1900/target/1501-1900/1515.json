@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The elevator accommodates up to 12 people.",
-      "sentence-jp": "そのエレベーターは最大12人まで収容する。"
+      "sentence-jp": "そのエレベーターは最大12人まで収容する。",
+      "cloze": {
+        "maskedText": "The elevator ____ up to 12 people.",
+        "answerBase": "accommodate",
+        "answerSurface": "accommodates",
+        "choices": [
+          "accommodates",
+          "protects",
+          "transports",
+          "discourages"
+        ]
+      }
     }
   ],
   "notes": []

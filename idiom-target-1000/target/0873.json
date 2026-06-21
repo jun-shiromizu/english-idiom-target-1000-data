@@ -12,7 +12,18 @@
         "end up"
       ],
       "example-sentence": "I think it’s almost time to wind up this meeting.",
-      "sentence-jp": "そろそろこの会議を終わりにするころだと思います。"
+      "sentence-jp": "そろそろこの会議を終わりにするころだと思います。",
+      "cloze": {
+        "maskedText": "I think it’s almost time to ____ this meeting.",
+        "answerBase": "wind up (~)",
+        "answerSurface": "wind up",
+        "choices": [
+          "wind up",
+          "pass out",
+          "catch on",
+          "hang around"
+        ]
+      }
     }
   ],
   "notes": [

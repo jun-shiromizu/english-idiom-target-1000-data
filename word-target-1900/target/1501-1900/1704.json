@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Passports verify travelers' identity when crossing borders.",
-      "sentence-jp": "パスポートは国境を越える際に旅行者の身元を証明する。"
+      "sentence-jp": "パスポートは国境を越える際に旅行者の身元を証明する。",
+      "cloze": {
+        "maskedText": "Passports ____ travelers' identity when crossing borders.",
+        "answerBase": "verify",
+        "answerSurface": "verify",
+        "choices": [
+          "verify",
+          "invite",
+          "publish",
+          "confuse"
+        ]
+      }
     }
   ],
   "notes": []

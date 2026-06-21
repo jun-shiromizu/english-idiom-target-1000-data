@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Japan imports most of its energy resources from other countries.",
-      "sentence-jp": "日本はエネルギー資源の大半を他国から輸入している。"
+      "sentence-jp": "日本はエネルギー資源の大半を他国から輸入している。",
+      "cloze": {
+        "maskedText": "Japan ____ most of its energy resources from other countries.",
+        "answerBase": "import",
+        "answerSurface": "imports",
+        "choices": [
+          "imports",
+          "exports",
+          "monitors",
+          "launches"
+        ]
+      }
     }
   ],
   "notes": []

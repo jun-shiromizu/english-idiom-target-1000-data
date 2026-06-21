@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The little boat bobbed gently up and down on the water.",
-      "sentence-jp": "小舟が水面で穏やかに上下した。"
+      "sentence-jp": "小舟が水面で穏やかに上下した。",
+      "cloze": {
+        "maskedText": "The little boat ____ gently up and down on the water.",
+        "answerBase": "bob",
+        "answerSurface": "bobbed",
+        "choices": ["bobbed", "submitted", "justified", "regulated"]
+      }
     }
   ],
   "notes": []

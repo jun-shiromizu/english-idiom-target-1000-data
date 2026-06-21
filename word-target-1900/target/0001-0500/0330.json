@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Many politicians have tried to address the problem of street crime.",
-      "sentence-jp": "多くの政治家が路上犯罪の問題に対処しようとしてきた。"
+      "sentence-jp": "多くの政治家が路上犯罪の問題に対処しようとしてきた。",
+      "cloze": {
+        "maskedText": "Many politicians have tried to ____ the problem of street crime.",
+        "answerBase": "address",
+        "answerSurface": "address",
+        "choices": [
+          "address",
+          "repeat",
+          "bury",
+          "release"
+        ]
+      }
     }
   ],
   "notes": []

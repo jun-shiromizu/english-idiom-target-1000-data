@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "The land is fertile enough to grow various crops on.",
-      "sentence-jp": "この土地は種々の作物を育てるのに十分肥沃である。"
+      "sentence-jp": "この土地は種々の作物を育てるのに十分肥沃である。",
+      "cloze": {
+        "maskedText": "The land is ____ enough to grow various crops on.",
+        "answerBase": "fertile",
+        "answerSurface": "fertile",
+        "choices": [
+          "fertile",
+          "fragile",
+          "formal",
+          "silent"
+        ]
+      }
     }
   ],
   "notes": []

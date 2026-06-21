@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "My teeth are extremely sensitive to cold things.",
-      "sentence-jp": "私の歯は冷たい物に極めて敏感である。"
+      "sentence-jp": "私の歯は冷たい物に極めて敏感である。",
+      "cloze": {
+        "maskedText": "My teeth are extremely ____ to cold things.",
+        "answerBase": "sensitive",
+        "answerSurface": "sensitive",
+        "choices": [
+          "sensitive",
+          "crucial",
+          "narrow",
+          "proper"
+        ]
+      }
     }
   ],
   "notes": []

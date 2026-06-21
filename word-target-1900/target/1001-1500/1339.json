@@ -12,5 +12,11 @@
       "sentence-jp": "私のマンションは3つの寝室と台所と居間から成る。"
     }
   ],
+  "cloze": {
+    "maskedText": "The committee ____ ten members.",
+    "answerBase": "comprise",
+    "answerSurface": "comprises",
+    "choices": ["comprises", "compensates", "assembles", "offends"]
+  },
   "notes": []
 }

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Generally speaking, every organism has a biological clock.",
-      "sentence-jp": "一般的に言えば，あらゆる生き物は生物時計を有している。"
+      "sentence-jp": "一般的に言えば，あらゆる生き物は生物時計を有している。",
+      "cloze": {
+        "maskedText": "Generally speaking, every organism has a ____ clock.",
+        "answerBase": "biological",
+        "answerSurface": "biological",
+        "choices": [
+          "biological",
+          "typical",
+          "visual",
+          "overall"
+        ]
+      }
     }
   ],
   "notes": []

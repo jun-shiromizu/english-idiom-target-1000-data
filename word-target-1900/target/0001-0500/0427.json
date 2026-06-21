@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "He insisted on walking to school by himself.",
-      "sentence-jp": "彼はひとりで学校に歩いて行くと主張した。"
+      "sentence-jp": "彼はひとりで学校に歩いて行くと主張した。",
+      "cloze": {
+        "maskedText": "He ____ on walking to school by himself.",
+        "answerBase": "insist",
+        "answerSurface": "insisted",
+        "choices": [
+          "insisted",
+          "painted",
+          "borrowed",
+          "suffered"
+        ]
+      }
     }
   ],
   "notes": []

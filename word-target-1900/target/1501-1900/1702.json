@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The garden is illuminated by rows of LED lights.",
-      "sentence-jp": "庭は何列にも並んだLED照明によって照らされている。"
+      "sentence-jp": "庭は何列にも並んだLED照明によって照らされている。",
+      "cloze": {
+        "maskedText": "The garden is ____ by rows of LED lights.",
+        "answerBase": "illuminate",
+        "answerSurface": "illuminated",
+        "choices": [
+          "illuminated",
+          "damaged",
+          "covered",
+          "measured"
+        ]
+      }
     }
   ],
   "notes": []

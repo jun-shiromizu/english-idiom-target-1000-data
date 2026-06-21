@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Last but not least, salt has many other uses such as melting ice on roads in snowy regions.",
-      "sentence-jp": "最後になったが、雪の多い地方では路上の氷を溶かすなど、塩にはほかのたくさんの用途がある。"
+      "sentence-jp": "最後になったが、雪の多い地方では路上の氷を溶かすなど、塩にはほかのたくさんの用途がある。",
+      "cloze": {
+        "maskedText": "____, salt has many other uses such as melting ice on roads in snowy regions.",
+        "answerBase": "last but not least",
+        "answerSurface": "Last but not least",
+        "choices": [
+          "Last but not least",
+          "The bottom line",
+          "What for",
+          "Have no idea"
+        ]
+      }
     }
   ],
   "notes": [

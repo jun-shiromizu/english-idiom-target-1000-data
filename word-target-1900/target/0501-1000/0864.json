@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Some people think that freedom may be an illusion.",
-      "sentence-jp": "自由とは錯覚かもしれないと考える人がいる。"
+      "sentence-jp": "自由とは錯覚かもしれないと考える人がいる。",
+      "cloze": {
+        "maskedText": "Some people think that freedom may be an ____.",
+        "answerBase": "illusion",
+        "answerSurface": "illusion",
+        "choices": ["illusion", "engine", "cabinet", "climate"]
+      }
     }
   ],
   "notes": []

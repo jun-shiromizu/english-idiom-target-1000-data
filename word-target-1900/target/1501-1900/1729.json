@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Her face was flushed with embarrassment.",
-      "sentence-jp": "彼女の顔は恥ずかしさで紅潮していた。"
+      "sentence-jp": "彼女の顔は恥ずかしさで紅潮していた。",
+      "cloze": {
+        "maskedText": "Her face was ____ with embarrassment.",
+        "answerBase": "flush",
+        "answerSurface": "flushed",
+        "choices": [
+          "flushed",
+          "shared",
+          "filled",
+          "supplied"
+        ]
+      }
     }
   ],
   "notes": []

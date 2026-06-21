@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The best way to relieve your fatigue is to have sufficient sleep.",
-      "sentence-jp": "疲労を和らげる最善の方法は十分な睡眠をとることである。"
+      "sentence-jp": "疲労を和らげる最善の方法は十分な睡眠をとることである。",
+      "cloze": {
+        "maskedText": "The best way to relieve your ____ is to have sufficient sleep.",
+        "answerBase": "fatigue",
+        "answerSurface": "fatigue",
+        "choices": ["fatigue", "panic", "fabric", "virtue"]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I think the fact I have to work irregular hours is part and parcel of being a journalist.",
-      "sentence-jp": "私が不規則な時間に働かねばならないという事実は、ジャーナリストであることの不可分の要素だと私は思う。"
+      "sentence-jp": "私が不規則な時間に働かねばならないという事実は、ジャーナリストであることの不可分の要素だと私は思う。",
+      "cloze": {
+        "maskedText": "I think the fact I have to work irregular hours is ____ being a journalist.",
+        "answerBase": "part and parcel (of ~)",
+        "answerSurface": "part and parcel of",
+        "choices": [
+          "part and parcel of",
+          "all along",
+          "at will",
+          "down the road"
+        ]
+      }
     }
   ],
   "notes": [

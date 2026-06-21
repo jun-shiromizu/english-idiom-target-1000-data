@@ -13,7 +13,18 @@
         "be obliged to do"
       ],
       "example-sentence": "Facing strong opposition from the public, the government was forced to rethink the bill.",
-      "sentence-jp": "国民からの激しい反対に直面して、政府はやむなくその法案を見直した。"
+      "sentence-jp": "国民からの激しい反対に直面して、政府はやむなくその法案を見直した。",
+      "cloze": {
+        "maskedText": "Facing strong opposition from the public, the government was ____ rethink the bill.",
+        "answerBase": "be forced to do",
+        "answerSurface": "forced to",
+        "choices": [
+          "forced to",
+          "supposed to",
+          "entitled to",
+          "apt to"
+        ]
+      }
     }
   ],
   "notes": [

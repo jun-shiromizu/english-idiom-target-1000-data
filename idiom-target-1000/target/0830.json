@@ -14,7 +14,18 @@
         "No kidding?"
       ],
       "example-sentence": "“Oh, no! I forgot to bring the box.” “You’re kidding. We don’t have time to go back home to get it.”",
-      "sentence-jp": "「しまった！その箱を持ってくるのを忘れた」「冗談でしょう。家に戻って取ってくる時間はないよ」"
+      "sentence-jp": "「しまった！その箱を持ってくるのを忘れた」「冗談でしょう。家に戻って取ってくる時間はないよ」",
+      "cloze": {
+        "maskedText": "“Oh, no! I forgot to bring the box.” “____ We don’t have time to go back home to get it.”",
+        "answerBase": "You’re kidding (me).",
+        "answerSurface": "You’re kidding.",
+        "choices": [
+          "You’re kidding.",
+          "My pleasure.",
+          "Here we are.",
+          "I’m afraid not."
+        ]
+      }
     }
   ],
   "notes": [

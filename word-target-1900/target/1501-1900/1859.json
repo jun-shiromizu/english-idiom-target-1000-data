@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "We missed the event due to traffic congestion.",
-      "sentence-jp": "私たちは交通渋滞のせいで，その催しに行きそびれた。"
+      "sentence-jp": "私たちは交通渋滞のせいで，その催しに行きそびれた。",
+      "cloze": {
+        "maskedText": "We missed the event due to traffic ____.",
+        "answerBase": "congestion",
+        "answerSurface": "congestion",
+        "choices": [
+          "congestion",
+          "tradition",
+          "vacation",
+          "education"
+        ]
+      }
     }
   ],
   "notes": []

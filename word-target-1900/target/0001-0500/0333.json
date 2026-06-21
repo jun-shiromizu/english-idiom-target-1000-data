@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Dubai imports sand even though it is surrounded by desert.",
-      "sentence-jp": "ドバイは砂漠に囲まれているのに砂を輸入する。"
+      "sentence-jp": "ドバイは砂漠に囲まれているのに砂を輸入する。",
+      "cloze": {
+        "maskedText": "Dubai imports sand even though it is ____ by desert.",
+        "answerBase": "surround",
+        "answerSurface": "surrounded",
+        "choices": [
+          "surrounded",
+          "divided",
+          "released",
+          "examined"
+        ]
+      }
     }
   ],
   "notes": []

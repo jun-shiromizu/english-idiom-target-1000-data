@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The counselor taught me some ways to diminish anxiety.",
-      "sentence-jp": "カウンセラーは私に不安を減らすためのいくつかの方法を教えてくれた。"
+      "sentence-jp": "カウンセラーは私に不安を減らすためのいくつかの方法を教えてくれた。",
+      "cloze": {
+        "maskedText": "The counselor taught me some ways to ____ anxiety.",
+        "answerBase": "diminish",
+        "answerSurface": "diminish",
+        "choices": ["diminish", "cite", "quote", "distract"]
+      }
     }
   ],
   "notes": []

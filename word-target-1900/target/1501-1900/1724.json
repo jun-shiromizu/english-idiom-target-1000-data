@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He often teased his younger brother for being shorter than him.",
-      "sentence-jp": "彼は自分より背が低いことでよく弟をからかった。"
+      "sentence-jp": "彼は自分より背が低いことでよく弟をからかった。",
+      "cloze": {
+        "maskedText": "He often ____ his younger brother for being shorter than him.",
+        "answerBase": "tease",
+        "answerSurface": "teased",
+        "choices": [
+          "teased",
+          "protected",
+          "invited",
+          "followed"
+        ]
+      }
     }
   ],
   "notes": []

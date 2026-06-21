@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She goes to the shopping mall almost every weekend.",
-      "sentence-jp": "彼女はほぼ週末ごとにそのショッピングモールへ行く。"
+      "sentence-jp": "彼女はほぼ週末ごとにそのショッピングモールへ行く。",
+      "cloze": {
+        "maskedText": "She goes to the shopping ____ almost every weekend.",
+        "answerBase": "mall",
+        "answerSurface": "mall",
+        "choices": ["mall", "cage", "feast", "dawn"]
+      }
     }
   ],
   "notes": []

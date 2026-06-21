@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "For Native American tribes, lacrosse games are major events.",
-      "sentence-jp": "アメリカ先住民の部族にとって，ラクロスの試合は大きな行事である。"
+      "sentence-jp": "アメリカ先住民の部族にとって，ラクロスの試合は大きな行事である。",
+      "cloze": {
+        "maskedText": "For Native American ____, lacrosse games are major events.",
+        "answerBase": "tribe",
+        "answerSurface": "tribes",
+        "choices": [
+          "tribes",
+          "airports",
+          "pillows",
+          "cameras"
+        ]
+      }
     }
   ],
   "notes": []

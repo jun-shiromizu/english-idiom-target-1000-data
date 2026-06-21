@@ -8,8 +8,19 @@
       "idiom-jp": "芸術的な",
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
-      "example-sentence": "I envy him for his artistic gift.",
-      "sentence-jp": "私は彼の芸術的な才能をうらやましいと思う。"
+      "example-sentence": "I envy him for his ____ gift.",
+      "sentence-jp": "私は彼の芸術的な才能をうらやましいと思う。",
+      "cloze": {
+        "maskedText": "I envy him for his ____ gift.",
+        "answerBase": "artistic",
+        "answerSurface": "artistic",
+        "choices": [
+          "artistic",
+          "federal",
+          "subtle",
+          "plain"
+        ]
+      }
     }
   ],
   "notes": []

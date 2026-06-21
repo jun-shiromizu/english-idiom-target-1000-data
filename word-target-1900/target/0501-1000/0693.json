@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "He believes that no one would willingly commit an evil act.",
-      "sentence-jp": "だれも進んで邪悪な行為をすることはないと彼は信じている。"
+      "sentence-jp": "だれも進んで邪悪な行為をすることはないと彼は信じている。",
+      "cloze": {
+        "maskedText": "He believes that no one would willingly commit an ____ act.",
+        "answerBase": "evil",
+        "answerSurface": "evil",
+        "choices": [
+          "evil",
+          "raw",
+          "mere",
+          "tropical"
+        ]
+      }
     }
   ],
   "notes": []

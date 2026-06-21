@@ -13,7 +13,18 @@
         "insofar as ..."
       ],
       "example-sentence": "I don’t mind what time you come to the office as long as it is before 11 a.m.",
-      "sentence-jp": "午前11時前であれば、あなたは何時に会社に来てもかまいません。"
+      "sentence-jp": "午前11時前であれば、あなたは何時に会社に来てもかまいません。",
+      "cloze": {
+        "maskedText": "I don’t mind what time you come to the office ____ it is before 11 a.m.",
+        "answerBase": "as long as ...",
+        "answerSurface": "as long as",
+        "choices": [
+          "as long as",
+          "now that",
+          "given that",
+          "in case"
+        ]
+      }
     }
   ],
   "notes": [

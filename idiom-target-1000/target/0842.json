@@ -12,7 +12,18 @@
         "be all attention"
       ],
       "example-sentence": "The topic the speaker talked on was something I’m very interested in, so I was all ears.",
-      "sentence-jp": "講演者が話したテーマは私がとても興味を持っているものだったので、一心に耳を傾けた。"
+      "sentence-jp": "講演者が話したテーマは私がとても興味を持っているものだったので、一心に耳を傾けた。",
+      "cloze": {
+        "maskedText": "The topic the speaker talked on was something I’m very interested in, so I was ____.",
+        "answerBase": "be all ears",
+        "answerSurface": "all ears",
+        "choices": [
+          "all ears",
+          "all the rage",
+          "out to",
+          "here to stay"
+        ]
+      }
     }
   ],
   "notes": [

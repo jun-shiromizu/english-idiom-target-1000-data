@@ -12,5 +12,11 @@
       "sentence-jp": "彼はあえてだれにも真実を言わなかった。"
     }
   ],
+  "cloze": {
+    "maskedText": "I don't ____ ask her that question.",
+    "answerBase": "dare",
+    "answerSurface": "dare",
+    "choices": ["dare", "strive", "renew", "assert"]
+  },
   "notes": []
 }

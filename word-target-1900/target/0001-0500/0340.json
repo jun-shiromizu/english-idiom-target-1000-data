@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "He does not think that everyone appreciates his talent.",
-      "sentence-jp": "彼はだれもが彼の才能を正当に評価しているとは思っていない。"
+      "sentence-jp": "彼はだれもが彼の才能を正当に評価しているとは思っていない。",
+      "cloze": {
+        "maskedText": "He does not think that everyone ____ his talent.",
+        "answerBase": "appreciate",
+        "answerSurface": "appreciates",
+        "choices": [
+          "appreciates",
+          "destroys",
+          "repeats",
+          "shifts"
+        ]
+      }
     }
   ],
   "notes": []

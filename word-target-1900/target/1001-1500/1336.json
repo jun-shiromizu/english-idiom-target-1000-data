@@ -12,5 +12,11 @@
       "sentence-jp": "彼女は疲れた目をこすりながら夜遅くまで勉強した。"
     }
   ],
+  "cloze": {
+    "maskedText": "He began to ____ his hands to keep warm.",
+    "answerBase": "rub",
+    "answerSurface": "rub",
+    "choices": ["rub", "compute", "assemble", "prevail"]
+  },
   "notes": []
 }

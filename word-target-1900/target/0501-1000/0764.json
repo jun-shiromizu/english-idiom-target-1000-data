@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He got a divorce from his wife.",
-      "sentence-jp": "彼は妻と離婚した。"
+      "sentence-jp": "彼は妻と離婚した。",
+      "cloze": {
+        "maskedText": "He got a ____ from his wife.",
+        "answerBase": "divorce",
+        "answerSurface": "divorce",
+        "choices": [
+          "divorce",
+          "glance",
+          "guard",
+          "guideline"
+        ]
+      }
     }
   ],
   "notes": []

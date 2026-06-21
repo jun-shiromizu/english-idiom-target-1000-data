@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "This device is used to pump oxygen into a patient's body.",
-      "sentence-jp": "この装置は患者の体の中に酸素を送り込むのに用いられる。"
+      "sentence-jp": "この装置は患者の体の中に酸素を送り込むのに用いられる。",
+      "cloze": {
+        "maskedText": "This device is used to ____ oxygen into a patient's body.",
+        "answerBase": "pump",
+        "answerSurface": "pump",
+        "choices": ["pump", "hesitate", "consult", "fulfill"]
+      }
     }
   ],
   "notes": []

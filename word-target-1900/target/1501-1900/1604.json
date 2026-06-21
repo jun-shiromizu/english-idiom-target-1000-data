@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Jack prospered in business in his hometown.",
-      "sentence-jp": "ジャックは故郷で事業に成功した。"
+      "sentence-jp": "ジャックは故郷で事業に成功した。",
+      "cloze": {
+        "maskedText": "Jack ____ in business in his hometown.",
+        "answerBase": "prosper",
+        "answerSurface": "prospered",
+        "choices": [
+          "prospered",
+          "wandered",
+          "hesitated",
+          "complained"
+        ]
+      }
     }
   ],
   "notes": []

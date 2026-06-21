@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "The doctor advised Ella to avoid eating dairy products.",
-      "sentence-jp": "医師はエラに乳製品をとるのを避けるように忠告した。"
+        "sentence-jp": "医師はエラに乳製品をとるのを避けるように忠告した。",
+      "cloze": {
+        "maskedText": "The doctor ____ Ella to avoid eating dairy products.",
+        "answerBase": "advise",
+        "answerSurface": "advised",
+        "choices": [
+          "advised",
+          "invested",
+          "traced",
+          "coped"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "In 2016, the U.S. President paid a visit to Hiroshima for the first time in history.",
-      "sentence-jp": "2016年、アメリカ合衆国大統領が歴史上初めて広島を訪問した。"
+      "sentence-jp": "2016年、アメリカ合衆国大統領が歴史上初めて広島を訪問した。",
+      "cloze": {
+        "maskedText": "In 2016, the U.S. President ____ Hiroshima for the first time in history.",
+        "answerBase": "pay a visit (to ~)",
+        "answerSurface": "paid a visit to",
+        "choices": [
+          "paid a visit to",
+          "served right to",
+          "went to the polls in",
+          "stuck around in"
+        ]
+      }
     }
   ],
   "notes": [

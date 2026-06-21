@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He is a mere child, so he said some silly things.",
-      "sentence-jp": "彼はほんの子供なのでばかげたことを言った。"
+      "sentence-jp": "彼はほんの子供なのでばかげたことを言った。",
+      "cloze": {
+        "maskedText": "He is a ____ child, so he said some silly things.",
+        "answerBase": "mere",
+        "answerSurface": "mere",
+        "choices": [
+          "mere",
+          "rude",
+          "evil",
+          "random"
+        ]
+      }
     }
   ],
   "notes": []

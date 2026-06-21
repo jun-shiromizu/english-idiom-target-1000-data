@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Japan has a little land suitable for agriculture.",
-      "sentence-jp": "日本は農業に適した土地がわずかしかない。"
+      "sentence-jp": "日本は農業に適した土地がわずかしかない。",
+      "cloze": {
+        "maskedText": "Japan has a little land suitable for ____.",
+        "answerBase": "agriculture",
+        "answerSurface": "agriculture",
+        "choices": [
+          "agriculture",
+          "psychology",
+          "vocabulary",
+          "document"
+        ]
+      }
     }
   ],
   "notes": []

@@ -12,5 +12,11 @@
       "sentence-jp": "警察の徹底的な調査が事故の原因を明らかにした。"
     }
   ],
+  "cloze": {
+    "maskedText": "They carried out a ____ search of the building.",
+    "answerBase": "thorough",
+    "answerSurface": "thorough",
+    "choices": ["thorough", "supreme", "vacuum", "triumph"]
+  },
   "notes": []
 }

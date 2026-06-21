@@ -12,5 +12,11 @@
       "sentence-jp": "突然の大きな雷の音は私たちをびっくりさせた。"
     }
   ],
+  "cloze": {
+    "maskedText": "The sudden scream ____ everyone in the room.",
+    "answerBase": "startle",
+    "answerSurface": "startled",
+    "choices": ["startled", "renewed", "asserted", "computed"]
+  },
   "notes": []
 }

@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "After the traffic accident, he lost all sensation in his fingers.",
-      "sentence-jp": "交通事故の後，彼は指の全感覚を失った。"
+      "sentence-jp": "交通事故の後，彼は指の全感覚を失った。",
+      "cloze": {
+        "maskedText": "After the traffic accident, he lost all ____ in his fingers.",
+        "answerBase": "sensation",
+        "answerSurface": "sensation",
+        "choices": ["sensation", "formation", "geography", "semester"]
+      }
     }
   ],
   "notes": []

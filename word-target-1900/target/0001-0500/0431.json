@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She rejected the job offer due to its low pay.",
-      "sentence-jp": "彼女は低い賃金のためにその仕事の申し出を拒否した。"
+      "sentence-jp": "彼女は低い賃金のためにその仕事の申し出を拒否した。",
+      "cloze": {
+        "maskedText": "She ____ the job offer due to its low pay.",
+        "answerBase": "reject",
+        "answerSurface": "rejected",
+        "choices": [
+          "rejected",
+          "greeted",
+          "visited",
+          "packed"
+        ]
+      }
     }
   ],
   "notes": []

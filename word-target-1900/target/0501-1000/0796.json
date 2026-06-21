@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "He gave her a pure gold necklace for her birthday.",
-      "sentence-jp": "彼は彼女の誕生日に純金のネックレスをプレゼントした。"
+      "sentence-jp": "彼は彼女の誕生日に純金のネックレスをプレゼントした。",
+      "cloze": {
+        "maskedText": "He gave her a ____ gold necklace for her birthday.",
+        "answerBase": "pure",
+        "answerSurface": "pure",
+        "choices": [
+          "pure",
+          "guilty",
+          "apparent",
+          "temporary"
+        ]
+      }
     }
   ],
   "notes": []

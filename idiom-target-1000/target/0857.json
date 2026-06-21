@@ -14,7 +14,18 @@
         "yield to ~"
       ],
       "example-sentence": "After two months of intense struggle, it seemed as if he’d decided to submit to his fate.",
-      "sentence-jp": "2か月間の苦闘の末、彼は運命に屈することを決めたように思われた。"
+      "sentence-jp": "2か月間の苦闘の末、彼は運命に屈することを決めたように思われた。",
+      "cloze": {
+        "maskedText": "After two months of intense struggle, it seemed as if he’d decided to ____ his fate.",
+        "answerBase": "submit to ~",
+        "answerSurface": "submit to",
+        "choices": [
+          "submit to",
+          "consent to",
+          "attend to",
+          "aspire to"
+        ]
+      }
     }
   ],
   "notes": []

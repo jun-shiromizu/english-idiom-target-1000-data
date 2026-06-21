@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "The little boy already shows a lot of masculine qualities.",
-      "sentence-jp": "その幼い少年はすでにたくさんの男らしい性質を示している。"
+      "sentence-jp": "その幼い少年はすでにたくさんの男らしい性質を示している。",
+      "cloze": {
+        "maskedText": "The little boy already shows a lot of ____ qualities.",
+        "answerBase": "masculine",
+        "answerSurface": "masculine",
+        "choices": [
+          "masculine",
+          "fragile",
+          "modest",
+          "silent"
+        ]
+      }
     }
   ],
   "notes": []

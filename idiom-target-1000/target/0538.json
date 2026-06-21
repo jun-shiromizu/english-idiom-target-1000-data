@@ -13,7 +13,18 @@
         "have trouble (in) doing"
       ],
       "example-sentence": "I had difficulty focusing on studying because I wanted to watch my favorite movie on TV.",
-      "sentence-jp": "私はテレビで好きな映画を見たかったので、勉強に集中するのが困難だった。"
+      "sentence-jp": "私はテレビで好きな映画を見たかったので、勉強に集中するのが困難だった。",
+      "cloze": {
+        "maskedText": "I ____ focusing on studying because I wanted to watch my favorite movie on TV.",
+        "answerBase": "have difficulty (in) doing",
+        "answerSurface": "had difficulty",
+        "choices": [
+          "had difficulty",
+          "had access to",
+          "had a say in",
+          "had a strong influence on"
+        ]
+      }
     }
   ],
   "notes": [

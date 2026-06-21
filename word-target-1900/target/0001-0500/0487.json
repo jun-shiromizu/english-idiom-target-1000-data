@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "If you prefer contemporary art, you should visit Tate Modern.",
-      "sentence-jp": "現代美術が好みなら，テートモダン美術館を訪れるべきだ。"
+      "sentence-jp": "現代美術が好みなら，テートモダン美術館を訪れるべきだ。",
+      "cloze": {
+        "maskedText": "If you prefer ____ art, you should visit Tate Modern.",
+        "answerBase": "contemporary",
+        "answerSurface": "contemporary",
+        "choices": [
+          "contemporary",
+          "careful",
+          "narrow",
+          "distant"
+        ]
+      }
     }
   ],
   "notes": []

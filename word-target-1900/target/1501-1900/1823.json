@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Ten percent of the budget is allocated to national defense.",
-      "sentence-jp": "予算の10パーセントが国防に割り当てられている。"
+      "sentence-jp": "予算の10パーセントが国防に割り当てられている。",
+      "cloze": {
+        "maskedText": "Ten percent of the budget is ____ to national defense.",
+        "answerBase": "allocate",
+        "answerSurface": "allocated",
+        "choices": [
+          "allocated",
+          "limited",
+          "compared",
+          "introduced"
+        ]
+      }
     }
   ],
   "notes": []

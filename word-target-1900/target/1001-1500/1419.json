@@ -12,5 +12,11 @@
       "sentence-jp": "医師は患者が軽い病気にかかっていると診断した。"
     }
   ],
+  "cloze": {
+    "maskedText": "Doctors can now ____ the disease earlier.",
+    "answerBase": "diagnose",
+    "answerSurface": "diagnose",
+    "choices": ["diagnose", "depart", "beg", "bloom"]
+  },
   "notes": []
 }

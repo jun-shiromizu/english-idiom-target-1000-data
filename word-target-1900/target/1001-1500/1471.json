@@ -12,5 +12,11 @@
       "sentence-jp": "その会社は金属刃の代わりにセラミックスの刃を販売することを決めた。"
     }
   ],
+  "cloze": {
+    "maskedText": "Be careful with the sharp ____ of the knife.",
+    "answerBase": "blade",
+    "answerSurface": "blade",
+    "choices": ["blade", "vacuum", "revenue", "spectator"]
+  },
   "notes": []
 }

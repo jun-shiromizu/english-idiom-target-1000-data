@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "My parents had me clean up the mess in the living room.",
-      "sentence-jp": "私の両親は私に居間の散らかった物を片づけさせた。"
+      "sentence-jp": "私の両親は私に居間の散らかった物を片づけさせた。",
+      "cloze": {
+        "maskedText": "My parents had me clean up the ____ in the living room.",
+        "answerBase": "mess",
+        "answerSurface": "mess",
+        "choices": ["mess", "retreat", "grave", "tablet"]
+      }
     }
   ],
   "notes": []

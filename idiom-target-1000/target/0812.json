@@ -12,7 +12,18 @@
         "Why (...)?"
       ],
       "example-sentence": "How come you didn’t show up for the morning practice yesterday?",
-      "sentence-jp": "どうして昨日、朝の練習に出なかったのですか。"
+      "sentence-jp": "どうして昨日、朝の練習に出なかったのですか。",
+      "cloze": {
+        "maskedText": "____ you didn’t show up for the morning practice yesterday?",
+        "answerBase": "How come (...)?",
+        "answerSurface": "How come",
+        "choices": [
+          "How come",
+          "What for",
+          "What ... like",
+          "Last but not least"
+        ]
+      }
     }
   ],
   "notes": [

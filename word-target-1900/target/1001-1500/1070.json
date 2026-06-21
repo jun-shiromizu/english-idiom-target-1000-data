@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Even a fingerprint left on a glass may cause a complaint from a customer.",
-      "sentence-jp": "グラスに残っている指紋でさえも客からの苦情を招くことがある。"
+      "sentence-jp": "グラスに残っている指紋でさえも客からの苦情を招くことがある。",
+      "cloze": {
+        "maskedText": "Even a ____ left on a glass may cause a complaint from a customer.",
+        "answerBase": "fingerprint",
+        "answerSurface": "fingerprint",
+        "choices": ["fingerprint", "wilderness", "fantasy", "virtue"]
+      }
     }
   ],
   "notes": []

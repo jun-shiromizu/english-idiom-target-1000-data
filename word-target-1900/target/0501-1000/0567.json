@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Teachers often deal with the discipline problems of their students.",
-      "sentence-jp": "教師はよく生徒のしつけの問題に対処する。"
+      "sentence-jp": "教師はよく生徒のしつけの問題に対処する。",
+      "cloze": {
+        "maskedText": "Teachers often deal with the ____ problems of their students.",
+        "answerBase": "discipline",
+        "answerSurface": "discipline",
+        "choices": [
+          "discipline",
+          "candidate",
+          "innovation",
+          "emergency"
+        ]
+      }
     }
   ],
   "notes": []

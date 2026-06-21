@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "We need not be embarrassed about what we don't know.",
-      "sentence-jp": "私たちは知らないことについて恥ずかしい思いをする必要はない。"
+      "sentence-jp": "私たちは知らないことについて恥ずかしい思いをする必要はない。",
+      "cloze": {
+        "maskedText": "We need not be ____ about what we don't know.",
+        "answerBase": "embarrass",
+        "answerSurface": "embarrassed",
+        "choices": [
+          "embarrassed",
+          "guaranteed",
+          "detected",
+          "melted"
+        ]
+      }
     }
   ],
   "notes": []

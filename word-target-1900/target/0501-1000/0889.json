@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "More manual laborers may be needed in Japan in the future.",
-      "sentence-jp": "将来日本では，より多くの肉体労働者が必要になるかもしれない。"
+      "sentence-jp": "将来日本では，より多くの肉体労働者が必要になるかもしれない。",
+      "cloze": {
+        "maskedText": "More ____ laborers may be needed in Japan in the future.",
+        "answerBase": "manual",
+        "answerSurface": "manual",
+        "choices": ["manual", "gentle", "curious", "similar"]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She suspects gender bias in the company's salaries for women.",
-      "sentence-jp": "彼女は会社の女性の給料に性別による偏見があるのではと疑っている。"
+      "sentence-jp": "彼女は会社の女性の給料に性別による偏見があるのではと疑っている。",
+      "cloze": {
+        "maskedText": "She suspects gender ____ in the company's salaries for women.",
+        "answerBase": "bias",
+        "answerSurface": "bias",
+        "choices": [
+          "bias",
+          "discount",
+          "component",
+          "reputation"
+        ]
+      }
     }
   ],
   "notes": []

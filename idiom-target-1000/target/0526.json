@@ -13,7 +13,18 @@
         "take a chance [chances]"
       ],
       "example-sentence": "If you want to be successful in business, you must be willing to take a few risks.",
-      "sentence-jp": "ビジネスで成功したければ、あなたは進んで多少の危険を冒さなければならない。"
+      "sentence-jp": "ビジネスで成功したければ、あなたは進んで多少の危険を冒さなければならない。",
+      "cloze": {
+        "maskedText": "If you want to be successful in business, you must be willing to ____.",
+        "answerBase": "take a risk / take risks",
+        "answerSurface": "take a few risks",
+        "choices": [
+          "take a few risks",
+          "take turns",
+          "shake hands",
+          "have a say"
+        ]
+      }
     }
   ],
   "notes": [

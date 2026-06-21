@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "We were astonished at the surprise visit of the famous actor.",
-      "sentence-jp": "私たちは有名な俳優の突然の訪問に驚いた。"
+      "sentence-jp": "私たちは有名な俳優の突然の訪問に驚いた。",
+      "cloze": {
+        "maskedText": "We were ____ at the surprise visit of the famous actor.",
+        "answerBase": "astonish",
+        "answerSurface": "astonished",
+        "choices": ["astonished", "equipped", "governed", "logged"]
+      }
     }
   ],
   "notes": []

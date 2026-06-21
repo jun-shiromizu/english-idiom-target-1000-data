@@ -10,7 +10,18 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "It is generally thought to be rude for a lot of friends to visit a person at short notice.",
-      "sentence-jp": "たくさんの友人が1人の人を急に訪問するのは失礼だと一般には考えられている。"
+      "sentence-jp": "たくさんの友人が1人の人を急に訪問するのは失礼だと一般には考えられている。",
+      "cloze": {
+        "maskedText": "It is generally thought to be rude for a lot of friends to visit a person ____.",
+        "answerBase": "at short notice / on short notice",
+        "answerSurface": "at short notice",
+        "choices": [
+          "at short notice",
+          "at his convenience",
+          "at will",
+          "down the road"
+        ]
+      }
     }
   ],
   "notes": [

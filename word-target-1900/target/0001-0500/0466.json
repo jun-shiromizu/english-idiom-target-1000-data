@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He consulted a lawyer to discuss filing a lawsuit.",
-      "sentence-jp": "彼は訴訟を起こすことを検討するために弁護士に相談した。"
+      "sentence-jp": "彼は訴訟を起こすことを検討するために弁護士に相談した。",
+      "cloze": {
+        "maskedText": "He consulted a ____ to discuss filing a lawsuit.",
+        "answerBase": "lawyer",
+        "answerSurface": "lawyer",
+        "choices": [
+          "lawyer",
+          "novel",
+          "highway",
+          "rainbow"
+        ]
+      }
     }
   ],
   "notes": []

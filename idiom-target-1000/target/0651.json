@@ -14,7 +14,18 @@
         "certainly"
       ],
       "example-sentence": "Did he say for sure that he was coming to the party?",
-      "sentence-jp": "彼は確かにパーティーに来ると言ったのですか。"
+      "sentence-jp": "彼は確かにパーティーに来ると言ったのですか。",
+      "cloze": {
+        "maskedText": "Did he say ____ that he was coming to the party?",
+        "answerBase": "for sure / for certain",
+        "answerSurface": "for sure",
+        "choices": [
+          "for sure",
+          "of late",
+          "without fail",
+          "behind the times"
+        ]
+      }
     }
   ],
   "notes": [

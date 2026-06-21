@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Although I’d never skied before, I made it all the way down the mountain.",
-      "sentence-jp": "私はそれまでスキーをしたことはなかったが、山をずっと下まで降りるのに成功した。"
+      "sentence-jp": "私はそれまでスキーをしたことはなかったが、山をずっと下まで降りるのに成功した。",
+      "cloze": {
+        "maskedText": "Although I’d never skied before, I ____.",
+        "answerBase": "make it",
+        "answerSurface": "made it all the way down the mountain",
+        "choices": [
+          "made it all the way down the mountain",
+          "put the new project into practice",
+          "signed up for universities’ online programs",
+          "got in touch with me"
+        ]
+      }
     }
   ],
   "notes": [

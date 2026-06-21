@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The baby tore part of the letter he was playing with.",
-      "sentence-jp": "その赤ん坊はいじくっていた手紙の一部を引き裂いた。"
+      "sentence-jp": "その赤ん坊はいじくっていた手紙の一部を引き裂いた。",
+      "cloze": {
+        "maskedText": "The baby ____ part of the letter he was playing with.",
+        "answerBase": "tear",
+        "answerSurface": "tore",
+        "choices": [
+          "tore",
+          "earned",
+          "guarded",
+          "moved"
+        ]
+      }
     }
   ],
   "notes": []

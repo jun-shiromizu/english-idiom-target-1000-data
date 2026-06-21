@@ -10,7 +10,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Just relax for a while; in the meantime, I’ll do the cooking.",
-      "sentence-jp": "しばらくゆっくりしていてください。その間に、私は料理をしますから。"
+      "sentence-jp": "しばらくゆっくりしていてください。その間に、私は料理をしますから。",
+      "cloze": {
+        "maskedText": "Just relax for a while; ____, I’ll do the cooking.",
+        "answerBase": "in the meantime / in the meanwhile",
+        "answerSurface": "in the meantime",
+        "choices": [
+          "in the meantime",
+          "in all likelihood",
+          "on average",
+          "at heart"
+        ]
+      }
     }
   ],
   "notes": [

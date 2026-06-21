@@ -12,5 +12,11 @@
       "sentence-jp": "彼の急進的な見解は，彼を日本の政治の主流からはずれた立場に置く。"
     }
   ],
+  "cloze": {
+    "maskedText": "Her music is popular with the cultural ____.",
+    "answerBase": "mainstream",
+    "answerSurface": "mainstream",
+    "choices": ["mainstream", "paradox", "hive", "suicide"]
+  },
   "notes": []
 }

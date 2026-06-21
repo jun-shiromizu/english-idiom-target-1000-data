@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He had to run an errand for his mother.",
-      "sentence-jp": "彼は母親のためにお使いに行かなければならなかった。"
+      "sentence-jp": "彼は母親のためにお使いに行かなければならなかった。",
+      "cloze": {
+        "maskedText": "He had to run an ____ for his mother.",
+        "answerBase": "errand",
+        "answerSurface": "errand",
+        "choices": [
+          "errand",
+          "engine",
+          "island",
+          "article"
+        ]
+      }
     }
   ],
   "notes": []

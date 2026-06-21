@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The principle of first-come-first-served is simple and fair.",
-      "sentence-jp": "先着順の原則は単純かつ公正である。"
+      "sentence-jp": "先着順の原則は単純かつ公正である。",
+      "cloze": {
+        "maskedText": "The ____ of first-come-first-served is simple and fair.",
+        "answerBase": "principle",
+        "answerSurface": "principle",
+        "choices": [
+          "principle",
+          "landscape",
+          "shelter",
+          "ticket"
+        ]
+      }
     }
   ],
   "notes": []

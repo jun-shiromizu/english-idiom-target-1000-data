@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "There are a lot of paper mills in Shizuoka Prefecture.",
-      "sentence-jp": "静岡県にはたくさんの製紙工場がある。"
+      "sentence-jp": "静岡県にはたくさんの製紙工場がある。",
+      "cloze": {
+        "maskedText": "There are a lot of paper ____ in Shizuoka Prefecture.",
+        "answerBase": "mill",
+        "answerSurface": "mills",
+        "choices": ["mills", "fates", "wounds", "galaxies"]
+      }
     }
   ],
   "notes": []

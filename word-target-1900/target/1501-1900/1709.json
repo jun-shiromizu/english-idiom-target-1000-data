@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Her lack of experience hindered her from finding a good job.",
-      "sentence-jp": "彼女の経験不足は彼女がいい仕事を見つけるのを妨げた。"
+      "sentence-jp": "彼女の経験不足は彼女がいい仕事を見つけるのを妨げた。",
+      "cloze": {
+        "maskedText": "Her lack of experience ____ her from finding a good job.",
+        "answerBase": "hinder",
+        "answerSurface": "hindered",
+        "choices": [
+          "hindered",
+          "encouraged",
+          "trusted",
+          "admitted"
+        ]
+      }
     }
   ],
   "notes": []

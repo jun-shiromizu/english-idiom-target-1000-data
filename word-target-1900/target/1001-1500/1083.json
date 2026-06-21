@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "All the audience was touched by the dynamic performance of the actor.",
-      "sentence-jp": "観客は皆その役者の精力的な演技に感動した。"
+      "sentence-jp": "観客は皆その役者の精力的な演技に感動した。",
+      "cloze": {
+        "maskedText": "All the audience was touched by the ____ performance of the actor.",
+        "answerBase": "dynamic",
+        "answerSurface": "dynamic",
+        "choices": ["dynamic", "oral", "innocent", "subsequent"]
+      }
     }
   ],
   "notes": []

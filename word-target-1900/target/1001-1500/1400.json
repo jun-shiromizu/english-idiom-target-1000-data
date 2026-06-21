@@ -12,5 +12,11 @@
       "sentence-jp": "イングランドの天気で注目に値する特徴はその変わりやすさである。"
     }
   ],
+  "cloze": {
+    "maskedText": "One ____ feature of the plan is its low cost.",
+    "answerBase": "notable",
+    "answerSurface": "notable",
+    "choices": ["notable", "scarce", "static", "gross"]
+  },
   "notes": []
 }

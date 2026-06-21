@@ -14,7 +14,18 @@
         "change A into B"
       ],
       "example-sentence": "I don’t think it a good idea to try to transform Mars into a habitable planet.",
-      "sentence-jp": "私は火星を住むのに適した惑星に変えようとすることはよい考えだとは思わない。"
+      "sentence-jp": "私は火星を住むのに適した惑星に変えようとすることはよい考えだとは思わない。",
+      "cloze": {
+        "maskedText": "I don’t think it a good idea to try to ____ Mars into a habitable planet.",
+        "answerBase": "transform A into B / transform A to B",
+        "answerSurface": "transform",
+        "choices": [
+          "transform",
+          "assure",
+          "suspect",
+          "forgive"
+        ]
+      }
     }
   ],
   "notes": [

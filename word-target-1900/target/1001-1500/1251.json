@@ -12,5 +12,11 @@
       "sentence-jp": "自由市場はいつか公営公共事業に取って代わられるかもしれない。"
     }
   ],
+  "cloze": {
+    "maskedText": "This tool is valued for its practical ____.",
+    "answerBase": "utility",
+    "answerSurface": "utility",
+    "choices": ["utility", "appetite", "script", "syndrome"]
+  },
   "notes": []
 }

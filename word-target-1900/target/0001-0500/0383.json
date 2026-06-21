@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "The ability to vote is considered a fundamental human right.",
-      "sentence-jp": "投票できることは基本的人権だと考えられる。"
+      "sentence-jp": "投票できることは基本的人権だと考えられる。",
+      "cloze": {
+        "maskedText": "The ability to vote is considered a ____ human right.",
+        "answerBase": "fundamental",
+        "answerSurface": "fundamental",
+        "choices": [
+          "fundamental",
+          "convenient",
+          "visual",
+          "constant"
+        ]
+      }
     }
   ],
   "notes": []

@@ -12,5 +12,11 @@
       "sentence-jp": "前頭皮質は脳の中で最も遅くに進化した部分である。"
     }
   ],
+  "cloze": {
+    "maskedText": "Damage to the visual ____ can affect sight.",
+    "answerBase": "cortex",
+    "answerSurface": "cortex",
+    "choices": ["cortex", "syndrome", "offspring", "pity"]
+  },
   "notes": []
 }

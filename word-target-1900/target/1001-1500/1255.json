@@ -12,5 +12,11 @@
       "sentence-jp": "あなたがこんなにも早く出発しなければならないとはとても残念です。"
     }
   ],
+  "cloze": {
+    "maskedText": "It's a ____ that the museum is closed today.",
+    "answerBase": "pity",
+    "answerSurface": "pity",
+    "choices": ["pity", "utility", "famine", "profile"]
+  },
   "notes": []
 }

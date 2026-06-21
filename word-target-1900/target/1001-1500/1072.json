@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He is planning to explore the Alaskan wilderness.",
-      "sentence-jp": "彼はアラスカの荒野を探検することを計画している。"
+      "sentence-jp": "彼はアラスカの荒野を探検することを計画している。",
+      "cloze": {
+        "maskedText": "He is planning to explore the Alaskan ____.",
+        "answerBase": "wilderness",
+        "answerSurface": "wilderness",
+        "choices": ["wilderness", "narrative", "fingerprint", "queue"]
+      }
     }
   ],
   "notes": []

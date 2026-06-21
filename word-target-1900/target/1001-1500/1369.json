@@ -12,5 +12,11 @@
       "sentence-jp": "この写真ではすべての色スペクトルを見ることができる。"
     }
   ],
+  "cloze": {
+    "maskedText": "Their opinions cover a wide political ____.",
+    "answerBase": "spectrum",
+    "answerSurface": "spectrum",
+    "choices": ["spectrum", "signature", "proverb", "kidney"]
+  },
   "notes": []
 }

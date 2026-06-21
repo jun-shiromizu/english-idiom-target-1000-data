@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "There is not enough evidence to convict him.",
-      "sentence-jp": "彼に有罪を宣告するに足る十分な証拠がない。"
+      "sentence-jp": "彼に有罪を宣告するに足る十分な証拠がない。",
+      "cloze": {
+        "maskedText": "There is not enough evidence to ____ him.",
+        "answerBase": "convict",
+        "answerSurface": "convict",
+        "choices": [
+          "convict",
+          "execute",
+          "forgive",
+          "inform"
+        ]
+      }
     }
   ],
   "notes": []

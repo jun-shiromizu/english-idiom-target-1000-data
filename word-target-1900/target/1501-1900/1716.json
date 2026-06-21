@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Smartphones are deeply embedded in our daily lives.",
-      "sentence-jp": "スマートフォンは私たちの日常生活に深く組み込まれている。"
+      "sentence-jp": "スマートフォンは私たちの日常生活に深く組み込まれている。",
+      "cloze": {
+        "maskedText": "Smartphones are deeply ____ in our daily lives.",
+        "answerBase": "embed",
+        "answerSurface": "embedded",
+        "choices": [
+          "embedded",
+          "admitted",
+          "painted",
+          "watched"
+        ]
+      }
     }
   ],
   "notes": []

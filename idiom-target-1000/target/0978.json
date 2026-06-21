@@ -13,7 +13,18 @@
         "freely"
       ],
       "example-sentence": "During the day, the children were allowed to run around in the park at will.",
-      "sentence-jp": "子供たちは日中、思いのままに公園を走り回るのを許されていた。"
+      "sentence-jp": "子供たちは日中、思いのままに公園を走り回るのを許されていた。",
+      "cloze": {
+        "maskedText": "During the day, the children were allowed to run around in the park ____.",
+        "answerBase": "at will",
+        "answerSurface": "at will",
+        "choices": [
+          "at will",
+          "at his convenience",
+          "at short notice",
+          "in earnest"
+        ]
+      }
     }
   ],
   "notes": []

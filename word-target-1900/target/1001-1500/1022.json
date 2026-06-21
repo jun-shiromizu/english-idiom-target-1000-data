@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Teachers have a good chance to foster their students' thinking ability.",
-      "sentence-jp": "教師は生徒の考える力をはぐくむよい機会を持っている。"
+      "sentence-jp": "教師は生徒の考える力をはぐくむよい機会を持っている。",
+      "cloze": {
+        "maskedText": "Teachers have a good chance to ____ their students' thinking ability.",
+        "answerBase": "foster",
+        "answerSurface": "foster",
+        "choices": ["foster", "bend", "log", "persist"]
+      }
     }
   ],
   "notes": []

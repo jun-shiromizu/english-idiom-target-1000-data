@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "When it comes to job satisfaction, most people say their salary doesn’t necessarily take top priority.",
-      "sentence-jp": "仕事の満足度のこととなると、給料は必ずしも最優先ではないとほとんどの人が言う。"
+      "sentence-jp": "仕事の満足度のこととなると、給料は必ずしも最優先ではないとほとんどの人が言う。",
+      "cloze": {
+        "maskedText": "____ job satisfaction, most people say their salary doesn’t necessarily take top priority.",
+        "answerBase": "when it comes to ~",
+        "answerSurface": "When it comes to",
+        "choices": [
+          "When it comes to",
+          "As far as I am concerned",
+          "As is often the case with",
+          "Believe it or not"
+        ]
+      }
     }
   ],
   "notes": []

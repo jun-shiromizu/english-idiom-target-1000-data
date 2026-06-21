@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "The group made two proposals in two years: the former was on air pollution, the latter on global warming.",
-      "sentence-jp": "そのグループは2年間に2つの提言をした。前者は大気汚染、後者は地球温暖化に関することだ。"
+      "sentence-jp": "そのグループは2年間に2つの提言をした。前者は大気汚染、後者は地球温暖化に関することだ。",
+      "cloze": {
+        "maskedText": "The group made two proposals in two years: ____ was on air pollution, ____ on global warming.",
+        "answerBase": "the former ~, the latter ...",
+        "answerSurface": "the former / the latter",
+        "choices": [
+          "the former / the latter",
+          "one thing / another",
+          "all / is",
+          "it / that"
+        ]
+      }
     }
   ],
   "notes": []

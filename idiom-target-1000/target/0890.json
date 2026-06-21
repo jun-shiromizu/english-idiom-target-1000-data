@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Patients tend to take it for granted that a doctor knows everything, but does he?",
-      "sentence-jp": "患者は、医師が何でも知っているのを当然だと思いがちだが、そうだろうか。"
+      "sentence-jp": "患者は、医師が何でも知っているのを当然だと思いがちだが、そうだろうか。",
+      "cloze": {
+        "maskedText": "Patients tend to ____ that a doctor knows everything, but does he?",
+        "answerBase": "take ~ for granted",
+        "answerSurface": "take it for granted",
+        "choices": [
+          "take it for granted",
+          "make believe",
+          "follow through on",
+          "pull off"
+        ]
+      }
     }
   ],
   "notes": [

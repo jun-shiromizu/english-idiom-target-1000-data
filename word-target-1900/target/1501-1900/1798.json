@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "comparative-expression",
       "example-sentence": "There is ample room for the expansion of this student center.",
-      "sentence-jp": "この学生センターを拡張するのに十分すぎるほどのスペースがある。"
+      "sentence-jp": "この学生センターを拡張するのに十分すぎるほどのスペースがある。",
+      "cloze": {
+        "maskedText": "There is ____ room for the expansion of this student center.",
+        "answerBase": "ample",
+        "answerSurface": "ample",
+        "choices": [
+          "ample",
+          "brief",
+          "fragile",
+          "formal"
+        ]
+      }
     }
   ],
   "notes": []

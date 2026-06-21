@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "They have erected high concrete walls along the border.",
-      "sentence-jp": "彼らは境界線に沿って高いコンクリートの壁を建てた。"
+      "sentence-jp": "彼らは境界線に沿って高いコンクリートの壁を建てた。",
+      "cloze": {
+        "maskedText": "They have ____ high concrete walls along the border.",
+        "answerBase": "erect",
+        "answerSurface": "erected",
+        "choices": [
+          "erected",
+          "borrowed",
+          "removed",
+          "painted"
+        ]
+      }
     }
   ],
   "notes": []

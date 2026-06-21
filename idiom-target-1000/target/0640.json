@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Constant deforestation may have a serious impact on climate conditions on a global scale.",
-      "sentence-jp": "絶え間ない森林破壊は地球規模で気候状況に深刻な影響を与えるかもしれない。"
+      "sentence-jp": "絶え間ない森林破壊は地球規模で気候状況に深刻な影響を与えるかもしれない。",
+      "cloze": {
+        "maskedText": "Constant deforestation may have a serious impact on climate conditions ____.",
+        "answerBase": "on a ~ scale",
+        "answerSurface": "on a global scale",
+        "choices": [
+          "on a global scale",
+          "on a daily basis",
+          "at work",
+          "at a loss"
+        ]
+      }
     }
   ],
   "notes": [

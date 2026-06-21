@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "We lag far behind our competitors in productivity.",
-      "sentence-jp": "我が社は生産性においてライバル会社よりはるかに遅れている。"
+      "sentence-jp": "我が社は生産性においてライバル会社よりはるかに遅れている。",
+      "cloze": {
+        "maskedText": "We ____ far behind our competitors in productivity.",
+        "answerBase": "lag",
+        "answerSurface": "lag",
+        "choices": [
+          "lag",
+          "stand",
+          "compete",
+          "cooperate"
+        ]
+      }
     }
   ],
   "notes": []

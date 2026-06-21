@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "He married a woman of a noble family.",
-      "sentence-jp": "彼は高貴な家系の女性と結婚した。"
+      "sentence-jp": "彼は高貴な家系の女性と結婚した。",
+      "cloze": {
+        "maskedText": "He married a woman of a ____ family.",
+        "answerBase": "noble",
+        "answerSurface": "noble",
+        "choices": ["noble", "vague", "parallel", "seasonal"]
+      }
     }
   ],
   "notes": []

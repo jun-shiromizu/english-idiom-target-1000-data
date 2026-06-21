@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "He was completely ignorant of her good intention until the last moment.",
-      "sentence-jp": "彼は最後の瞬間までまったく彼女の善意を知らなかった。"
+      "sentence-jp": "彼は最後の瞬間までまったく彼女の善意を知らなかった。",
+      "cloze": {
+        "maskedText": "He was completely ____ her good intention until the last moment.",
+        "answerBase": "be ignorant of ~",
+        "answerSurface": "ignorant of",
+        "choices": [
+          "ignorant of",
+          "worthy of",
+          "guilty of",
+          "confident of"
+        ]
+      }
     }
   ],
   "notes": []

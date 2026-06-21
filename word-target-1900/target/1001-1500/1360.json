@@ -12,5 +12,11 @@
       "sentence-jp": "その老人は自分の借金のせいで自殺を図った。"
     }
   ],
+  "cloze": {
+    "maskedText": "The article discussed measures to prevent ____ among teenagers.",
+    "answerBase": "suicide",
+    "answerSurface": "suicide",
+    "choices": ["suicide", "quest", "criterion", "cluster"]
+  },
   "notes": []
 }

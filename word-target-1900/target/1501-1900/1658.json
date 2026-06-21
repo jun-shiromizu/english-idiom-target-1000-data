@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "We can get information from the archives of the local history museum.",
-      "sentence-jp": "私たちは郷土歴史資料館の記録文書から情報を得ることができる。"
+      "sentence-jp": "私たちは郷土歴史資料館の記録文書から情報を得ることができる。",
+      "cloze": {
+        "maskedText": "We can get information from the ____ of the local history museum.",
+        "answerBase": "archive",
+        "answerSurface": "archives",
+        "choices": [
+          "archives",
+          "windows",
+          "corners",
+          "tickets"
+        ]
+      }
     }
   ],
   "notes": []

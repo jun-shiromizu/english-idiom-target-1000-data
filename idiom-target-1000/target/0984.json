@@ -13,7 +13,18 @@
         "free of charge"
       ],
       "example-sentence": "If you buy one item, you can get another for nothing.",
-      "sentence-jp": "商品を1つ買えば、無料でもう1つもらえます。"
+      "sentence-jp": "商品を1つ買えば、無料でもう1つもらえます。",
+      "cloze": {
+        "maskedText": "If you buy one item, you can get another ____.",
+        "answerBase": "for nothing",
+        "answerSurface": "for nothing",
+        "choices": [
+          "for nothing",
+          "for a change",
+          "for all I know",
+          "in a row"
+        ]
+      }
     },
     {
       "idiom-jp": "無駄に",
@@ -23,7 +34,18 @@
         "in vain"
       ],
       "example-sentence": "He tried very hard, but all he did was for nothing.",
-      "sentence-jp": "彼は一生懸命頑張ったが、彼がしたことは無駄だった。"
+      "sentence-jp": "彼は一生懸命頑張ったが、彼がしたことは無駄だった。",
+      "cloze": {
+        "maskedText": "He tried very hard, but all he did was ____.",
+        "answerBase": "for nothing",
+        "answerSurface": "for nothing",
+        "choices": [
+          "for nothing",
+          "for a change",
+          "in person",
+          "in retrospect"
+        ]
+      }
     }
   ],
   "notes": [

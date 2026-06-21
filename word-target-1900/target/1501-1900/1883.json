@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Mary was surprised by her son's abrupt change in attitude.",
-      "sentence-jp": "メアリーは息子の態度の突然の変化に驚いた。"
+      "sentence-jp": "メアリーは息子の態度の突然の変化に驚いた。",
+      "cloze": {
+        "maskedText": "Mary was surprised by her son's ____ change in attitude.",
+        "answerBase": "abrupt",
+        "answerSurface": "abrupt",
+        "choices": [
+          "abrupt",
+          "formal",
+          "pleasant",
+          "modest"
+        ]
+      }
     }
   ],
   "notes": []

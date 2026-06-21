@@ -12,5 +12,11 @@
       "sentence-jp": "ジェイソンはその際立った学業成績により賞を受賞した。"
     }
   ],
+  "cloze": {
+    "maskedText": "She did ____ work on the project.",
+    "answerBase": "outstanding",
+    "answerSurface": "outstanding",
+    "choices": ["outstanding", "spectrum", "grief", "tomb"]
+  },
   "notes": []
 }

@@ -10,7 +10,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Speaking of movies, what is the most interesting one you have seen recently?",
-      "sentence-jp": "映画と言えば、あなたが最近見た中では何が一番おもしろいですか。"
+      "sentence-jp": "映画と言えば、あなたが最近見た中では何が一番おもしろいですか。",
+      "cloze": {
+        "maskedText": "____, what is the most interesting one you have seen recently?",
+        "answerBase": "speaking of ~ / talking of ~",
+        "answerSurface": "Speaking of movies",
+        "choices": [
+          "Speaking of movies",
+          "Judging from the short speech",
+          "To tell the truth",
+          "Joking aside"
+        ]
+      }
     }
   ],
   "notes": [

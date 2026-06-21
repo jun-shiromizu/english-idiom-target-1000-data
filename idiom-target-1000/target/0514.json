@@ -12,7 +12,18 @@
         "impress A as B"
       ],
       "example-sentence": "The sunrise from the top of Mt. Fuji struck me as the most breathtaking scene I’d ever seen.",
-      "sentence-jp": "富士山頂から見た日の出は私にそれまでに見た中で最もすばらしい光景だという印象を与えた。"
+      "sentence-jp": "富士山頂から見た日の出は私にそれまでに見た中で最もすばらしい光景だという印象を与えた。",
+      "cloze": {
+        "maskedText": "The sunrise from the top of Mt. Fuji ____ me as the most breathtaking scene I’d ever seen.",
+        "answerBase": "strike A as B",
+        "answerSurface": "struck",
+        "choices": [
+          "struck",
+          "diagnosed",
+          "named",
+          "made"
+        ]
+      }
     }
   ],
   "notes": [

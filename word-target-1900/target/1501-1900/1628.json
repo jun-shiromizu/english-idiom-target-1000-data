@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Our tone often betrays our thoughts and feelings.",
-      "sentence-jp": "私たちの口調は私たちの考えや気持ちをうっかり表すことがよくある。"
+      "sentence-jp": "私たちの口調は私たちの考えや気持ちをうっかり表すことがよくある。",
+      "cloze": {
+        "maskedText": "Our tone often ____ our thoughts and feelings.",
+        "answerBase": "betray",
+        "answerSurface": "betrays",
+        "choices": [
+          "betrays",
+          "controls",
+          "hides",
+          "changes"
+        ]
+      }
     }
   ],
   "notes": []

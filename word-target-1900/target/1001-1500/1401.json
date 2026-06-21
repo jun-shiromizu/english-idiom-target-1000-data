@@ -12,5 +12,11 @@
       "sentence-jp": "店長は1週間に1回，売り上げデータを最新のものにする。"
     }
   ],
+  "cloze": {
+    "maskedText": "Please ____ the software before using it.",
+    "answerBase": "update",
+    "answerSurface": "update",
+    "choices": ["update", "bloom", "sigh", "depart"]
+  },
   "notes": []
 }

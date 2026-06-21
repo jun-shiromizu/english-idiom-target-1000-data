@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Although it lasts almost three hours, we all agree this movie is worth seeing many times.",
-      "sentence-jp": "その映画は3時間近く続くが、何回も見る価値があると私たち全員の意見が一致している。"
+      "sentence-jp": "その映画は3時間近く続くが、何回も見る価値があると私たち全員の意見が一致している。",
+      "cloze": {
+        "maskedText": "Although it lasts almost three hours, we all agree this movie is ____ many times.",
+        "answerBase": "be worth doing",
+        "answerSurface": "worth seeing",
+        "choices": [
+          "worth seeing",
+          "eligible for",
+          "intent on",
+          "susceptible to"
+        ]
+      }
     }
   ],
   "notes": [

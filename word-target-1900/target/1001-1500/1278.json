@@ -12,5 +12,11 @@
       "sentence-jp": "その商社は資産が5億ドルある。"
     }
   ],
+  "cloze": {
+    "maskedText": "Her language skills are a real ____ in this job.",
+    "answerBase": "asset",
+    "answerSurface": "asset",
+    "choices": ["asset", "bug", "republic", "debris"]
+  },
   "notes": []
 }

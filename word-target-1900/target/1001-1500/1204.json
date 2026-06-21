@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The company ventured into an unknown territory.",
-      "sentence-jp": "その会社は危険を冒して未知の分野に乗り出した。"
+      "sentence-jp": "その会社は危険を冒して未知の分野に乗り出した。",
+      "cloze": {
+        "maskedText": "The company ____ into an unknown territory.",
+        "answerBase": "venture",
+        "answerSurface": "ventured",
+        "choices": ["ventured", "nurtured", "clipped", "yawned"]
+      }
     }
   ],
   "notes": []

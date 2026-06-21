@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "You should delete spam messages right away.",
-      "sentence-jp": "すぐに迷惑メールを削除するべきだ。"
+      "sentence-jp": "すぐに迷惑メールを削除するべきだ。",
+      "cloze": {
+        "maskedText": "You should ____ spam messages right away.",
+        "answerBase": "delete",
+        "answerSurface": "delete",
+        "choices": [
+          "delete",
+          "collect",
+          "deliver",
+          "select"
+        ]
+      }
     }
   ],
   "notes": []

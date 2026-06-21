@@ -12,5 +12,11 @@
       "sentence-jp": "どのサイクリストも急な坂，強い向かい風，そして疲労に立ち向かう。"
     }
   ],
+  "cloze": {
+    "maskedText": "We climbed a ____ path to the top.",
+    "answerBase": "steep",
+    "answerSurface": "steep",
+    "choices": ["steep", "humble", "toxic", "wireless"]
+  },
   "notes": []
 }

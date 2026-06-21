@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "At our university, women constitute the majority of the psychology majors.",
-      "sentence-jp": "私たちの大学では，女性が心理学専攻学生の大多数を構成する。"
+      "sentence-jp": "私たちの大学では，女性が心理学専攻学生の大多数を構成する。",
+      "cloze": {
+        "maskedText": "At our university, women ____ the majority of the psychology majors.",
+        "answerBase": "constitute",
+        "answerSurface": "constitute",
+        "choices": ["constitute", "undertake", "dismiss", "swallow"]
+      }
     }
   ],
   "notes": []

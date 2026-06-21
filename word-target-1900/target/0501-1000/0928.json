@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "He submitted the paper to his teacher a few days early.",
-      "sentence-jp": "彼は数日早く先生に論文を提出した。"
+      "sentence-jp": "彼は数日早く先生に論文を提出した。",
+      "cloze": {
+        "maskedText": "He ____ the paper to his teacher a few days early.",
+        "answerBase": "submit",
+        "answerSurface": "submitted",
+        "choices": ["submitted", "grabbed", "restored", "interfered"]
+      }
     }
   ],
   "notes": []

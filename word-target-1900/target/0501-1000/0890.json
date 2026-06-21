@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Our flight to Sydney has been delayed due to mechanical problems.",
-      "sentence-jp": "私たちの乗るシドニー便は機械の問題のために遅れている。"
+      "sentence-jp": "私たちの乗るシドニー便は機械の問題のために遅れている。",
+      "cloze": {
+        "maskedText": "Our flight to Sydney has been delayed due to ____ problems.",
+        "answerBase": "mechanical",
+        "answerSurface": "mechanical",
+        "choices": ["mechanical", "pleasant", "cultural", "regular"]
+      }
     }
   ],
   "notes": []

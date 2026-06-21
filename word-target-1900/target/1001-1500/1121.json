@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "The food company exaggerated the quality of its products.",
-      "sentence-jp": "その食品会社は自社製品の品質を誇張した。"
+      "sentence-jp": "その食品会社は自社製品の品質を誇張した。",
+      "cloze": {
+        "maskedText": "The food company ____ the quality of its products.",
+        "answerBase": "exaggerate",
+        "answerSurface": "exaggerated",
+        "choices": ["exaggerated", "vanished", "exploded", "ceased"]
+      }
     }
   ],
   "notes": []

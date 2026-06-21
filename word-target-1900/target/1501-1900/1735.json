@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "His speech was intended to divert attention from the current problems.",
-      "sentence-jp": "彼の演説は，今起きている問題から注意をそらすように意図されていた。"
+      "sentence-jp": "彼の演説は，今起きている問題から注意をそらすように意図されていた。",
+      "cloze": {
+        "maskedText": "His speech was intended to ____ attention from the current problems.",
+        "answerBase": "divert",
+        "answerSurface": "divert",
+        "choices": [
+          "divert",
+          "collect",
+          "remove",
+          "declare"
+        ]
+      }
     }
   ],
   "notes": []

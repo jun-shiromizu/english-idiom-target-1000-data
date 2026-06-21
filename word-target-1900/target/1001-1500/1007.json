@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The Sudan was split into two republics in 2011.",
-      "sentence-jp": "スーダンは2011年に2つの共和国に分割された。"
+      "sentence-jp": "スーダンは2011年に2つの共和国に分割された。",
+      "cloze": {
+        "maskedText": "The Sudan was ____ into two republics in 2011.",
+        "answerBase": "split",
+        "answerSurface": "split",
+        "choices": ["split", "donated", "excluded", "healed"]
+      }
     }
   ],
   "notes": []

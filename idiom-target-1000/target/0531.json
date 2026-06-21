@@ -13,7 +13,18 @@
         "control [contain / restrain] oneself"
       ],
       "example-sentence": "It is not always easy to keep one’s temper.",
-      "sentence-jp": "冷静さを保つのは必ずしも簡単とは限らない。"
+      "sentence-jp": "冷静さを保つのは必ずしも簡単とは限らない。",
+      "cloze": {
+        "maskedText": "It is not always easy to ____.",
+        "answerBase": "keep one's temper / hold one's temper",
+        "answerSurface": "keep one’s temper",
+        "choices": [
+          "keep one’s temper",
+          "have one’s own way",
+          "make friends with everyone in her class",
+          "have access to safe water at home"
+        ]
+      }
     }
   ],
   "notes": [

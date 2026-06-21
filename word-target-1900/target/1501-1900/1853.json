@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Deforestation will lead to soil erosion.",
-      "sentence-jp": "森林破壊は土壌の浸食につながる。"
+      "sentence-jp": "森林破壊は土壌の浸食につながる。",
+      "cloze": {
+        "maskedText": "Deforestation will lead to soil ____.",
+        "answerBase": "erosion",
+        "answerSurface": "erosion",
+        "choices": [
+          "erosion",
+          "audience",
+          "property",
+          "distance"
+        ]
+      }
     }
   ],
   "notes": []

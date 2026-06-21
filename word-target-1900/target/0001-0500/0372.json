@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The man finally confessed his guilt in court.",
-      "sentence-jp": "その男性はついに法廷で自分の犯罪行為を告白した。"
+      "sentence-jp": "その男性はついに法廷で自分の犯罪行為を告白した。",
+      "cloze": {
+        "maskedText": "The man finally confessed his guilt in ____.",
+        "answerBase": "court",
+        "answerSurface": "court",
+        "choices": [
+          "court",
+          "soil",
+          "desert",
+          "custom"
+        ]
+      }
     }
   ],
   "notes": []

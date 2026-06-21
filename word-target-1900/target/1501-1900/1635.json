@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She disregarded her doctor's advice and continued to eat sweets.",
-      "sentence-jp": "彼女は医師の忠告を無視し，甘い物を食べ続けた。"
+      "sentence-jp": "彼女は医師の忠告を無視し，甘い物を食べ続けた。",
+      "cloze": {
+        "maskedText": "She ____ her doctor's advice and continued to eat sweets.",
+        "answerBase": "disregard",
+        "answerSurface": "disregarded",
+        "choices": [
+          "disregarded",
+          "requested",
+          "repeated",
+          "recorded"
+        ]
+      }
     }
   ],
   "notes": []

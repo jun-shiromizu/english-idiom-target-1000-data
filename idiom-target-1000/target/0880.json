@@ -14,7 +14,18 @@
         "stick around [about]"
       ],
       "example-sentence": "I had to kill a couple of hours the other day, so I hung around in a park nearby.",
-      "sentence-jp": "先日、私は2、3時間つぶさなければならなかったので、近くの公園をぶらついた。"
+      "sentence-jp": "先日、私は2、3時間つぶさなければならなかったので、近くの公園をぶらついた。",
+      "cloze": {
+        "maskedText": "I had to kill a couple of hours the other day, so I ____ in a park nearby.",
+        "answerBase": "hang around / hang about / hang round",
+        "answerSurface": "hung around",
+        "choices": [
+          "hung around",
+          "passed out",
+          "wound up",
+          "caught on"
+        ]
+      }
     }
   ],
   "notes": [

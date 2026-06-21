@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "She feels optimistic about her future.",
-      "sentence-jp": "彼女は自分の将来に関して楽観的な気持ちだ。"
+      "sentence-jp": "彼女は自分の将来に関して楽観的な気持ちだ。",
+      "cloze": {
+        "maskedText": "She feels ____ about her future.",
+        "answerBase": "optimistic",
+        "answerSurface": "optimistic",
+        "choices": ["optimistic", "guilty", "helpless", "strict"]
+      }
     }
   ],
   "notes": []

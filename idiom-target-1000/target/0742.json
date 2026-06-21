@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I’m supposed to submit my application before the end of the week.",
-      "sentence-jp": "私は今週末までに願書を提出することになっている。"
+      "sentence-jp": "私は今週末までに願書を提出することになっている。",
+      "cloze": {
+        "maskedText": "I’m ____ submit my application before the end of the week.",
+        "answerBase": "be supposed to do",
+        "answerSurface": "supposed to",
+        "choices": [
+          "supposed to",
+          "forced to",
+          "entitled to",
+          "inclined to"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "He enrolled in a local gym to learn Latin dance.",
-      "sentence-jp": "彼はラテンダンスを習うために地元のジムに入会した。"
+      "sentence-jp": "彼はラテンダンスを習うために地元のジムに入会した。",
+      "cloze": {
+        "maskedText": "He ____ in a local gym to learn Latin dance.",
+        "answerBase": "enroll",
+        "answerSurface": "enrolled",
+        "choices": [
+          "enrolled",
+          "gathered",
+          "recovered",
+          "wandered"
+        ]
+      }
     }
   ],
   "notes": []

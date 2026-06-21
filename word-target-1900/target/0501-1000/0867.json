@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "A drought can destroy crops and damage the livelihoods of farmers.",
-      "sentence-jp": "干ばつは作物を台無しにし農家の人々の生活手段に損害を与えかねない。"
+      "sentence-jp": "干ばつは作物を台無しにし農家の人々の生活手段に損害を与えかねない。",
+      "cloze": {
+        "maskedText": "A ____ can destroy crops and damage the livelihoods of farmers.",
+        "answerBase": "drought",
+        "answerSurface": "drought",
+        "choices": ["drought", "festival", "railway", "pillow"]
+      }
     }
   ],
   "notes": []

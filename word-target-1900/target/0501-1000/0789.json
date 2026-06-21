@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "The plain truth is that the Great Barrier Reef is in danger.",
-      "sentence-jp": "明白な事実はグレートバリアリーフが危機的状況にあるということである。"
+      "sentence-jp": "明白な事実はグレートバリアリーフが危機的状況にあるということである。",
+      "cloze": {
+        "maskedText": "The ____ truth is that the Great Barrier Reef is in danger.",
+        "answerBase": "plain",
+        "answerSurface": "plain",
+        "choices": [
+          "plain",
+          "subtle",
+          "liberal",
+          "marine"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "You can see Michelangelo's famous sculpture in St. Peter's in Vatican City.",
-      "sentence-jp": "バチカン市国のサンピエトロ大聖堂ではミケランジェロの有名な彫刻を見ることができる。"
+      "sentence-jp": "バチカン市国のサンピエトロ大聖堂ではミケランジェロの有名な彫刻を見ることができる。",
+      "cloze": {
+        "maskedText": "You can see Michelangelo's famous ____ in St. Peter's in Vatican City.",
+        "answerBase": "sculpture",
+        "answerSurface": "sculpture",
+        "choices": ["sculpture", "tablet", "mess", "column"]
+      }
     }
   ],
   "notes": []

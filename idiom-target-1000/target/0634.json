@@ -12,7 +12,18 @@
         "at one’s wit’s end"
       ],
       "example-sentence": "Virginia was at a loss as to what to cook for Leonard and his friends that night.",
-      "sentence-jp": "バージニアはその晩、レナードと彼の友人たちに何を料理すべきかについて途方に暮れていた。"
+      "sentence-jp": "バージニアはその晩、レナードと彼の友人たちに何を料理すべきかについて途方に暮れていた。",
+      "cloze": {
+        "maskedText": "Virginia was ____ as to what to cook for Leonard and his friends that night.",
+        "answerBase": "at a loss",
+        "answerSurface": "at a loss",
+        "choices": [
+          "at a loss",
+          "at first sight",
+          "at heart",
+          "on average"
+        ]
+      }
     }
   ],
   "notes": [

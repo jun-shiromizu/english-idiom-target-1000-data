@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I want something to read while I wait in the hospital; anything will do if it’s interesting.",
-      "sentence-jp": "病院で待つ間、何か読む物が欲しい。おもしろければ何でもいい。"
+      "sentence-jp": "病院で待つ間、何か読む物が欲しい。おもしろければ何でもいい。",
+      "cloze": {
+        "maskedText": "I want something to read while I wait in the hospital; ____ if it’s interesting.",
+        "answerBase": "~ will do",
+        "answerSurface": "anything will do",
+        "choices": [
+          "anything will do",
+          "I may well not have heard him right",
+          "you cannot be too careful",
+          "I catch you sleeping at work"
+        ]
+      }
     }
   ],
   "notes": [

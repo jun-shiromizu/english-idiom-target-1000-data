@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Her colleagues credit her success to her skill at blocking computer hackers.",
-      "sentence-jp": "彼女の同僚は彼女の成功をコンピューターハッカーの阻止に関する彼女の技術のおかげだと思っている。"
+      "sentence-jp": "彼女の同僚は彼女の成功をコンピューターハッカーの阻止に関する彼女の技術のおかげだと思っている。",
+      "cloze": {
+        "maskedText": "Her colleagues ____ her success to her skill at blocking computer hackers.",
+        "answerBase": "credit",
+        "answerSurface": "credit",
+        "choices": [
+          "credit",
+          "invite",
+          "repair",
+          "collect"
+        ]
+      }
     }
   ],
   "notes": []

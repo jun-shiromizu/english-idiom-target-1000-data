@@ -12,5 +12,11 @@
       "sentence-jp": "ハイカーたちは山頂まで代わりのルートを取った。"
     }
   ],
+  "cloze": {
+    "maskedText": "We took an ____ route to avoid traffic.",
+    "answerBase": "alternate",
+    "answerSurface": "alternate",
+    "choices": ["alternate", "divine", "spatial", "loyal"]
+  },
   "notes": []
 }

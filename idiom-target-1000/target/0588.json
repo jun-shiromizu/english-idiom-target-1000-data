@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Getting regular exercise like taking a walk every day will definitely do you a lot of good.",
-      "sentence-jp": "毎日散歩をするといった定期的な運動をすることは、必ず大いにあなたのためになるだろう。"
+      "sentence-jp": "毎日散歩をするといった定期的な運動をすることは、必ず大いにあなたのためになるだろう。",
+      "cloze": {
+        "maskedText": "Getting regular exercise like taking a walk every day will definitely ____.",
+        "answerBase": "do ~ good",
+        "answerSurface": "do you a lot of good",
+        "choices": [
+          "do you a lot of good",
+          "get in touch with me",
+          "go blind",
+          "look back on our childhood"
+        ]
+      }
     }
   ],
   "notes": [

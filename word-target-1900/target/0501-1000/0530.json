@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "He hung his jacket on the back of his chair.",
-      "sentence-jp": "彼は椅子の背に自分の上着を掛けた。"
+      "sentence-jp": "彼は椅子の背に自分の上着を掛けた。",
+      "cloze": {
+        "maskedText": "He ____ his jacket on the back of his chair.",
+        "answerBase": "hang",
+        "answerSurface": "hung",
+        "choices": [
+          "hung",
+          "bought",
+          "shook",
+          "moved"
+        ]
+      }
     }
   ],
   "notes": []

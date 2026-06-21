@@ -12,7 +12,18 @@
         "be expert in [at] ~"
       ],
       "example-sentence": "Prof. Smith, who is from the USA, is well versed in Japanese literature, especially novels.",
-      "sentence-jp": "アメリカ出身のスミス教授は、日本文学、特に小説に精通している。"
+      "sentence-jp": "アメリカ出身のスミス教授は、日本文学、特に小説に精通している。",
+      "cloze": {
+        "maskedText": "Prof. Smith, who is from the USA, is well ____ Japanese literature, especially novels.",
+        "answerBase": "be versed in ~",
+        "answerSurface": "versed in",
+        "choices": [
+          "versed in",
+          "lacking in",
+          "busy with",
+          "popular with"
+        ]
+      }
     }
   ],
   "notes": [

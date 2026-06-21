@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "I have a vague memory of my conversation with her on the phone.",
-      "sentence-jp": "私は彼女と電話で話をしたという漠然とした記憶がある。"
+      "sentence-jp": "私は彼女と電話で話をしたという漠然とした記憶がある。",
+      "cloze": {
+        "maskedText": "I have a ____ memory of my conversation with her on the phone.",
+        "answerBase": "vague",
+        "answerSurface": "vague",
+        "choices": ["vague", "tense", "vertical", "hybrid"]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She frowned at the noisy students on the train.",
-      "sentence-jp": "彼女は電車の中で騒がしい学生たちに眉をひそめた。"
+      "sentence-jp": "彼女は電車の中で騒がしい学生たちに眉をひそめた。",
+      "cloze": {
+        "maskedText": "She ____ at the noisy students on the train.",
+        "answerBase": "frown",
+        "answerSurface": "frowned",
+        "choices": [
+          "frowned",
+          "laughed",
+          "waved",
+          "glanced"
+        ]
+      }
     }
   ],
   "notes": []

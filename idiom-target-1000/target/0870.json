@@ -13,7 +13,18 @@
         "choose"
       ],
       "example-sentence": "The investigative committee singled out the direct cause of the incident.",
-      "sentence-jp": "調査委員会はその事故の直接的な原因を取り上げた。"
+      "sentence-jp": "調査委員会はその事故の直接的な原因を取り上げた。",
+      "cloze": {
+        "maskedText": "The investigative committee ____ the direct cause of the incident.",
+        "answerBase": "single out ~",
+        "answerSurface": "singled out",
+        "choices": [
+          "singled out",
+          "ruled out",
+          "worked out",
+          "dwelled on"
+        ]
+      }
     }
   ],
   "notes": [

@@ -12,5 +12,11 @@
       "sentence-jp": "その刑事は聡明な人物として描かれている。"
     }
   ],
+  "cloze": {
+    "maskedText": "The film ____ the hero as a lonely man.",
+    "answerBase": "portray",
+    "answerSurface": "portrays",
+    "choices": ["portrays", "retrieves", "updates", "blooms"]
+  },
   "notes": []
 }

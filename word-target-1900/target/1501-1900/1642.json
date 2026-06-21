@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The newspaper's mission is to bring enlightenment to the masses.",
-      "sentence-jp": "新聞の使命は大衆を啓蒙することである。"
+      "sentence-jp": "新聞の使命は大衆を啓蒙することである。",
+      "cloze": {
+        "maskedText": "The newspaper's mission is to bring ____ to the masses.",
+        "answerBase": "enlightenment",
+        "answerSurface": "enlightenment",
+        "choices": [
+          "enlightenment",
+          "equipment",
+          "amusement",
+          "confusion"
+        ]
+      }
     }
   ],
   "notes": []

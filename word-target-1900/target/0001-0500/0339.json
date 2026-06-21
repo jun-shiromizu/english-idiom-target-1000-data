@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Stores often extend their business hours for the convenience of customers.",
-      "sentence-jp": "商店はよく客の利便性のために営業時間を延ばす。"
+      "sentence-jp": "商店はよく客の利便性のために営業時間を延ばす。",
+      "cloze": {
+        "maskedText": "Stores often ____ their business hours for the convenience of customers.",
+        "answerBase": "extend",
+        "answerSurface": "extend",
+        "choices": [
+          "extend",
+          "bury",
+          "judge",
+          "hide"
+        ]
+      }
     }
   ],
   "notes": []

@@ -12,5 +12,11 @@
       "sentence-jp": "人の家はその人の個性の指標であると言われている。"
     }
   ],
+  "cloze": {
+    "maskedText": "The price ____ rose again this month.",
+    "answerBase": "index",
+    "answerSurface": "index",
+    "choices": ["index", "fraction", "asset", "motive"]
+  },
   "notes": []
 }

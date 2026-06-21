@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "It is said that most languages carry delicate gender biases.",
-      "sentence-jp": "たいていの言語は微妙な性偏見を含むと言われている。"
+      "sentence-jp": "たいていの言語は微妙な性偏見を含むと言われている。",
+      "cloze": {
+        "maskedText": "It is said that most languages carry delicate ____ biases.",
+        "answerBase": "gender",
+        "answerSurface": "gender",
+        "choices": [
+          "gender",
+          "desert",
+          "custom",
+          "target"
+        ]
+      }
     }
   ],
   "notes": []

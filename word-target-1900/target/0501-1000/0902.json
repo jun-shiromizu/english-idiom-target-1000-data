@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The customer is suing the company for the mistake in the order.",
-      "sentence-jp": "その顧客は注文での間違いのかどでその会社を訴えている。"
+      "sentence-jp": "その顧客は注文での間違いのかどでその会社を訴えている。",
+      "cloze": {
+        "maskedText": "The customer is ____ the company for the mistake in the order.",
+        "answerBase": "sue",
+        "answerSurface": "suing",
+        "choices": ["suing", "chasing", "loading", "floating"]
+      }
     }
   ],
   "notes": []

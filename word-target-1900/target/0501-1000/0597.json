@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Initial treatment is crucial for those with breast cancer.",
-      "sentence-jp": "初期の治療が乳癌にかかった人にとって重大である。"
+      "sentence-jp": "初期の治療が乳癌にかかった人にとって重大である。",
+      "cloze": {
+        "maskedText": "____ treatment is crucial for those with breast cancer.",
+        "answerBase": "initial",
+        "answerSurface": "Initial",
+        "choices": [
+          "Initial",
+          "Visible",
+          "Precise",
+          "Unexpected"
+        ]
+      }
     }
   ],
   "notes": []

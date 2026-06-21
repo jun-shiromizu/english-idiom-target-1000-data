@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The news traveled around the globe quickly.",
-      "sentence-jp": "そのニュースはすぐに世界中に広まった。"
+      "sentence-jp": "そのニュースはすぐに世界中に広まった。",
+      "cloze": {
+        "maskedText": "The news traveled around the ____ quickly.",
+        "answerBase": "globe",
+        "answerSurface": "globe",
+        "choices": [
+          "globe",
+          "haven",
+          "league",
+          "contest"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "He had the bitter experience of fighting in the war.",
-      "sentence-jp": "彼は戦争で戦うというつらい経験をした。"
+      "sentence-jp": "彼は戦争で戦うというつらい経験をした。",
+      "cloze": {
+        "maskedText": "He had the ____ experience of fighting in the war.",
+        "answerBase": "bitter",
+        "answerSurface": "bitter",
+        "choices": ["bitter", "sensible", "parallel", "vertical"]
+      }
     }
   ],
   "notes": []

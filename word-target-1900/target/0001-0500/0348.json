@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "You can improve your memory capacity by using a foreign language.",
-      "sentence-jp": "外国語を使うことで人は記憶容量を高めることができる。"
+      "sentence-jp": "外国語を使うことで人は記憶容量を高めることができる。",
+      "cloze": {
+        "maskedText": "You can improve your memory ____ by using a foreign language.",
+        "answerBase": "capacity",
+        "answerSurface": "capacity",
+        "choices": [
+          "capacity",
+          "section",
+          "charge",
+          "status"
+        ]
+      }
     }
   ],
   "notes": []

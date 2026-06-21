@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The two countries found ways to resolve the political conflict.",
-      "sentence-jp": "両国は政治的対立を解決する方法を見つけた。"
+      "sentence-jp": "両国は政治的対立を解決する方法を見つけた。",
+      "cloze": {
+        "maskedText": "The two countries found ways to ____ the political conflict.",
+        "answerBase": "resolve",
+        "answerSurface": "resolve",
+        "choices": [
+          "resolve",
+          "impose",
+          "register",
+          "interrupt"
+        ]
+      }
     }
   ],
   "notes": []

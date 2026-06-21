@@ -12,5 +12,11 @@
       "sentence-jp": "多くの人がテレビで特集されたその新しいレストランに群がった。"
     }
   ],
+  "cloze": {
+    "maskedText": "Tourists ____ to the beach every summer.",
+    "answerBase": "flock",
+    "answerSurface": "flock",
+    "choices": ["flock", "spark", "dispose", "weave"]
+  },
   "notes": []
 }

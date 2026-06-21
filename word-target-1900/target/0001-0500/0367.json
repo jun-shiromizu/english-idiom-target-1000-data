@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Traditional Japanese architecture can stand firm against natural disasters.",
-      "sentence-jp": "伝統的な日本建築は自然災害に対してしっかりと持ちこたえることができる。"
+      "sentence-jp": "伝統的な日本建築は自然災害に対してしっかりと持ちこたえることができる。",
+      "cloze": {
+        "maskedText": "Traditional Japanese architecture can stand firm against natural ____.",
+        "answerBase": "disaster",
+        "answerSurface": "disasters",
+        "choices": [
+          "disasters",
+          "documents",
+          "campaigns",
+          "lectures"
+        ]
+      }
     }
   ],
   "notes": []

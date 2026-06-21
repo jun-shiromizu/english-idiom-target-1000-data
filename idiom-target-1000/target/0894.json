@@ -13,14 +13,36 @@
         "come into force"
       ],
       "example-sentence": "The revised law concerning privacy took effect on January 1 this year.",
-      "sentence-jp": "プライバシーに関する改正法が今年の1月1日に施行された。"
+      "sentence-jp": "プライバシーに関する改正法が今年の1月1日に施行された。",
+      "cloze": {
+        "maskedText": "The revised law concerning privacy ____ on January 1 this year.",
+        "answerBase": "take effect",
+        "answerSurface": "took effect",
+        "choices": [
+          "took effect",
+          "took pains",
+          "took notice",
+          "took hold"
+        ]
+      }
     },
     {
       "idiom-jp": "(薬などが)効く",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "In half an hour, the medicine he took began to take effect.",
-      "sentence-jp": "30分後、彼が飲んだ薬が効き始めた。"
+      "sentence-jp": "30分後、彼が飲んだ薬が効き始めた。",
+      "cloze": {
+        "maskedText": "In half an hour, the medicine he took began to ____.",
+        "answerBase": "take effect",
+        "answerSurface": "take effect",
+        "choices": [
+          "take effect",
+          "take pains",
+          "take notice",
+          "take hold"
+        ]
+      }
     }
   ],
   "notes": [

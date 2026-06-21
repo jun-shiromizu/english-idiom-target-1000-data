@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "British food has a reputation for not being tasty.",
-      "sentence-jp": "イギリスの食べ物はおいしくないという評判がある。"
+      "sentence-jp": "イギリスの食べ物はおいしくないという評判がある。",
+      "cloze": {
+        "maskedText": "British food has a ____ for not being tasty.",
+        "answerBase": "reputation",
+        "answerSurface": "reputation",
+        "choices": [
+          "reputation",
+          "fault",
+          "patent",
+          "cooperation"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "This author writes in her book about her experience of being discriminated against as a child.",
-      "sentence-jp": "この著者は、著書の中で子供のころに差別された経験について書いている。"
+      "sentence-jp": "この著者は、著書の中で子供のころに差別された経験について書いている。",
+      "cloze": {
+        "maskedText": "This author writes in her book about her experience of being ____ as a child.",
+        "answerBase": "discriminate against ~",
+        "answerSurface": "discriminated against",
+        "choices": [
+          "discriminated against",
+          "singled out",
+          "ruled out",
+          "worked out"
+        ]
+      }
     }
   ],
   "notes": [

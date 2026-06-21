@@ -12,5 +12,11 @@
       "sentence-jp": "たいていのサクラは春に花が咲く。"
     }
   ],
+  "cloze": {
+    "maskedText": "These roses ____ in early summer.",
+    "answerBase": "blossom",
+    "answerSurface": "blossom",
+    "choices": ["blossom", "compel", "deposit", "depict"]
+  },
   "notes": []
 }

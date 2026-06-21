@@ -12,5 +12,11 @@
       "sentence-jp": "有名な英語のことわざに「行動は言葉より雄弁である」とある。"
     }
   ],
+  "cloze": {
+    "maskedText": "\"Time is money\" is a well-known ____.",
+    "answerBase": "proverb",
+    "answerSurface": "proverb",
+    "choices": ["proverb", "intake", "skull", "feast"]
+  },
   "notes": []
 }

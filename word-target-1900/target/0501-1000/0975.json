@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The ratio of patients to nurses in this hospital is 7 to 1.",
-      "sentence-jp": "この病院の患者と看護師の比率は7対1である。"
+      "sentence-jp": "この病院の患者と看護師の比率は7対1である。",
+      "cloze": {
+        "maskedText": "The ____ of patients to nurses in this hospital is 7 to 1.",
+        "answerBase": "ratio",
+        "answerSurface": "ratio",
+        "choices": ["ratio", "charm", "ambition", "semester"]
+      }
     }
   ],
   "notes": []

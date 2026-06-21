@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "With the advent of digital cameras, the use of film has been declining.",
-      "sentence-jp": "デジタルカメラの出現とともに，フィルムの使用は減少してきている。"
+      "sentence-jp": "デジタルカメラの出現とともに，フィルムの使用は減少してきている。",
+      "cloze": {
+        "maskedText": "With the ____ of digital cameras, the use of film has been declining.",
+        "answerBase": "advent",
+        "answerSurface": "advent",
+        "choices": [
+          "advent",
+          "corridor",
+          "festival",
+          "backyard"
+        ]
+      }
     }
   ],
   "notes": []

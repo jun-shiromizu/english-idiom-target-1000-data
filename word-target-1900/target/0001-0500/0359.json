@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The campaign to push recycling has started to spread throughout the country.",
-      "sentence-jp": "リサイクルを推進する運動は国中で広がり始めた。"
+      "sentence-jp": "リサイクルを推進する運動は国中で広がり始めた。",
+      "cloze": {
+        "maskedText": "The ____ to push recycling has started to spread throughout the country.",
+        "answerBase": "campaign",
+        "answerSurface": "campaign",
+        "choices": [
+          "campaign",
+          "atmosphere",
+          "analysis",
+          "capacity"
+        ]
+      }
     }
   ],
   "notes": []

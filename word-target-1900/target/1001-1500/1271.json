@@ -12,5 +12,11 @@
       "sentence-jp": "宇宙のほんの一部分だけが地球上の観察者に見えている。"
     }
   ],
+  "cloze": {
+    "maskedText": "Only a tiny ____ of the data was missing.",
+    "answerBase": "fraction",
+    "answerSurface": "fraction",
+    "choices": ["fraction", "commodity", "hierarchy", "recipient"]
+  },
   "notes": []
 }

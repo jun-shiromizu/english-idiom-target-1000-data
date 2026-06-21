@@ -14,7 +14,18 @@
         "more or less"
       ],
       "example-sentence": "Today we can buy just about any sort of food from anywhere on the globe, in any season.",
-      "sentence-jp": "今日私たちはほぼどんな種類の食べ物でも、地球のどこからでも、どの季節にも買うことができる。"
+      "sentence-jp": "今日私たちはほぼどんな種類の食べ物でも、地球のどこからでも、どの季節にも買うことができる。",
+      "cloze": {
+        "maskedText": "Today we can buy ____ any sort of food from anywhere on the globe, in any season.",
+        "answerBase": "just about",
+        "answerSurface": "just about",
+        "choices": [
+          "just about",
+          "at that",
+          "on condition",
+          "in case"
+        ]
+      }
     }
   ],
   "notes": []

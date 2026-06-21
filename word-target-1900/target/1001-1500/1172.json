@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The military were forced to make a retreat from the enemy.",
-      "sentence-jp": "軍隊は敵陣から退却することを余儀なくされた。"
+      "sentence-jp": "軍隊は敵陣から退却することを余儀なくされた。",
+      "cloze": {
+        "maskedText": "The military were forced to make a ____ from the enemy.",
+        "answerBase": "retreat",
+        "answerSurface": "retreat",
+        "choices": ["retreat", "grave", "column", "tablet"]
+      }
     }
   ],
   "notes": []

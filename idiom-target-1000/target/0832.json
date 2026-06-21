@@ -12,7 +12,18 @@
         "be inconsistent with ~"
       ],
       "example-sentence": "I’m afraid what he’s been saying is completely at odds with what he’s been doing.",
-      "sentence-jp": "彼が言っていることはやっていることと完全に食い違っているのではないかと思う。"
+      "sentence-jp": "彼が言っていることはやっていることと完全に食い違っているのではないかと思う。",
+      "cloze": {
+        "maskedText": "I’m afraid what he’s been saying is completely ____ what he’s been doing.",
+        "answerBase": "be at odds (with ~)",
+        "answerSurface": "at odds with",
+        "choices": [
+          "at odds with",
+          "intent on",
+          "here to stay in",
+          "worth doing"
+        ]
+      }
     }
   ],
   "notes": []

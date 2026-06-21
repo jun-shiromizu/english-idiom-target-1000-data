@@ -12,7 +12,18 @@
         "take note (of ~)"
       ],
       "example-sentence": "The employer took no notice of his manager’s advice and made a mistake.",
-      "sentence-jp": "社長は部長の助言に注意を払わず、間違いを犯した。"
+      "sentence-jp": "社長は部長の助言に注意を払わず、間違いを犯した。",
+      "cloze": {
+        "maskedText": "The employer took no ____ his manager’s advice and made a mistake.",
+        "answerBase": "take notice (of ~)",
+        "answerSurface": "notice of",
+        "choices": [
+          "notice of",
+          "hold of",
+          "effect on",
+          "track of"
+        ]
+      }
     }
   ],
   "notes": [

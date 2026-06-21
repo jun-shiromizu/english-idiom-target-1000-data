@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "You should submit a birth certificate within 14 days after your child's birth.",
-      "sentence-jp": "子の誕生後，14日以内に出生証明書を提出するべきである。"
+      "sentence-jp": "子の誕生後，14日以内に出生証明書を提出するべきである。",
+      "cloze": {
+        "maskedText": "You should submit a birth ____ within 14 days after your child's birth.",
+        "answerBase": "certificate",
+        "answerSurface": "certificate",
+        "choices": [
+          "certificate",
+          "festival",
+          "corridor",
+          "landscape"
+        ]
+      }
     }
   ],
   "notes": []

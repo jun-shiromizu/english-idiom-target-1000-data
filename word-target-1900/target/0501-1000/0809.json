@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "New employees tend to occupy the lowest positions in the office.",
-      "sentence-jp": "新入社員は職場で最も低い地位を占める傾向にある。"
+      "sentence-jp": "新入社員は職場で最も低い地位を占める傾向にある。",
+      "cloze": {
+        "maskedText": "New employees tend to ____ the lowest positions in the office.",
+        "answerBase": "occupy",
+        "answerSurface": "occupy",
+        "choices": [
+          "occupy",
+          "assess",
+          "yield",
+          "exhibit"
+        ]
+      }
     }
   ],
   "notes": []

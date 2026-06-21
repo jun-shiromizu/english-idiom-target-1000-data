@@ -12,5 +12,11 @@
       "sentence-jp": "彼らは招待客を親友に限定した。"
     }
   ],
+  "cloze": {
+    "maskedText": "We should ____ the discussion to this issue.",
+    "answerBase": "confine",
+    "answerSurface": "confine",
+    "choices": ["confine", "prolong", "depict", "flee"]
+  },
   "notes": []
 }

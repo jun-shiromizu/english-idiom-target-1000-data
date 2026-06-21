@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "He read a crude summary of the novel.",
-      "sentence-jp": "彼はその小説の大まかな要約を読んだ。"
+      "sentence-jp": "彼はその小説の大まかな要約を読んだ。",
+      "cloze": {
+        "maskedText": "He read a ____ summary of the novel.",
+        "answerBase": "crude",
+        "answerSurface": "crude",
+        "choices": [
+          "crude",
+          "swift",
+          "explicit",
+          "affluent"
+        ]
+      }
     }
   ],
   "notes": []

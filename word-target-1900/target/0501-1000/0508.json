@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Please inform us of any change in your plan.",
-      "sentence-jp": "計画のどんな変更も我々にお知らせください。"
+      "sentence-jp": "計画のどんな変更も我々にお知らせください。",
+      "cloze": {
+        "maskedText": "Please ____ us of any change in your plan.",
+        "answerBase": "inform",
+        "answerSurface": "inform",
+        "choices": [
+          "inform",
+          "freeze",
+          "separate",
+          "charge"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Both my parents grew up in a poor neighborhood.",
-      "sentence-jp": "私の両親は共に貧しい地域で育った。"
+      "sentence-jp": "私の両親は共に貧しい地域で育った。",
+      "cloze": {
+        "maskedText": "Both my parents grew up in a poor ____.",
+        "answerBase": "neighborhood",
+        "answerSurface": "neighborhood",
+        "choices": [
+          "neighborhood",
+          "temperature",
+          "agreement",
+          "schedule"
+        ]
+      }
     }
   ],
   "notes": []

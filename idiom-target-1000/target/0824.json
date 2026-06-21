@@ -15,7 +15,18 @@
         "think the world of ~"
       ],
       "example-sentence": "The film director was highly thought of by most critics.",
-      "sentence-jp": "その映画監督はほとんどの批評家に高く評価されていた。"
+      "sentence-jp": "その映画監督はほとんどの批評家に高く評価されていた。",
+      "cloze": {
+        "maskedText": "The film director was highly ____ by most critics.",
+        "answerBase": "think much of ~ / think highly of ~",
+        "answerSurface": "thought of",
+        "choices": [
+          "thought of",
+          "fed up with",
+          "treated to",
+          "kidded by"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Healthy life habits can reduce the risk of chronic diseases.",
-      "sentence-jp": "健康的な生活習慣は，慢性疾患の危険性を減らす可能性がある。"
+      "sentence-jp": "健康的な生活習慣は，慢性疾患の危険性を減らす可能性がある。",
+      "cloze": {
+        "maskedText": "Healthy life habits can reduce the risk of ____ diseases.",
+        "answerBase": "chronic",
+        "answerSurface": "chronic",
+        "choices": ["chronic", "voluntary", "inclined", "bitter"]
+      }
     }
   ],
   "notes": []

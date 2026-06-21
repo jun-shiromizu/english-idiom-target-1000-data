@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Muslims pray in mosques on Friday, their holy day of the week.",
-      "sentence-jp": "イスラム教徒は，彼らの聖なる曜日である金曜日にモスクで祈る。"
+      "sentence-jp": "イスラム教徒は，彼らの聖なる曜日である金曜日にモスクで祈る。",
+      "cloze": {
+        "maskedText": "____ pray in mosques on Friday, their holy day of the week.",
+        "answerBase": "Muslim",
+        "answerSurface": "Muslims",
+        "choices": ["Muslims", "Landmines", "Supplements", "Fibers"]
+      }
     }
   ],
   "notes": []

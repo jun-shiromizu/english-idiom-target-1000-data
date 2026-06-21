@@ -12,5 +12,11 @@
       "sentence-jp": "彼女はデータベースから首尾よく必要な情報を検索した。"
     }
   ],
+  "cloze": {
+    "maskedText": "I need to ____ the file from the archive.",
+    "answerBase": "retrieve",
+    "answerSurface": "retrieve",
+    "choices": ["retrieve", "induce", "portray", "sigh"]
+  },
   "notes": []
 }

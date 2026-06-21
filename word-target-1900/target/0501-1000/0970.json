@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He cannot move his left arm due to a stroke.",
-      "sentence-jp": "彼は脳卒中のせいで左腕を動かすことができない。"
+      "sentence-jp": "彼は脳卒中のせいで左腕を動かすことができない。",
+      "cloze": {
+        "maskedText": "He cannot move his left arm due to a ____.",
+        "answerBase": "stroke",
+        "answerSurface": "stroke",
+        "choices": ["stroke", "mill", "metaphor", "fare"]
+      }
     }
   ],
   "notes": []

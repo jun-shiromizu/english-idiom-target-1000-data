@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Watch your step, everyone! It’s dark and very slippery in here.",
-      "sentence-jp": "皆さん、足元に注意してください！ここは暗くてとても滑りやすいです。"
+      "sentence-jp": "皆さん、足元に注意してください！ここは暗くてとても滑りやすいです。",
+      "cloze": {
+        "maskedText": "____, everyone! It’s dark and very slippery in here.",
+        "answerBase": "watch one’s step",
+        "answerSurface": "Watch your step",
+        "choices": [
+          "Watch your step",
+          "Think again",
+          "Take your time",
+          "Help yourself"
+        ]
+      }
     }
   ],
   "notes": [

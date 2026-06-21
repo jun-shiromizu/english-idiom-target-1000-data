@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "The earth is spinning around on its axis.",
-      "sentence-jp": "地球は地軸を中心に回転している。"
+      "sentence-jp": "地球は地軸を中心に回転している。",
+      "cloze": {
+        "maskedText": "The earth is ____ around on its axis.",
+        "answerBase": "spin",
+        "answerSurface": "spinning",
+        "choices": ["spinning", "dragging", "tempting", "withdrawing"]
+      }
     }
   ],
   "notes": []

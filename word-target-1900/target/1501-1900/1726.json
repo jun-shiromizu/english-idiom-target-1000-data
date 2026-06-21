@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "I stained my sweater with spilled tomato juice.",
-      "sentence-jp": "私はトマトジュースをこぼしてセーターを汚した。"
+      "sentence-jp": "私はトマトジュースをこぼしてセーターを汚した。",
+      "cloze": {
+        "maskedText": "I ____ my sweater with spilled tomato juice.",
+        "answerBase": "stain",
+        "answerSurface": "stained",
+        "choices": [
+          "stained",
+          "washed",
+          "packed",
+          "folded"
+        ]
+      }
     }
   ],
   "notes": []

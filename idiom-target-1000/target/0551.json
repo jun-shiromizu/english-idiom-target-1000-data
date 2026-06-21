@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "If you are under the impression that only the students of four-year schools are subject to debt, think again.",
-      "sentence-jp": "もしあなたが4年制学校の学生だけが負債を負いやすいと思い込んでいるなら、考え直しなさい。"
+      "sentence-jp": "もしあなたが4年制学校の学生だけが負債を負いやすいと思い込んでいるなら、考え直しなさい。",
+      "cloze": {
+        "maskedText": "If you are under the impression that only the students of four-year schools are ____ debt, think again.",
+        "answerBase": "be subject to ~",
+        "answerSurface": "subject to",
+        "choices": [
+          "subject to",
+          "superior to",
+          "sensitive to",
+          "accustomed to"
+        ]
+      }
     }
   ],
   "notes": [

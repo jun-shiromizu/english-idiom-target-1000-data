@@ -15,7 +15,18 @@
         "comply with ~"
       ],
       "example-sentence": "Once you’ve signed a contract with anyone, you’re supposed to abide by it to the letter.",
-      "sentence-jp": "どんな人との契約でもいったん署名してしまったら、厳密にそれに従わなければならない。"
+      "sentence-jp": "どんな人との契約でもいったん署名してしまったら、厳密にそれに従わなければならない。",
+      "cloze": {
+        "maskedText": "Once you’ve signed a contract with anyone, you’re supposed to ____ it to the letter.",
+        "answerBase": "abide by ~",
+        "answerSurface": "abide by",
+        "choices": [
+          "abide by",
+          "discriminate against",
+          "refrain from",
+          "work out"
+        ]
+      }
     }
   ],
   "notes": []

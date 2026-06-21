@@ -12,7 +12,18 @@
         "be liable to ~"
       ],
       "example-sentence": "When we are stressed out, we are prone to shorter and poor sleep.",
-      "sentence-jp": "私たちはいらいらしているときに短時間で質の悪い睡眠におちいりやすい。"
+      "sentence-jp": "私たちはいらいらしているときに短時間で質の悪い睡眠におちいりやすい。",
+      "cloze": {
+        "maskedText": "When we are stressed out, we are ____ shorter and poor sleep.",
+        "answerBase": "be prone to ~",
+        "answerSurface": "prone to",
+        "choices": [
+          "prone to",
+          "subject to",
+          "similar to",
+          "contrary to"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "An elderly woman was sitting under the shade of a big tree.",
-      "sentence-jp": "1人の老婦人が大きな木の陰に座っていた。"
+      "sentence-jp": "1人の老婦人が大きな木の陰に座っていた。",
+      "cloze": {
+        "maskedText": "An elderly woman was sitting under the ____ of a big tree.",
+        "answerBase": "shade",
+        "answerSurface": "shade",
+        "choices": ["shade", "merit", "jury", "nutrition"]
+      }
     }
   ],
   "notes": []

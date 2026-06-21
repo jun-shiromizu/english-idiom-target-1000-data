@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The police officer wears a special vest to protect himself from bullets.",
-      "sentence-jp": "その警官は銃弾から身を守るための特殊なチョッキを着ている。"
+      "sentence-jp": "その警官は銃弾から身を守るための特殊なチョッキを着ている。",
+      "cloze": {
+        "maskedText": "The police officer wears a special vest to protect himself from ____.",
+        "answerBase": "bullet",
+        "answerSurface": "bullets",
+        "choices": [
+          "bullets",
+          "shields",
+          "despairs",
+          "nurseries"
+        ]
+      }
     }
   ],
   "notes": []

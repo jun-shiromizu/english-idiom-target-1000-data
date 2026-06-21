@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "His company specializes in the importing of medical equipment.",
-      "sentence-jp": "彼の会社は医療機器の輸入を専門に扱う。"
+      "sentence-jp": "彼の会社は医療機器の輸入を専門に扱う。",
+      "cloze": {
+        "maskedText": "His company ____ in the importing of medical equipment.",
+        "answerBase": "specialize",
+        "answerSurface": "specializes",
+        "choices": [
+          "specializes",
+          "attributes",
+          "reverses",
+          "assists"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "No one knows why food allergies are on the increase.",
-      "sentence-jp": "なぜ食物アレルギーが増えているのか，だれにもわからない。"
+      "sentence-jp": "なぜ食物アレルギーが増えているのか，だれにもわからない。",
+      "cloze": {
+        "maskedText": "No one knows why food ____ are on the increase.",
+        "answerBase": "allergy",
+        "answerSurface": "allergies",
+        "choices": ["allergies", "scenarios", "metaphors", "galaxies"]
+      }
     }
   ],
   "notes": []

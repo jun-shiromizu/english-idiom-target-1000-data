@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I can’t bring myself to throw away a perfectly good glove although I’ll never find the other one.",
-      "sentence-jp": "もう一方の手袋は決して見つからないだろうが、完璧にすばらしい片方の手袋を捨てる気にはなれない。"
+      "sentence-jp": "もう一方の手袋は決して見つからないだろうが、完璧にすばらしい片方の手袋を捨てる気にはなれない。",
+      "cloze": {
+        "maskedText": "I can’t ____ throw away a perfectly good glove although I’ll never find the other one.",
+        "answerBase": "bring oneself to do",
+        "answerSurface": "bring myself to",
+        "choices": [
+          "bring myself to",
+          "take the trouble to",
+          "leave nothing to",
+          "in order to"
+        ]
+      }
     }
   ],
   "notes": [

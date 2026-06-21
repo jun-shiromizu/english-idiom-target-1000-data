@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "In some nations, the government authorities limit the freedom of speech.",
-      "sentence-jp": "国によっては，政府当局が言論の自由を制限する。"
+      "sentence-jp": "国によっては，政府当局が言論の自由を制限する。",
+      "cloze": {
+        "maskedText": "In some nations, the government ____ limit the freedom of speech.",
+        "answerBase": "authority",
+        "answerSurface": "authorities",
+        "choices": [
+          "authorities",
+          "payments",
+          "villages",
+          "bridges"
+        ]
+      }
     }
   ],
   "notes": []

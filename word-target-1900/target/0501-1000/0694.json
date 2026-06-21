@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Every year an increasing number of animals are becoming extinct.",
-      "sentence-jp": "毎年ますます多くの動物が絶滅している。"
+      "sentence-jp": "毎年ますます多くの動物が絶滅している。",
+      "cloze": {
+        "maskedText": "Every year an increasing number of animals are becoming ____.",
+        "answerBase": "extinct",
+        "answerSurface": "extinct",
+        "choices": [
+          "extinct",
+          "meaningful",
+          "rude",
+          "intense"
+        ]
+      }
     }
   ],
   "notes": []

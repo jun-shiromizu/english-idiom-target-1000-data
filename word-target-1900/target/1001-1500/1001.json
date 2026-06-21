@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "I will negotiate with the client about the delivery date.",
-      "sentence-jp": "私が納期に関して顧客と交渉します。"
+      "sentence-jp": "私が納期に関して顧客と交渉します。",
+      "cloze": {
+        "maskedText": "I will ____ with the client about the delivery date.",
+        "answerBase": "negotiate",
+        "answerSurface": "negotiate",
+        "choices": ["negotiate", "donate", "arrest", "install"]
+      }
     }
   ],
   "notes": []

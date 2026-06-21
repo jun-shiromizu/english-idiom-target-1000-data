@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "My shoulder is stiff because I used a computer for a long time.",
-      "sentence-jp": "私は長時間コンピューターを使ったので肩が凝っている。"
+      "sentence-jp": "私は長時間コンピューターを使ったので肩が凝っている。",
+      "cloze": {
+        "maskedText": "My shoulder is ____ because I used a computer for a long time.",
+        "answerBase": "stiff",
+        "answerSurface": "stiff",
+        "choices": [
+          "stiff",
+          "fancy",
+          "lively",
+          "gentle"
+        ]
+      }
     }
   ],
   "notes": []

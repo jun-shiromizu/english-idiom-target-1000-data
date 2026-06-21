@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "It is feared the worsening air quality will give rise to many fundamental health problems.",
-      "sentence-jp": "大気の質の悪化は多くの根本的な健康問題を引き起こす恐れがある。"
+      "sentence-jp": "大気の質の悪化は多くの根本的な健康問題を引き起こす恐れがある。",
+      "cloze": {
+        "maskedText": "It is feared the worsening air quality will ____ many fundamental health problems.",
+        "answerBase": "give rise to ~",
+        "answerSurface": "give rise to",
+        "choices": [
+          "give rise to",
+          "find its way to",
+          "keep an eye on",
+          "fall victim to"
+        ]
+      }
     }
   ],
   "notes": []

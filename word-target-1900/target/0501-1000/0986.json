@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The Earth has a magnetic field which gives it protection.",
-      "sentence-jp": "地球には地球を保護している磁場がある。"
+      "sentence-jp": "地球には地球を保護している磁場がある。",
+      "cloze": {
+        "maskedText": "The Earth has a ____ field which gives it protection.",
+        "answerBase": "magnetic",
+        "answerSurface": "magnetic",
+        "choices": ["magnetic", "neutral", "passive", "informal"]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "A magazine ranked the hotel as the city's best.",
-      "sentence-jp": "ある雑誌はそのホテルを市の最高のものと位置づけた。"
+      "sentence-jp": "ある雑誌はそのホテルを市の最高のものと位置づけた。",
+      "cloze": {
+        "maskedText": "A magazine ____ the hotel as the city's best.",
+        "answerBase": "rank",
+        "answerSurface": "ranked",
+        "choices": [
+          "ranked",
+          "pushed",
+          "fixed",
+          "borrowed"
+        ]
+      }
     }
   ],
   "notes": []

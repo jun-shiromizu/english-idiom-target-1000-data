@@ -14,7 +14,18 @@
         "be convinced of ~"
       ],
       "example-sentence": "My grandfather says he’s fully confident of my success in the exam next year.",
-      "sentence-jp": "祖父は来年の試験での私の合格を心から確信していると言う。"
+      "sentence-jp": "祖父は来年の試験での私の合格を心から確信していると言う。",
+      "cloze": {
+        "maskedText": "My grandfather says he’s fully ____ my success in the exam next year.",
+        "answerBase": "be confident of ~ / be confident about ~",
+        "answerSurface": "confident of",
+        "choices": [
+          "confident of",
+          "guilty of",
+          "considerate of",
+          "tolerant of"
+        ]
+      }
     }
   ],
   "notes": [

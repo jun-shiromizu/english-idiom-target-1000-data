@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She is very good at folding clothes.",
-      "sentence-jp": "彼女は衣服を畳むのがとてもうまい。"
+      "sentence-jp": "彼女は衣服を畳むのがとてもうまい。",
+      "cloze": {
+        "maskedText": "She is very good at ____ clothes.",
+        "answerBase": "fold",
+        "answerSurface": "folding",
+        "choices": ["folding", "mounting", "consulting", "exceeding"]
+      }
     }
   ],
   "notes": []

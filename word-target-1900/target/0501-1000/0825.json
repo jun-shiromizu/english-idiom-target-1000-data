@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "The number of players on both sides should correspond with the other.",
-      "sentence-jp": "両チームとも選手の数が相手と一致していなければならない。"
+      "sentence-jp": "両チームとも選手の数が相手と一致していなければならない。",
+      "cloze": {
+        "maskedText": "The number of players on both sides should ____ with the other.",
+        "answerBase": "correspond",
+        "answerSurface": "correspond",
+        "choices": [
+          "correspond",
+          "boost",
+          "impose",
+          "resolve"
+        ]
+      }
     }
   ],
   "notes": []

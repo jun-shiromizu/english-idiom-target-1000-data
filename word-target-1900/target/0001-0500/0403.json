@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Zoos offer an opportunity to educate children about wild animals.",
-      "sentence-jp": "動物園は野生動物に関して子供たちを教育する機会を与える。"
+      "sentence-jp": "動物園は野生動物に関して子供たちを教育する機会を与える。",
+      "cloze": {
+        "maskedText": "Zoos offer an opportunity to ____ children about wild animals.",
+        "answerBase": "educate",
+        "answerSurface": "educate",
+        "choices": [
+          "educate",
+          "divide",
+          "notice",
+          "repair"
+        ]
+      }
     }
   ],
   "notes": []

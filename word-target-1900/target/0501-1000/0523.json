@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The lawyer regrets having been unable to help his client.",
-      "sentence-jp": "その弁護士は依頼人を助けられなかったことを悔やんでいる。"
+      "sentence-jp": "その弁護士は依頼人を助けられなかったことを悔やんでいる。",
+      "cloze": {
+        "maskedText": "The lawyer ____ having been unable to help his client.",
+        "answerBase": "regret",
+        "answerSurface": "regrets",
+        "choices": [
+          "regrets",
+          "builds",
+          "covers",
+          "visits"
+        ]
+      }
     }
   ],
   "notes": []

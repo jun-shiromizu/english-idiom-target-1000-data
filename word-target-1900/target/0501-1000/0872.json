@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The man used wood chips to build a fire.",
-      "sentence-jp": "その男性は火をおこすのに木の切りくずを使った。"
+      "sentence-jp": "その男性は火をおこすのに木の切りくずを使った。",
+      "cloze": {
+        "maskedText": "The man used wood ____ to build a fire.",
+        "answerBase": "chip",
+        "answerSurface": "chips",
+        "choices": ["chips", "debates", "salaries", "mirrors"]
+      }
     }
   ],
   "notes": []

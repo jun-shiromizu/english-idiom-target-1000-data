@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "What do you go on a diet for, if you end up losing your health?",
-      "sentence-jp": "結局健康を害することになるのなら、どうしてダイエットをするのですか。"
+      "sentence-jp": "結局健康を害することになるのなら、どうしてダイエットをするのですか。",
+      "cloze": {
+        "maskedText": "____, if you end up losing your health?",
+        "answerBase": "What ... for?",
+        "answerSurface": "What do you go on a diet for",
+        "choices": [
+          "What do you go on a diet for",
+          "What it would feel like",
+          "The bottom line is",
+          "Last but not least"
+        ]
+      }
     }
   ],
   "notes": [

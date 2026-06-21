@@ -14,7 +14,18 @@
         "on show"
       ],
       "example-sentence": "In the store I entered, the prices of the goods on display were all clearly shown.",
-      "sentence-jp": "私の入った店では、陳列中の商品の価格はすべて明示されていた。"
+      "sentence-jp": "私の入った店では、陳列中の商品の価格はすべて明示されていた。",
+      "cloze": {
+        "maskedText": "In the store I entered, the prices of the goods ____ were all clearly shown.",
+        "answerBase": "on display",
+        "answerSurface": "on display",
+        "choices": [
+          "on display",
+          "on the increase",
+          "on our guard",
+          "on average"
+        ]
+      }
     }
   ],
   "notes": [

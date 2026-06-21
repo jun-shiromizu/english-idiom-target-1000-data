@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "You should not be pessimistic about your future.",
-      "sentence-jp": "君は将来について悲観的になってはいけない。"
+      "sentence-jp": "君は将来について悲観的になってはいけない。",
+      "cloze": {
+        "maskedText": "You should not be ____ about your future.",
+        "answerBase": "pessimistic",
+        "answerSurface": "pessimistic",
+        "choices": [
+          "pessimistic",
+          "susceptible",
+          "explicit",
+          "affluent"
+        ]
+      }
     }
   ],
   "notes": []

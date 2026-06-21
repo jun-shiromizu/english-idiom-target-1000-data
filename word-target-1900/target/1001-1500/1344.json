@@ -12,5 +12,11 @@
       "sentence-jp": "平和をもたらすために戦争を行うことは逆説である。"
     }
   ],
+  "cloze": {
+    "maskedText": "It is a ____ that technology can both connect and isolate us.",
+    "answerBase": "paradox",
+    "answerSurface": "paradox",
+    "choices": ["paradox", "legislation", "outbreak", "dose"]
+  },
   "notes": []
 }

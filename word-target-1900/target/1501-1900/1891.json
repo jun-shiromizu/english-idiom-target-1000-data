@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Contagious diseases are likely to spread in crowded places.",
-      "sentence-jp": "感染症は混雑した場所で広がる可能性が高い。"
+      "sentence-jp": "感染症は混雑した場所で広がる可能性が高い。",
+      "cloze": {
+        "maskedText": "____ diseases are likely to spread in crowded places.",
+        "answerBase": "contagious",
+        "answerSurface": "Contagious",
+        "choices": [
+          "Contagious",
+          "Expensive",
+          "Ordinary",
+          "Distant"
+        ]
+      }
     }
   ],
   "notes": []

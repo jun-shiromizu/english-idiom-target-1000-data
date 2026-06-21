@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He takes many supplements every day.",
-      "sentence-jp": "彼は毎日多くのサプリメントを服用する。"
+      "sentence-jp": "彼は毎日多くのサプリメントを服用する。",
+      "cloze": {
+        "maskedText": "He takes many ____ every day.",
+        "answerBase": "supplement",
+        "answerSurface": "supplements",
+        "choices": ["supplements", "provinces", "enterprises", "millennia"]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Most high schools use testing to assess their students' achievements.",
-      "sentence-jp": "たいていの高校は生徒の成績を評価するのにテストを利用する。"
+      "sentence-jp": "たいていの高校は生徒の成績を評価するのにテストを利用する。",
+      "cloze": {
+        "maskedText": "Most high schools use testing to ____ their students' achievements.",
+        "answerBase": "assess",
+        "answerSurface": "assess",
+        "choices": [
+          "assess",
+          "approve",
+          "pose",
+          "occupy"
+        ]
+      }
     }
   ],
   "notes": []

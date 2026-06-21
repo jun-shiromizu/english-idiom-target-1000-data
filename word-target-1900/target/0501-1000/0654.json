@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "There is no exception to his regular life.",
-      "sentence-jp": "彼の規則正しい生活に例外はない。"
+      "sentence-jp": "彼の規則正しい生活に例外はない。",
+      "cloze": {
+        "maskedText": "There is no ____ to his regular life.",
+        "answerBase": "exception",
+        "answerSurface": "exception",
+        "choices": [
+          "exception",
+          "minimum",
+          "bond",
+          "surgery"
+        ]
+      }
     }
   ],
   "notes": []

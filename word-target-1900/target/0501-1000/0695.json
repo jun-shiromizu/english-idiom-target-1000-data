@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The research team collects their samples using random selection.",
-      "sentence-jp": "その研究チームは無作為抽出を使ってサンプルを集める。"
+      "sentence-jp": "その研究チームは無作為抽出を使ってサンプルを集める。",
+      "cloze": {
+        "maskedText": "The research team collects their samples using ____ selection.",
+        "answerBase": "random",
+        "answerSurface": "random",
+        "choices": [
+          "random",
+          "intense",
+          "mere",
+          "evil"
+        ]
+      }
     }
   ],
   "notes": []

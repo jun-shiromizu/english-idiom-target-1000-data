@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The couple adopted an orphan into their family.",
-      "sentence-jp": "その夫婦は孤児を養子として家族に迎えた。"
+      "sentence-jp": "その夫婦は孤児を養子として家族に迎えた。",
+      "cloze": {
+        "maskedText": "The couple adopted an ____ into their family.",
+        "answerBase": "orphan",
+        "answerSurface": "orphan",
+        "choices": [
+          "orphan",
+          "athlete",
+          "lawyer",
+          "merchant"
+        ]
+      }
     }
   ],
   "notes": []

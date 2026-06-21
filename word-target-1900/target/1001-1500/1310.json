@@ -12,5 +12,11 @@
       "sentence-jp": "その政治家は世論を操る術を知っている。"
     }
   ],
+  "cloze": {
+    "maskedText": "Ads can ____ people's emotions.",
+    "answerBase": "manipulate",
+    "answerSurface": "manipulate",
+    "choices": ["manipulate", "depict", "flee", "yell"]
+  },
   "notes": []
 }

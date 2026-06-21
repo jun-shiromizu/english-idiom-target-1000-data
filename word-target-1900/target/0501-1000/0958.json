@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "His old wounds still ache in cold weather.",
-      "sentence-jp": "彼の古傷は今でも寒い天候のときに痛む。"
+      "sentence-jp": "彼の古傷は今でも寒い天候のときに痛む。",
+      "cloze": {
+        "maskedText": "His old ____ still ache in cold weather.",
+        "answerBase": "wound",
+        "answerSurface": "wounds",
+        "choices": ["wounds", "vaccines", "transitions", "counterparts"]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He has great contempt for bullies.",
-      "sentence-jp": "彼は弱い者いじめをする人を非常に軽蔑している。"
+      "sentence-jp": "彼は弱い者いじめをする人を非常に軽蔑している。",
+      "cloze": {
+        "maskedText": "He has great ____ for bullies.",
+        "answerBase": "contempt",
+        "answerSurface": "contempt",
+        "choices": [
+          "contempt",
+          "battery",
+          "revenue",
+          "festival"
+        ]
+      }
     }
   ],
   "notes": []

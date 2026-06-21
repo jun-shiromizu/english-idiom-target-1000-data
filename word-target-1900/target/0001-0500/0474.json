@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The brain is the most advanced organ in the known universe.",
-      "sentence-jp": "脳は既知の宇宙において最も進歩した器官である。"
+      "sentence-jp": "脳は既知の宇宙において最も進歩した器官である。",
+      "cloze": {
+        "maskedText": "The brain is the most advanced ____ in the known universe.",
+        "answerBase": "organ",
+        "answerSurface": "organ",
+        "choices": [
+          "organ",
+          "traffic",
+          "lecture",
+          "curtain"
+        ]
+      }
     }
   ],
   "notes": []

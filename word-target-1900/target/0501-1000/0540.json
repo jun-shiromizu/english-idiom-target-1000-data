@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The postal worker confirmed my identity before handing me the express letter.",
-      "sentence-jp": "その郵便局員は速達の手紙を私に渡す前に私の身元を確認した。"
+      "sentence-jp": "その郵便局員は速達の手紙を私に渡す前に私の身元を確認した。",
+      "cloze": {
+        "maskedText": "The postal worker ____ my identity before handing me the express letter.",
+        "answerBase": "confirm",
+        "answerSurface": "confirmed",
+        "choices": [
+          "confirmed",
+          "repaired",
+          "visited",
+          "stored"
+        ]
+      }
     }
   ],
   "notes": []

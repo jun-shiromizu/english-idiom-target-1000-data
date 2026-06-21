@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "A lot of soccer fans watched the Brazil versus Italy game on TV.",
-      "sentence-jp": "多くのサッカーファンがブラジル対イタリアの試合をテレビで見た。"
+      "sentence-jp": "多くのサッカーファンがブラジル対イタリアの試合をテレビで見た。",
+      "cloze": {
+        "maskedText": "A lot of soccer fans watched the Brazil ____ Italy game on TV.",
+        "answerBase": "versus",
+        "answerSurface": "versus",
+        "choices": ["versus", "valid", "sacred", "brilliant"]
+      }
     }
   ],
   "notes": []

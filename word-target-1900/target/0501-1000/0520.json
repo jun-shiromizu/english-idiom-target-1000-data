@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The city plans to construct new public transportation facilities.",
-      "sentence-jp": "市は新しい公共輸送施設を建設する計画である。"
+      "sentence-jp": "市は新しい公共輸送施設を建設する計画である。",
+      "cloze": {
+        "maskedText": "The city plans to ____ new public transportation facilities.",
+        "answerBase": "construct",
+        "answerSurface": "construct",
+        "choices": [
+          "construct",
+          "freeze",
+          "praise",
+          "compare"
+        ]
+      }
     }
   ],
   "notes": []

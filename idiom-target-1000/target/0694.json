@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "comparative-expression",
       "example-sentence": "My brother should have known better than to drive without his license on him.",
-      "sentence-jp": "私の兄は免許を携帯せずに運転しないだけの分別を持つべきだった。"
+      "sentence-jp": "私の兄は免許を携帯せずに運転しないだけの分別を持つべきだった。",
+      "cloze": {
+        "maskedText": "My brother should have ____ drive without his license on him.",
+        "answerBase": "know better (than to do)",
+        "answerSurface": "known better than to",
+        "choices": [
+          "known better than to",
+          "couldn’t be better, thanks",
+          "to the best of my knowledge",
+          "to the fullest"
+        ]
+      }
     }
   ],
   "notes": []

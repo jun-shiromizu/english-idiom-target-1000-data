@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The consensus of the class is that we will run a café at the school festival.",
-      "sentence-jp": "クラスの総意は私たちが文化祭でカフェを運営することである。"
+      "sentence-jp": "クラスの総意は私たちが文化祭でカフェを運営することである。",
+      "cloze": {
+        "maskedText": "The ____ of the class is that we will run a cafe at the school festival.",
+        "answerBase": "consensus",
+        "answerSurface": "consensus",
+        "choices": ["consensus", "retail", "fiber", "diabetes"]
+      }
     }
   ],
   "notes": []

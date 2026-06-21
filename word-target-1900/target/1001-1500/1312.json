@@ -12,5 +12,11 @@
       "sentence-jp": "その女性は犯行現場から逃げようとした。"
     }
   ],
+  "cloze": {
+    "maskedText": "Many villagers had to ____ the fire.",
+    "answerBase": "flee",
+    "answerSurface": "flee",
+    "choices": ["flee", "confine", "suppress", "whisper"]
+  },
   "notes": []
 }

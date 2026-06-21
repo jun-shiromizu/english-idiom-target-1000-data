@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Burning jet fuel releases vast quantities of carbon dioxide.",
-      "sentence-jp": "ジェット燃料の燃焼は大量の二酸化炭素を放出する。"
+      "sentence-jp": "ジェット燃料の燃焼は大量の二酸化炭素を放出する。",
+      "cloze": {
+        "maskedText": "Burning jet fuel releases vast ____ of carbon dioxide.",
+        "answerBase": "quantity",
+        "answerSurface": "quantities",
+        "choices": [
+          "quantities",
+          "hallways",
+          "umbrellas",
+          "paintings"
+        ]
+      }
     }
   ],
   "notes": []

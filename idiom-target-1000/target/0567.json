@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "My father had always been too busy with his work until this year.",
-      "sentence-jp": "私の父は今年まではずっと仕事で忙しすぎた。"
+      "sentence-jp": "私の父は今年まではずっと仕事で忙しすぎた。",
+      "cloze": {
+        "maskedText": "My father had always been too ____ his work until this year.",
+        "answerBase": "be busy with ~",
+        "answerSurface": "busy with",
+        "choices": [
+          "busy with",
+          "content with",
+          "popular with",
+          "confronted with"
+        ]
+      }
     }
   ],
   "notes": [

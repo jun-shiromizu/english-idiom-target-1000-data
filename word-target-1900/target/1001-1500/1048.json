@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Mary's poor behavior causes great distress for her mother.",
-      "sentence-jp": "メアリーのよくない行動が彼女の母親にとっての大きな苦悩の原因である。"
+      "sentence-jp": "メアリーのよくない行動が彼女の母親にとっての大きな苦悩の原因である。",
+      "cloze": {
+        "maskedText": "Mary's poor behavior causes great ____ for her mother.",
+        "answerBase": "distress",
+        "answerSurface": "distress",
+        "choices": ["distress", "input", "compliment", "penalty"]
+      }
     }
   ],
   "notes": []

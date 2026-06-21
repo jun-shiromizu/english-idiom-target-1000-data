@@ -12,5 +12,11 @@
       "sentence-jp": "彼は大人になって大いに行儀作法を洗練した。"
     }
   ],
+  "cloze": {
+    "maskedText": "The team continues to ____ its strategy.",
+    "answerBase": "refine",
+    "answerSurface": "refine",
+    "choices": ["refine", "dump", "flock", "glow"]
+  },
   "notes": []
 }

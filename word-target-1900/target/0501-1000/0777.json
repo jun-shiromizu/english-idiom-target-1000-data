@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He succeeded in making a fortune by investing in oil production.",
-      "sentence-jp": "彼は石油採取に投資することで一財産を作ることに成功した。"
+      "sentence-jp": "彼は石油採取に投資することで一財産を作ることに成功した。",
+      "cloze": {
+        "maskedText": "He succeeded in making a ____ by investing in oil production.",
+        "answerBase": "fortune",
+        "answerSurface": "fortune",
+        "choices": [
+          "fortune",
+          "channel",
+          "sector",
+          "platform"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "One's eyesight might be improved with laser surgery.",
-      "sentence-jp": "レーザー手術により視力が改善されることもある。"
+      "sentence-jp": "レーザー手術により視力が改善されることもある。",
+      "cloze": {
+        "maskedText": "One's eyesight might be improved with laser ____.",
+        "answerBase": "surgery",
+        "answerSurface": "surgery",
+        "choices": [
+          "surgery",
+          "exception",
+          "bond",
+          "frame"
+        ]
+      }
     }
   ],
   "notes": []

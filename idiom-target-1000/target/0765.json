@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Her students have always practiced writing English, so that now they are all good English writers.",
-      "sentence-jp": "彼女の生徒たちは常に英語を書く練習をしてきた。その結果、今では全員が英語を上手に書ける。"
+      "sentence-jp": "彼女の生徒たちは常に英語を書く練習をしてきた。その結果、今では全員が英語を上手に書ける。",
+      "cloze": {
+        "maskedText": "Her students have always practiced writing English, ____ now they are all good English writers.",
+        "answerBase": "~, so (that) ...",
+        "answerSurface": "so that",
+        "choices": [
+          "so that",
+          "in that",
+          "even as",
+          "as long as"
+        ]
+      }
     }
   ],
   "notes": [

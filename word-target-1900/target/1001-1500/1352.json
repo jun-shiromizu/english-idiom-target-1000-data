@@ -12,5 +12,11 @@
       "sentence-jp": "祭りの参加者の数が多かったことが大混乱を招いた。"
     }
   ],
+  "cloze": {
+    "maskedText": "Traffic was in complete ____ after the accident.",
+    "answerBase": "chaos",
+    "answerSurface": "chaos",
+    "choices": ["chaos", "agenda", "pollen", "dose"]
+  },
   "notes": []
 }

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "People may be monitored by cameras set all around the city.",
-      "sentence-jp": "人々は市内中に設置されたカメラによって監視されているかもしれない。"
+      "sentence-jp": "人々は市内中に設置されたカメラによって監視されているかもしれない。",
+      "cloze": {
+        "maskedText": "People may be ____ by cameras set all around the city.",
+        "answerBase": "monitor",
+        "answerSurface": "monitored",
+        "choices": [
+          "monitored",
+          "launched",
+          "eased",
+          "frightened"
+        ]
+      }
     }
   ],
   "notes": []

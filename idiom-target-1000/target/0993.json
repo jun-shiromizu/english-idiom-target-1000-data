@@ -13,7 +13,18 @@
         "finally"
       ],
       "example-sentence": "When Rosemary comes back, I’ll do my best to settle the matter with her once and for all.",
-      "sentence-jp": "ローズマリーが戻ったら、彼女との問題をきっぱりと解決するために最善を尽くすつもりだ。"
+      "sentence-jp": "ローズマリーが戻ったら、彼女との問題をきっぱりと解決するために最善を尽くすつもりだ。",
+      "cloze": {
+        "maskedText": "When Rosemary comes back, I’ll do my best to settle the matter with her ____.",
+        "answerBase": "once (and) for all",
+        "answerSurface": "once and for all",
+        "choices": [
+          "once and for all",
+          "one of these days",
+          "on the spot",
+          "to date"
+        ]
+      }
     }
   ],
   "notes": [

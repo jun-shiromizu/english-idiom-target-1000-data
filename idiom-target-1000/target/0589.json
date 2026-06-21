@@ -13,7 +13,18 @@
         "make contact (with ~)"
       ],
       "example-sentence": "Please tell him to get in touch with me as soon as possible.",
-      "sentence-jp": "できる限り早く私に連絡するように彼に伝えてください。"
+      "sentence-jp": "できる限り早く私に連絡するように彼に伝えてください。",
+      "cloze": {
+        "maskedText": "Please tell him to ____ as soon as possible.",
+        "answerBase": "get in touch (with ~)",
+        "answerSurface": "get in touch with me",
+        "choices": [
+          "get in touch with me",
+          "make it all the way down the mountain",
+          "put the new project into practice",
+          "sign up for universities’ online programs"
+        ]
+      }
     }
   ],
   "notes": [

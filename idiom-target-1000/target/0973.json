@@ -12,7 +12,18 @@
         "only too"
       ],
       "example-sentence": "Our summer vacation has come to an end all too soon.",
-      "sentence-jp": "私たちの夏休みはとても早く終わってしまった。"
+      "sentence-jp": "私たちの夏休みはとても早く終わってしまった。",
+      "cloze": {
+        "maskedText": "Our summer vacation has come to an end ____ soon.",
+        "answerBase": "all too",
+        "answerSurface": "all too",
+        "choices": [
+          "all too",
+          "all along",
+          "as such",
+          "at will"
+        ]
+      }
     }
   ],
   "notes": [

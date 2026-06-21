@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "His words were a bit vague, but we thought they were to the effect that he’d be absent.",
-      "sentence-jp": "彼の言葉は少しあいまいだったが、私たちはそれは彼が欠席するという趣旨であったと考えた。"
+      "sentence-jp": "彼の言葉は少しあいまいだったが、私たちはそれは彼が欠席するという趣旨であったと考えた。",
+      "cloze": {
+        "maskedText": "His words were a bit vague, but we thought they were ____ he’d be absent.",
+        "answerBase": "to the effect that ...",
+        "answerSurface": "to the effect that",
+        "choices": [
+          "to the effect that",
+          "within walking distance of",
+          "on the verge of",
+          "as of"
+        ]
+      }
     }
   ],
   "notes": [

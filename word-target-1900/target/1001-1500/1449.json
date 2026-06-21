@@ -12,5 +12,11 @@
       "sentence-jp": "私は赤肉と乳製品をとる量を減らそうとしている。"
     }
   ],
+  "cloze": {
+    "maskedText": "She avoids ____ products because of an allergy.",
+    "answerBase": "dairy",
+    "answerSurface": "dairy",
+    "choices": ["dairy", "headline", "pill", "census"]
+  },
   "notes": []
 }

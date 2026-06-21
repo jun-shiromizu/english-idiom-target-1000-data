@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She showed no mercy to her rival.",
-      "sentence-jp": "彼女は自分のライバルに慈悲を示さなかった。"
+      "sentence-jp": "彼女は自分のライバルに慈悲を示さなかった。",
+      "cloze": {
+        "maskedText": "She showed no ____ to her rival.",
+        "answerBase": "mercy",
+        "answerSurface": "mercy",
+        "choices": [
+          "mercy",
+          "chapter",
+          "village",
+          "battery"
+        ]
+      }
     }
   ],
   "notes": []

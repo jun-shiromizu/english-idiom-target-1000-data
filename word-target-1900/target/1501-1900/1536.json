@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "The minister resigned from his post due to his misuse of political funds.",
-      "sentence-jp": "大臣は政治資金の不正使用のせいでその職を辞任した。"
+      "sentence-jp": "大臣は政治資金の不正使用のせいでその職を辞任した。",
+      "cloze": {
+        "maskedText": "The minister ____ from his post due to his misuse of political funds.",
+        "answerBase": "resign",
+        "answerSurface": "resigned",
+        "choices": [
+          "resigned",
+          "withdrew",
+          "escaped",
+          "suffered"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Take your time walking down these steps: they’re very slippery after the rain.",
-      "sentence-jp": "ゆっくりこの階段を降りてください。雨の後でとても滑りやすいですから。"
+      "sentence-jp": "ゆっくりこの階段を降りてください。雨の後でとても滑りやすいですから。",
+      "cloze": {
+        "maskedText": "____ walking down these steps: they’re very slippery after the rain.",
+        "answerBase": "take one’s time",
+        "answerSurface": "Take your time",
+        "choices": [
+          "Take your time",
+          "Take it easy",
+          "Think again",
+          "Help yourself"
+        ]
+      }
     }
   ],
   "notes": [

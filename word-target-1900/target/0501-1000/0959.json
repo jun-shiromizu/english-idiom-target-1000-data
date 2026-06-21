@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Bacteria may sometimes develop resistance to antibiotics.",
-      "sentence-jp": "細菌はときには抗生物質に対する耐性を発達させることがある。"
+      "sentence-jp": "細菌はときには抗生物質に対する耐性を発達させることがある。",
+      "cloze": {
+        "maskedText": "Bacteria may sometimes develop resistance to ____.",
+        "answerBase": "antibiotic",
+        "answerSurface": "antibiotics",
+        "choices": ["antibiotics", "metaphors", "skeletons", "fares"]
+      }
     }
   ],
   "notes": []

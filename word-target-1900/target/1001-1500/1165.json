@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He worked for fame, not for the sake of his family.",
-      "sentence-jp": "彼は家族のためではなく，名声のために働いた。"
+      "sentence-jp": "彼は家族のためではなく，名声のために働いた。",
+      "cloze": {
+        "maskedText": "He worked for ____, not for the sake of his family.",
+        "answerBase": "fame",
+        "answerSurface": "fame",
+        "choices": ["fame", "grave", "plot", "tablet"]
+      }
     }
   ],
   "notes": []

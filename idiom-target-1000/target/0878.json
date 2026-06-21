@@ -12,7 +12,18 @@
         "go unpunished for ~"
       ],
       "example-sentence": "You’re utterly mistaken if you thought you could cheat on exams and get away with it.",
-      "sentence-jp": "もしあなたが試験でカンニングをしてそれをうまくやってのけられると考えていたなら、まったくの勘違いだ。"
+      "sentence-jp": "もしあなたが試験でカンニングをしてそれをうまくやってのけられると考えていたなら、まったくの勘違いだ。",
+      "cloze": {
+        "maskedText": "You’re utterly mistaken if you thought you could cheat on exams and ____ it.",
+        "answerBase": "get away with ~",
+        "answerSurface": "get away with",
+        "choices": [
+          "get away with",
+          "miss out on",
+          "shy away from",
+          "catch on to"
+        ]
+      }
     },
     {
       "idiom-jp": "〜を持ち逃げする",
@@ -22,7 +33,18 @@
         "go [make / run / walk] away with ~"
       ],
       "example-sentence": "Today’s newspaper says someone got away with three million yen from a nearby supermarket.",
-      "sentence-jp": "近くのスーパーで誰かが300万円を持ち逃げしたと今日の新聞に出ている。"
+      "sentence-jp": "近くのスーパーで誰かが300万円を持ち逃げしたと今日の新聞に出ている。",
+      "cloze": {
+        "maskedText": "Today’s newspaper says someone ____ three million yen from a nearby supermarket.",
+        "answerBase": "get away with ~",
+        "answerSurface": "got away with",
+        "choices": [
+          "got away with",
+          "missed out on",
+          "shied away from",
+          "caught on to"
+        ]
+      }
     }
   ],
   "notes": []

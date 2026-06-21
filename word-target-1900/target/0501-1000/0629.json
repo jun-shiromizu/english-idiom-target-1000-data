@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "I was impressed by the beautiful view from the top of the mountain.",
-      "sentence-jp": "私は山頂からの美しい景色に感動した。"
+      "sentence-jp": "私は山頂からの美しい景色に感動した。",
+      "cloze": {
+        "maskedText": "I was ____ by the beautiful view from the top of the mountain.",
+        "answerBase": "impress",
+        "answerSurface": "impressed",
+        "choices": [
+          "impressed",
+          "attached",
+          "puzzled",
+          "crashed"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "People sometimes confuse influenza with the common cold.",
-      "sentence-jp": "人はときにインフルエンザを普通の風邪と混同する。"
+      "sentence-jp": "人はときにインフルエンザを普通の風邪と混同する。",
+      "cloze": {
+        "maskedText": "People sometimes ____ influenza with the common cold.",
+        "answerBase": "confuse A with B",
+        "answerSurface": "confuse",
+        "choices": [
+          "confuse",
+          "replace",
+          "store",
+          "divide"
+        ]
+      }
     }
   ],
   "notes": []

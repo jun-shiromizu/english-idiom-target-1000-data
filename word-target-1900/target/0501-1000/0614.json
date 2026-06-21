@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "I need to rent an apartment in Osaka.",
-      "sentence-jp": "私は大阪でマンションの一室を賃借りする必要がある。"
+      "sentence-jp": "私は大阪でマンションの一室を賃借りする必要がある。",
+      "cloze": {
+        "maskedText": "I need to ____ an apartment in Osaka.",
+        "answerBase": "rent",
+        "answerSurface": "rent",
+        "choices": [
+          "rent",
+          "cope",
+          "react",
+          "suspect"
+        ]
+      }
     }
   ],
   "notes": []

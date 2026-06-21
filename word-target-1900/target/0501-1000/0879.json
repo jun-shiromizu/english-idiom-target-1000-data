@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Nothing is more precious than life.",
-      "sentence-jp": "命より貴重なものはない。"
+      "sentence-jp": "命より貴重なものはない。",
+      "cloze": {
+        "maskedText": "Nothing is more ____ than life.",
+        "answerBase": "precious",
+        "answerSurface": "precious",
+        "choices": ["precious", "casual", "distant", "wooden"]
+      }
     }
   ],
   "notes": []

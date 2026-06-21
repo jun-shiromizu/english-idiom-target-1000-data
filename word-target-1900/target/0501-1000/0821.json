@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Prince William wed Catherine Middleton at Westminster Abbey.",
-      "sentence-jp": "ウィリアム王子はウェストミンスター寺院でキャサリン・ミドルトンと結婚した。"
+      "sentence-jp": "ウィリアム王子はウェストミンスター寺院でキャサリン・ミドルトンと結婚した。",
+      "cloze": {
+        "maskedText": "Prince William ____ Catherine Middleton at Westminster Abbey.",
+        "answerBase": "wed",
+        "answerSurface": "wed",
+        "choices": [
+          "wed",
+          "boosted",
+          "rescued",
+          "registered"
+        ]
+      }
     }
   ],
   "notes": []

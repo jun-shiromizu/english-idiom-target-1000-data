@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I’m sure few, if any, team members doubted the truthfulness of the captain’s explanation.",
-      "sentence-jp": "キャプテンの説明の誠実さを疑ったチームのメンバーは、もしいてもごく少数だと確信している。"
+      "sentence-jp": "キャプテンの説明の誠実さを疑ったチームのメンバーは、もしいてもごく少数だと確信している。",
+      "cloze": {
+        "maskedText": "I’m sure few, ____, team members doubted the truthfulness of the captain’s explanation.",
+        "answerBase": "if any",
+        "answerSurface": "if any",
+        "choices": [
+          "if any",
+          "as long as",
+          "in that",
+          "even as"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "You need to provide concrete examples to support your opinion.",
-      "sentence-jp": "あなたは自分の意見の裏づけとなる具体的な例を提示する必要がある。"
+      "sentence-jp": "あなたは自分の意見の裏づけとなる具体的な例を提示する必要がある。",
+      "cloze": {
+        "maskedText": "You need to provide ____ examples to support your opinion.",
+        "answerBase": "concrete",
+        "answerSurface": "concrete",
+        "choices": [
+          "concrete",
+          "slight",
+          "federal",
+          "marine"
+        ]
+      }
     }
   ],
   "notes": []

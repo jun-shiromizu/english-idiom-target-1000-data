@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "She tried to make an exact copy of the Mona Lisa.",
-      "sentence-jp": "彼女はモナ・リザの正確な模写を描こうとした。"
+      "sentence-jp": "彼女はモナ・リザの正確な模写を描こうとした。",
+      "cloze": {
+        "maskedText": "She tried to make an ____ copy of the Mona Lisa.",
+        "answerBase": "exact",
+        "answerSurface": "exact",
+        "choices": [
+          "exact",
+          "brief",
+          "alien",
+          "aggressive"
+        ]
+      }
     }
   ],
   "notes": []

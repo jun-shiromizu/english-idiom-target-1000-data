@@ -13,7 +13,18 @@
         "as soon as ..."
       ],
       "example-sentence": "The beautiful scenery came into view the moment we turned the corner.",
-      "sentence-jp": "私たちが角を曲がるとすぐに美しい景色が見えてきた。"
+      "sentence-jp": "私たちが角を曲がるとすぐに美しい景色が見えてきた。",
+      "cloze": {
+        "maskedText": "The beautiful scenery came into view ____ we turned the corner.",
+        "answerBase": "the moment ... / the minute ...",
+        "answerSurface": "the moment",
+        "choices": [
+          "the moment",
+          "every time",
+          "provided that",
+          "if only"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The couple received counseling to deal with their domestic troubles.",
-      "sentence-jp": "その夫婦は家庭内のもめ事を解決するためにカウンセリングを受けた。"
+      "sentence-jp": "その夫婦は家庭内のもめ事を解決するためにカウンセリングを受けた。",
+      "cloze": {
+        "maskedText": "The couple received counseling to deal with their ____ troubles.",
+        "answerBase": "domestic",
+        "answerSurface": "domestic",
+        "choices": [
+          "domestic",
+          "military",
+          "visual",
+          "typical"
+        ]
+      }
     }
   ],
   "notes": []

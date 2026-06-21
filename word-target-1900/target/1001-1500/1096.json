@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "The actress described her intimate relationship with her husband.",
-      "sentence-jp": "その女優は夫との親密な関係について述べた。"
+      "sentence-jp": "その女優は夫との親密な関係について述べた。",
+      "cloze": {
+        "maskedText": "The actress described her ____ relationship with her husband.",
+        "answerBase": "intimate",
+        "answerSurface": "intimate",
+        "choices": ["intimate", "innocent", "shallow", "obese"]
+      }
     }
   ],
   "notes": []

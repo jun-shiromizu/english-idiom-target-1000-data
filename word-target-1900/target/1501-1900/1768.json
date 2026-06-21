@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He published a book on Euclidean geometry a few years ago.",
-      "sentence-jp": "彼は数年前にユークリッド幾何学に関する本を出版した。"
+      "sentence-jp": "彼は数年前にユークリッド幾何学に関する本を出版した。",
+      "cloze": {
+        "maskedText": "He published a book on Euclidean ____ a few years ago.",
+        "answerBase": "geometry",
+        "answerSurface": "geometry",
+        "choices": [
+          "geometry",
+          "history",
+          "pharmacy",
+          "diplomacy"
+        ]
+      }
     }
   ],
   "notes": []

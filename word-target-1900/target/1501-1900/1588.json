@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "She prefers to dress in a feminine way.",
-      "sentence-jp": "彼女は女性らしい服装をすることを好む。"
+      "sentence-jp": "彼女は女性らしい服装をすることを好む。",
+      "cloze": {
+        "maskedText": "She prefers to dress in a ____ way.",
+        "answerBase": "feminine",
+        "answerSurface": "feminine",
+        "choices": [
+          "feminine",
+          "swift",
+          "absurd",
+          "hollow"
+        ]
+      }
     }
   ],
   "notes": []

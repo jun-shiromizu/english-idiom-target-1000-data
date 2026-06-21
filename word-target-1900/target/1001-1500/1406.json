@@ -12,5 +12,11 @@
       "sentence-jp": "彼は大学で自身の知識の大半を得た。"
     }
   ],
+  "cloze": {
+    "maskedText": "She hopes to ____ a high level of skill.",
+    "answerBase": "attain",
+    "answerSurface": "attain",
+    "choices": ["attain", "refresh", "diagnose", "depart"]
+  },
   "notes": []
 }

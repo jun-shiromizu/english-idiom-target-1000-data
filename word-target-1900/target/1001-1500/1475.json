@@ -12,5 +12,11 @@
       "sentence-jp": "彼女は市場でお買い得品を見つけた。"
     }
   ],
+  "cloze": {
+    "maskedText": "This coat was a real ____ at half price.",
+    "answerBase": "bargain",
+    "answerSurface": "bargain",
+    "choices": ["bargain", "vacuum", "circulation", "ally"]
+  },
   "notes": []
 }

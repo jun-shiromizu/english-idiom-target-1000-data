@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Be sure to submit your report before the deadline.",
-      "sentence-jp": "必ず締め切り前に報告書を提出するように。"
+      "sentence-jp": "必ず締め切り前に報告書を提出するように。",
+      "cloze": {
+        "maskedText": "Be sure to submit your report before the ____.",
+        "answerBase": "deadline",
+        "answerSurface": "deadline",
+        "choices": ["deadline", "mess", "grave", "scenery"]
+      }
     }
   ],
   "notes": []

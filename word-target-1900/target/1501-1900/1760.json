@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "We found a street vendor selling ice cream.",
-      "sentence-jp": "私たちはアイスクリームを売る露店商を見つけた。"
+      "sentence-jp": "私たちはアイスクリームを売る露店商を見つけた。",
+      "cloze": {
+        "maskedText": "We found a street ____ selling ice cream.",
+        "answerBase": "vendor",
+        "answerSurface": "vendor",
+        "choices": [
+          "vendor",
+          "captain",
+          "scientist",
+          "gardener"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Please forgive me for having kept you waiting for such a long time.",
-      "sentence-jp": "こんなにも長い間あなたをお待たせしたことを許してください。"
+      "sentence-jp": "こんなにも長い間あなたをお待たせしたことを許してください。",
+      "cloze": {
+        "maskedText": "Please ____ me for having kept you waiting for such a long time.",
+        "answerBase": "forgive",
+        "answerSurface": "forgive",
+        "choices": ["forgive", "revise", "recruit", "pin"]
+      }
     }
   ],
   "notes": []

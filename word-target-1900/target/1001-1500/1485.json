@@ -12,5 +12,11 @@
       "sentence-jp": "私の家の近くの街灯はとても薄暗い。"
     }
   ],
+  "cloze": {
+    "maskedText": "The room was too ____ to read in.",
+    "answerBase": "dim",
+    "answerSurface": "dim",
+    "choices": ["dim", "sincere", "partial", "loyal"]
+  },
   "notes": []
 }

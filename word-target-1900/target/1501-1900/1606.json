@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "The police do not usually intervene in family disputes.",
-      "sentence-jp": "警察は通常，家庭争議に介入しない。"
+      "sentence-jp": "警察は通常，家庭争議に介入しない。",
+      "cloze": {
+        "maskedText": "The police do not usually ____ in family disputes.",
+        "answerBase": "intervene",
+        "answerSurface": "intervene",
+        "choices": [
+          "intervene",
+          "proceed",
+          "belong",
+          "result"
+        ]
+      }
     }
   ],
   "notes": []

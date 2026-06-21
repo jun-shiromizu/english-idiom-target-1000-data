@@ -12,7 +12,18 @@
         "It goes without saying that ..."
       ],
       "example-sentence": "Water is, needless to say, indispensable to our daily life.",
-      "sentence-jp": "言うまでもなく、水は私たちの日常生活に不可欠なものだ。"
+      "sentence-jp": "言うまでもなく、水は私たちの日常生活に不可欠なものだ。",
+      "cloze": {
+        "maskedText": "Water is, ____, indispensable to our daily life.",
+        "answerBase": "needless to say",
+        "answerSurface": "needless to say",
+        "choices": [
+          "needless to say",
+          "to tell the truth",
+          "Joking aside",
+          "Speaking of movies"
+        ]
+      }
     }
   ],
   "notes": [

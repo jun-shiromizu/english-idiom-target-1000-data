@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "We had trouble walking through a dense crowd of people.",
-      "sentence-jp": "私たちは密集した人混みの中を通り抜けるのに苦労した。"
+      "sentence-jp": "私たちは密集した人混みの中を通り抜けるのに苦労した。",
+      "cloze": {
+        "maskedText": "We had trouble walking through a ____ crowd of people.",
+        "answerBase": "dense",
+        "answerSurface": "dense",
+        "choices": ["dense", "exotic", "grave", "retail"]
+      }
     }
   ],
   "notes": []

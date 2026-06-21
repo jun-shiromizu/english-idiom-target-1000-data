@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Drinking alcohol can damage the liver.",
-      "sentence-jp": "飲酒は肝臓に損傷を与える可能性がある。"
+      "sentence-jp": "飲酒は肝臓に損傷を与える可能性がある。",
+      "cloze": {
+        "maskedText": "Drinking alcohol can damage the ____.",
+        "answerBase": "liver",
+        "answerSurface": "liver",
+        "choices": [
+          "liver",
+          "ladder",
+          "pillow",
+          "village"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "At first, the new manager followed the instructions from her predecessor.",
-      "sentence-jp": "最初，新しい部長はその前任者からの指示に従った。"
+      "sentence-jp": "最初，新しい部長はその前任者からの指示に従った。",
+      "cloze": {
+        "maskedText": "At first, the new manager followed the instructions from her ____.",
+        "answerBase": "predecessor",
+        "answerSurface": "predecessor",
+        "choices": [
+          "predecessor",
+          "neighbor",
+          "customer",
+          "musician"
+        ]
+      }
     }
   ],
   "notes": []

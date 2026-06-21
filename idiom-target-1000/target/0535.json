@@ -13,7 +13,18 @@
         "make sport of ~"
       ],
       "example-sentence": "Do you know why Tom was made fun of at school?",
-      "sentence-jp": "トムがどうして学校でからかわれたのか知っていますか。"
+      "sentence-jp": "トムがどうして学校でからかわれたのか知っていますか。",
+      "cloze": {
+        "maskedText": "Do you know why Tom was ____ at school?",
+        "answerBase": "make fun of ~",
+        "answerSurface": "made fun of",
+        "choices": [
+          "made fun of",
+          "made much of",
+          "made use of",
+          "made friends with"
+        ]
+      }
     }
   ],
   "notes": [

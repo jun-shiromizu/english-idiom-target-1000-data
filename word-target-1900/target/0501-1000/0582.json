@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The four distinct seasons in Japan attract many foreign tourists.",
-      "sentence-jp": "日本の明らかに異なる4つの季節は多くの外国人旅行者を引きつける。"
+      "sentence-jp": "日本の明らかに異なる4つの季節は多くの外国人旅行者を引きつける。",
+      "cloze": {
+        "maskedText": "The four ____ seasons in Japan attract many foreign tourists.",
+        "answerBase": "distinct",
+        "answerSurface": "distinct",
+        "choices": [
+          "distinct",
+          "prime",
+          "curious",
+          "vital"
+        ]
+      }
     }
   ],
   "notes": []

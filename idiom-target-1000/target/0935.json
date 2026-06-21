@@ -14,7 +14,18 @@
         "under discussion"
       ],
       "example-sentence": "What is at issue here is not whether disasters on that scale will occur but when they will.",
-      "sentence-jp": "ここで問題なのは、そのような規模の災害が起きるかどうかではなく、いつ起きるかということだ。"
+      "sentence-jp": "ここで問題なのは、そのような規模の災害が起きるかどうかではなく、いつ起きるかということだ。",
+      "cloze": {
+        "maskedText": "What is ____ here is not whether disasters on that scale will occur but when they will.",
+        "answerBase": "at issue",
+        "answerSurface": "at issue",
+        "choices": [
+          "at issue",
+          "at stake",
+          "at his disposal",
+          "on his own"
+        ]
+      }
     }
   ],
   "notes": []

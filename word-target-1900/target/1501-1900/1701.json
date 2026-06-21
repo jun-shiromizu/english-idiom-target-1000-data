@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The law must embody the concept of justice.",
-      "sentence-jp": "法律は正義の概念を具現しなければならない。"
+      "sentence-jp": "法律は正義の概念を具現しなければならない。",
+      "cloze": {
+        "maskedText": "The law must ____ the concept of justice.",
+        "answerBase": "embody",
+        "answerSurface": "embody",
+        "choices": [
+          "embody",
+          "ignore",
+          "replace",
+          "collect"
+        ]
+      }
     }
   ],
   "notes": []

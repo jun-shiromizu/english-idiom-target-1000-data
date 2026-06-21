@@ -12,5 +12,11 @@
       "sentence-jp": "幸運はそれを一番期待していない謙虚な人に訪れると言われる。"
     }
   ],
+  "cloze": {
+    "maskedText": "Despite his fame, he remained ____.",
+    "answerBase": "humble",
+    "answerSurface": "humble",
+    "choices": ["humble", "steep", "wireless", "toxic"]
+  },
   "notes": []
 }

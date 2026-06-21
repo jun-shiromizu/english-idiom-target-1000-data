@@ -14,7 +14,18 @@
         "nearly do"
       ],
       "example-sentence": "I came very close to uttering a few angry words, but barely got myself under control.",
-      "sentence-jp": "私はもうほんの少しで怒りの一言を発しそうになったが、なんとか自分を抑えた。"
+      "sentence-jp": "私はもうほんの少しで怒りの一言を発しそうになったが、なんとか自分を抑えた。",
+      "cloze": {
+        "maskedText": "I ____ a few angry words, but barely got myself under control.",
+        "answerBase": "come close to doing / come near to doing",
+        "answerSurface": "came very close to uttering",
+        "choices": [
+          "came very close to uttering",
+          "caught you sleeping",
+          "felt like wearing",
+          "Judging from the short speech"
+        ]
+      }
     }
   ],
   "notes": [

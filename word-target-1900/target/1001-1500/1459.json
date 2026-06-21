@@ -12,5 +12,11 @@
       "sentence-jp": "この市では，家庭ごみの大半は高温で焼却される。"
     }
   ],
+  "cloze": {
+    "maskedText": "Please throw the ____ into the bin.",
+    "answerBase": "rubbish",
+    "answerSurface": "rubbish",
+    "choices": ["rubbish", "census", "posture", "mutation"]
+  },
   "notes": []
 }

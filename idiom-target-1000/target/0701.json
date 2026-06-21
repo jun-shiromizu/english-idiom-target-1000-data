@@ -13,7 +13,18 @@
         "assuming (that) ..."
       ],
       "example-sentence": "Jim’s uncle will give him financial support to go to university, provided that he promises to study hard.",
-      "sentence-jp": "ジムのおじは、もしジムが一生懸命勉強すると約束するならば、大学進学の学資援助をしてくれるだろう。"
+      "sentence-jp": "ジムのおじは、もしジムが一生懸命勉強すると約束するならば、大学進学の学資援助をしてくれるだろう。",
+      "cloze": {
+        "maskedText": "Jim’s uncle will give him financial support to go to university, ____ he promises to study hard.",
+        "answerBase": "provided (that) ...",
+        "answerSurface": "provided that",
+        "choices": [
+          "provided that",
+          "every time",
+          "the moment",
+          "if only"
+        ]
+      }
     }
   ],
   "notes": [

@@ -12,5 +12,11 @@
       "sentence-jp": "彼らはこの前の日曜日に結婚5周年を祝った。"
     }
   ],
+  "cloze": {
+    "maskedText": "They celebrated their 10th wedding ____ in Paris.",
+    "answerBase": "anniversary",
+    "answerSurface": "anniversary",
+    "choices": ["anniversary", "syndrome", "chamber", "utility"]
+  },
   "notes": []
 }

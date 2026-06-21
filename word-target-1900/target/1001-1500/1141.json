@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She has great empathy with people in need.",
-      "sentence-jp": "彼女は困窮している人々に大いに感情移入する。"
+      "sentence-jp": "彼女は困窮している人々に大いに感情移入する。",
+      "cloze": {
+        "maskedText": "She has great ____ with people in need.",
+        "answerBase": "empathy",
+        "answerSurface": "empathy",
+        "choices": ["empathy", "enterprise", "output", "estate"]
+      }
     }
   ],
   "notes": []

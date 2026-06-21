@@ -14,7 +14,18 @@
         "seat oneself"
       ],
       "example-sentence": "Trent has just arrived to class late and hurriedly taken a seat next to Tanya.",
-      "sentence-jp": "トレントはたった今授業に遅れて到着し、急いでターニャの隣に着席したところだ。"
+      "sentence-jp": "トレントはたった今授業に遅れて到着し、急いでターニャの隣に着席したところだ。",
+      "cloze": {
+        "maskedText": "Trent has just arrived to class late and hurriedly ____ next to Tanya.",
+        "answerBase": "take a seat / have a seat",
+        "answerSurface": "taken a seat",
+        "choices": [
+          "taken a seat",
+          "taken a chance",
+          "made way",
+          "made a living"
+        ]
+      }
     }
   ],
   "notes": [

@@ -11,7 +11,18 @@
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "We can’t look back on our childhood without feeling how happy we were in those days.",
-      "sentence-jp": "子供時代を回想するときは必ず、当時いかに幸せだったかを思わずにはいられない。"
+      "sentence-jp": "子供時代を回想するときは必ず、当時いかに幸せだったかを思わずにはいられない。",
+      "cloze": {
+        "maskedText": "We can’t ____ without feeling how happy we were in those days.",
+        "answerBase": "look back on ~ / look back upon ~ / look back to ~",
+        "answerSurface": "look back on our childhood",
+        "choices": [
+          "look back on our childhood",
+          "keep this in mind",
+          "make it all the way down the mountain",
+          "put the new project into practice"
+        ]
+      }
     }
   ],
   "notes": [

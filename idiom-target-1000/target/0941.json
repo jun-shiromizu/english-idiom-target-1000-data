@@ -9,7 +9,18 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "It started to rain in earnest soon after I left the office.",
-      "sentence-jp": "私が会社を出るとすぐに本格的に雨が降り出した。"
+      "sentence-jp": "私が会社を出るとすぐに本格的に雨が降り出した。",
+      "cloze": {
+        "maskedText": "It started to rain ____ soon after I left the office.",
+        "answerBase": "in earnest",
+        "answerSurface": "in earnest",
+        "choices": [
+          "in earnest",
+          "in store",
+          "in the works",
+          "out of hand"
+        ]
+      }
     }
   ],
   "notes": [

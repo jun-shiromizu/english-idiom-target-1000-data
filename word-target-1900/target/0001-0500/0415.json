@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "You may encounter unfamiliar things in a new environment.",
-      "sentence-jp": "人は新しい環境で未知の物事に遭遇することもある。"
+      "sentence-jp": "人は新しい環境で未知の物事に遭遇することもある。",
+      "cloze": {
+        "maskedText": "You may ____ unfamiliar things in a new environment.",
+        "answerBase": "encounter",
+        "answerSurface": "encounter",
+        "choices": [
+          "encounter",
+          "pollute",
+          "cheer",
+          "deliver"
+        ]
+      }
     }
   ],
   "notes": []

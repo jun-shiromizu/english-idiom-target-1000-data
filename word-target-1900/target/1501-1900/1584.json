@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "I have been having very weird dreams these days.",
-      "sentence-jp": "私は最近よくとても奇妙な夢を見る。"
+      "sentence-jp": "私は最近よくとても奇妙な夢を見る。",
+      "cloze": {
+        "maskedText": "I have been having very ____ dreams these days.",
+        "answerBase": "weird",
+        "answerSurface": "weird",
+        "choices": [
+          "weird",
+          "swift",
+          "feminine",
+          "accidental"
+        ]
+      }
     }
   ],
   "notes": []

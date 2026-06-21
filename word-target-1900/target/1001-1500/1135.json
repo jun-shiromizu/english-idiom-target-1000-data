@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The small village ceased to exist after the last resident moved away.",
-      "sentence-jp": "その小さな村は最後の住民が退去した後なくなった。"
+      "sentence-jp": "その小さな村は最後の住民が退去した後なくなった。",
+      "cloze": {
+        "maskedText": "The small village ____ to exist after the last resident moved away.",
+        "answerBase": "cease",
+        "answerSurface": "ceased",
+        "choices": ["ceased", "compromised", "elected", "extracted"]
+      }
     }
   ],
   "notes": []

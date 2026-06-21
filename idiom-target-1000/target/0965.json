@@ -9,7 +9,18 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "Do you know if there is a post office within walking distance of the station?",
-      "sentence-jp": "駅から歩いて行けるところに郵便局があるかご存じですか。"
+      "sentence-jp": "駅から歩いて行けるところに郵便局があるかご存じですか。",
+      "cloze": {
+        "maskedText": "Do you know if there is a post office ____ the station?",
+        "answerBase": "within walking distance of ~",
+        "answerSurface": "within walking distance of",
+        "choices": [
+          "within walking distance of",
+          "on friendly terms with",
+          "in accordance with",
+          "to the effect that"
+        ]
+      }
     }
   ],
   "notes": [

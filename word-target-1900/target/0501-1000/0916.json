@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "My father has retained the same body strength since his twenties.",
-      "sentence-jp": "私の父は20代のころから同じ体力を保持している。"
+      "sentence-jp": "私の父は20代のころから同じ体力を保持している。",
+      "cloze": {
+        "maskedText": "My father has ____ the same body strength since his twenties.",
+        "answerBase": "retain",
+        "answerSurface": "retained",
+        "choices": ["retained", "grabbed", "entertained", "paused"]
+      }
     }
   ],
   "notes": []

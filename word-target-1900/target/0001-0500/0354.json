@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Some say happiness lies in wealth.",
-      "sentence-jp": "幸福は富にあると言う人もいる。"
+      "sentence-jp": "幸福は富にあると言う人もいる。",
+      "cloze": {
+        "maskedText": "Some say happiness lies in ____.",
+        "answerBase": "wealth",
+        "answerSurface": "wealth",
+        "choices": [
+          "wealth",
+          "traffic",
+          "weather",
+          "furniture"
+        ]
+      }
     }
   ],
   "notes": []

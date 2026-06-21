@@ -12,7 +12,18 @@
         "call it quits"
       ],
       "example-sentence": "It’s a little past five, so let’s call it a day.",
-      "sentence-jp": "5時を少し過ぎましたので、今日の仕事を終えましょう。"
+      "sentence-jp": "5時を少し過ぎましたので、今日の仕事を終えましょう。",
+      "cloze": {
+        "maskedText": "It’s a little past five, so let’s ____.",
+        "answerBase": "call it a day",
+        "answerSurface": "call it a day",
+        "choices": [
+          "call it a day",
+          "stick around",
+          "give it a try",
+          "hang up"
+        ]
+      }
     }
   ],
   "notes": [

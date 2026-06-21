@@ -13,7 +13,18 @@
         "have a [the] right to do"
       ],
       "example-sentence": "Everyone is entitled to their opinion, but to respect others’ opinions is also essential.",
-      "sentence-jp": "誰にでも自分の意見を持つ資格があるが、ほかの人の意見を尊重することも極めて重要だ。"
+      "sentence-jp": "誰にでも自分の意見を持つ資格があるが、ほかの人の意見を尊重することも極めて重要だ。",
+      "cloze": {
+        "maskedText": "Everyone is ____ their opinion, but to respect others’ opinions is also essential.",
+        "answerBase": "be entitled to ~",
+        "answerSurface": "entitled to",
+        "choices": [
+          "entitled to",
+          "to blame for",
+          "supposed to",
+          "forced to"
+        ]
+      }
     }
   ],
   "notes": [

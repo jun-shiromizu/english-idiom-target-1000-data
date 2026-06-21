@@ -12,7 +12,18 @@
         "all the + 比較級"
       ],
       "example-sentence": "His unclear explanation made it that much harder for us to understand his intention.",
-      "sentence-jp": "彼のあいまいな説明は、私たちが彼の意図を理解するのをいっそう難しくした。"
+      "sentence-jp": "彼のあいまいな説明は、私たちが彼の意図を理解するのをいっそう難しくした。",
+      "cloze": {
+        "maskedText": "His unclear explanation made it ____ for us to understand his intention.",
+        "answerBase": "that much + comparative",
+        "answerSurface": "that much harder",
+        "choices": [
+          "that much harder",
+          "all the more nervous",
+          "much less speak it",
+          "what is more"
+        ]
+      }
     }
   ],
   "notes": [

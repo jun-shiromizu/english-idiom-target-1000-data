@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "I just cannot tolerate his selfishness.",
-      "sentence-jp": "私はどうしても彼のわがままを我慢することができない。"
+      "sentence-jp": "私はどうしても彼のわがままを我慢することができない。",
+      "cloze": {
+        "maskedText": "I just cannot ____ his selfishness.",
+        "answerBase": "tolerate",
+        "answerSurface": "tolerate",
+        "choices": [
+          "tolerate",
+          "ignore",
+          "justify",
+          "reduce"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The dialogue between two characters in the play was very funny.",
-      "sentence-jp": "その劇の中での2人の登場人物の会話はとてもおかしかった。"
+      "sentence-jp": "その劇の中での2人の登場人物の会話はとてもおかしかった。",
+      "cloze": {
+        "maskedText": "The ____ between two characters in the play was very funny.",
+        "answerBase": "dialogue",
+        "answerSurface": "dialogue",
+        "choices": [
+          "dialogue",
+          "bias",
+          "fault",
+          "component"
+        ]
+      }
     }
   ],
   "notes": []

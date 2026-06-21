@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Mr. and Mrs. Smith hosted a garden party yesterday.",
-      "sentence-jp": "スミス夫妻は昨日園遊会を主催した。"
+      "sentence-jp": "スミス夫妻は昨日園遊会を主催した。",
+      "cloze": {
+        "maskedText": "Mr. and Mrs. Smith ____ a garden party yesterday.",
+        "answerBase": "host",
+        "answerSurface": "hosted",
+        "choices": [
+          "hosted",
+          "joined",
+          "followed",
+          "measured"
+        ]
+      }
     }
   ],
   "notes": []

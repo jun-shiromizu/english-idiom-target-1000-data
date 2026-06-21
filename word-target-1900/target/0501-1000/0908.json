@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She saw a few clouds floating across the sky.",
-      "sentence-jp": "彼女にはいくつかの雲が空に浮かんで流れていくのが見えた。"
+      "sentence-jp": "彼女にはいくつかの雲が空に浮かんで流れていくのが見えた。",
+      "cloze": {
+        "maskedText": "She saw a few clouds ____ across the sky.",
+        "answerBase": "float",
+        "answerSurface": "floating",
+        "choices": ["floating", "chasing", "suing", "gazing"]
+      }
     }
   ],
   "notes": []

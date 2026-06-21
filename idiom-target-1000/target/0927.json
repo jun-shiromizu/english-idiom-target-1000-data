@@ -9,14 +9,36 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "The owner carefully displayed a variety of products in order to appeal to shoppers.",
-      "sentence-jp": "オーナーは買い物客の興味を引くようにいろいろな製品を注意深く陳列した。"
+      "sentence-jp": "オーナーは買い物客の興味を引くようにいろいろな製品を注意深く陳列した。",
+      "cloze": {
+        "maskedText": "The owner carefully displayed ____ products in order to appeal to shoppers.",
+        "answerBase": "a variety of ~",
+        "answerSurface": "a variety of",
+        "choices": [
+          "a variety of",
+          "in time with",
+          "on my mind",
+          "to bad luck"
+        ]
+      }
     },
     {
       "idiom-jp": "〜の1種[1つの型]",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "“Golden rice” is a variety of rice produced through genetic engineering.",
-      "sentence-jp": "「ゴールデンライス」は遺伝子組み換えによって作られた米の1種だ。"
+      "sentence-jp": "「ゴールデンライス」は遺伝子組み換えによって作られた米の1種だ。",
+      "cloze": {
+        "maskedText": "“Golden rice” is ____ rice produced through genetic engineering.",
+        "answerBase": "a variety of ~",
+        "answerSurface": "a variety of",
+        "choices": [
+          "a variety of",
+          "a handful of",
+          "a host of",
+          "scores of"
+        ]
+      }
     }
   ],
   "notes": [

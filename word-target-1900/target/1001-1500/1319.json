@@ -12,5 +12,11 @@
       "sentence-jp": "この絵画はキリストの死に際しての聖母マリアの悲嘆を描いている。"
     }
   ],
+  "cloze": {
+    "maskedText": "The novel ____ life in a small village.",
+    "answerBase": "depict",
+    "answerSurface": "depicts",
+    "choices": ["depicts", "confines", "starves", "yells"]
+  },
   "notes": []
 }

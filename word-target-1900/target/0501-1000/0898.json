@@ -9,7 +9,13 @@
       "partOfSpeech": "phrase",
       "choiceType": "quantity-expression",
       "example-sentence": "Our economy is recovering at a steady pace.",
-      "sentence-jp": "我が国の経済は着実なペースで回復しつつある。"
+      "sentence-jp": "我が国の経済は着実なペースで回復しつつある。",
+      "cloze": {
+        "maskedText": "Our economy is recovering at a ____ pace.",
+        "answerBase": "steady",
+        "answerSurface": "steady",
+        "choices": ["steady", "manual", "genuine", "Arctic"]
+      }
     }
   ],
   "notes": []

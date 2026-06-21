@@ -12,5 +12,11 @@
       "sentence-jp": "新聞は当時の人々にとって唯一の情報源であった。"
     }
   ],
+  "cloze": {
+    "maskedText": "She was the ____ survivor of the accident.",
+    "answerBase": "sole",
+    "answerSurface": "sole",
+    "choices": ["sole", "acute", "disabled", "metropolitan"]
+  },
   "notes": []
 }

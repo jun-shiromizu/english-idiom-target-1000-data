@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "My grandmother is so naive as to believe obvious lies.",
-      "sentence-jp": "私の祖母は明らかなうそを信じるほどお人よしである。"
+      "sentence-jp": "私の祖母は明らかなうそを信じるほどお人よしである。",
+      "cloze": {
+        "maskedText": "My grandmother is so ____ as to believe obvious lies.",
+        "answerBase": "naive",
+        "answerSurface": "naive",
+        "choices": [
+          "naive",
+          "clever",
+          "modern",
+          "shallow"
+        ]
+      }
     }
   ],
   "notes": []

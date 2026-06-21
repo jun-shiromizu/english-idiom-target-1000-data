@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "This manual is written in intelligible terms.",
-      "sentence-jp": "この取扱説明書はわかりやすい言葉で書かれている。"
+      "sentence-jp": "この取扱説明書はわかりやすい言葉で書かれている。",
+      "cloze": {
+        "maskedText": "This manual is written in ____ terms.",
+        "answerBase": "intelligible",
+        "answerSurface": "intelligible",
+        "choices": [
+          "intelligible",
+          "weekly",
+          "fragile",
+          "private"
+        ]
+      }
     }
   ],
   "notes": []

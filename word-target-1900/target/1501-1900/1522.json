@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "My mother reassured me that everything should go well.",
-      "sentence-jp": "私の母は万事うまくいくと私を安心させた。"
+      "sentence-jp": "私の母は万事うまくいくと私を安心させた。",
+      "cloze": {
+        "maskedText": "My mother ____ me that everything should go well.",
+        "answerBase": "reassure",
+        "answerSurface": "reassured",
+        "choices": [
+          "reassured",
+          "reminded",
+          "convinced",
+          "warned"
+        ]
+      }
     }
   ],
   "notes": []

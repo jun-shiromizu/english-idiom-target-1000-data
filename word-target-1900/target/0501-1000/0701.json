@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "He possesses the ability to distinguish good wine from bad wine.",
-      "sentence-jp": "彼はいいワインと悪いワインを見分ける能力を持っている。"
+      "sentence-jp": "彼はいいワインと悪いワインを見分ける能力を持っている。",
+      "cloze": {
+        "maskedText": "He ____ the ability to distinguish good wine from bad wine.",
+        "answerBase": "possess",
+        "answerSurface": "possesses",
+        "choices": [
+          "possesses",
+          "melts",
+          "detects",
+          "lends"
+        ]
+      }
     }
   ],
   "notes": []

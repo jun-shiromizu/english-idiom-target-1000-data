@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "There is no doubt that anyone who has a good command of English has a bright future.",
-      "sentence-jp": "英語を自由に使いこなす力がある人は誰にも明るい未来があることは間違いない。"
+      "sentence-jp": "英語を自由に使いこなす力がある人は誰にも明るい未来があることは間違いない。",
+      "cloze": {
+        "maskedText": "There is no doubt that anyone who ____ English has a bright future.",
+        "answerBase": "have (a) good command of ~",
+        "answerSurface": "has a good command of",
+        "choices": [
+          "has a good command of",
+          "pays a visit to",
+          "keeps fingers crossed for",
+          "goes to the polls for"
+        ]
+      }
     }
   ],
   "notes": [

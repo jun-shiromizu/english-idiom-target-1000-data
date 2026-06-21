@@ -12,7 +12,18 @@
         "be accustomed to ~"
       ],
       "example-sentence": "He was totally confident because he was used to performing in front of many people.",
-      "sentence-jp": "彼は大勢の前で演技することに慣れていたので、自信満々であった。"
+      "sentence-jp": "彼は大勢の前で演技することに慣れていたので、自信満々であった。",
+      "cloze": {
+        "maskedText": "He was totally confident because he ____ in front of many people.",
+        "answerBase": "be used to doing",
+        "answerSurface": "was used to performing",
+        "choices": [
+          "was used to performing",
+          "felt like wearing",
+          "couldn’t help laughing",
+          "came very close to uttering"
+        ]
+      }
     }
   ],
   "notes": [

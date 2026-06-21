@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The students buried time capsules in a corner of the school grounds.",
-      "sentence-jp": "生徒たちは校庭の一角にタイムカプセルを埋めた。"
+      "sentence-jp": "生徒たちは校庭の一角にタイムカプセルを埋めた。",
+      "cloze": {
+        "maskedText": "The students ____ time capsules in a corner of the school grounds.",
+        "answerBase": "bury",
+        "answerSurface": "buried",
+        "choices": [
+          "buried",
+          "resisted",
+          "assisted",
+          "secured"
+        ]
+      }
     }
   ],
   "notes": []

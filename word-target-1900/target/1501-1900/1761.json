@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "If you have a problem, please consult with your supervisor.",
-      "sentence-jp": "問題があれば，監督者に相談してください。"
+      "sentence-jp": "問題があれば，監督者に相談してください。",
+      "cloze": {
+        "maskedText": "If you have a problem, please consult with your ____.",
+        "answerBase": "supervisor",
+        "answerSurface": "supervisor",
+        "choices": [
+          "supervisor",
+          "notebook",
+          "stadium",
+          "festival"
+        ]
+      }
     }
   ],
   "notes": []

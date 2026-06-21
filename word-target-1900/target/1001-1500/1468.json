@@ -12,5 +12,11 @@
       "sentence-jp": "家族全員を代表して，私はあなたのご助力に感謝したく思います。"
     }
   ],
+  "cloze": {
+    "maskedText": "She accepted the award on ____ of her team.",
+    "answerBase": "behalf",
+    "answerSurface": "behalf",
+    "choices": ["behalf", "interval", "theft", "triumph"]
+  },
   "notes": []
 }

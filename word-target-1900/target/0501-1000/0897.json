@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "The poetry she read had a profound impact on her life.",
-      "sentence-jp": "彼女が読んだ詩は彼女の人生に重大な影響を及ぼした。"
+      "sentence-jp": "彼女が読んだ詩は彼女の人生に重大な影響を及ぼした。",
+      "cloze": {
+        "maskedText": "The poetry she read had a ____ impact on her life.",
+        "answerBase": "profound",
+        "answerSurface": "profound",
+        "choices": ["profound", "casual", "shallow", "minor"]
+      }
     }
   ],
   "notes": []

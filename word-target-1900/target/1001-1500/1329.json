@@ -12,5 +12,11 @@
       "sentence-jp": "彼女のツイッターのアカウントは10万人以上のフォロワーを誇る。"
     }
   ],
+  "cloze": {
+    "maskedText": "The university can ____ a long history.",
+    "answerBase": "boast",
+    "answerSurface": "boast",
+    "choices": ["boast", "utilize", "shed", "dare"]
+  },
   "notes": []
 }

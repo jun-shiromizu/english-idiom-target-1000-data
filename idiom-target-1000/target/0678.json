@@ -12,7 +12,18 @@
         "in the act of doing"
       ],
       "example-sentence": "I’ll report you to the boss if I catch you sleeping at work again.",
-      "sentence-jp": "もしあなたが仕事中にまた居眠りしているところを見つけたら、あなたのことを上司に言いつけますよ。"
+      "sentence-jp": "もしあなたが仕事中にまた居眠りしているところを見つけたら、あなたのことを上司に言いつけますよ。",
+      "cloze": {
+        "maskedText": "I’ll report you to the boss if I ____ at work again.",
+        "answerBase": "catch ~ doing",
+        "answerSurface": "catch you sleeping",
+        "choices": [
+          "catch you sleeping",
+          "feel like wearing",
+          "are used to performing",
+          "came very close to uttering"
+        ]
+      }
     }
   ],
   "notes": [

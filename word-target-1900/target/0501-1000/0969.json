@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The Japanese emperor is the counterpart to the British queen.",
-      "sentence-jp": "日本の天皇はイギリスの女王に相当する存在である。"
+      "sentence-jp": "日本の天皇はイギリスの女王に相当する存在である。",
+      "cloze": {
+        "maskedText": "The Japanese emperor is the ____ to the British queen.",
+        "answerBase": "counterpart",
+        "answerSurface": "counterpart",
+        "choices": ["counterpart", "abuse", "tragedy", "allergy"]
+      }
     }
   ],
   "notes": []

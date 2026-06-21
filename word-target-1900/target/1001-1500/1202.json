@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "He is highly esteemed as a genius in mathematics.",
-      "sentence-jp": "彼は数学の天才として大いに尊敬されている。"
+      "sentence-jp": "彼は数学の天才として大いに尊敬されている。",
+      "cloze": {
+        "maskedText": "He is highly ____ as a genius in mathematics.",
+        "answerBase": "esteem",
+        "answerSurface": "esteemed",
+        "choices": ["esteemed", "tackled", "accelerated", "dragged"]
+      }
     }
   ],
   "notes": []

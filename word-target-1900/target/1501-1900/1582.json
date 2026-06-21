@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "There are immense varieties of chilies in Mexico.",
-      "sentence-jp": "メキシコには膨大な種類のトウガラシがある。"
+      "sentence-jp": "メキシコには膨大な種類のトウガラシがある。",
+      "cloze": {
+        "maskedText": "There are ____ varieties of chilies in Mexico.",
+        "answerBase": "immense",
+        "answerSurface": "immense",
+        "choices": [
+          "immense",
+          "accurate",
+          "frequent",
+          "narrow"
+        ]
+      }
     }
   ],
   "notes": []

@@ -12,5 +12,11 @@
       "sentence-jp": "台湾の先住民の料理はますます評価されつつある。"
     }
   ],
+  "cloze": {
+    "maskedText": "French ____ is famous around the world.",
+    "answerBase": "cuisine",
+    "answerSurface": "cuisine",
+    "choices": ["cuisine", "kidney", "gear", "grief"]
+  },
   "notes": []
 }

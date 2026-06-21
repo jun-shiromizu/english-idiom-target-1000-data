@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "I hope for lively discourse at the meeting.",
-      "sentence-jp": "私は会合での活発な話し合いを願っている。"
+      "sentence-jp": "私は会合での活発な話し合いを願っている。",
+      "cloze": {
+        "maskedText": "I hope for lively ____ at the meeting.",
+        "answerBase": "discourse",
+        "answerSurface": "discourse",
+        "choices": [
+          "discourse",
+          "silence",
+          "traffic",
+          "weather"
+        ]
+      }
     }
   ],
   "notes": []

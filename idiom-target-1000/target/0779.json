@@ -9,21 +9,54 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "With the epidemic raging at the time, many small businesses were barely holding on.",
-      "sentence-jp": "当時伝染病が猛威をふるっており、多くの中小企業はかろうじて持ちこたえていた。"
+      "sentence-jp": "当時伝染病が猛威をふるっており、多くの中小企業はかろうじて持ちこたえていた。",
+      "cloze": {
+        "maskedText": "With the epidemic raging at the time, many small businesses were barely ____.",
+        "answerBase": "hold on",
+        "answerSurface": "holding on",
+        "choices": [
+          "holding on",
+          "checking out",
+          "going ahead",
+          "hanging up"
+        ]
+      }
     },
     {
       "idiom-jp": "待つ；電話を切らずにいる",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I’m going to take another picture, so just hold on a while longer.",
-      "sentence-jp": "もう1枚写真を撮りますから、もう少しの間お待ちください。"
+      "sentence-jp": "もう1枚写真を撮りますから、もう少しの間お待ちください。",
+      "cloze": {
+        "maskedText": "I’m going to take another picture, so just ____ a while longer.",
+        "answerBase": "hold on",
+        "answerSurface": "hold on",
+        "choices": [
+          "hold on",
+          "check out",
+          "hang up",
+          "go ahead"
+        ]
+      }
     },
     {
       "idiom-jp": "しっかりつかむ",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "At the top of the ladder, I felt scared because there was nothing to hold on to.",
-      "sentence-jp": "はしごのてっぺんで何もつかむものがなかったので、私は怖かった。"
+      "sentence-jp": "はしごのてっぺんで何もつかむものがなかったので、私は怖かった。",
+      "cloze": {
+        "maskedText": "At the top of the ladder, I felt scared because there was nothing to ____.",
+        "answerBase": "hold on",
+        "answerSurface": "hold on to",
+        "choices": [
+          "hold on to",
+          "check out",
+          "hang up",
+          "go ahead"
+        ]
+      }
     }
   ],
   "notes": [

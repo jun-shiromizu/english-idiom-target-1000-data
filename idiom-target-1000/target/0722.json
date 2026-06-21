@@ -13,7 +13,18 @@
         "We cannot do."
       ],
       "example-sentence": "There is no denying that e-books have become an important part of people’s reading habits.",
-      "sentence-jp": "電子書籍が人々の読書習慣の重要な一部となってきていることは否定できない。"
+      "sentence-jp": "電子書籍が人々の読書習慣の重要な一部となってきていることは否定できない。",
+      "cloze": {
+        "maskedText": "____ e-books have become an important part of people’s reading habits.",
+        "answerBase": "There is no doing.",
+        "answerSurface": "There is no denying that",
+        "choices": [
+          "There is no denying that",
+          "It is no use regretting",
+          "No sooner had I come home than",
+          "All you have to do is"
+        ]
+      }
     }
   ],
   "notes": [

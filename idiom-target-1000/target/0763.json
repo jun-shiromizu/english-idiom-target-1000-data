@@ -9,7 +9,18 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "The students asked their teacher to speak more slowly so that they could understand her.",
-      "sentence-jp": "生徒たちは、彼らが先生の言うことを理解できるように、もっとゆっくり話してくれるよう先生に頼んだ。"
+      "sentence-jp": "生徒たちは、彼らが先生の言うことを理解できるように、もっとゆっくり話してくれるよう先生に頼んだ。",
+      "cloze": {
+        "maskedText": "The students asked their teacher to speak more slowly ____ understand her.",
+        "answerBase": "so that ~ can do",
+        "answerSurface": "so that they could",
+        "choices": [
+          "so that they could",
+          "in case they got",
+          "now that they can",
+          "even as they did"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Some countries are resisting the current trend toward free trade.",
-      "sentence-jp": "自由貿易に向かう現在の傾向に抵抗している国もある。"
+      "sentence-jp": "自由貿易に向かう現在の傾向に抵抗している国もある。",
+      "cloze": {
+        "maskedText": "Some countries are ____ the current trend toward free trade.",
+        "answerBase": "resist",
+        "answerSurface": "resisting",
+        "choices": [
+          "resisting",
+          "pretending",
+          "burying",
+          "reversing"
+        ]
+      }
     }
   ],
   "notes": []

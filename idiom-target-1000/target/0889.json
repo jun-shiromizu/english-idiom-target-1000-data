@@ -12,7 +12,18 @@
         "pretend"
       ],
       "example-sentence": "As a small child, Fred liked to make believe he was a ninja on a secret mission.",
-      "sentence-jp": "フレッドは子供のころ、秘密の任務を帯びた忍者のふりをするのが好きだった。"
+      "sentence-jp": "フレッドは子供のころ、秘密の任務を帯びた忍者のふりをするのが好きだった。",
+      "cloze": {
+        "maskedText": "As a small child, Fred liked to ____ he was a ninja on a secret mission.",
+        "answerBase": "make believe (that ...)",
+        "answerSurface": "make believe",
+        "choices": [
+          "make believe",
+          "make good",
+          "make do",
+          "make ends meet"
+        ]
+      }
     }
   ],
   "notes": [

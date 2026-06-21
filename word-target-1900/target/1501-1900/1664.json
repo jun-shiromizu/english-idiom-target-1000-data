@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "In 2002, Chiyoda Ward in Tokyo banned smoking on some sidewalks.",
-      "sentence-jp": "2002年，東京都千代田区は一部の歩道での喫煙を禁止した。"
+      "sentence-jp": "2002年，東京都千代田区は一部の歩道での喫煙を禁止した。",
+      "cloze": {
+        "maskedText": "In 2002, Chiyoda ____ in Tokyo banned smoking on some sidewalks.",
+        "answerBase": "ward",
+        "answerSurface": "Ward",
+        "choices": [
+          "Ward",
+          "Bridge",
+          "Tower",
+          "River"
+        ]
+      }
     }
   ],
   "notes": []

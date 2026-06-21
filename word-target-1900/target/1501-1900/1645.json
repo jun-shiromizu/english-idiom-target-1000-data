@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The price for a barrel of oil has been slowly increasing.",
-      "sentence-jp": "石油1バレル当たりの価格は緩やかに上昇している。"
+      "sentence-jp": "石油1バレル当たりの価格は緩やかに上昇している。",
+      "cloze": {
+        "maskedText": "The price for a ____ of oil has been slowly increasing.",
+        "answerBase": "barrel",
+        "answerSurface": "barrel",
+        "choices": [
+          "barrel",
+          "bundle",
+          "truck",
+          "field"
+        ]
+      }
     }
   ],
   "notes": []

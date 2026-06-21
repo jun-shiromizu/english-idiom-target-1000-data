@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "John used Chinese medicine to recover from his injuries.",
-      "sentence-jp": "けがから回復するためにジョンは漢方医学を使った。"
+      "sentence-jp": "けがから回復するためにジョンは漢方医学を使った。",
+      "cloze": {
+        "maskedText": "John used Chinese medicine to ____ from his injuries.",
+        "answerBase": "recover",
+        "answerSurface": "recover",
+        "choices": [
+          "recover",
+          "borrow",
+          "divide",
+          "arrive"
+        ]
+      }
     }
   ],
   "notes": []

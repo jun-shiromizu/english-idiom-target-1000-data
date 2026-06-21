@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "You are eligible for salary increase based on your performance.",
-      "sentence-jp": "あなたはあなたの業績に基づき昇給に適格である。"
+      "sentence-jp": "あなたはあなたの業績に基づき昇給に適格である。",
+      "cloze": {
+        "maskedText": "You are ____ for salary increase based on your performance.",
+        "answerBase": "eligible",
+        "answerSurface": "eligible",
+        "choices": [
+          "eligible",
+          "fragile",
+          "visible",
+          "casual"
+        ]
+      }
     }
   ],
   "notes": []

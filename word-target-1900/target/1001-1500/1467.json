@@ -12,5 +12,11 @@
       "sentence-jp": "郡は地元の問題に対処するための独自の政府を持つ。"
     }
   ],
+  "cloze": {
+    "maskedText": "The town belongs to the same ____ as the capital.",
+    "answerBase": "county",
+    "answerSurface": "county",
+    "choices": ["county", "vacuum", "bargain", "landmark"]
+  },
   "notes": []
 }

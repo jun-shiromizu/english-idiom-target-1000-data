@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Freedom of expression will lead people to embrace diversity.",
-      "sentence-jp": "表現の自由は人々を多様性を受け入れる方向に導く。"
+      "sentence-jp": "表現の自由は人々を多様性を受け入れる方向に導く。",
+      "cloze": {
+        "maskedText": "Freedom of expression will lead people to ____ diversity.",
+        "answerBase": "embrace",
+        "answerSurface": "embrace",
+        "choices": ["embrace", "ignore", "damage", "postpone"]
+      }
     }
   ],
   "notes": []

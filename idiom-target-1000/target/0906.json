@@ -12,7 +12,18 @@
         "be [prove] useful [convenient]"
       ],
       "example-sentence": "She studied Chinese, assuming a knowledge of it would come in handy for getting a job.",
-      "sentence-jp": "彼女は就職にその知識が役立つだろうと考えて、中国語を勉強した。"
+      "sentence-jp": "彼女は就職にその知識が役立つだろうと考えて、中国語を勉強した。",
+      "cloze": {
+        "maskedText": "She studied Chinese, assuming a knowledge of it would ____ for getting a job.",
+        "answerBase": "come in handy",
+        "answerSurface": "come in handy",
+        "choices": [
+          "come in handy",
+          "come of age",
+          "hold true",
+          "fall short"
+        ]
+      }
     }
   ],
   "notes": []

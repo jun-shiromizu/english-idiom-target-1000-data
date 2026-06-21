@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "There is litter scattered on the beach.",
-      "sentence-jp": "海岸にごみがまき散らされている。"
+      "sentence-jp": "海岸にごみがまき散らされている。",
+      "cloze": {
+        "maskedText": "There is litter ____ on the beach.",
+        "answerBase": "scatter",
+        "answerSurface": "scattered",
+        "choices": ["scattered", "tempted", "withdrawn", "blinked"]
+      }
     }
   ],
   "notes": []

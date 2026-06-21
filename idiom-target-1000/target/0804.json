@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "The woman I am to meet today does not know me by sight.",
-      "sentence-jp": "今日会う予定の女性は私の顔も知らない。"
+      "sentence-jp": "今日会う予定の女性は私の顔も知らない。",
+      "cloze": {
+        "maskedText": "The woman I am to meet today does not ____.",
+        "answerBase": "know ~ by sight",
+        "answerSurface": "know me by sight",
+        "choices": [
+          "know me by sight",
+          "pull my leg",
+          "give me a hand",
+          "ask me a favor"
+        ]
+      }
     }
   ],
   "notes": [

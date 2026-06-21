@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He wrote a narrative based on his years living abroad.",
-      "sentence-jp": "彼は自分の外国生活を基にした物語を書いた。"
+      "sentence-jp": "彼は自分の外国生活を基にした物語を書いた。",
+      "cloze": {
+        "maskedText": "He wrote a ____ based on his years living abroad.",
+        "answerBase": "narrative",
+        "answerSurface": "narrative",
+        "choices": ["narrative", "fingerprint", "panic", "fancy"]
+      }
     }
   ],
   "notes": []

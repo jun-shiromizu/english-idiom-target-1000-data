@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The doctor convinced me that exercising would improve my health.",
-      "sentence-jp": "医師は運動することが私の健康状態を改善すると私に確信させた。"
+      "sentence-jp": "医師は運動することが私の健康状態を改善すると私に確信させた。",
+      "cloze": {
+        "maskedText": "The doctor ____ me that exercising would improve my health.",
+        "answerBase": "convince 人 that",
+        "answerSurface": "convinced",
+        "choices": [
+          "convinced",
+          "warned",
+          "ordered",
+          "divided"
+        ]
+      }
     }
   ],
   "notes": []

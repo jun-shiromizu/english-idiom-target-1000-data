@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The unique feature of this movie is its fusion of reality and fantasy.",
-      "sentence-jp": "この映画の独自の特徴は現実と空想の融合である。"
+      "sentence-jp": "この映画の独自の特徴は現実と空想の融合である。",
+      "cloze": {
+        "maskedText": "The unique feature of this movie is its fusion of reality and ____.",
+        "answerBase": "fantasy",
+        "answerSurface": "fantasy",
+        "choices": ["fantasy", "queue", "fingerprint", "virtue"]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The immune system uses a variety of white blood cells to fight disease.",
-      "sentence-jp": "免疫系は病気と闘うのに種々の白血球を使う。"
+      "sentence-jp": "免疫系は病気と闘うのに種々の白血球を使う。",
+      "cloze": {
+        "maskedText": "The ____ system uses a variety of white blood cells to fight disease.",
+        "answerBase": "immune",
+        "answerSurface": "immune",
+        "choices": ["immune", "casual", "steady", "remote"]
+      }
     }
   ],
   "notes": []

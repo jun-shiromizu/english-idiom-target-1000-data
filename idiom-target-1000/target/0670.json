@@ -12,7 +12,18 @@
         "truth to tell"
       ],
       "example-sentence": "To tell the truth, I don’t really like scary movies.",
-      "sentence-jp": "実を言えば、私は恐怖映画があまり好きではない。"
+      "sentence-jp": "実を言えば、私は恐怖映画があまり好きではない。",
+      "cloze": {
+        "maskedText": "____, I don’t really like scary movies.",
+        "answerBase": "to tell (you) the truth",
+        "answerSurface": "To tell the truth",
+        "choices": [
+          "To tell the truth",
+          "Needless to say",
+          "Speaking of movies",
+          "Judging from the short speech"
+        ]
+      }
     }
   ],
   "notes": [

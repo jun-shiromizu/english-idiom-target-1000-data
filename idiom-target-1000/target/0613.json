@@ -12,7 +12,18 @@
         "for the benefit of ~"
       ],
       "example-sentence": "Many people insist coal-fired power plants be closed for the sake of the environment.",
-      "sentence-jp": "環境のために石炭火力の発電所を閉鎖すべきだと主張する人は多い。"
+      "sentence-jp": "環境のために石炭火力の発電所を閉鎖すべきだと主張する人は多い。",
+      "cloze": {
+        "maskedText": "Many people insist coal-fired power plants be closed ____ the environment.",
+        "answerBase": "for the sake of ~",
+        "answerSurface": "for the sake of",
+        "choices": [
+          "for the sake of",
+          "for fear of",
+          "at the expense of",
+          "by means of"
+        ]
+      }
     }
   ],
   "notes": [

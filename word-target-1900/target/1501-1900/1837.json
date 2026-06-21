@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The military entered the area and oppressed the local people.",
-      "sentence-jp": "軍はその地域に入り，現地の住民を迫害した。"
+      "sentence-jp": "軍はその地域に入り，現地の住民を迫害した。",
+      "cloze": {
+        "maskedText": "The military entered the area and ____ the local people.",
+        "answerBase": "oppress",
+        "answerSurface": "oppressed",
+        "choices": [
+          "oppressed",
+          "welcomed",
+          "protected",
+          "consulted"
+        ]
+      }
     }
   ],
   "notes": []

@@ -12,5 +12,11 @@
       "sentence-jp": "彼のおばは彼の悪い言葉遣いにひどく腹を立てた。"
     }
   ],
+  "cloze": {
+    "maskedText": "I didn't mean to ____ anyone with my joke.",
+    "answerBase": "offend",
+    "answerSurface": "offend",
+    "choices": ["offend", "assemble", "worsen", "compute"]
+  },
   "notes": []
 }

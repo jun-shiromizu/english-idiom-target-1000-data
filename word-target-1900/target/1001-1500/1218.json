@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She withdrew 20, 000 yen from the ATM at a convenience store.",
-      "sentence-jp": "彼女はコンビニのATMから20,000円を引き出した。"
+      "sentence-jp": "彼女はコンビニのATMから20,000円を引き出した。",
+      "cloze": {
+        "maskedText": "She ____ 20,000 yen from the ATM at a convenience store.",
+        "answerBase": "withdraw",
+        "answerSurface": "withdrew",
+        "choices": ["withdrew", "tempted", "cast", "yawned"]
+      }
     }
   ],
   "notes": []

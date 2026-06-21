@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He caught a glimpse of the aurora while in Alaska.",
-      "sentence-jp": "彼はアラスカに滞在中にオーロラをちらりと見た。"
+      "sentence-jp": "彼はアラスカに滞在中にオーロラをちらりと見た。",
+      "cloze": {
+        "maskedText": "He caught a ____ of the aurora while in Alaska.",
+        "answerBase": "glimpse",
+        "answerSurface": "glimpse",
+        "choices": [
+          "glimpse",
+          "picture",
+          "lesson",
+          "signal"
+        ]
+      }
     }
   ],
   "notes": []

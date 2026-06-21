@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "On a long autumn night, many people yearn for the hometown they left a long time ago.",
-      "sentence-jp": "秋の夜長には、多くの人々は遠い昔に後にした故郷を恋しがる。"
+      "sentence-jp": "秋の夜長には、多くの人々は遠い昔に後にした故郷を恋しがる。",
+      "cloze": {
+        "maskedText": "On a long autumn night, many people ____ the hometown they left a long time ago.",
+        "answerBase": "yearn for ~",
+        "answerSurface": "yearn for",
+        "choices": [
+          "yearn for",
+          "settle for",
+          "allow for",
+          "count for"
+        ]
+      }
     }
   ],
   "notes": [

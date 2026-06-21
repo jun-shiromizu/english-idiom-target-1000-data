@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Japan has a nice mixture of traditional and modern buildings.",
-      "sentence-jp": "日本には伝統的な建物と現代的な建物の見事な混合がある。"
+      "sentence-jp": "日本には伝統的な建物と現代的な建物の見事な混合がある。",
+      "cloze": {
+        "maskedText": "Japan has a nice ____ of traditional and modern buildings.",
+        "answerBase": "mixture",
+        "answerSurface": "mixture",
+        "choices": ["mixture", "ratio", "trail", "ecology"]
+      }
     }
   ],
   "notes": []

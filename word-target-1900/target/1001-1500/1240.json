@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Many words have been incorporated into English from Latin and French.",
-      "sentence-jp": "多くの語がラテン語やフランス語から英語に取り入れられてきた。"
+      "sentence-jp": "多くの語がラテン語やフランス語から英語に取り入れられてきた。",
+      "cloze": {
+        "maskedText": "Many words have been ____ into English from Latin and French.",
+        "answerBase": "incorporate",
+        "answerSurface": "incorporated",
+        "choices": ["incorporated", "amused", "clicked", "blinked"]
+      }
     }
   ],
   "notes": []

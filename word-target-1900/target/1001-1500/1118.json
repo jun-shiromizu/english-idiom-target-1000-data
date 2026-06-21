@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She swallowed a pill with a glass of water.",
-      "sentence-jp": "彼女はコップ1杯の水で錠剤を飲み込んだ。"
+      "sentence-jp": "彼女はコップ1杯の水で錠剤を飲み込んだ。",
+      "cloze": {
+        "maskedText": "She ____ a pill with a glass of water.",
+        "answerBase": "swallow",
+        "answerSurface": "swallowed",
+        "choices": ["swallowed", "sealed", "migrated", "advocated"]
+      }
     }
   ],
   "notes": []

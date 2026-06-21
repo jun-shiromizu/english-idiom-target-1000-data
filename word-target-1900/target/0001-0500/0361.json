@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "I read many good comments about the restaurant on the Web.",
-      "sentence-jp": "私はウェブ上でそのレストランに関するたくさんのいいコメントを読んだ。"
+      "sentence-jp": "私はウェブ上でそのレストランに関するたくさんのいいコメントを読んだ。",
+      "cloze": {
+        "maskedText": "I read many good comments about the restaurant on the ____.",
+        "answerBase": "the Web",
+        "answerSurface": "Web",
+        "choices": [
+          "Web",
+          "soil",
+          "court",
+          "desert"
+        ]
+      }
     }
   ],
   "notes": []

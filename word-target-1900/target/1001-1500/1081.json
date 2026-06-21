@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "He made an elaborate plan to climb Mont Blanc.",
-      "sentence-jp": "彼はモンブランに登る入念な計画を立てた。"
+      "sentence-jp": "彼はモンブランに登る入念な計画を立てた。",
+      "cloze": {
+        "maskedText": "He made an ____ plan to climb Mont Blanc.",
+        "answerBase": "elaborate",
+        "answerSurface": "elaborate",
+        "choices": ["elaborate", "moderate", "shallow", "awkward"]
+      }
     }
   ],
   "notes": []

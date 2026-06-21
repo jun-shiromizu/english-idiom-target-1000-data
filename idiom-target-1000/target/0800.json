@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "The Japanese go to the polls to vote for the members of the Upper House every three years.",
-      "sentence-jp": "日本人は3年ごとに参議院議員を選ぶための投票に行く。"
+      "sentence-jp": "日本人は3年ごとに参議院議員を選ぶための投票に行く。",
+      "cloze": {
+        "maskedText": "The Japanese ____ to vote for the members of the Upper House every three years.",
+        "answerBase": "go to the polls",
+        "answerSurface": "go to the polls",
+        "choices": [
+          "go to the polls",
+          "pay a visit",
+          "stick around",
+          "call it a day"
+        ]
+      }
     }
   ],
   "notes": [

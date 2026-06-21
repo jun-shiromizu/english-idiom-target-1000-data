@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Ecologists study how organisms interact with their environment.",
-      "sentence-jp": "生態学者は生物がどのように自らの環境と影響し合っているかを研究する。"
+      "sentence-jp": "生態学者は生物がどのように自らの環境と影響し合っているかを研究する。",
+      "cloze": {
+        "maskedText": "Ecologists study how organisms ____ with their environment.",
+        "answerBase": "interact",
+        "answerSurface": "interact",
+        "choices": [
+          "interact",
+          "celebrate",
+          "construct",
+          "emphasize"
+        ]
+      }
     }
   ],
   "notes": []

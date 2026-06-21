@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Environmental destruction threatens the future of mankind.",
-      "sentence-jp": "環境破壊は人類の未来を脅かす。"
+      "sentence-jp": "環境破壊は人類の未来を脅かす。",
+      "cloze": {
+        "maskedText": "Environmental destruction threatens the future of ____.",
+        "answerBase": "mankind",
+        "answerSurface": "mankind",
+        "choices": ["mankind", "cue", "output", "retail"]
+      }
     }
   ],
   "notes": []

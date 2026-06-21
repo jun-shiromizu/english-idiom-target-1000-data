@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "We have to confront the problem of the declining birthrate.",
-      "sentence-jp": "私たちは少子化問題に立ち向かわなくてはならない。"
+      "sentence-jp": "私たちは少子化問題に立ち向かわなくてはならない。",
+      "cloze": {
+        "maskedText": "We have to ____ the problem of the declining birthrate.",
+        "answerBase": "confront",
+        "answerSurface": "confront",
+        "choices": ["confront", "hesitate", "consult", "fulfill"]
+      }
     }
   ],
   "notes": []

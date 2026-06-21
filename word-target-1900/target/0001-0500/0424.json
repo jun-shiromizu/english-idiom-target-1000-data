@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The lawyer has handled his difficult court cases properly.",
-      "sentence-jp": "その弁護士は難しい訴訟を適切に処理してきた。"
+      "sentence-jp": "その弁護士は難しい訴訟を適切に処理してきた。",
+      "cloze": {
+        "maskedText": "The lawyer has ____ his difficult court cases properly.",
+        "answerBase": "handle",
+        "answerSurface": "handled",
+        "choices": [
+          "handled",
+          "folded",
+          "missed",
+          "floated"
+        ]
+      }
     }
   ],
   "notes": []

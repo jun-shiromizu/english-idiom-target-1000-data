@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Suffice it to say that she didn’t do her duty as she was supposed to have done.",
-      "sentence-jp": "彼女は果たすべきだった義務を果たさなかったと言えば十分であろう。"
+      "sentence-jp": "彼女は果たすべきだった義務を果たさなかったと言えば十分であろう。",
+      "cloze": {
+        "maskedText": "____ she didn’t do her duty as she was supposed to have done.",
+        "answerBase": "Suffice (it) to say that ...",
+        "answerSurface": "Suffice it to say that",
+        "choices": [
+          "Suffice it to say that",
+          "It goes without saying that",
+          "There is no denying that",
+          "Believe it or not"
+        ]
+      }
     }
   ],
   "notes": [

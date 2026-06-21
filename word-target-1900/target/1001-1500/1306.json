@@ -12,5 +12,11 @@
       "sentence-jp": "ホラー映画が彼女を怖がらせたので，彼女はその晩眠れなかった。"
     }
   ],
+  "cloze": {
+    "maskedText": "The loud explosion ____ the children.",
+    "answerBase": "terrify",
+    "answerSurface": "terrified",
+    "choices": ["terrified", "deposited", "prolonged", "outlined"]
+  },
   "notes": []
 }

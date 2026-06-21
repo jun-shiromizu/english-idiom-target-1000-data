@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "He dedicates his life to the study of insects.",
-      "sentence-jp": "彼は人生を昆虫の研究にささげている。"
+      "sentence-jp": "彼は人生を昆虫の研究にささげている。",
+      "cloze": {
+        "maskedText": "He ____ his life to the study of insects.",
+        "answerBase": "dedicate",
+        "answerSurface": "dedicates",
+        "choices": ["dedicates", "complicates", "astonishes", "equips"]
+      }
     }
   ],
   "notes": []

@@ -12,7 +12,18 @@
         "before one can [could] say knife [Jack Robinson]"
       ],
       "example-sentence": "I slipped on the road, and before I knew it, I found myself lying face down on the ground.",
-      "sentence-jp": "私は道路で滑って、あっという間に地面にうつぶせになっていた。"
+      "sentence-jp": "私は道路で滑って、あっという間に地面にうつぶせになっていた。",
+      "cloze": {
+        "maskedText": "I slipped on the road, and ____, I found myself lying face down on the ground.",
+        "answerBase": "before one knows it",
+        "answerSurface": "before I knew it",
+        "choices": [
+          "before I knew it",
+          "with my fingers crossed",
+          "on the dot",
+          "from scratch"
+        ]
+      }
     }
   ],
   "notes": []

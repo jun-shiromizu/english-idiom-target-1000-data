@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "He poured some tea into a cup.",
-      "sentence-jp": "彼はカップに紅茶を注いだ。"
+      "sentence-jp": "彼はカップに紅茶を注いだ。",
+      "cloze": {
+        "maskedText": "He ____ some tea into a cup.",
+        "answerBase": "pour",
+        "answerSurface": "poured",
+        "choices": ["poured", "wandered", "slipped", "gazed"]
+      }
     }
   ],
   "notes": []

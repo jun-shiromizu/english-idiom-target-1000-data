@@ -12,5 +12,11 @@
       "sentence-jp": "彼女はただのちょっとした知り合いだ。"
     }
   ],
+  "cloze": {
+    "maskedText": "He is only a business ____ , not a close friend.",
+    "answerBase": "acquaintance",
+    "answerSurface": "acquaintance",
+    "choices": ["acquaintance", "offspring", "profile", "script"]
+  },
   "notes": []
 }

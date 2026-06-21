@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "A submarine is designed to resist strong external pressure.",
-      "sentence-jp": "潜水艦は強度の外圧に耐えるように設計されている。"
+      "sentence-jp": "潜水艦は強度の外圧に耐えるように設計されている。",
+      "cloze": {
+        "maskedText": "A submarine is designed to resist strong ____ pressure.",
+        "answerBase": "external",
+        "answerSurface": "external",
+        "choices": ["external", "informal", "prompt", "mutual"]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Low-cost airlines in Japan will compete with their rivals in Europe.",
-      "sentence-jp": "日本の格安航空会社は，ヨーロッパの競合他社と競争することになる。"
+      "sentence-jp": "日本の格安航空会社は，ヨーロッパの競合他社と競争することになる。",
+      "cloze": {
+        "maskedText": "Low-cost airlines in Japan will ____ with their rivals in Europe.",
+        "answerBase": "compete",
+        "answerSurface": "compete",
+        "choices": [
+          "compete",
+          "freeze",
+          "gather",
+          "repair"
+        ]
+      }
     }
   ],
   "notes": []

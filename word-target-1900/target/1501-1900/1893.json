@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He calmly endured the interviewer's dumb questions.",
-      "sentence-jp": "彼はインタビュアーのばかげた質問に穏やかに耐えた。"
+      "sentence-jp": "彼はインタビュアーのばかげた質問に穏やかに耐えた。",
+      "cloze": {
+        "maskedText": "He calmly endured the interviewer's ____ questions.",
+        "answerBase": "dumb",
+        "answerSurface": "dumb",
+        "choices": [
+          "dumb",
+          "formal",
+          "modest",
+          "gentle"
+        ]
+      }
     }
   ],
   "notes": []

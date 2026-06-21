@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "I noticed that he was trying hard not to yawn during class.",
-      "sentence-jp": "私は彼が授業中必死にあくびをしないようにしているのに気づいた。"
+      "sentence-jp": "私は彼が授業中必死にあくびをしないようにしているのに気づいた。",
+      "cloze": {
+        "maskedText": "I noticed that he was trying hard not to ____ during class.",
+        "answerBase": "yawn",
+        "answerSurface": "yawn",
+        "choices": ["yawn", "blink", "spin", "drag"]
+      }
     }
   ],
   "notes": []

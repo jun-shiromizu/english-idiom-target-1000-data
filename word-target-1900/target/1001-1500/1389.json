@@ -12,5 +12,11 @@
       "sentence-jp": "壊れやすいガラス製品を注意して扱わなくてはならない。"
     }
   ],
+  "cloze": {
+    "maskedText": "Please handle this ____ vase carefully.",
+    "answerBase": "fragile",
+    "answerSurface": "fragile",
+    "choices": ["fragile", "inherent", "gradual", "vocal"]
+  },
   "notes": []
 }

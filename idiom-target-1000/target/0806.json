@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "The bottom line is that all of us have to be there without fail by ten tomorrow morning.",
-      "sentence-jp": "要点は、私たち全員が明日の朝10時までに必ずそこにいなければならないということだ。"
+      "sentence-jp": "要点は、私たち全員が明日の朝10時までに必ずそこにいなければならないということだ。",
+      "cloze": {
+        "maskedText": "____ is that all of us have to be there without fail by ten tomorrow morning.",
+        "answerBase": "the bottom line",
+        "answerSurface": "The bottom line",
+        "choices": [
+          "The bottom line",
+          "Last but not least",
+          "What ... like",
+          "What ... for"
+        ]
+      }
     }
   ],
   "notes": []

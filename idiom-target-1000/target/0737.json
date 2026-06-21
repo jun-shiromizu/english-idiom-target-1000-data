@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "To know is one thing, and to teach is another.",
-      "sentence-jp": "知っていることと教えることは別のものだ。"
+      "sentence-jp": "知っていることと教えることは別のものだ。",
+      "cloze": {
+        "maskedText": "To know is one thing, and to teach is ____.",
+        "answerBase": "A is one thing; B is another",
+        "answerSurface": "another",
+        "choices": [
+          "another",
+          "the latter",
+          "all",
+          "it"
+        ]
+      }
     }
   ],
   "notes": [

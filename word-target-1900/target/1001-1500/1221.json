@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The woman decided to dye her hair brown.",
-      "sentence-jp": "その女性は髪を茶色に染めることにした。"
+      "sentence-jp": "その女性は髪を茶色に染めることにした。",
+      "cloze": {
+        "maskedText": "The woman decided to ____ her hair brown.",
+        "answerBase": "dye",
+        "answerSurface": "dye",
+        "choices": ["dye", "spill", "drain", "drift"]
+      }
     }
   ],
   "notes": []

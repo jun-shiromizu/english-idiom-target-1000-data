@@ -12,5 +12,11 @@
       "sentence-jp": "私たちはマリアがナイフとフォークを正しく使うことができないことにショックを受けた。"
     }
   ],
+  "cloze": {
+    "maskedText": "His ____ to swim kept him out of the race.",
+    "answerBase": "inability",
+    "answerSurface": "inability",
+    "choices": ["inability", "intuition", "consent", "monument"]
+  },
   "notes": []
 }

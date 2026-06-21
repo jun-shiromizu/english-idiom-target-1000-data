@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The geography of the country makes it easy to grow grapes.",
-      "sentence-jp": "その国の地理はブドウの栽培を容易にする。"
+      "sentence-jp": "その国の地理はブドウの栽培を容易にする。",
+      "cloze": {
+        "maskedText": "The ____ of the country makes it easy to grow grapes.",
+        "answerBase": "geography",
+        "answerSurface": "geography",
+        "choices": ["geography", "formation", "sensation", "workforce"]
+      }
     }
   ],
   "notes": []

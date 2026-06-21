@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The writer decided to write about the realms of fantasy.",
-      "sentence-jp": "著者は空想の世界について書くことに決めた。"
+      "sentence-jp": "著者は空想の世界について書くことに決めた。",
+      "cloze": {
+        "maskedText": "The writer decided to write about the ____ of fantasy.",
+        "answerBase": "realm",
+        "answerSurface": "realms",
+        "choices": [
+          "realms",
+          "origins",
+          "angles",
+          "moments"
+        ]
+      }
     }
   ],
   "notes": []

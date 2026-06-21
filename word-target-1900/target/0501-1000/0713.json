@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "The secretary always accompanies the president on business trips.",
-      "sentence-jp": "出張の際，その秘書は常に社長に同行する。"
+      "sentence-jp": "出張の際，その秘書は常に社長に同行する。",
+      "cloze": {
+        "maskedText": "The secretary always ____ the president on business trips.",
+        "answerBase": "accompany",
+        "answerSurface": "accompanies",
+        "choices": [
+          "accompanies",
+          "restricts",
+          "acknowledges",
+          "declares"
+        ]
+      }
     }
   ],
   "notes": []

@@ -13,7 +13,18 @@
         "off [wide of] the mark"
       ],
       "example-sentence": "What she said about the problem was very much to the point.",
-      "sentence-jp": "彼女がその問題について述べたことは、実に要を得ていた。"
+      "sentence-jp": "彼女がその問題について述べたことは、実に要を得ていた。",
+      "cloze": {
+        "maskedText": "What she said about the problem was very much ____.",
+        "answerBase": "to the point",
+        "answerSurface": "to the point",
+        "choices": [
+          "to the point",
+          "to my surprise",
+          "to your advantage",
+          "under construction"
+        ]
+      }
     }
   ],
   "notes": [

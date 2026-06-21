@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She has lived in solitude for a long time.",
-      "sentence-jp": "彼女は長い間ずっとひとりで暮らしている。"
+      "sentence-jp": "彼女は長い間ずっとひとりで暮らしている。",
+      "cloze": {
+        "maskedText": "She has lived in ____ for a long time.",
+        "answerBase": "solitude",
+        "answerSurface": "solitude",
+        "choices": [
+          "solitude",
+          "revenue",
+          "distance",
+          "behavior"
+        ]
+      }
     }
   ],
   "notes": []

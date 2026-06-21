@@ -12,5 +12,11 @@
       "sentence-jp": "監督は俳優たちが台本を暗記することを要求した。"
     }
   ],
+  "cloze": {
+    "maskedText": "The actor read the ____ before the rehearsal.",
+    "answerBase": "script",
+    "answerSurface": "script",
+    "choices": ["script", "profile", "herd", "famine"]
+  },
   "notes": []
 }

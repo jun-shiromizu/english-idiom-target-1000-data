@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The politician denied having made such a statement.",
-      "sentence-jp": "その政治家はそのような発言をしたことを否定した。"
+      "sentence-jp": "その政治家はそのような発言をしたことを否定した。",
+      "cloze": {
+        "maskedText": "The politician ____ having made such a statement.",
+        "answerBase": "deny",
+        "answerSurface": "denied",
+        "choices": [
+          "denied",
+          "painted",
+          "rented",
+          "measured"
+        ]
+      }
     }
   ],
   "notes": []

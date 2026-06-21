@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Manufacturers may be tempted to ignore the consumers' complaints.",
-      "sentence-jp": "製造業者は消費者の苦情を無視したくなることもある。"
+      "sentence-jp": "製造業者は消費者の苦情を無視したくなることもある。",
+      "cloze": {
+        "maskedText": "Manufacturers may be ____ to ignore the consumers' complaints.",
+        "answerBase": "tempt",
+        "answerSurface": "tempted",
+        "choices": ["tempted", "withdrawn", "scattered", "clicked"]
+      }
     }
   ],
   "notes": []

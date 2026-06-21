@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "I'll have someone repair my computer as soon as possible.",
-      "sentence-jp": "できるだけ早くだれかにコンピューターを修理してもらうよ。"
+      "sentence-jp": "できるだけ早くだれかにコンピューターを修理してもらうよ。",
+      "cloze": {
+        "maskedText": "I'll have someone ____ my computer as soon as possible.",
+        "answerBase": "repair",
+        "answerSurface": "repair",
+        "choices": [
+          "repair",
+          "praise",
+          "occupy",
+          "collect"
+        ]
+      }
     }
   ],
   "notes": []

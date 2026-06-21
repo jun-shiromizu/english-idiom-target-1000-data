@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Convenience stores are ubiquitous in Japan.",
-      "sentence-jp": "日本ではコンビニエンスストアは至る所にある。"
+      "sentence-jp": "日本ではコンビニエンスストアは至る所にある。",
+      "cloze": {
+        "maskedText": "Convenience stores are ____ in Japan.",
+        "answerBase": "ubiquitous",
+        "answerSurface": "ubiquitous",
+        "choices": [
+          "ubiquitous",
+          "graceful",
+          "formal",
+          "cheerful"
+        ]
+      }
     }
   ],
   "notes": []

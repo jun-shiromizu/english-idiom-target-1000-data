@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The police is expanding the scope of the investigation.",
-      "sentence-jp": "警察は捜査の範囲を広げている。"
+      "sentence-jp": "警察は捜査の範囲を広げている。",
+      "cloze": {
+        "maskedText": "The police is expanding the ____ of the investigation.",
+        "answerBase": "scope",
+        "answerSurface": "scope",
+        "choices": [
+          "scope",
+          "surface",
+          "symbol",
+          "chapter"
+        ]
+      }
     }
   ],
   "notes": []

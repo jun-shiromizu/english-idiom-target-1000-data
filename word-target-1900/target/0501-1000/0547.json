@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He spent ten years paying back the bank loan.",
-      "sentence-jp": "彼は銀行の貸付金を返済するのに10年を費やした。"
+      "sentence-jp": "彼は銀行の貸付金を返済するのに10年を費やした。",
+      "cloze": {
+        "maskedText": "He spent ten years paying back the bank ____.",
+        "answerBase": "loan",
+        "answerSurface": "loan",
+        "choices": [
+          "loan",
+          "minister",
+          "weapon",
+          "insight"
+        ]
+      }
     }
   ],
   "notes": []

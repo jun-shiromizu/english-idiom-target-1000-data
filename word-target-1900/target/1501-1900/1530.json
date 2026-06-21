@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "He noticed that his twisted wrist swelled greatly.",
-      "sentence-jp": "彼はひねった手首がひどく腫れていることに気づいた。"
+      "sentence-jp": "彼はひねった手首がひどく腫れていることに気づいた。",
+      "cloze": {
+        "maskedText": "He noticed that his twisted wrist ____ greatly.",
+        "answerBase": "swell",
+        "answerSurface": "swelled",
+        "choices": [
+          "swelled",
+          "shook",
+          "stretched",
+          "softened"
+        ]
+      }
     }
   ],
   "notes": []

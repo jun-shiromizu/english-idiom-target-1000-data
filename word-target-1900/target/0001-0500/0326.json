@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "If we destroy the rainforests, they may never recover.",
-      "sentence-jp": "もし熱帯雨林を破壊するなら，それは二度と回復しないかもしれない。"
+      "sentence-jp": "もし熱帯雨林を破壊するなら，それは二度と回復しないかもしれない。",
+      "cloze": {
+        "maskedText": "If we ____ the rainforests, they may never recover.",
+        "answerBase": "destroy",
+        "answerSurface": "destroy",
+        "choices": [
+          "destroy",
+          "protect",
+          "borrow",
+          "follow"
+        ]
+      }
     }
   ],
   "notes": []

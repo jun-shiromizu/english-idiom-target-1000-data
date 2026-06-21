@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The country's people have a strong work ethic.",
-      "sentence-jp": "その国の人々は強い労働倫理を持っている。"
+      "sentence-jp": "その国の人々は強い労働倫理を持っている。",
+      "cloze": {
+        "maskedText": "The country's people have a strong work ____.",
+        "answerBase": "ethic",
+        "answerSurface": "ethic",
+        "choices": ["ethic", "scheme", "particle", "molecule"]
+      }
     }
   ],
   "notes": []

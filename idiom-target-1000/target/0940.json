@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Joe has little money at his disposal and little to save for a rainy day.",
-      "sentence-jp": "ジョーには自由に使えるお金も緊急時に備えて蓄えるお金もほとんどない。"
+      "sentence-jp": "ジョーには自由に使えるお金も緊急時に備えて蓄えるお金もほとんどない。",
+      "cloze": {
+        "maskedText": "Joe has little money at his disposal and little to save ____.",
+        "answerBase": "for a rainy day",
+        "answerSurface": "for a rainy day",
+        "choices": [
+          "for a rainy day",
+          "on his own",
+          "at issue",
+          "to go around"
+        ]
+      }
     }
   ],
   "notes": [

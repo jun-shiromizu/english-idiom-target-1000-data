@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Fair-trade helps workers in coffee farms live more stable lives.",
-      "sentence-jp": "フェアトレードはコーヒー農園の労働者がより安定した生活を送るのを助ける。"
+      "sentence-jp": "フェアトレードはコーヒー農園の労働者がより安定した生活を送るのを助ける。",
+      "cloze": {
+        "maskedText": "Fair-trade helps workers in coffee farms live more ____ lives.",
+        "answerBase": "stable",
+        "answerSurface": "stable",
+        "choices": [
+          "stable",
+          "dramatic",
+          "abstract",
+          "curious"
+        ]
+      }
     }
   ],
   "notes": []

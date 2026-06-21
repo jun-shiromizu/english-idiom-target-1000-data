@@ -12,7 +12,18 @@
         "partly"
       ],
       "example-sentence": "This new research of ours is special in part because of the large amount of data collected.",
-      "sentence-jp": "私たちのこの新しい研究は、1つには収集された大量のデータという点で特別だ。"
+      "sentence-jp": "私たちのこの新しい研究は、1つには収集された大量のデータという点で特別だ。",
+      "cloze": {
+        "maskedText": "This new research of ours is special ____ because of the large amount of data collected.",
+        "answerBase": "in part",
+        "answerSurface": "in part",
+        "choices": [
+          "in part",
+          "in turn",
+          "in demand",
+          "in all likelihood"
+        ]
+      }
     }
   ],
   "notes": [

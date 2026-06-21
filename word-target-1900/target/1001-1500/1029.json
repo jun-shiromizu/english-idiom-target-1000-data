@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The boy stopped some other boys from bullying a girl.",
-      "sentence-jp": "その少年はほかの少年たちが少女をいじめることをやめさせた。"
+      "sentence-jp": "その少年はほかの少年たちが少女をいじめることをやめさせた。",
+      "cloze": {
+        "maskedText": "The boy stopped some other boys from ____ a girl.",
+        "answerBase": "bully",
+        "answerSurface": "bullying",
+        "choices": ["bullying", "transmitting", "astonishing", "equipping"]
+      }
     }
   ],
   "notes": []

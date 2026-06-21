@@ -12,5 +12,11 @@
       "sentence-jp": "その金属は暗闇の中で光り輝き，柔かい緑色の光を放っていた。"
     }
   ],
+  "cloze": {
+    "maskedText": "The stars ____ brightly above us.",
+    "answerBase": "glow",
+    "answerSurface": "glowed",
+    "choices": ["glowed", "obliged", "disposed", "seized"]
+  },
   "notes": []
 }

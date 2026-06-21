@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "They have embarked on a mission for space exploration.",
-      "sentence-jp": "彼らは宇宙探査の任務に乗り出した。"
+      "sentence-jp": "彼らは宇宙探査の任務に乗り出した。",
+      "cloze": {
+        "maskedText": "They have ____ on a mission for space exploration.",
+        "answerBase": "embark",
+        "answerSurface": "embarked",
+        "choices": [
+          "embarked",
+          "insisted",
+          "focused",
+          "gathered"
+        ]
+      }
     }
   ],
   "notes": []

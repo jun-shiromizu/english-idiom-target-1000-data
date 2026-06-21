@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "verb-phrase",
       "example-sentence": "The study was unable to account for the effects of stressful events on emotion.",
-      "sentence-jp": "その調査はストレスのかかる出来事が感情に与える影響の説明にはならなかった。"
+      "sentence-jp": "その調査はストレスのかかる出来事が感情に与える影響の説明にはならなかった。",
+      "cloze": {
+        "maskedText": "The study was unable to ____ the effects of stressful events on emotion.",
+        "answerBase": "account for ~",
+        "answerSurface": "account for",
+        "choices": [
+          "account for",
+          "allow for",
+          "settle for",
+          "yearn for"
+        ]
+      }
     },
     {
       "idiom-jp": "(割合など)を占める",
@@ -19,7 +30,18 @@
         "make up ~"
       ],
       "example-sentence": "A research study has found that habits account for about 40 percent of our daily behaviors.",
-      "sentence-jp": "習慣が私たちの日々の行動の約40%を占めるということが調査研究で明らかになっている。"
+      "sentence-jp": "習慣が私たちの日々の行動の約40%を占めるということが調査研究で明らかになっている。",
+      "cloze": {
+        "maskedText": "A research study has found that habits ____ about 40 percent of our daily behaviors.",
+        "answerBase": "account for ~",
+        "answerSurface": "account for",
+        "choices": [
+          "account for",
+          "count for",
+          "settle for",
+          "yearn for"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "He proposed that the company introduce energy-saving equipment to the office.",
-      "sentence-jp": "彼は会社が省エネ設備を事務所に導入することを提案した。"
+      "sentence-jp": "彼は会社が省エネ設備を事務所に導入することを提案した。",
+      "cloze": {
+        "maskedText": "He ____ that the company introduce energy-saving equipment to the office.",
+        "answerBase": "propose",
+        "answerSurface": "proposed",
+        "choices": [
+          "proposed",
+          "wandered",
+          "painted",
+          "measured"
+        ]
+      }
     }
   ],
   "notes": []

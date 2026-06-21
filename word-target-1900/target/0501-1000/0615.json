@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "It can be difficult to breed wild animals in a zoo.",
-      "sentence-jp": "動物園で野生動物を繁殖させるのは難しいことがある。"
+      "sentence-jp": "動物園で野生動物を繁殖させるのは難しいことがある。",
+      "cloze": {
+        "maskedText": "It can be difficult to ____ wild animals in a zoo.",
+        "answerBase": "breed",
+        "answerSurface": "breed",
+        "choices": [
+          "breed",
+          "trace",
+          "advise",
+          "invest"
+        ]
+      }
     }
   ],
   "notes": []

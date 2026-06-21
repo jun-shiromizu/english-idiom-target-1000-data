@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The police are searching for the witnesses to the accident.",
-      "sentence-jp": "警察はその事故の目撃者を捜索している。"
+      "sentence-jp": "警察はその事故の目撃者を捜索している。",
+      "cloze": {
+        "maskedText": "The police are searching for the ____ to the accident.",
+        "answerBase": "witness",
+        "answerSurface": "witnesses",
+        "choices": [
+          "witnesses",
+          "therapies",
+          "tones",
+          "awards"
+        ]
+      }
     }
   ],
   "notes": []

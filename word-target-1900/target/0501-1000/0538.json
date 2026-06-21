@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She arranged a surprise party for her daughter.",
-      "sentence-jp": "彼女は娘のためのサプライズパーティーの段取りをつけた。"
+      "sentence-jp": "彼女は娘のためのサプライズパーティーの段取りをつけた。",
+      "cloze": {
+        "maskedText": "She ____ a surprise party for her daughter.",
+        "answerBase": "arrange",
+        "answerSurface": "arranged",
+        "choices": [
+          "arranged",
+          "criticized",
+          "absorbed",
+          "rushed"
+        ]
+      }
     }
   ],
   "notes": []

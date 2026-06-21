@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The doctor created a number of useful medical instruments.",
-      "sentence-jp": "その医師は数多くの有用な医療器具を開発した。"
+      "sentence-jp": "その医師は数多くの有用な医療器具を開発した。",
+      "cloze": {
+        "maskedText": "The doctor created a number of useful medical ____.",
+        "answerBase": "instrument",
+        "answerSurface": "instruments",
+        "choices": [
+          "instruments",
+          "inventors",
+          "villages",
+          "passengers"
+        ]
+      }
     }
   ],
   "notes": []

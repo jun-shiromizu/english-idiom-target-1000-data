@@ -12,7 +12,18 @@
         "make it"
       ],
       "example-sentence": "It must have taken a lot of organization and hard work to pull off such a big party.",
-      "sentence-jp": "そんな盛大なパーティーをやってのけるにはたいへんな組織力と労力が必要だったに違いない。"
+      "sentence-jp": "そんな盛大なパーティーをやってのけるにはたいへんな組織力と労力が必要だったに違いない。",
+      "cloze": {
+        "maskedText": "It must have taken a lot of organization and hard work to ____ such a big party.",
+        "answerBase": "pull off ~",
+        "answerSurface": "pull off",
+        "choices": [
+          "pull off",
+          "get down to",
+          "let down",
+          "take for granted"
+        ]
+      }
     }
   ],
   "notes": [

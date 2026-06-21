@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Don't upset yourself over such a tiny mistake.",
-      "sentence-jp": "そんな小さなミスで動揺しないでください。"
+      "sentence-jp": "そんな小さなミスで動揺しないでください。",
+      "cloze": {
+        "maskedText": "Don't ____ yourself over such a tiny mistake.",
+        "answerBase": "upset",
+        "answerSurface": "upset",
+        "choices": [
+          "upset",
+          "import",
+          "monitor",
+          "launch"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Shakespeare's plays are written mostly in verse.",
-      "sentence-jp": "シェークスピアの戯曲は大部分が韻文で書かれている。"
+      "sentence-jp": "シェークスピアの戯曲は大部分が韻文で書かれている。",
+      "cloze": {
+        "maskedText": "Shakespeare's plays are written mostly in ____.",
+        "answerBase": "verse",
+        "answerSurface": "verse",
+        "choices": [
+          "verse",
+          "garage",
+          "packet",
+          "machine"
+        ]
+      }
     }
   ],
   "notes": []

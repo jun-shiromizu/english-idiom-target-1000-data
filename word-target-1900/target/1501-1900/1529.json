@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The oil spill from the ship contaminated the sea.",
-      "sentence-jp": "船からの石油流出が海を汚染した。"
+      "sentence-jp": "船からの石油流出が海を汚染した。",
+      "cloze": {
+        "maskedText": "The oil spill from the ship ____ the sea.",
+        "answerBase": "contaminate",
+        "answerSurface": "contaminated",
+        "choices": [
+          "contaminated",
+          "covered",
+          "crossed",
+          "disturbed"
+        ]
+      }
     }
   ],
   "notes": []

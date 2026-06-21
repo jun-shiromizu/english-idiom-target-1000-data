@@ -12,7 +12,18 @@
         "nothing less than ~"
       ],
       "example-sentence": "The patient’s recovery was quick and even the doctors thought this was nothing short of a miracle.",
-      "sentence-jp": "その患者の回復は早く、医師たちでさえこれはまさしく奇跡だと思った。"
+      "sentence-jp": "その患者の回復は早く、医師たちでさえこれはまさしく奇跡だと思った。",
+      "cloze": {
+        "maskedText": "The patient’s recovery was quick and even the doctors thought this was ____ a miracle.",
+        "answerBase": "nothing short of ~",
+        "answerSurface": "nothing short of",
+        "choices": [
+          "nothing short of",
+          "out of hand",
+          "in store for",
+          "on the move"
+        ]
+      }
     }
   ],
   "notes": [

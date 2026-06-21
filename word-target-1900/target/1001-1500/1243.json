@@ -12,5 +12,11 @@
       "sentence-jp": "彼女はアイスクリームを食べたいという衝動に抵抗できなかった。"
     }
   ],
+  "cloze": {
+    "maskedText": "He fought the ____ to shout at the referee.",
+    "answerBase": "impulse",
+    "answerSurface": "impulse",
+    "choices": ["impulse", "appetite", "utility", "chamber"]
+  },
   "notes": []
 }

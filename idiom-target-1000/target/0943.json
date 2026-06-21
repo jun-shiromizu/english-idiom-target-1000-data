@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "She apparently came to the party not expecting such a surprise was in store for her.",
-      "sentence-jp": "どうやら彼女はそんなサプライズが自分のために用意してあるとは思わずにパーティーに来たようだった。"
+      "sentence-jp": "どうやら彼女はそんなサプライズが自分のために用意してあるとは思わずにパーティーに来たようだった。",
+      "cloze": {
+        "maskedText": "She apparently came to the party not expecting such a surprise was ____ her.",
+        "answerBase": "in store (for ~)",
+        "answerSurface": "in store for",
+        "choices": [
+          "in store for",
+          "on the move with",
+          "out of hand for",
+          "of his own"
+        ]
+      }
     }
   ],
   "notes": []

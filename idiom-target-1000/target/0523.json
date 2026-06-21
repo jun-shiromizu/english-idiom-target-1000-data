@@ -13,7 +13,18 @@
         "take a risk [risks]"
       ],
       "example-sentence": "I’ll take a chance and take the entrance exam to the university next year.",
-      "sentence-jp": "私は思い切って来年その大学の入学試験を受けてみるつもりだ。"
+      "sentence-jp": "私は思い切って来年その大学の入学試験を受けてみるつもりだ。",
+      "cloze": {
+        "maskedText": "I’ll ____ and take the entrance exam to the university next year.",
+        "answerBase": "take a chance / take chances",
+        "answerSurface": "take a chance",
+        "choices": [
+          "take a chance",
+          "take shape",
+          "shake hands",
+          "have a say"
+        ]
+      }
     }
   ],
   "notes": [

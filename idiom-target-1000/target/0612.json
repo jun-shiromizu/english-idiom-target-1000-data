@@ -12,7 +12,18 @@
         "in return for ~"
       ],
       "example-sentence": "As a kid, I earned a small amount of money in exchange for walking a neighbor’s dog.",
-      "sentence-jp": "子供のとき、私は隣人の犬を散歩させることと引き換えにわずかな額のお金を稼いだ。"
+      "sentence-jp": "子供のとき、私は隣人の犬を散歩させることと引き換えにわずかな額のお金を稼いだ。",
+      "cloze": {
+        "maskedText": "As a kid, I earned a small amount of money ____ walking a neighbor’s dog.",
+        "answerBase": "in exchange for ~",
+        "answerSurface": "in exchange for",
+        "choices": [
+          "in exchange for",
+          "for the sake of",
+          "for fear of",
+          "by means of"
+        ]
+      }
     }
   ],
   "notes": []

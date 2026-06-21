@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The doctor gave a placebo to the patient in the clinical trial.",
-      "sentence-jp": "医師は臨床試験においてその患者に偽薬を与えた。"
+      "sentence-jp": "医師は臨床試験においてその患者に偽薬を与えた。",
+      "cloze": {
+        "maskedText": "The doctor gave a ____ to the patient in the clinical trial.",
+        "answerBase": "placebo",
+        "answerSurface": "placebo",
+        "choices": [
+          "placebo",
+          "shield",
+          "surplus",
+          "algorithm"
+        ]
+      }
     }
   ],
   "notes": []

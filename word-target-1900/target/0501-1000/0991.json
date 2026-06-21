@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Gradually, I came to realize the awful truth about my boss.",
-      "sentence-jp": "徐々に，私は自分の上司に関するひどい事実がわかってきた。"
+      "sentence-jp": "徐々に，私は自分の上司に関するひどい事実がわかってきた。",
+      "cloze": {
+        "maskedText": "Gradually, I came to realize the ____ truth about my boss.",
+        "answerBase": "awful",
+        "answerSurface": "awful",
+        "choices": ["awful", "modest", "urgent", "spiritual"]
+      }
     }
   ],
   "notes": []

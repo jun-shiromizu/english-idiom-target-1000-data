@@ -12,5 +12,11 @@
       "sentence-jp": "かっとなって，彼は叫び声とののしりの言葉を発した。"
     }
   ],
+  "cloze": {
+    "maskedText": "He shouted a ____ when he dropped the box.",
+    "answerBase": "curse",
+    "answerSurface": "curse",
+    "choices": ["curse", "posture", "census", "fragment"]
+  },
   "notes": []
 }

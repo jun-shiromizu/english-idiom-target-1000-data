@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "My niece, who is a first grader, wants to make friends with everyone in her class.",
-      "sentence-jp": "私のめいは小学1年生だが、クラス全員と仲良くなりたがっている。"
+      "sentence-jp": "私のめいは小学1年生だが、クラス全員と仲良くなりたがっている。",
+      "cloze": {
+        "maskedText": "My niece, who is a first grader, wants to ____ everyone in her class.",
+        "answerBase": "make friends with ~",
+        "answerSurface": "make friends with",
+        "choices": [
+          "make friends with",
+          "make fun of",
+          "make much of",
+          "have access to"
+        ]
+      }
     }
   ],
   "notes": [

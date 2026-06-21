@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "As an experienced navigator, he steered the boat into the harbor.",
-      "sentence-jp": "経験豊かな航海士として，彼は船を操縦して入港させた。"
+      "sentence-jp": "経験豊かな航海士として，彼は船を操縦して入港させた。",
+      "cloze": {
+        "maskedText": "As an experienced navigator, he ____ the boat into the harbor.",
+        "answerBase": "steer",
+        "answerSurface": "steered",
+        "choices": [
+          "steered",
+          "dragged",
+          "loaded",
+          "balanced"
+        ]
+      }
     }
   ],
   "notes": []

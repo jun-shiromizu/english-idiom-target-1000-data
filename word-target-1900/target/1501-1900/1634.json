@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "He can recite famous lines from Shakespeare from memory.",
-      "sentence-jp": "彼は記憶を頼りにシェークスピアの有名なせりふを暗唱することができる。"
+      "sentence-jp": "彼は記憶を頼りにシェークスピアの有名なせりふを暗唱することができる。",
+      "cloze": {
+        "maskedText": "He can ____ famous lines from Shakespeare from memory.",
+        "answerBase": "recite",
+        "answerSurface": "recite",
+        "choices": [
+          "recite",
+          "translate",
+          "collect",
+          "publish"
+        ]
+      }
     }
   ],
   "notes": []

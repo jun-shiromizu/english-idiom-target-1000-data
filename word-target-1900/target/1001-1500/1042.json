@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The incorrect input of data led to the wrong conclusion.",
-      "sentence-jp": "不正確なデータの入力が誤った結論につながった。"
+      "sentence-jp": "不正確なデータの入力が誤った結論につながった。",
+      "cloze": {
+        "maskedText": "The incorrect ____ of data led to the wrong conclusion.",
+        "answerBase": "input",
+        "answerSurface": "input",
+        "choices": ["input", "merit", "shade", "jury"]
+      }
     }
   ],
   "notes": []

@@ -13,7 +13,18 @@
         "in the making"
       ],
       "example-sentence": "Another book by the same author is in the works for publication soon.",
-      "sentence-jp": "同じ作家による次の本が近日出版の準備中だ。"
+      "sentence-jp": "同じ作家による次の本が近日出版の準備中だ。",
+      "cloze": {
+        "maskedText": "Another book by the same author is ____ for publication soon.",
+        "answerBase": "in the works",
+        "answerSurface": "in the works",
+        "choices": [
+          "in the works",
+          "in earnest",
+          "on the move",
+          "on the lean side"
+        ]
+      }
     }
   ],
   "notes": []

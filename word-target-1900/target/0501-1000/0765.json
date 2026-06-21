@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The stimulus from the body travels through the nervous tissue to the brain.",
-      "sentence-jp": "身体からの刺激は神経組織を通って脳に行く。"
+      "sentence-jp": "身体からの刺激は神経組織を通って脳に行く。",
+      "cloze": {
+        "maskedText": "The stimulus from the body travels through the nervous ____ to the brain.",
+        "answerBase": "tissue",
+        "answerSurface": "tissue",
+        "choices": [
+          "tissue",
+          "liquid",
+          "prejudice",
+          "justice"
+        ]
+      }
     }
   ],
   "notes": []

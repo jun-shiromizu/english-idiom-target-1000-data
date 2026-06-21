@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The federal government provides aid to other countries in need.",
-      "sentence-jp": "連邦政府は困窮している他の国々に援助を提供している。"
+      "sentence-jp": "連邦政府は困窮している他の国々に援助を提供している。",
+      "cloze": {
+        "maskedText": "The ____ government provides aid to other countries in need.",
+        "answerBase": "federal",
+        "answerSurface": "federal",
+        "choices": [
+          "federal",
+          "concrete",
+          "subtle",
+          "plain"
+        ]
+      }
     }
   ],
   "notes": []

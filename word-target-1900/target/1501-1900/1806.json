@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "The gang assaulted him with clubs.",
-      "sentence-jp": "ギャングはこん棒で彼に暴行した。"
+      "sentence-jp": "ギャングはこん棒で彼に暴行した。",
+      "cloze": {
+        "maskedText": "The gang ____ him with clubs.",
+        "answerBase": "assault",
+        "answerSurface": "assaulted",
+        "choices": [
+          "assaulted",
+          "followed",
+          "invited",
+          "excused"
+        ]
+      }
     }
   ],
   "notes": []

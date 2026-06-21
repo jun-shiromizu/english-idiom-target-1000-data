@@ -10,7 +10,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "Joking aside, I really believe she will become in the future a leading scholar in this field.",
-      "sentence-jp": "冗談はさておき、彼女は将来この分野において一流の学者になると私は確信している。"
+      "sentence-jp": "冗談はさておき、彼女は将来この分野において一流の学者になると私は確信している。",
+      "cloze": {
+        "maskedText": "____, I really believe she will become in the future a leading scholar in this field.",
+        "answerBase": "joking aside / kidding aside",
+        "answerSurface": "Joking aside",
+        "choices": [
+          "Joking aside",
+          "Speaking of movies",
+          "Judging from the short speech",
+          "Needless to say"
+        ]
+      }
     }
   ],
   "notes": [

@@ -12,5 +12,11 @@
       "sentence-jp": "その会社の従業員のほとんどは社長に忠実である。"
     }
   ],
+  "cloze": {
+    "maskedText": "The dog remained ____ to its owner.",
+    "answerBase": "loyal",
+    "answerSurface": "loyal",
+    "choices": ["loyal", "fierce", "neat", "dim"]
+  },
   "notes": []
 }

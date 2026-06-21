@@ -15,7 +15,18 @@
         "undertake"
       ],
       "example-sentence": "To deal with the shrinking workforce, Japan has embarked on what is called a robot revolution.",
-      "sentence-jp": "労働人口の減少に対処するために、日本はいわゆるロボット革命に乗り出している。"
+      "sentence-jp": "労働人口の減少に対処するために、日本はいわゆるロボット革命に乗り出している。",
+      "cloze": {
+        "maskedText": "To deal with the shrinking workforce, Japan has ____ what is called a robot revolution.",
+        "answerBase": "embark on ~ / embark upon ~",
+        "answerSurface": "embarked on",
+        "choices": [
+          "embarked on",
+          "indulged in",
+          "dwelled on",
+          "refrained from"
+        ]
+      }
     }
   ],
   "notes": [

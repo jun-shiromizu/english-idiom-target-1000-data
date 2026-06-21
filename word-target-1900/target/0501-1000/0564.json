@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Today, I am in the mood for an Italian meal.",
-      "sentence-jp": "今日はイタリア料理の気分だ。"
+      "sentence-jp": "今日はイタリア料理の気分だ。",
+      "cloze": {
+        "maskedText": "Today, I am in the ____ for an Italian meal.",
+        "answerBase": "mood",
+        "answerSurface": "mood",
+        "choices": [
+          "mood",
+          "myth",
+          "fee",
+          "loan"
+        ]
+      }
     }
   ],
   "notes": []

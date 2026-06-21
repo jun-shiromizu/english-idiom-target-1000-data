@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "My mother's birthday sometimes coincides with Mother's Day.",
-      "sentence-jp": "私の母の誕生日はときどき母の日と同じ日になる。"
+      "sentence-jp": "私の母の誕生日はときどき母の日と同じ日になる。",
+      "cloze": {
+        "maskedText": "My mother's birthday sometimes ____ with Mother's Day.",
+        "answerBase": "coincide",
+        "answerSurface": "coincides",
+        "choices": [
+          "coincides",
+          "compares",
+          "connects",
+          "travels"
+        ]
+      }
     }
   ],
   "notes": []

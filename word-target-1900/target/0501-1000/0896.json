@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Some people believe that global warming is inevitable.",
-      "sentence-jp": "地球温暖化は避けられないと思っている人もいる。"
+      "sentence-jp": "地球温暖化は避けられないと思っている人もいる。",
+      "cloze": {
+        "maskedText": "Some people believe that global warming is ____.",
+        "answerBase": "inevitable",
+        "answerSurface": "inevitable",
+        "choices": ["inevitable", "modest", "precious", "casual"]
+      }
     }
   ],
   "notes": []

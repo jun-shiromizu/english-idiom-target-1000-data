@@ -13,7 +13,18 @@
         "drive ~ crazy [nuts]"
       ],
       "example-sentence": "The noise from the nearby construction site is getting on my nerves, and I can’t concentrate.",
-      "sentence-jp": "近くの建設現場からの騒音が私の神経にさわり、集中できない。"
+      "sentence-jp": "近くの建設現場からの騒音が私の神経にさわり、集中できない。",
+      "cloze": {
+        "maskedText": "The noise from the nearby construction site is ____ , and I can’t concentrate.",
+        "answerBase": "get on ~’s nerves",
+        "answerSurface": "getting on my nerves",
+        "choices": [
+          "getting on my nerves",
+          "getting the better of me",
+          "getting even with me",
+          "keeping me company"
+        ]
+      }
     }
   ],
   "notes": []

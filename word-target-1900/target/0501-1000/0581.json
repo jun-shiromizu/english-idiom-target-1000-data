@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "The IT industry has achieved dramatic growth over the past decade.",
-      "sentence-jp": "IT産業は過去10年間に劇的な発展を遂げた。"
+      "sentence-jp": "IT産業は過去10年間に劇的な発展を遂げた。",
+      "cloze": {
+        "maskedText": "The IT industry has achieved ____ growth over the past decade.",
+        "answerBase": "dramatic",
+        "answerSurface": "dramatic",
+        "choices": [
+          "dramatic",
+          "minor",
+          "stable",
+          "flexible"
+        ]
+      }
     }
   ],
   "notes": []

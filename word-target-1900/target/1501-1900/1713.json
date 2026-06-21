@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "If the volcano erupts, it will cause enormous damage.",
-      "sentence-jp": "その火山が噴火すると，それは甚大な被害を引き起こすことになる。"
+      "sentence-jp": "その火山が噴火すると，それは甚大な被害を引き起こすことになる。",
+      "cloze": {
+        "maskedText": "If the volcano ____, it will cause enormous damage.",
+        "answerBase": "erupt",
+        "answerSurface": "erupts",
+        "choices": [
+          "erupts",
+          "settles",
+          "freezes",
+          "rests"
+        ]
+      }
     }
   ],
   "notes": []

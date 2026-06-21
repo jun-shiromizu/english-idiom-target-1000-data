@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "To download the file, you need to click on the filename on the screen.",
-      "sentence-jp": "ファイルをダウンロードするには，画面上のファイル名をクリックする必要がある。"
+      "sentence-jp": "ファイルをダウンロードするには，画面上のファイル名をクリックする必要がある。",
+      "cloze": {
+        "maskedText": "To download the file, you need to ____ on the filename on the screen.",
+        "answerBase": "click",
+        "answerSurface": "click",
+        "choices": ["click", "spin", "yawn", "blink"]
+      }
     }
   ],
   "notes": []

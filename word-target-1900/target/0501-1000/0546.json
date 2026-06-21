@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "I am 500, 000 yen in debt to my parents.",
-      "sentence-jp": "私は両親に50万円の借金がある。"
+      "sentence-jp": "私は両親に50万円の借金がある。",
+      "cloze": {
+        "maskedText": "I am 500, 000 yen in ____ to my parents.",
+        "answerBase": "debt",
+        "answerSurface": "debt",
+        "choices": [
+          "debt",
+          "route",
+          "alarm",
+          "budget"
+        ]
+      }
     }
   ],
   "notes": []

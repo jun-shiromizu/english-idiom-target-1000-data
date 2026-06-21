@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "The rough skin on his face is caused by many years of working outdoors.",
-      "sentence-jp": "彼の顔の荒れた肌は長年の屋外での仕事が原因である。"
+      "sentence-jp": "彼の顔の荒れた肌は長年の屋外での仕事が原因である。",
+      "cloze": {
+        "maskedText": "The ____ skin on his face is caused by many years of working outdoors.",
+        "answerBase": "rough",
+        "answerSurface": "rough",
+        "choices": ["rough", "gentle", "shallow", "honest"]
+      }
     }
   ],
   "notes": []

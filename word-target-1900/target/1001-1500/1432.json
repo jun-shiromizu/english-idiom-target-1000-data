@@ -12,5 +12,11 @@
       "sentence-jp": "その新しい理論は何が健康をむしばむかの説明となる。"
     }
   ],
+  "cloze": {
+    "maskedText": "Constant stress can ____ your health.",
+    "answerBase": "undermine",
+    "answerSurface": "undermine",
+    "choices": ["undermine", "weave", "soar", "cram"]
+  },
   "notes": []
 }

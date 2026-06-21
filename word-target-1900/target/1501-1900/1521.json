@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The surgeon successfully transplanted a heart into the child.",
-      "sentence-jp": "外科医は首尾よくその子供に心臓を移植した。"
+      "sentence-jp": "外科医は首尾よくその子供に心臓を移植した。",
+      "cloze": {
+        "maskedText": "The surgeon successfully ____ a heart into the child.",
+        "answerBase": "transplant",
+        "answerSurface": "transplanted",
+        "choices": [
+          "transplanted",
+          "restored",
+          "inserted",
+          "replaced"
+        ]
+      }
     }
   ],
   "notes": []

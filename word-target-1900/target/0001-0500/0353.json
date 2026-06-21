@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The residents of the apartment often complain about noise in the building.",
-      "sentence-jp": "そのアパートの居住者たちは建物内の騒音についてよく不満を言う。"
+      "sentence-jp": "そのアパートの居住者たちは建物内の騒音についてよく不満を言う。",
+      "cloze": {
+        "maskedText": "The ____ of the apartment often complain about noise in the building.",
+        "answerBase": "resident",
+        "answerSurface": "residents",
+        "choices": [
+          "residents",
+          "factories",
+          "garages",
+          "packages"
+        ]
+      }
     }
   ],
   "notes": []

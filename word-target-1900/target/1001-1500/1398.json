@@ -12,5 +12,11 @@
       "sentence-jp": "投資は200万ドルの総利益を生んだ。"
     }
   ],
+  "cloze": {
+    "maskedText": "The company reported a ____ profit of $2 million.",
+    "answerBase": "gross",
+    "answerSurface": "gross",
+    "choices": ["gross", "vocal", "fragile", "ambiguous"]
+  },
   "notes": []
 }

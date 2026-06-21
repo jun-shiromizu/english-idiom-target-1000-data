@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She was overwhelmed by the beautiful view of the Grand Canyon.",
-      "sentence-jp": "彼女はグランドキャニオンの美しい眺めに圧倒された。"
+      "sentence-jp": "彼女はグランドキャニオンの美しい眺めに圧倒された。",
+      "cloze": {
+        "maskedText": "She was ____ by the beautiful view of the Grand Canyon.",
+        "answerBase": "overwhelm",
+        "answerSurface": "overwhelmed",
+        "choices": ["overwhelmed", "repaired", "amused", "selected"]
+      }
     }
   ],
   "notes": []

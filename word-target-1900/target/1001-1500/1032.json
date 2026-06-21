@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Her violin performance thrilled the audience.",
-      "sentence-jp": "彼女のバイオリン演奏は聴衆をぞくぞくさせた。"
+      "sentence-jp": "彼女のバイオリン演奏は聴衆をぞくぞくさせた。",
+      "cloze": {
+        "maskedText": "Her violin performance ____ the audience.",
+        "answerBase": "thrill",
+        "answerSurface": "thrilled",
+        "choices": ["thrilled", "deprived", "governed", "persisted"]
+      }
     }
   ],
   "notes": []

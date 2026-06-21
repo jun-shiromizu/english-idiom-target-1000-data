@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "The bubble economy in Japan burst in the 1990s.",
-      "sentence-jp": "日本のバブル経済は1990年代に崩壊した。"
+      "sentence-jp": "日本のバブル経済は1990年代に崩壊した。",
+      "cloze": {
+        "maskedText": "The bubble economy in Japan ____ in the 1990s.",
+        "answerBase": "burst",
+        "answerSurface": "burst",
+        "choices": ["burst", "healed", "forbade", "installed"]
+      }
     }
   ],
   "notes": []

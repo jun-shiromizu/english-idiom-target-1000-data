@@ -12,5 +12,11 @@
       "sentence-jp": "科学者はしばしば研究の着想を得るのに直観に頼る。"
     }
   ],
+  "cloze": {
+    "maskedText": "Her ____ told her not to trust the offer.",
+    "answerBase": "intuition",
+    "answerSurface": "intuition",
+    "choices": ["intuition", "consent", "drill", "format"]
+  },
   "notes": []
 }

@@ -10,7 +10,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "This proposal is almost identical to the one our group made a couple of months ago.",
-      "sentence-jp": "この提案は数か月前に私たちのグループがしたものとほとんど同じものだ。"
+      "sentence-jp": "この提案は数か月前に私たちのグループがしたものとほとんど同じものだ。",
+      "cloze": {
+        "maskedText": "This proposal is almost ____ the one our group made a couple of months ago.",
+        "answerBase": "be identical to ~ / be identical with ~",
+        "answerSurface": "identical to",
+        "choices": [
+          "identical to",
+          "involved in",
+          "busy with",
+          "content with"
+        ]
+      }
     }
   ],
   "notes": []

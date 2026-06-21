@@ -12,5 +12,11 @@
       "sentence-jp": "その薬は眠気を引き起こすこともあるので，運転する前には飲まないように。"
     }
   ],
+  "cloze": {
+    "maskedText": "Too much sugar can ____ headaches.",
+    "answerBase": "induce",
+    "answerSurface": "induce",
+    "choices": ["induce", "bloom", "navigate", "beg"]
+  },
   "notes": []
 }

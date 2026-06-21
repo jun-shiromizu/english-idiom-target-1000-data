@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Some of the population is likely to abandon the polluted city.",
-      "sentence-jp": "住民の一部は汚染された都市を見捨てる可能性がある。"
+      "sentence-jp": "住民の一部は汚染された都市を見捨てる可能性がある。",
+      "cloze": {
+        "maskedText": "Some of the population is likely to ____ the polluted city.",
+        "answerBase": "abandon",
+        "answerSurface": "abandon",
+        "choices": [
+          "abandon",
+          "react",
+          "disagree",
+          "stare"
+        ]
+      }
     }
   ],
   "notes": []

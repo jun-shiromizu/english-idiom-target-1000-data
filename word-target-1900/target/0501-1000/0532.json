@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Today, many restaurants ban smoking inside.",
-      "sentence-jp": "今日，多くのレストランが店内での喫煙を禁止している。"
+      "sentence-jp": "今日，多くのレストランが店内での喫煙を禁止している。",
+      "cloze": {
+        "maskedText": "Today, many restaurants ____ smoking inside.",
+        "answerBase": "ban",
+        "answerSurface": "ban",
+        "choices": [
+          "ban",
+          "cover",
+          "visit",
+          "repair"
+        ]
+      }
     }
   ],
   "notes": []

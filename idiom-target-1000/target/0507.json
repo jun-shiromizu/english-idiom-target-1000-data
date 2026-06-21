@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "The girl accused her old friend of spreading rumors about her.",
-      "sentence-jp": "その少女は、自分に関するうわさを広めたことで旧友を非難した。"
+      "sentence-jp": "その少女は、自分に関するうわさを広めたことで旧友を非難した。",
+      "cloze": {
+        "maskedText": "The girl ____ her old friend of spreading rumors about her.",
+        "answerBase": "accuse A of B",
+        "answerSurface": "accused",
+        "choices": [
+          "accused",
+          "suspected",
+          "assured",
+          "forgave"
+        ]
+      }
     }
   ],
   "notes": []

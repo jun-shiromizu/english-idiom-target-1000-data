@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "You don't always have to follow your boss's instructions.",
-      "sentence-jp": "常に上司の指示に従う必要はない。"
+      "sentence-jp": "常に上司の指示に従う必要はない。",
+      "cloze": {
+        "maskedText": "You don't always have to follow your boss's ____.",
+        "answerBase": "instruction",
+        "answerSurface": "instructions",
+        "choices": [
+          "instructions",
+          "curtains",
+          "diamonds",
+          "batteries"
+        ]
+      }
     }
   ],
   "notes": []

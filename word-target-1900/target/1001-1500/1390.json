@@ -12,5 +12,11 @@
       "sentence-jp": "ドアの取っ手を触ったときに感じるショックは放電した静電気である。"
     }
   ],
+  "cloze": {
+    "maskedText": "The website uses a ____ page with no animation.",
+    "answerBase": "static",
+    "answerSurface": "static",
+    "choices": ["static", "hostile", "probable", "worthwhile"]
+  },
   "notes": []
 }

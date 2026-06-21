@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "A juicer is used to extract juice from fruit and vegetables.",
-      "sentence-jp": "ジューサーは果物や野菜から汁を搾り出すのに使われる。"
+      "sentence-jp": "ジューサーは果物や野菜から汁を搾り出すのに使われる。",
+      "cloze": {
+        "maskedText": "A juicer is used to ____ juice from fruit and vegetables.",
+        "answerBase": "extract",
+        "answerSurface": "extract",
+        "choices": ["extract", "inherit", "rear", "vanish"]
+      }
     }
   ],
   "notes": []

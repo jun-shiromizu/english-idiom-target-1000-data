@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "As an undergraduate, he studied English grammar.",
-      "sentence-jp": "学部学生のとき彼は英文法を研究した。"
+      "sentence-jp": "学部学生のとき彼は英文法を研究した。",
+      "cloze": {
+        "maskedText": "As an ____, he studied English grammar.",
+        "answerBase": "undergraduate",
+        "answerSurface": "undergraduate",
+        "choices": ["undergraduate", "recession", "sculpture", "tablet"]
+      }
     }
   ],
   "notes": []

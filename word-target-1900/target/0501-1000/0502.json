@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "She translated an English essay into French with ease.",
-      "sentence-jp": "彼女は英語のエッセイを容易にフランス語に翻訳した。"
+      "sentence-jp": "彼女は英語のエッセイを容易にフランス語に翻訳した。",
+      "cloze": {
+        "maskedText": "She ____ an English essay into French with ease.",
+        "answerBase": "translate",
+        "answerSurface": "translated",
+        "choices": [
+          "translated",
+          "damaged",
+          "collected",
+          "folded"
+        ]
+      }
     }
   ],
   "notes": []

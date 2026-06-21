@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Busy with her work, the lady at the desk didn’t even bother to look up.",
-      "sentence-jp": "机に向かっている女性は、仕事が忙しくてわざわざ顔を上げることもしなかった。"
+      "sentence-jp": "机に向かっている女性は、仕事が忙しくてわざわざ顔を上げることもしなかった。",
+      "cloze": {
+        "maskedText": "Busy with her work, the lady at the desk didn’t even ____ look up.",
+        "answerBase": "bother to do",
+        "answerSurface": "bother to",
+        "choices": [
+          "bother to",
+          "manage to",
+          "afford to",
+          "remain to"
+        ]
+      }
     }
   ],
   "notes": [

@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The committee is composed of six experts in different fields.",
-      "sentence-jp": "委員会は異なる分野の6人の専門家から成る。"
+      "sentence-jp": "委員会は異なる分野の6人の専門家から成る。",
+      "cloze": {
+        "maskedText": "The committee is ____ of six experts in different fields.",
+        "answerBase": "compose",
+        "answerSurface": "composed",
+        "choices": ["composed", "guilty", "capable", "aware"]
+      }
     }
   ],
   "notes": []

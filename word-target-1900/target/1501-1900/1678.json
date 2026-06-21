@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Public sentiment against terrorism has increased in the country.",
-      "sentence-jp": "反テロリズムの国民感情がその国で高まった。"
+      "sentence-jp": "反テロリズムの国民感情がその国で高まった。",
+      "cloze": {
+        "maskedText": "Public ____ against terrorism has increased in the country.",
+        "answerBase": "sentiment",
+        "answerSurface": "sentiment",
+        "choices": [
+          "sentiment",
+          "currency",
+          "machinery",
+          "recovery"
+        ]
+      }
     }
   ],
   "notes": []

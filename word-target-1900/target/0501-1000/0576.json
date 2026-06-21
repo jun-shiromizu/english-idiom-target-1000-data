@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The painting of Christ in the museum is a national treasure.",
-      "sentence-jp": "その美術館にあるキリストの絵画は国宝である。"
+      "sentence-jp": "その美術館にあるキリストの絵画は国宝である。",
+      "cloze": {
+        "maskedText": "The painting of Christ in the museum is a national ____.",
+        "answerBase": "treasure",
+        "answerSurface": "treasure",
+        "choices": [
+          "treasure",
+          "client",
+          "grain",
+          "budget"
+        ]
+      }
     }
   ],
   "notes": []

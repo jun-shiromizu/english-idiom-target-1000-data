@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The students integrated the ideas from their teacher with their own.",
-      "sentence-jp": "生徒たちは教師からのアイディアと自分たちのアイディアを統合した。"
+      "sentence-jp": "生徒たちは教師からのアイディアと自分たちのアイディアを統合した。",
+      "cloze": {
+        "maskedText": "The students ____ the ideas from their teacher with their own.",
+        "answerBase": "integrate",
+        "answerSurface": "integrated",
+        "choices": ["integrated", "spilled", "drained", "drifted"]
+      }
     }
   ],
   "notes": []

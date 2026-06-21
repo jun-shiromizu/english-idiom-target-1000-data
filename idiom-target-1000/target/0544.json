@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I didn’t have any trouble finding my way to the hotel.",
-      "sentence-jp": "私はホテルへたどり着くのにまったく苦労しなかった。"
+      "sentence-jp": "私はホテルへたどり着くのにまったく苦労しなかった。",
+      "cloze": {
+        "maskedText": "I didn’t have any trouble ____ the hotel.",
+        "answerBase": "find one's way to ~",
+        "answerSurface": "finding my way to",
+        "choices": [
+          "finding my way to",
+          "keeping an eye on",
+          "catching sight of",
+          "putting emphasis on"
+        ]
+      }
     }
   ],
   "notes": [

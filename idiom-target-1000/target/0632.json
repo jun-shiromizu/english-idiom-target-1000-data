@@ -9,14 +9,36 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "I’m surprised to see Yuri at this party; she’s so shy she barely even speaks at work.",
-      "sentence-jp": "私はこのパーティーでユリに会って驚いている。彼女はとても内気で、職場ではほとんどしゃべらないほどだから。"
+      "sentence-jp": "私はこのパーティーでユリに会って驚いている。彼女はとても内気で、職場ではほとんどしゃべらないほどだから。",
+      "cloze": {
+        "maskedText": "I’m surprised to see Yuri at this party; she’s so shy she barely even speaks ____.",
+        "answerBase": "at work",
+        "answerSurface": "at work",
+        "choices": [
+          "at work",
+          "at risk",
+          "at heart",
+          "at intervals"
+        ]
+      }
     },
     {
       "idiom-jp": "作用して；運転[作動]中で[の]",
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I’m sure the same mechanism is also at work in this situation.",
-      "sentence-jp": "私はこの状況でも同じメカニズムが作用していると確信している。"
+      "sentence-jp": "私はこの状況でも同じメカニズムが作用していると確信している。",
+      "cloze": {
+        "maskedText": "I’m sure the same mechanism is also ____ in this situation.",
+        "answerBase": "at work",
+        "answerSurface": "at work",
+        "choices": [
+          "at work",
+          "at risk",
+          "at heart",
+          "on average"
+        ]
+      }
     }
   ],
   "notes": []

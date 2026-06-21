@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "They made a great sacrifice when they came to America.",
-      "sentence-jp": "彼らはアメリカに来た際に多大な犠牲を払った。"
+      "sentence-jp": "彼らはアメリカに来た際に多大な犠牲を払った。",
+      "cloze": {
+        "maskedText": "They made a great ____ when they came to America.",
+        "answerBase": "sacrifice",
+        "answerSurface": "sacrifice",
+        "choices": [
+          "sacrifice",
+          "session",
+          "agent",
+          "globe"
+        ]
+      }
     }
   ],
   "notes": []

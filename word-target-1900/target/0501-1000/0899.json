@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The child was regarded as mature for his age.",
-      "sentence-jp": "その子供は年齢のわりに成熟していると見なされた。"
+      "sentence-jp": "その子供は年齢のわりに成熟していると見なされた。",
+      "cloze": {
+        "maskedText": "The child was regarded as ____ for his age.",
+        "answerBase": "mature",
+        "answerSurface": "mature",
+        "choices": ["mature", "shy", "rough", "empty"]
+      }
     }
   ],
   "notes": []

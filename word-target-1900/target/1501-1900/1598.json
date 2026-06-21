@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "He always gives us explicit instructions.",
-      "sentence-jp": "彼はいつも私たちに明白な指示をくれる。"
+      "sentence-jp": "彼はいつも私たちに明白な指示をくれる。",
+      "cloze": {
+        "maskedText": "He always gives us ____ instructions.",
+        "answerBase": "explicit",
+        "answerSurface": "explicit",
+        "choices": [
+          "explicit",
+          "crude",
+          "pessimistic",
+          "feminine"
+        ]
+      }
     }
   ],
   "notes": []

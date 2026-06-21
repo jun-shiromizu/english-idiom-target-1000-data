@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "When you read, your eyes move back and forth across a sentence.",
-      "sentence-jp": "本を読むとき，目はセンテンスの上を前後に動く。"
+      "sentence-jp": "本を読むとき，目はセンテンスの上を前後に動く。",
+      "cloze": {
+        "maskedText": "When you read, your eyes move back and ____ across a sentence.",
+        "answerBase": "forth",
+        "answerSurface": "forth",
+        "choices": [
+          "forth",
+          "mere",
+          "evil",
+          "raw"
+        ]
+      }
     }
   ],
   "notes": []

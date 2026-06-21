@@ -10,7 +10,18 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "Erika says she agrees to the plan we’re discussing only to a certain extent.",
-      "sentence-jp": "エリカは私たちが議論している計画にはある程度までしか同意しないと言っている。"
+      "sentence-jp": "エリカは私たちが議論している計画にはある程度までしか同意しないと言っている。",
+      "cloze": {
+        "maskedText": "Erika says she agrees to the plan we’re discussing only ____.",
+        "answerBase": "to ~ extent / to ~ degree",
+        "answerSurface": "to a certain extent",
+        "choices": [
+          "to a certain extent",
+          "to my surprise",
+          "to the point",
+          "to your advantage"
+        ]
+      }
     }
   ],
   "notes": [

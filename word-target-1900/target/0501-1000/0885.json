@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Arctic ice may disappear in the future due to global warming.",
-      "sentence-jp": "北極の氷は地球温暖化のせいで将来消滅するかもしれない。"
+      "sentence-jp": "北極の氷は地球温暖化のせいで将来消滅するかもしれない。",
+      "cloze": {
+        "maskedText": "____ ice may disappear in the future due to global warming.",
+        "answerBase": "Arctic",
+        "answerSurface": "Arctic",
+        "choices": ["Arctic", "Annual", "Legal", "Urban"]
+      }
     }
   ],
   "notes": []

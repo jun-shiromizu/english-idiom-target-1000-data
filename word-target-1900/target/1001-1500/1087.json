@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The student gave an oral report on the subject.",
-      "sentence-jp": "その生徒はその課題について口頭での報告をした。"
+      "sentence-jp": "その生徒はその課題について口頭での報告をした。",
+      "cloze": {
+        "maskedText": "The student gave an ____ report on the subject.",
+        "answerBase": "oral",
+        "answerSurface": "oral",
+        "choices": ["oral", "innocent", "inferior", "medieval"]
+      }
     }
   ],
   "notes": []

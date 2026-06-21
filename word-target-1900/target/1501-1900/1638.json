@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The country must pledge to work with other countries for world peace.",
-      "sentence-jp": "その国は世界平和のために他の国々と協力することを約束しなければならない。"
+      "sentence-jp": "その国は世界平和のために他の国々と協力することを約束しなければならない。",
+      "cloze": {
+        "maskedText": "The country must ____ to work with other countries for world peace.",
+        "answerBase": "pledge",
+        "answerSurface": "pledge",
+        "choices": [
+          "pledge",
+          "pretend",
+          "hesitate",
+          "struggle"
+        ]
+      }
     }
   ],
   "notes": []

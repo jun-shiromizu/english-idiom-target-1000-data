@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Breathe deeply to relax.",
-      "sentence-jp": "深呼吸してリラックスしなさい。"
+      "sentence-jp": "深呼吸してリラックスしなさい。",
+      "cloze": {
+        "maskedText": "____ deeply to relax.",
+        "answerBase": "breathe",
+        "answerSurface": "Breathe",
+        "choices": [
+          "Breathe",
+          "Borrow",
+          "Deliver",
+          "Repair"
+        ]
+      }
     }
   ],
   "notes": []

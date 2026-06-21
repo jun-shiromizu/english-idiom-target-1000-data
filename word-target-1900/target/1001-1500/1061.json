@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "People say that her nationality is Japanese.",
-      "sentence-jp": "彼女の国籍は日本だと言われている。"
+      "sentence-jp": "彼女の国籍は日本だと言われている。",
+      "cloze": {
+        "maskedText": "People say that her ____ is Japanese.",
+        "answerBase": "nationality",
+        "answerSurface": "nationality",
+        "choices": ["nationality", "narrative", "fingerprint", "wilderness"]
+      }
     }
   ],
   "notes": []

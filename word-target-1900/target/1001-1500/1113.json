@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Scared by the noise, she gripped her father's arm tightly.",
-      "sentence-jp": "物音におびえて，彼女は父親の腕をしっかりと握った。"
+      "sentence-jp": "物音におびえて，彼女は父親の腕をしっかりと握った。",
+      "cloze": {
+        "maskedText": "Scared by the noise, she ____ her father's arm tightly.",
+        "answerBase": "grip",
+        "answerSurface": "gripped",
+        "choices": ["gripped", "dismissed", "swallowed", "sealed"]
+      }
     }
   ],
   "notes": []

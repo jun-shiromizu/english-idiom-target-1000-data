@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Japanese honeybees exhibit a unique defensive behavior.",
-      "sentence-jp": "日本ミツバチは独特の防御的行動を示す。"
+      "sentence-jp": "日本ミツバチは独特の防御的行動を示す。",
+      "cloze": {
+        "maskedText": "Japanese honeybees ____ a unique defensive behavior.",
+        "answerBase": "exhibit",
+        "answerSurface": "exhibit",
+        "choices": [
+          "exhibit",
+          "assess",
+          "approve",
+          "occupy"
+        ]
+      }
     }
   ],
   "notes": []

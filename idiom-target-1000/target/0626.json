@@ -9,7 +9,18 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "The large family had just one table, so they had to eat in turn.",
-      "sentence-jp": "その大家族にはテーブルが1つしかなく、順番に食事をしなければならなかった。"
+      "sentence-jp": "その大家族にはテーブルが1つしかなく、順番に食事をしなければならなかった。",
+      "cloze": {
+        "maskedText": "The large family had just one table, so they had to eat ____.",
+        "answerBase": "in turn",
+        "answerSurface": "in turn",
+        "choices": [
+          "in turn",
+          "in place",
+          "in practice",
+          "in the meantime"
+        ]
+      }
     }
   ],
   "notes": [

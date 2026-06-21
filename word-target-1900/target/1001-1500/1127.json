@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The salesperson misled the customer into buying an expensive product.",
-      "sentence-jp": "その販売員は客を欺いて高価な製品を買わせた。"
+      "sentence-jp": "その販売員は客を欺いて高価な製品を買わせた。",
+      "cloze": {
+        "maskedText": "The salesperson ____ the customer into buying an expensive product.",
+        "answerBase": "mislead",
+        "answerSurface": "misled",
+        "choices": ["misled", "compounded", "decorated", "postponed"]
+      }
     }
   ],
   "notes": []

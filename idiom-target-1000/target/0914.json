@@ -12,7 +12,18 @@
         "imitate"
       ],
       "example-sentence": "John’s company has introduced a new product, but rival firms are expected to follow suit soon.",
-      "sentence-jp": "ジョンの会社は新製品を発表したが、競合他社がすぐにまねをするだろう。"
+      "sentence-jp": "ジョンの会社は新製品を発表したが、競合他社がすぐにまねをするだろう。",
+      "cloze": {
+        "maskedText": "John’s company has introduced a new product, but rival firms are expected to ____ soon.",
+        "answerBase": "follow suit",
+        "answerSurface": "follow suit",
+        "choices": [
+          "follow suit",
+          "stand to reason",
+          "get even",
+          "have an eye"
+        ]
+      }
     }
   ],
   "notes": []

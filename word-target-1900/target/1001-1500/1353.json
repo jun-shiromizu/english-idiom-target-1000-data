@@ -12,5 +12,11 @@
       "sentence-jp": "私は昨夜恐ろしい悪夢を見た。"
     }
   ],
+  "cloze": {
+    "maskedText": "Missing the last train was a complete ____.",
+    "answerBase": "nightmare",
+    "answerSurface": "nightmare",
+    "choices": ["nightmare", "legislation", "troop", "irrigation"]
+  },
   "notes": []
 }

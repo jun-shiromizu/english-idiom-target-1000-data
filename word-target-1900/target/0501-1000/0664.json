@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "We have destroyed the natural habitat of animals for human development.",
-      "sentence-jp": "私たちは人間による開発のために動物の自然生息地を破壊してきた。"
+      "sentence-jp": "私たちは人間による開発のために動物の自然生息地を破壊してきた。",
+      "cloze": {
+        "maskedText": "We have destroyed the natural ____ of animals for human development.",
+        "answerBase": "habitat",
+        "answerSurface": "habitat",
+        "choices": [
+          "habitat",
+          "territory",
+          "trick",
+          "shelter"
+        ]
+      }
     }
   ],
   "notes": []

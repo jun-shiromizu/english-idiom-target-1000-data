@@ -9,7 +9,18 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "They suggested that he come to their firm at his convenience.",
-      "sentence-jp": "彼らは、彼の都合のよいときに彼が来社することを提案した。"
+      "sentence-jp": "彼らは、彼の都合のよいときに彼が来社することを提案した。",
+      "cloze": {
+        "maskedText": "They suggested that he come to their firm ____.",
+        "answerBase": "at ~’s convenience",
+        "answerSurface": "at his convenience",
+        "choices": [
+          "at his convenience",
+          "at short notice",
+          "at will",
+          "in earnest"
+        ]
+      }
     }
   ],
   "notes": [

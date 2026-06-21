@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She inquired the way to the police station.",
-      "sentence-jp": "彼女は交番への道を尋ねた。"
+      "sentence-jp": "彼女は交番への道を尋ねた。",
+      "cloze": {
+        "maskedText": "She ____ the way to the police station.",
+        "answerBase": "inquire",
+        "answerSurface": "inquired",
+        "choices": [
+          "inquired",
+          "memorized",
+          "ignored",
+          "blocked"
+        ]
+      }
     }
   ],
   "notes": []

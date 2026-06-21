@@ -13,7 +13,18 @@
         "one day"
       ],
       "example-sentence": "I hope that all our efforts will bear rich fruit one of these days.",
-      "sentence-jp": "そのうちに豊かな実を結ぶことを私たち全員が願っている。"
+      "sentence-jp": "そのうちに豊かな実を結ぶことを私たち全員が願っている。",
+      "cloze": {
+        "maskedText": "I hope that all our efforts will bear rich fruit ____.",
+        "answerBase": "one of these days",
+        "answerSurface": "one of these days",
+        "choices": [
+          "one of these days",
+          "once and for all",
+          "once upon a time",
+          "to date"
+        ]
+      }
     }
   ],
   "notes": [

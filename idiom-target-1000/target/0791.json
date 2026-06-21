@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "What in the world are you driving at? I can’t at all understand what you’re saying.",
-      "sentence-jp": "一体どういうつもりですか。あなたの言っていることはまったく理解できません。"
+      "sentence-jp": "一体どういうつもりですか。あなたの言っていることはまったく理解できません。",
+      "cloze": {
+        "maskedText": "What in the world are you ____ ? I can’t at all understand what you’re saying.",
+        "answerBase": "drive at ~",
+        "answerSurface": "driving at",
+        "choices": [
+          "driving at",
+          "sticking around",
+          "calling it a day",
+          "going to the polls"
+        ]
+      }
     }
   ],
   "notes": [

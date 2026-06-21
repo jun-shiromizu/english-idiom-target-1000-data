@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "In face-to-face negotiations, we give off and receive nonverbal cues.",
-      "sentence-jp": "面と向かっての交渉では，私たちは非言語的合図を出したり受けたりする。"
+      "sentence-jp": "面と向かっての交渉では，私たちは非言語的合図を出したり受けたりする。",
+      "cloze": {
+        "maskedText": "In face-to-face negotiations, we give off and receive nonverbal ____.",
+        "answerBase": "cue",
+        "answerSurface": "cues",
+        "choices": ["cues", "outputs", "estates", "supplements"]
+      }
     }
   ],
   "notes": []

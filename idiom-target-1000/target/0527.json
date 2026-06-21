@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "I wonder how many countries there are in the world where people shake hands in greeting.",
-      "sentence-jp": "人々があいさつをする際に握手する国は世界にどのくらいあるのだろう。"
+      "sentence-jp": "人々があいさつをする際に握手する国は世界にどのくらいあるのだろう。",
+      "cloze": {
+        "maskedText": "I wonder how many countries there are in the world where people ____ in greeting.",
+        "answerBase": "shake hands",
+        "answerSurface": "shake hands",
+        "choices": [
+          "shake hands",
+          "change hands",
+          "have a say",
+          "keep one's temper"
+        ]
+      }
     }
   ],
   "notes": [

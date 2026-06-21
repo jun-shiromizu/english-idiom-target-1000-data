@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I’m completely cured of the bad cold I was suffering from for some time.",
-      "sentence-jp": "しばらく苦しんでいたひどい風邪が完全に治った。"
+      "sentence-jp": "しばらく苦しんでいたひどい風邪が完全に治った。",
+      "cloze": {
+        "maskedText": "I’m completely ____ of the bad cold I was suffering from for some time.",
+        "answerBase": "cure A of B",
+        "answerSurface": "cured",
+        "choices": [
+          "cured",
+          "robbed",
+          "assured",
+          "transformed"
+        ]
+      }
     }
   ],
   "notes": [

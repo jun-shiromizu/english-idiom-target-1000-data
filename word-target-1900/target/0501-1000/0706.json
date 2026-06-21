@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Low interest rates discourage people from putting money in a bank.",
-      "sentence-jp": "低金利は人々に銀行に預金する気をなくさせる。"
+      "sentence-jp": "低金利は人々に銀行に預金する気をなくさせる。",
+      "cloze": {
+        "maskedText": "Low interest rates ____ people from putting money in a bank.",
+        "answerBase": "discourage",
+        "answerSurface": "discourage",
+        "choices": [
+          "discourage",
+          "guarantee",
+          "detect",
+          "lend"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "This product is far superior to conventional models.",
-      "sentence-jp": "この製品は従来型よりはるかにすぐれている。"
+      "sentence-jp": "この製品は従来型よりはるかにすぐれている。",
+      "cloze": {
+        "maskedText": "This product is far superior to ____ models.",
+        "answerBase": "conventional",
+        "answerSurface": "conventional",
+        "choices": [
+          "conventional",
+          "abstract",
+          "anxious",
+          "vital"
+        ]
+      }
     }
   ],
   "notes": []

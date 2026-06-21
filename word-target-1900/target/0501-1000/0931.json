@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "She nearly bumped into a man who was walking using a smartphone.",
-      "sentence-jp": "彼女はスマートフォンを使いながら歩いていた男性にあやうくぶつかりそうになった。"
+      "sentence-jp": "彼女はスマートフォンを使いながら歩いていた男性にあやうくぶつかりそうになった。",
+      "cloze": {
+        "maskedText": "She nearly ____ into a man who was walking using a smartphone.",
+        "answerBase": "bump",
+        "answerSurface": "bumped",
+        "choices": ["bumped", "folded", "exceeded", "fulfilled"]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "I want you to just imagine what it would feel like to live in extreme poverty as he did.",
-      "sentence-jp": "彼がそうしてきた極貧の中で暮らすことがどんなものか、あなたにちょっと想像してもらいたい。"
+      "sentence-jp": "彼がそうしてきた極貧の中で暮らすことがどんなものか、あなたにちょっと想像してもらいたい。",
+      "cloze": {
+        "maskedText": "I want you to just imagine ____ to live in extreme poverty as he did.",
+        "answerBase": "What ... like?",
+        "answerSurface": "what it would feel like",
+        "choices": [
+          "what it would feel like",
+          "what you go on a diet for",
+          "how you pull my leg",
+          "that you have no idea"
+        ]
+      }
     }
   ],
   "notes": [

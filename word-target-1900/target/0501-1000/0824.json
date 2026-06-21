@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "This submarine can endure very high pressure.",
-      "sentence-jp": "この潜水艦はかなりの高圧に耐えることができる。"
+      "sentence-jp": "この潜水艦はかなりの高圧に耐えることができる。",
+      "cloze": {
+        "maskedText": "This submarine can ____ very high pressure.",
+        "answerBase": "endure",
+        "answerSurface": "endure",
+        "choices": [
+          "endure",
+          "delight",
+          "boost",
+          "register"
+        ]
+      }
     }
   ],
   "notes": []

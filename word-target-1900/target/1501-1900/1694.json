@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "He noticed that a faint light was shining behind the clouds.",
-      "sentence-jp": "彼はかすかな光が雲の後ろで光っているのに気づいた。"
+      "sentence-jp": "彼はかすかな光が雲の後ろで光っているのに気づいた。",
+      "cloze": {
+        "maskedText": "He noticed that a ____ light was shining behind the clouds.",
+        "answerBase": "faint",
+        "answerSurface": "faint",
+        "choices": [
+          "faint",
+          "solid",
+          "honest",
+          "annual"
+        ]
+      }
     }
   ],
   "notes": []

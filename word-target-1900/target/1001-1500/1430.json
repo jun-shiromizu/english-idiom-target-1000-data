@@ -12,5 +12,11 @@
       "sentence-jp": "彼女は男性に変装したので，だれも彼女だと気づかなかった。"
     }
   ],
+  "cloze": {
+    "maskedText": "He tried to ____ his voice on the phone.",
+    "answerBase": "disguise",
+    "answerSurface": "disguise",
+    "choices": ["disguise", "spark", "flock", "glow"]
+  },
   "notes": []
 }

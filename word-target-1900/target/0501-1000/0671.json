@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "It is my fault that we are late for the concert.",
-      "sentence-jp": "私たちがコンサートに遅れたのは私の責任です。"
+      "sentence-jp": "私たちがコンサートに遅れたのは私の責任です。",
+      "cloze": {
+        "maskedText": "It is my ____ that we are late for the concert.",
+        "answerBase": "fault",
+        "answerSurface": "fault",
+        "choices": [
+          "fault",
+          "bias",
+          "discount",
+          "dialogue"
+        ]
+      }
     }
   ],
   "notes": []

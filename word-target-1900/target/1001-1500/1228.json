@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "The athlete has been suspended for not following the rules.",
-      "sentence-jp": "その運動選手は規則を守らなかったために出場停止になっている。"
+      "sentence-jp": "その運動選手は規則を守らなかったために出場停止になっている。",
+      "cloze": {
+        "maskedText": "The athlete has been ____ for not following the rules.",
+        "answerBase": "suspend",
+        "answerSurface": "suspended",
+        "choices": ["suspended", "revised", "recruited", "uncovered"]
+      }
     }
   ],
   "notes": []

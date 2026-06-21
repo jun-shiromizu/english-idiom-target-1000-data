@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Many young people are indifferent to politics and the economy.",
-      "sentence-jp": "多くの若者は政治や経済に無関心である。"
+      "sentence-jp": "多くの若者は政治や経済に無関心である。",
+      "cloze": {
+        "maskedText": "Many young people are ____ to politics and the economy.",
+        "answerBase": "indifferent",
+        "answerSurface": "indifferent",
+        "choices": ["indifferent", "brilliant", "pregnant", "sacred"]
+      }
     }
   ],
   "notes": []

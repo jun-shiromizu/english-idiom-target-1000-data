@@ -12,5 +12,11 @@
       "sentence-jp": "この美しいスカーフは絹糸で織られている。"
     }
   ],
+  "cloze": {
+    "maskedText": "Local workers ____ baskets by hand.",
+    "answerBase": "weave",
+    "answerSurface": "weave",
+    "choices": ["weave", "spark", "soar", "dispose"]
+  },
   "notes": []
 }

@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Her earnest efforts resulted in a major medical discovery.",
-      "sentence-jp": "彼女のまじめな努力は重要な医学的発見という結果を生んだ。"
+      "sentence-jp": "彼女のまじめな努力は重要な医学的発見という結果を生んだ。",
+      "cloze": {
+        "maskedText": "Her ____ efforts resulted in a major medical discovery.",
+        "answerBase": "earnest",
+        "answerSurface": "earnest",
+        "choices": [
+          "earnest",
+          "casual",
+          "fragile",
+          "distant"
+        ]
+      }
     }
   ],
   "notes": []

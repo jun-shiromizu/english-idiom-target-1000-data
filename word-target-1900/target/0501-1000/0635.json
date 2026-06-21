@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Many scientists have investigated various types of strange phenomena.",
-      "sentence-jp": "多くの科学者がさまざまなタイプの奇妙な現象を調査してきた。"
+      "sentence-jp": "多くの科学者がさまざまなタイプの奇妙な現象を調査してきた。",
+      "cloze": {
+        "maskedText": "Many scientists have ____ various types of strange phenomena.",
+        "answerBase": "investigate",
+        "answerSurface": "investigated",
+        "choices": [
+          "investigated",
+          "monitored",
+          "calculated",
+          "upset"
+        ]
+      }
     }
   ],
   "notes": []

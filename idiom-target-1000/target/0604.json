@@ -13,7 +13,18 @@
         "notwithstanding"
       ],
       "example-sentence": "The government had to change its original plan in the face of strong criticism from the public.",
-      "sentence-jp": "政府は国民の激しい批判に直面して当初の計画を変更しなければならなかった。"
+      "sentence-jp": "政府は国民の激しい批判に直面して当初の計画を変更しなければならなかった。",
+      "cloze": {
+        "maskedText": "The government had to change its original plan ____ strong criticism from the public.",
+        "answerBase": "in (the) face of ~",
+        "answerSurface": "in the face of",
+        "choices": [
+          "in the face of",
+          "in charge of",
+          "in relation to",
+          "in place of"
+        ]
+      }
     }
   ],
   "notes": []

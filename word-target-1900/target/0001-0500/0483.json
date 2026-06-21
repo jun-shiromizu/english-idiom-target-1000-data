@@ -9,7 +9,18 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "My new house doesn't have the sufficient space to place all my furniture.",
-      "sentence-jp": "私の新しい家にはすべての家具を置くための十分なスペースがない。"
+      "sentence-jp": "私の新しい家にはすべての家具を置くための十分なスペースがない。",
+      "cloze": {
+        "maskedText": "My new house doesn't have the ____ space to place all my furniture.",
+        "answerBase": "sufficient",
+        "answerSurface": "sufficient",
+        "choices": [
+          "sufficient",
+          "northern",
+          "wooden",
+          "careless"
+        ]
+      }
     }
   ],
   "notes": []

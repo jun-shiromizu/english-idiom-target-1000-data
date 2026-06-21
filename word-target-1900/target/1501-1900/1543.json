@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "A surplus of apartment buildings has lowered the cost of rent.",
-      "sentence-jp": "アパート・マンションの過剰は家賃を低下させた。"
+      "sentence-jp": "アパート・マンションの過剰は家賃を低下させた。",
+      "cloze": {
+        "maskedText": "A ____ of apartment buildings has lowered the cost of rent.",
+        "answerBase": "surplus",
+        "answerSurface": "surplus",
+        "choices": [
+          "surplus",
+          "shortage",
+          "series",
+          "cluster"
+        ]
+      }
     }
   ],
   "notes": []

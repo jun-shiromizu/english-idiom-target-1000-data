@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Many academic institutions issue their own journals monthly.",
-      "sentence-jp": "多くの学術機関が毎月独自の機関誌を刊行している。"
+      "sentence-jp": "多くの学術機関が毎月独自の機関誌を刊行している。",
+      "cloze": {
+        "maskedText": "Many academic ____ issue their own journals monthly.",
+        "answerBase": "institution",
+        "answerSurface": "institutions",
+        "choices": [
+          "institutions",
+          "landscapes",
+          "payments",
+          "signals"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,13 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "I work for a global enterprise selling cosmetics around the world.",
-      "sentence-jp": "私は世界中で化粧品を販売している世界的企業に勤めている。"
+      "sentence-jp": "私は世界中で化粧品を販売している世界的企業に勤めている。",
+      "cloze": {
+        "maskedText": "I work for a global ____ selling cosmetics around the world.",
+        "answerBase": "enterprise",
+        "answerSurface": "enterprise",
+        "choices": ["enterprise", "congress", "beverage", "province"]
+      }
     }
   ],
   "notes": []

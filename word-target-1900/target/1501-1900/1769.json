@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "In snow crystals, there is always a six-fold symmetry.",
-      "sentence-jp": "雪の結晶には，常に6角形の対称が存在する。"
+      "sentence-jp": "雪の結晶には，常に6角形の対称が存在する。",
+      "cloze": {
+        "maskedText": "In snow crystals, there is always a six-fold ____.",
+        "answerBase": "symmetry",
+        "answerSurface": "symmetry",
+        "choices": [
+          "symmetry",
+          "cemetery",
+          "machinery",
+          "delivery"
+        ]
+      }
     }
   ],
   "notes": []

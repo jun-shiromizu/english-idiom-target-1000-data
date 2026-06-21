@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Thanks to his abundant talents, he succeeded as an entertainer.",
-      "sentence-jp": "豊かな才能のおかげで，彼は芸能人として成功した。"
+      "sentence-jp": "豊かな才能のおかげで，彼は芸能人として成功した。",
+      "cloze": {
+        "maskedText": "Thanks to his ____ talents, he succeeded as an entertainer.",
+        "answerBase": "abundant",
+        "answerSurface": "abundant",
+        "choices": ["abundant", "irrelevant", "fairy", "sensory"]
+      }
     }
   ],
   "notes": []

@@ -12,5 +12,11 @@
       "sentence-jp": "カキを食べて間もなく，彼女は胃に激しい痛みを覚えた。"
     }
   ],
+  "cloze": {
+    "maskedText": "He felt an ____ pain in his shoulder.",
+    "answerBase": "acute",
+    "answerSurface": "acute",
+    "choices": ["acute", "tidy", "sincere", "spatial"]
+  },
   "notes": []
 }

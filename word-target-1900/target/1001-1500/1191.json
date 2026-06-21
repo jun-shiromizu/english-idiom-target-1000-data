@@ -9,7 +9,13 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "Seasonal discounts have become common in the fashion industry.",
-      "sentence-jp": "季節割引はファッション業界では一般的になっている。"
+      "sentence-jp": "季節割引はファッション業界では一般的になっている。",
+      "cloze": {
+        "maskedText": "____ discounts have become common in the fashion industry.",
+        "answerBase": "seasonal",
+        "answerSurface": "Seasonal",
+        "choices": ["Seasonal", "Voluntary", "Inclined", "Sensory"]
+      }
     }
   ],
   "notes": []

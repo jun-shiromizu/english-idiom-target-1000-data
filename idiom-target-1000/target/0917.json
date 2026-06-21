@@ -14,7 +14,18 @@
         "overcome"
       ],
       "example-sentence": "No one can get the better of her in an argument.",
-      "sentence-jp": "議論で彼女に勝つことができる人はいない。"
+      "sentence-jp": "議論で彼女に勝つことができる人はいない。",
+      "cloze": {
+        "maskedText": "No one can ____ her in an argument.",
+        "answerBase": "get the better of ~ / have the better of ~",
+        "answerSurface": "get the better of",
+        "choices": [
+          "get the better of",
+          "get even with",
+          "play a joke on",
+          "have an eye for"
+        ]
+      }
     }
   ],
   "notes": []

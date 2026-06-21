@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "If you use these sales tactics, you will succeed.",
-      "sentence-jp": "こうした販売作戦を使えば，あなたは成功するでしょう。"
+      "sentence-jp": "こうした販売作戦を使えば，あなたは成功するでしょう。",
+      "cloze": {
+        "maskedText": "If you use these sales ____, you will succeed.",
+        "answerBase": "tactics",
+        "answerSurface": "tactics",
+        "choices": [
+          "tactics",
+          "blankets",
+          "landscapes",
+          "passports"
+        ]
+      }
     }
   ],
   "notes": []

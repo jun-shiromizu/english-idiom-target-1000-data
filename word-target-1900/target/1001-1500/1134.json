@@ -9,7 +9,13 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "We have decided to postpone the meeting until Wednesday.",
-      "sentence-jp": "私たちは水曜日まで会議を延期することに決めた。"
+      "sentence-jp": "私たちは水曜日まで会議を延期することに決めた。",
+      "cloze": {
+        "maskedText": "We have decided to ____ the meeting until Wednesday.",
+        "answerBase": "postpone",
+        "answerSurface": "postpone",
+        "choices": ["postpone", "cease", "elect", "rear"]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "Many voters opposed the current law.",
-      "sentence-jp": "多くの有権者は現行法に反対した。"
+      "sentence-jp": "多くの有権者は現行法に反対した。",
+      "cloze": {
+        "maskedText": "Many voters ____ the current law.",
+        "answerBase": "oppose",
+        "answerSurface": "opposed",
+        "choices": [
+          "opposed",
+          "painted",
+          "stored",
+          "washed"
+        ]
+      }
     }
   ],
   "notes": []

@@ -13,7 +13,18 @@
         "not ~ in the slightest"
       ],
       "example-sentence": "She was not offended in the least at his somewhat harsh remark.",
-      "sentence-jp": "彼女は彼の少しきつい言葉にちょっとも気分を害することはなかった。"
+      "sentence-jp": "彼女は彼の少しきつい言葉にちょっとも気分を害することはなかった。",
+      "cloze": {
+        "maskedText": "She was not offended ____ at his somewhat harsh remark.",
+        "answerBase": "not ~ (in) the least",
+        "answerSurface": "in the least",
+        "choices": [
+          "in the least",
+          "to the fullest",
+          "by far",
+          "for sure"
+        ]
+      }
     }
   ],
   "notes": [

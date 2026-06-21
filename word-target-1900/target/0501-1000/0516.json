@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "transitive-verb",
       "example-sentence": "Ecologists are emphasizing the need to protect the environment.",
-      "sentence-jp": "生態学者は自然環境を保護する必要性を強調している。"
+      "sentence-jp": "生態学者は自然環境を保護する必要性を強調している。",
+      "cloze": {
+        "maskedText": "Ecologists are ____ the need to protect the environment.",
+        "answerBase": "emphasize",
+        "answerSurface": "emphasizing",
+        "choices": [
+          "emphasizing",
+          "dropping",
+          "guarding",
+          "washing"
+        ]
+      }
     }
   ],
   "notes": []

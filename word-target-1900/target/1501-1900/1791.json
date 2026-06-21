@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "I stood on the train because there were no vacant seats.",
-      "sentence-jp": "空いた席がなかったので私は列車内で立っていた。"
+      "sentence-jp": "空いた席がなかったので私は列車内で立っていた。",
+      "cloze": {
+        "maskedText": "I stood on the train because there were no ____ seats.",
+        "answerBase": "vacant",
+        "answerSurface": "vacant",
+        "choices": [
+          "vacant",
+          "gentle",
+          "formal",
+          "weekly"
+        ]
+      }
     }
   ],
   "notes": []

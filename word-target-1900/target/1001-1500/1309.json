@@ -12,5 +12,11 @@
       "sentence-jp": "彼は一番他人をだましそうにない人だ。"
     }
   ],
+  "cloze": {
+    "maskedText": "He tried to ____ customers with false ads.",
+    "answerBase": "deceive",
+    "answerSurface": "deceive",
+    "choices": ["deceive", "assure", "prolong", "starve"]
+  },
   "notes": []
 }

@@ -9,7 +9,18 @@
       "partOfSpeech": "verb",
       "choiceType": "intransitive-verb",
       "example-sentence": "She closed her eyes and pretended to be asleep.",
-      "sentence-jp": "彼女は目を閉じて眠っているふりをした。"
+      "sentence-jp": "彼女は目を閉じて眠っているふりをした。",
+      "cloze": {
+        "maskedText": "She closed her eyes and ____ to be asleep.",
+        "answerBase": "pretend",
+        "answerSurface": "pretended",
+        "choices": [
+          "pretended",
+          "buried",
+          "reversed",
+          "secured"
+        ]
+      }
     }
   ],
   "notes": []

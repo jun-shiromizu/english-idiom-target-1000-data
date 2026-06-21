@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "There are several theories about the origins of language.",
-      "sentence-jp": "言語の起源についてはいくつかの説がある。"
+      "sentence-jp": "言語の起源についてはいくつかの説がある。",
+      "cloze": {
+        "maskedText": "There are several theories about the ____ of language.",
+        "answerBase": "origin",
+        "answerSurface": "origins",
+        "choices": [
+          "origins",
+          "signals",
+          "profits",
+          "targets"
+        ]
+      }
     }
   ],
   "notes": []

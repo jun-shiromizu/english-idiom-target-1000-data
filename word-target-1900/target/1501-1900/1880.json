@@ -9,7 +9,18 @@
       "partOfSpeech": "adjective",
       "choiceType": "adjective",
       "example-sentence": "People are liable to make mistakes when they are in a hurry.",
-      "sentence-jp": "人は急いでいるときミスをしがちである。"
+      "sentence-jp": "人は急いでいるときミスをしがちである。",
+      "cloze": {
+        "maskedText": "People are ____ to make mistakes when they are in a hurry.",
+        "answerBase": "liable",
+        "answerSurface": "liable",
+        "choices": [
+          "liable",
+          "eager",
+          "ready",
+          "willing"
+        ]
+      }
     }
   ],
   "notes": []

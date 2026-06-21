@@ -9,7 +9,18 @@
       "partOfSpeech": "phrase",
       "choiceType": "idiomatic-expression",
       "example-sentence": "He was allowed to participate in the meeting on the condition that he remain silent.",
-      "sentence-jp": "彼は黙っているという条件で会議への参加を許可された。"
+      "sentence-jp": "彼は黙っているという条件で会議への参加を許可された。",
+      "cloze": {
+        "maskedText": "He was allowed to participate in the meeting ____ he remain silent.",
+        "answerBase": "on (the) condition (that) ...",
+        "answerSurface": "on the condition that",
+        "choices": [
+          "on the condition that",
+          "lest",
+          "inasmuch as",
+          "what with"
+        ]
+      }
     }
   ],
   "notes": [

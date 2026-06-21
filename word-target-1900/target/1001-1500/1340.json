@@ -12,5 +12,11 @@
       "sentence-jp": "今や多くの分野でAIの利用は広く普及している。"
     }
   ],
+  "cloze": {
+    "maskedText": "A spirit of optimism ____ throughout the team.",
+    "answerBase": "prevail",
+    "answerSurface": "prevails",
+    "choices": ["prevails", "descends", "rubs", "worsens"]
+  },
   "notes": []
 }

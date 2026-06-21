@@ -12,5 +12,11 @@
       "sentence-jp": "警察は路上犯罪の問題を解決しようと努力している。"
     }
   ],
+  "cloze": {
+    "maskedText": "We must ____ to improve the situation.",
+    "answerBase": "strive",
+    "answerSurface": "strive",
+    "choices": ["strive", "emit", "shed", "boast"]
+  },
   "notes": []
 }

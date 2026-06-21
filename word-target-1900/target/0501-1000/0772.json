@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The high-tech sector leads the national economy.",
-      "sentence-jp": "ハイテク部門は国家経済を牽引する。"
+      "sentence-jp": "ハイテク部門は国家経済を牽引する。",
+      "cloze": {
+        "maskedText": "The high-tech ____ leads the national economy.",
+        "answerBase": "sector",
+        "answerSurface": "sector",
+        "choices": [
+          "sector",
+          "channel",
+          "platform",
+          "usage"
+        ]
+      }
     }
   ],
   "notes": []

@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "The cow strayed from the rest of the herd.",
-      "sentence-jp": "その牛は群れのほかの牛たちからはぐれた。"
+      "sentence-jp": "その牛は群れのほかの牛たちからはぐれた。",
+      "cloze": {
+        "maskedText": "The cow ____ from the rest of the herd.",
+        "answerBase": "stray",
+        "answerSurface": "strayed",
+        "choices": [
+          "strayed",
+          "wandered",
+          "escaped",
+          "moved"
+        ]
+      }
     }
   ],
   "notes": []

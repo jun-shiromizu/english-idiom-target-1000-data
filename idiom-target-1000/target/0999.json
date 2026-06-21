@@ -11,7 +11,18 @@
       "partOfSpeech": "adverb",
       "choiceType": "adverb",
       "example-sentence": "To screw a lid on a bottle, we turn it clockwise, but to unscrew it, the other way around.",
-      "sentence-jp": "びんのふたを閉めるには時計回りに回すが、開けるには逆に回す。"
+      "sentence-jp": "びんのふたを閉めるには時計回りに回すが、開けるには逆に回す。",
+      "cloze": {
+        "maskedText": "To screw a lid on a bottle, we turn it clockwise, but to unscrew it, ____.",
+        "answerBase": "the other way around / the other way round / the other way about",
+        "answerSurface": "the other way around",
+        "choices": [
+          "the other way around",
+          "on the face of it",
+          "once upon a time",
+          "one of these days"
+        ]
+      }
     }
   ],
   "notes": []

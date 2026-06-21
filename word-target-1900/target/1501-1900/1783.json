@@ -9,7 +9,18 @@
       "partOfSpeech": "noun",
       "choiceType": "noun",
       "example-sentence": "Many companies went bankrupt during the recession.",
-      "sentence-jp": "その不況の間に多くの会社が倒産に至った。"
+      "sentence-jp": "その不況の間に多くの会社が倒産に至った。",
+      "cloze": {
+        "maskedText": "Many companies went ____ during the recession.",
+        "answerBase": "bankrupt",
+        "answerSurface": "bankrupt",
+        "choices": [
+          "bankrupt",
+          "flexible",
+          "graceful",
+          "visible"
+        ]
+      }
     }
   ],
   "notes": []
