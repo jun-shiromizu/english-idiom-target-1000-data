@@ -8,5 +8,26 @@
 			{ "id": "bat", "name": "ドラキー", "icon": "battle/icons/enemies/dracky.png", "atk": 550, "hp": 2200 },
 			{ "id": "ogre", "name": "オーガ", "icon": "battle/icons/enemies/ogre.png", "atk": 800, "hp": 4200 }
 		]
+	},
+	{
+		"id": "dungeon-010",
+		"name": "肉弾戦",
+		"description": "頭が悪そうだけどパワフルな３体が相手だ",
+		"enemies": [
+			{ "id": "gigantes", "name": "ギガンテス", "icon": "battle/icons/enemies/gigantes.png", "atk": 4000, "hp": 18000 },
+			{ "id": "kandata", "name": "カンダタ", "icon": "battle/icons/enemies/kandata.png", "atk": 5500, "hp": 22000 },
+			{ "id": "boss-troll", "name": "ボストロール", "icon": "battle/icons/enemies/boss-troll.png", "atk": 8000, "hp": 42000 }
+		]
+	},
+	{
+		"id": "dungeon-020",
+		"name": "ゾーマ城",
+		"description": "最終ボス「ゾーマ」との決戦が待つ城",
+		"enemies": [
+			{ "id": "baramos", "name": "バラモス", "icon": "battle/icons/enemies/baramos.png", "atk": 40000, "hp": 180000 },
+			{ "id": "baramos-zombie", "name": "バラモスゾンビ", "icon": "battle/icons/enemies/baramos-zombie.png", "atk": 55000, "hp": 220000 },
+			{ "id": "zoma", "name": "ゾーマ", "icon": "battle/icons/enemies/zoma.png", "atk": 80000, "hp": 420000 }
+		]
 	}
+
 ]
