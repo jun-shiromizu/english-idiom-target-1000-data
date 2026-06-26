@@ -3,11 +3,11 @@
 		"id": "dq4-solo",
 		"name": "勇者ソロ",
 		"icon": "battle/icons/characters/dq4-solo.png",
-		"atk": 120,
-		"hp": 980,
+		"atk": 135,
+		"hp": 1080,
 		"leaderSkill": {
-			"id": "leader-atk-2x",
-			"name": "猛攻の号令",
+			"id": "leader-atk-hp-double",
+			"name": "ガンガン行こうぜ",
 			"effects": [
 				{ "effectType": "atk-multiplier", "value": 2 },
 				{ "effectType": "hp-multiplier", "value": 2 }
@@ -15,7 +15,7 @@
 			"description": "味方全体の攻撃力とHPを 2 倍にする"
 		},
 		"activeSkill": {
-			"id": "skill-heal-10",
+			"id": "active-heal-10pct",
 			"name": "小回復",
 			"effects": [
 				{ "effectType": "heal", "value": 0.1 }
@@ -28,10 +28,10 @@
 		"id": "dq4-ryan",
 		"name": "戦士ライアン",
 		"icon": "battle/icons/characters/dq4-ryan.png",
-		"atk": 120,
-		"hp": 980,
+		"atk": 145,
+		"hp": 1220,
 		"leaderSkill": {
-			"id": "leader-atk-2x",
+			"id": "leader-atk-triple",
 			"name": "猛攻の号令",
 			"effects": [
 				{ "effectType": "atk-multiplier", "value": 3 }
@@ -39,7 +39,7 @@
 			"description": "味方全体の攻撃力を 3 倍にする"
 		},
 		"activeSkill": {
-			"id": "skill-heal-10",
+			"id": "active-atk-double",
 			"name": "憤怒の一撃",
 			"effects": [
 				{ "effectType": "atk-multiplier", "value": 2 }
@@ -52,11 +52,11 @@
 		"id": "dq4-alena",
 		"name": "おてんば姫アリーナ",
 		"icon": "battle/icons/characters/dq4-alena.png",
-		"atk": 120,
-		"hp": 980,
+		"atk": 160,
+		"hp": 840,
 		"leaderSkill": {
-			"id": "leader-atk-2x",
-			"name": "猛攻の号令",
+			"id": "leader-atk-quad-hp-half",
+			"name": "肉を切らせて骨を断つ",
 			"effects": [
 				{ "effectType": "atk-multiplier", "value": 4 },
 				{ "effectType": "hp-multiplier", "value": 0.5 }
@@ -64,8 +64,8 @@
 			"description": "味方全体の攻撃力を 4 倍にし、HP を半分にする"
 		},
 		"activeSkill": {
-			"id": "skill-heal-10",
-			"name": "小回復",
+			"id": "active-atk-triple-damage-double",
+			"name": "イチかバチか",
 			"effects": [
 				{ "effectType": "atk-multiplier", "value": 3 },
 				{ "effectType": "damage-cut", "value": 2 }
@@ -78,18 +78,18 @@
 		"id": "dq4-kiryl",
 		"name": "神官クリフト",
 		"icon": "battle/icons/characters/dq4-kiryl.png",
-		"atk": 120,
-		"hp": 980,
+		"atk": 85,
+		"hp": 1140,
 		"leaderSkill": {
-			"id": "leader-atk-2x",
-			"name": "猛攻の号令",
+			"id": "leader-damage-half",
+			"name": "鉄壁の守備",
 			"effects": [
 				{ "effectType": "damage-cut", "value": 0.5 }
 			],
 			"description": "味方全体の受けるダメージを半減する"
 		},
 		"activeSkill": {
-			"id": "skill-heal-10",
+			"id": "active-heal-10pct",
 			"name": "大回復",
 			"effects": [
 				{ "effectType": "heal", "value": 0.1 }
@@ -102,11 +102,11 @@
 		"id": "dq4-borya",
 		"name": "ブライ",
 		"icon": "battle/icons/characters/dq4-borya.png",
-		"atk": 120,
-		"hp": 980,
+		"atk": 95,
+		"hp": 930,
 		"leaderSkill": {
-			"id": "leader-atk-2x",
-			"name": "猛攻の号令",
+			"id": "leader-atk-double-damage-half",
+			"name": "亀の甲より年の劫",
 			"effects": [
 				{ "effectType": "atk-multiplier", "value": 2 },
 				{ "effectType": "damage-cut", "value": 0.5 }
@@ -114,8 +114,8 @@
 			"description": "味方全体の攻撃力を 2 倍にし、受けるダメージを半減する"
 		},
 		"activeSkill": {
-			"id": "skill-heal-10",
-			"name": "小回復",
+			"id": "active-damage-half",
+			"name": "ヒトのウワサも七十五日",
 			"effects": [
 				{ "effectType": "damage-cut", "value": 0.5 }
 			],
@@ -127,19 +127,19 @@
 		"id": "dq4-torneko",
 		"name": "商人トルネコ",
 		"icon": "battle/icons/characters/dq4-torneko.png",
-		"atk": 120,
-		"hp": 980,
+		"atk": 110,
+		"hp": 1180,
 		"leaderSkill": {
-			"id": "leader-atk-2x",
-			"name": "猛攻の号令",
+			"id": "leader-hp-double",
+			"name": "もうかりまっか",
 			"effects": [
 				{ "effectType": "hp-multiplier", "value": 2 }
 			],
 			"description": "味方全体の HP を 2 倍にする"
 		},
 		"activeSkill": {
-			"id": "skill-heal-10",
-			"name": "小回復",
+			"id": "active-difficulty-easy",
+			"name": "勉強させていただきます",
 			"effects": [
 				{ "effectType": "game-difficulty", "value": "easy" }
 			],
@@ -151,11 +151,11 @@
 		"id": "dq4-maya",
 		"name": "踊り子マーニャ",
 		"icon": "battle/icons/characters/dq4-maya.png",
-		"atk": 120,
-		"hp": 980,
+		"atk": 150,
+		"hp": 900,
 		"leaderSkill": {
-			"id": "leader-atk-2x",
-			"name": "猛攻の号令",
+			"id": "leader-hard-mode-atk-hp-triple",
+			"name": "人生ハードモード",
 			"effects": [
 				{ "effectType": "game-difficulty", "value": "hard" },
 				{ "effectType": "atk-multiplier", "value": 3 },
@@ -164,8 +164,8 @@
 			"description": "ゲームの難易度を上げ、味方全体の攻撃力とHP を 3 倍にする"
 		},
 		"activeSkill": {
-			"id": "skill-heal-10",
-			"name": "小回復",
+			"id": "active-skill-boost-1",
+			"name": "スキルブースト",
 			"effects": [
 				{ "effectType": "skill-boost", "value": 1 }
 			],
@@ -177,18 +177,18 @@
 		"id": "dq4-meena",
 		"name": "占い師ミネア",
 		"icon": "battle/icons/characters/dq4-meena.png",
-		"atk": 120,
-		"hp": 980,
+		"atk": 90,
+		"hp": 1040,
 		"leaderSkill": {
-			"id": "leader-atk-2x",
-			"name": "猛攻の号令",
+			"id": "leader-hp-quadruple",
+			"name": "悠久の時を超えて",
 			"effects": [
 				{ "effectType": "hp-multiplier", "value": 4 }
 			],
 			"description": "味方全体のHP を 4 倍にする"
 		},
 		"activeSkill": {
-			"id": "skill-heal-10",
+			"id": "active-heal-10pct",
 			"name": "小回復",
 			"effects": [
 				{ "effectType": "heal", "value": 0.1 }
