@@ -1,0 +1,200 @@
+[
+	{
+		"id": "dq4-solo",
+		"name": "勇者ソロ",
+		"icon": "battle/icons/characters/dq4-solo.png",
+		"atk": 120,
+		"hp": 980,
+		"leaderSkill": {
+			"id": "leader-atk-2x",
+			"name": "猛攻の号令",
+			"effects": [
+				{ "effectType": "atk-multiplier", "value": 2 },
+				{ "effectType": "hp-multiplier", "value": 2 }
+			],
+			"description": "味方全体の攻撃力とHPを 2 倍にする"
+		},
+		"activeSkill": {
+			"id": "skill-heal-10",
+			"name": "小回復",
+			"effects": [
+				{ "effectType": "heal", "value": 0.1 }
+			],
+			"cooldownTurns": 2,
+			"description": "最大 HP の 10% を回復する"
+		}
+	},
+	{
+		"id": "dq4-ryan",
+		"name": "戦士ライアン",
+		"icon": "battle/icons/characters/dq4-ryan.png",
+		"atk": 120,
+		"hp": 980,
+		"leaderSkill": {
+			"id": "leader-atk-2x",
+			"name": "猛攻の号令",
+			"effects": [
+				{ "effectType": "atk-multiplier", "value": 3 }
+			],
+			"description": "味方全体の攻撃力を 3 倍にする"
+		},
+		"activeSkill": {
+			"id": "skill-heal-10",
+			"name": "憤怒の一撃",
+			"effects": [
+				{ "effectType": "atk-multiplier", "value": 2 }
+			],
+			"cooldownTurns": 3,
+			"description": "攻撃力を 2 倍にする"
+		}
+	},
+	{
+		"id": "dq4-alena",
+		"name": "おてんば姫アリーナ",
+		"icon": "battle/icons/characters/dq4-alena.png",
+		"atk": 120,
+		"hp": 980,
+		"leaderSkill": {
+			"id": "leader-atk-2x",
+			"name": "猛攻の号令",
+			"effects": [
+				{ "effectType": "atk-multiplier", "value": 4 },
+				{ "effectType": "hp-multiplier", "value": 0.5 }
+			],
+			"description": "味方全体の攻撃力を 4 倍にし、HP を半分にする"
+		},
+		"activeSkill": {
+			"id": "skill-heal-10",
+			"name": "小回復",
+			"effects": [
+				{ "effectType": "atk-multiplier", "value": 3 },
+				{ "effectType": "damage-cut", "value": 2 }
+			],
+			"cooldownTurns": 5,
+			"description": "攻撃力を 3 倍にし、受けるダメージが2倍になる"
+		}
+	},
+	{
+		"id": "dq4-kiryl",
+		"name": "神官クリフト",
+		"icon": "battle/icons/characters/dq4-kiryl.png",
+		"atk": 120,
+		"hp": 980,
+		"leaderSkill": {
+			"id": "leader-atk-2x",
+			"name": "猛攻の号令",
+			"effects": [
+				{ "effectType": "damage-cut", "value": 0.5 }
+			],
+			"description": "味方全体の受けるダメージを半減する"
+		},
+		"activeSkill": {
+			"id": "skill-heal-10",
+			"name": "大回復",
+			"effects": [
+				{ "effectType": "heal", "value": 0.1 }
+			],
+			"cooldownTurns": 5,
+			"description": "最大 HP の 10% を回復する"
+		}
+	},
+	{
+		"id": "dq4-borya",
+		"name": "ブライ",
+		"icon": "battle/icons/characters/dq4-borya.png",
+		"atk": 120,
+		"hp": 980,
+		"leaderSkill": {
+			"id": "leader-atk-2x",
+			"name": "猛攻の号令",
+			"effects": [
+				{ "effectType": "atk-multiplier", "value": 2 },
+				{ "effectType": "damage-cut", "value": 0.5 }
+			],
+			"description": "味方全体の攻撃力を 2 倍にし、受けるダメージを半減する"
+		},
+		"activeSkill": {
+			"id": "skill-heal-10",
+			"name": "小回復",
+			"effects": [
+				{ "effectType": "damage-cut", "value": 0.5 }
+			],
+			"cooldownTurns": 3,
+			"description": "受けるダメージを半減する"
+		}
+	},
+	{
+		"id": "dq4-torneko",
+		"name": "商人トルネコ",
+		"icon": "battle/icons/characters/dq4-torneko.png",
+		"atk": 120,
+		"hp": 980,
+		"leaderSkill": {
+			"id": "leader-atk-2x",
+			"name": "猛攻の号令",
+			"effects": [
+				{ "effectType": "hp-multiplier", "value": 2 }
+			],
+			"description": "味方全体の HP を 2 倍にする"
+		},
+		"activeSkill": {
+			"id": "skill-heal-10",
+			"name": "小回復",
+			"effects": [
+				{ "effectType": "game-difficulty", "value": "easy" }
+			],
+			"cooldownTurns": 7,
+			"description": "ゲーム難易度を簡単にする"
+		}
+	},
+	{
+		"id": "dq4-maya",
+		"name": "踊り子マーニャ",
+		"icon": "battle/icons/characters/dq4-maya.png",
+		"atk": 120,
+		"hp": 980,
+		"leaderSkill": {
+			"id": "leader-atk-2x",
+			"name": "猛攻の号令",
+			"effects": [
+				{ "effectType": "game-difficulty", "value": "hard" },
+				{ "effectType": "atk-multiplier", "value": 3 },
+				{ "effectType": "hp-multiplier", "value": 3 }
+			],
+			"description": "ゲームの難易度を上げ、味方全体の攻撃力とHP を 3 倍にする"
+		},
+		"activeSkill": {
+			"id": "skill-heal-10",
+			"name": "小回復",
+			"effects": [
+				{ "effectType": "skill-boost", "value": 1 }
+			],
+			"cooldownTurns": 3,
+			"description": "味方全員の残りクールダウンを 1 ターン減らす"
+		}
+	},
+	{
+		"id": "dq4-meena",
+		"name": "占い師ミネア",
+		"icon": "battle/icons/characters/dq4-meena.png",
+		"atk": 120,
+		"hp": 980,
+		"leaderSkill": {
+			"id": "leader-atk-2x",
+			"name": "猛攻の号令",
+			"effects": [
+				{ "effectType": "hp-multiplier", "value": 4 }
+			],
+			"description": "味方全体のHP を 4 倍にする"
+		},
+		"activeSkill": {
+			"id": "skill-heal-10",
+			"name": "小回復",
+			"effects": [
+				{ "effectType": "heal", "value": 0.1 }
+			],
+			"cooldownTurns": 3,
+			"description": "最大 HP の 10% を回復する"
+		}
+	}
+]
