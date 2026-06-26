@@ -14,9 +14,9 @@
 		"name": "肉弾戦",
 		"description": "頭が悪そうだけどパワフルな３体が相手だ",
 		"enemies": [
-			{ "id": "gigantes", "name": "ギガンテス", "icon": "battle/icons/enemies/gigantes.png", "atk": 4000, "hp": 18000 },
-			{ "id": "kandata", "name": "カンダタ", "icon": "battle/icons/enemies/kandata.png", "atk": 5500, "hp": 22000 },
-			{ "id": "boss-troll", "name": "ボストロール", "icon": "battle/icons/enemies/boss-troll.png", "atk": 8000, "hp": 42000 }
+			{ "id": "gigantes", "name": "ギガンテス", "icon": "battle/icons/enemies/gigantes.png", "atk": 2000, "hp": 9000 },
+			{ "id": "kandata", "name": "カンダタ", "icon": "battle/icons/enemies/kandata.png", "atk": 2700, "hp": 11000 },
+			{ "id": "boss-troll", "name": "ボストロール", "icon": "battle/icons/enemies/boss-troll.png", "atk": 4000, "hp": 21000 }
 		]
 	},
 	{
