@@ -4,9 +4,9 @@
 		"name": "はじまりの洞窟",
 		"description": "基本ルール確認用の入門ダンジョン",
 		"enemies": [
-			{ "id": "slime", "name": "スライム", "icon": "battle/icons/enemies/slime.png", "atk": 40, "hp": 180 },
-			{ "id": "bat", "name": "ドラキー", "icon": "battle/icons/enemies/dracky.png", "atk": 55, "hp": 220 },
-			{ "id": "ogre", "name": "オーガ", "icon": "battle/icons/enemies/ogre.png", "atk": 80, "hp": 420 }
+			{ "id": "slime", "name": "スライム", "icon": "battle/icons/enemies/slime.png", "atk": 400, "hp": 1800 },
+			{ "id": "bat", "name": "ドラキー", "icon": "battle/icons/enemies/dracky.png", "atk": 550, "hp": 2200 },
+			{ "id": "ogre", "name": "オーガ", "icon": "battle/icons/enemies/ogre.png", "atk": 800, "hp": 4200 }
 		]
 	}
 ]
