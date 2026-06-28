@@ -10,24 +10,214 @@
 		]
 	},
 	{
+		"id": "dungeon-002",
+		"name": "スライムの仲間たち",
+		"description": "変わり種スライムがいっぱい",
+		"enemies": [
+			{ "id": "slime-bes", "name": "スライム", "icon": "battle/icons/enemies/slime-bes.png", "atk": 600, "hp": 2700 },
+			{ "id": "marine-slime", "name": "マリン・スライム", "icon": "battle/icons/enemies/marine-slime.png", "atk": 825, "hp": 3300 },
+			{ "id": "bubble-slime", "name": "バブル・スライム", "icon": "battle/icons/enemies/bubble-slime.png", "atk": 1200, "hp": 6300 },
+			{ "id": "king-slime", "name": "キング・スライム", "icon": "battle/icons/enemies/king-slime.png", "atk": 1800, "hp": 10000 }
+		]
+	},
+	{
+		"id": "dungeon-003",
+		"name": "危険な森",
+		"description": "危険な森で待ち受ける強敵たち",
+		"enemies": [
+			{ "id": "obake-kinoko", "name": "おばけキノコ", "icon": "battle/icons/enemies/obake-kinoko.png", "atk": 800, "hp": 3600 },
+			{ "id": "nasubi-nara", "name": "ナスビナーラ", "icon": "battle/icons/enemies/nasubi-nara.png", "atk": 1100, "hp": 4400 },
+			{ "id": "jinmenju", "name": "ジンメンジュ", "icon": "battle/icons/enemies/jinmenju.png", "atk": 1600, "hp": 8400 }
+		]
+	},
+	{
+		"id": "dungeon-004",
+		"name": "灼熱の砂漠",
+		"description": "砂漠に潜む虫型のモンスターたち",
+		"enemies": [
+			{ "id": "guntai-ari", "name": "ぐんたいアリ", "icon": "battle/icons/enemies/guntai-ari.png", "atk": 1000, "hp": 4500 },
+			{ "id": "killer-bee", "name": "キラービー", "icon": "battle/icons/enemies/killer-bee.png", "atk": 1375, "hp": 5500 },
+			{ "id": "caterpillar", "name": "キャタピラー", "icon": "battle/icons/enemies/caterpillar.png", "atk": 2000, "hp": 10500 }
+		]
+	},
+	{
+		"id": "dungeon-005",
+		"name": "空からの急襲",
+		"description": "鳥系モンスターの急襲に注意",
+		"enemies": [
+			{ "id": "chimaera", "name": "キメラ", "icon": "battle/icons/enemies/chimaera.png", "atk": 1200, "hp": 5400 },
+			{ "id": "hell-condor", "name": "ヘルコンドル", "icon": "battle/icons/enemies/hell-condor.png", "atk": 1650, "hp": 6600 },
+			{ "id": "kule-sence", "name": "クレセンス", "icon": "battle/icons/enemies/kule-sence.png", "atk": 2400, "hp": 12600 }
+		]
+	},
+	{
+		"id": "dungeon-006",
+		"name": "大海原を越えて",
+		"description": "船旅を襲う海のモンスターたち",
+		"enemies": [
+			{ "id": "guntai-gani", "name": "ぐんたいガニ", "icon": "battle/icons/enemies/guntai-gani.png", "atk": 1400, "hp": 6300 },
+			{ "id": "marman", "name": "マーマン", "icon": "battle/icons/enemies/marman.png", "atk": 1925, "hp": 7700 },
+			{ "id": "daiou-ika", "name": "だいおうイカ", "icon": "battle/icons/enemies/daiou-ika.png", "atk": 2800, "hp": 14700 }
+		]
+	},
+	{
+		"id": "dungeon-007",
+		"name": "死の淵から",
+		"description": "ゾンビ系モンスターが待ち受けるダンジョン",
+		"enemies": [
+			{ "id": "gaikotsu", "name": "がいこつ", "icon": "battle/icons/enemies/gaikotsu.png", "atk": 1600, "hp": 7200 },
+			{ "id": "kusatta-shitai", "name": "腐った死体", "icon": "battle/icons/enemies/kusatta-shitai.png", "atk": 2200, "hp": 8800 },
+			{ "id": "miira-otoko", "name": "ミイラおとこ", "icon": "battle/icons/enemies/miira-otoko.png", "atk": 3200, "hp": 16800 }
+		]
+	},
+	{
+		"id": "dungeon-008",
+		"name": "パワフルモンスターズ",
+		"description": "パワフルな動物系モンスターたちが待ち受ける",
+		"enemies": [
+			{ "id": "orc", "name": "オーク", "icon": "battle/icons/enemies/orc.png", "atk": 1800, "hp": 8100 },
+			{ "id": "grizzly", "name": "グリズリー", "icon": "battle/icons/enemies/grizzly.png", "atk": 2475, "hp": 9900 },
+			{ "id": "killer-ape", "name": "キラーエイプ", "icon": "battle/icons/enemies/killer-ape.png", "atk": 3600, "hp": 18900 }
+		]
+	},
+	{
+		"id": "dungeon-009",
+		"name": "ホイミスライムたち",
+		"description": "回復系スライムがいっぱい",
+		"enemies": [
+			{ "id": "heal-slime", "name": "ホイミスライム", "icon": "battle/icons/enemies/heal-slime.png", "atk": 2000, "hp": 9000 },
+			{ "id": "cure-slime", "name": "ベホマスライム", "icon": "battle/icons/enemies/cure-slime.png", "atk": 2750, "hp": 11000 },
+			{ "id": "slime-behomazn", "name": "スライムベホマズン", "icon": "battle/icons/enemies/slime-behomazn.png", "atk": 4000, "hp": 21000 }
+		]
+	},
+	{
 		"id": "dungeon-010",
+		"name": "不気味なエレメンツ",
+		"description": "正体不明のエレメンツ系モンスターたち",
+		"enemies": [
+			{ "id": "flame", "name": "フレイム", "icon": "battle/icons/enemies/flame.png", "atk": 2200, "hp": 9900 },
+			{ "id": "hyouga-majin", "name": "ひょうがまじん", "icon": "battle/icons/enemies/hyouga-majin.png", "atk": 3025, "hp": 12100 },
+			{ "id": "horo-goast", "name": "ホロゴースト", "icon": "battle/icons/enemies/horo-goast.png", "atk": 4400, "hp": 23100 }
+		]
+	},
+	{
+		"id": "dungeon-011",
+		"name": "魔界からの使者",
+		"description": "魔法を使うモンスターたち",
+		"enemies": [
+			{ "id": "mahoutsukai", "name": "魔法使い", "icon": "battle/icons/enemies/mahoutsukai.png", "atk": 2400, "hp": 10800 },
+			{ "id": "majutsushi", "name": "魔術師", "icon": "battle/icons/enemies/majutsushi.png", "atk": 3300, "hp": 13200 },
+			{ "id": "akumashinkan", "name": "悪魔神官", "icon": "battle/icons/enemies/akumashinkan.png", "atk": 4800, "hp": 25200 }
+		]
+	},
+	{
+		"id": "dungeon-012",
+		"name": "悪魔の息吹",
+		"description": "襲い掛かる悪魔たち",
+		"enemies": [
+			{ "id": "sharman", "name": "シャーマン", "icon": "battle/icons/enemies/sharman.png", "atk": 2600, "hp": 11700 },
+			{ "id": "unclehorn", "name": "アンクルホーン", "icon": "battle/icons/enemies/unclehorn.png", "atk": 3575, "hp": 14300 },
+			{ "id": "rchdemon", "name": "アークデーモン", "icon": "battle/icons/enemies/rchdemon.png", "atk": 5200, "hp": 27300 }
+		]
+	},
+	{
+		"id": "dungeon-013",
+		"name": "ダンジョンの番人",
+		"description": "ダンジョンを守る物質系モンスターたち",
+		"enemies": [
+			{ "id": "golem", "name": "ゴーレム", "icon": "battle/icons/enemies/golem.png", "atk": 2800, "hp": 12600 },
+			{ "id": "samayou-yoroi", "name": "さまようよろい", "icon": "battle/icons/enemies/samayou-yoroi.png", "atk": 3850, "hp": 15400 },
+			{ "id": "daimajin", "name": "だいまじん", "icon": "battle/icons/enemies/daimajin.png", "atk": 5600, "hp": 29400 }
+		]
+	},
+	{
+		"id": "dungeon-014",
+		"name": "機械仕掛けの殺戮",
+		"description": "マシン系モンスターたちの飽くなき攻撃",
+		"enemies": [
+			{ "id": "metalhunter", "name": "メタルハンター", "icon": "battle/icons/enemies/metalhunter.png", "atk": 3000, "hp": 13500 },
+			{ "id": "typeg", "name": "タイプＧ", "icon": "battle/icons/enemies/typeg.png", "atk": 4125, "hp": 16500 },
+			{ "id": "killermachine", "name": "キラーマシン", "icon": "battle/icons/enemies/killermachine.png", "atk": 6000, "hp": 31500 }
+		]
+	},
+	{
+		"id": "dungeon-015",
+		"name": "メタルスライムたち",
+		"description": "攻撃力は低いけど HPが高い、ひたすら勉強になるダンジョン",
+		"enemies": [
+			{ "id": "metal-slime", "name": "メタルスライム", "icon": "battle/icons/enemies/metal-slime.png", "atk": 10, "hp": 180000 },
+			{ "id": "hagure-metal", "name": "はぐれメタル", "icon": "battle/icons/enemies/hagure-metal.png", "atk": 20, "hp": 220000 },
+			{ "id": "metal-king", "name": "メタルキング", "icon": "battle/icons/enemies/metal-king.png", "atk": 30, "hp": 420000 }
+		]
+	},
+	{
+		"id": "dungeon-016",
 		"name": "肉弾戦",
 		"description": "頭が悪そうだけどパワフルな３体が相手だ",
 		"enemies": [
-			{ "id": "gigantes", "name": "ギガンテス", "icon": "battle/icons/enemies/gigantes.png", "atk": 2000, "hp": 9000 },
-			{ "id": "kandata", "name": "カンダタ", "icon": "battle/icons/enemies/kandata.png", "atk": 2700, "hp": 11000 },
-			{ "id": "boss-troll", "name": "ボストロール", "icon": "battle/icons/enemies/boss-troll.png", "atk": 4000, "hp": 21000 }
+			{ "id": "gigantes", "name": "ギガンテス", "icon": "battle/icons/enemies/gigantes.png", "atk": 3200, "hp": 14400 },
+			{ "id": "kandata", "name": "カンダタ", "icon": "battle/icons/enemies/kandata.png", "atk": 4400, "hp": 17600 },
+			{ "id": "boss-troll", "name": "ボストロール", "icon": "battle/icons/enemies/boss-troll.png", "atk": 6400, "hp": 33600 }
+		]
+	},
+	{
+		"id": "dungeon-017",
+		"name": "ドラゴンの巣",
+		"description": "ドラゴンたちとの戦いのはじまり",
+		"enemies": [
+			{ "id": "dragon", "name": "ドラゴン", "icon": "battle/icons/enemies/dragon.png", "atk": 4800, "hp": 21600 },
+			{ "id": "keethdragon", "name": "キースドラゴン", "icon": "battle/icons/enemies/keethdragon.png", "atk": 6600, "hp": 26400 },
+			{ "id": "darthdragon", "name": "ダースドラゴン", "icon": "battle/icons/enemies/darthdragon.png", "atk": 9600, "hp": 50400 }
+		]
+	},
+	{
+		"id": "dungeon-018",
+		"name": "神秘のドラゴン",
+		"description": "神秘的な力を持つドラゴンたちとの戦い",
+		"enemies": [
+			{ "id": "skydragon", "name": "スカイドラゴン", "icon": "battle/icons/enemies/skydragon.png", "atk": 7200, "hp": 32400 },
+			{ "id": "snowdragon", "name": "スノードラゴン", "icon": "battle/icons/enemies/snowdragon.png", "atk": 9900, "hp": 39600 },
+			{ "id": "salamander", "name": "サラマンダー", "icon": "battle/icons/enemies/salamander.png", "atk": 14400, "hp": 75600 }
+		]
+	},
+	{
+		"id": "dungeon-019",
+		"name": "伝説のドラゴン",
+		"description": "最奥では日本の伝説に登場するドラゴンが待つ",
+		"enemies": [
+			{ "id": "bosgulm", "name": "ボスガルム", "icon": "battle/icons/enemies/bosgulm.png", "atk": 10800, "hp": 48600 },
+			{ "id": "gigantdragon", "name": "ギガントドラゴン", "icon": "battle/icons/enemies/gigantdragon.png", "atk": 14850, "hp": 59400 },
+			{ "id": "yamatanoorochi", "name": "ヤマタノオロチ", "icon": "battle/icons/enemies/yamatanoorochi.png", "atk": 21600, "hp": 113400 }
 		]
 	},
 	{
 		"id": "dungeon-020",
+		"name": "破壊のドラゴン",
+		"description": "破壊の力を持つドラゴンたち",
+		"enemies": [
+			{ "id": "battlerex", "name": "バトルレックス", "icon": "battle/icons/enemies/battlerex.png", "atk": 16200, "hp": 72900 },
+			{ "id": "axedragon", "name": "アックスドラゴン", "icon": "battle/icons/enemies/axedragon.png", "atk": 22275, "hp": 89100 },
+			{ "id": "dragonsoldier", "name": "ドラゴンソルジャー", "icon": "battle/icons/enemies/dragonsoldier.png", "atk": 32400, "hp": 170100 }
+		]
+	},
+	{
+		"id": "dungeon-021",
+		"name": "究極のドラゴン",
+		"description": "究極のカリスマ的なドラゴンたちとの闘い",
+		"enemies": [
+			{ "id": "grandragon", "name": "グランドラゴン", "icon": "battle/icons/enemies/grandragon.png", "atk": 24300, "hp": 109350 },
+			{ "id": "greatdragon", "name": "グレートドラゴン", "icon": "battle/icons/enemies/greatdragon.png", "atk": 33413, "hp": 133650 },
+			{ "id": "masterdragon", "name": "マスタードラゴン", "icon": "battle/icons/enemies/masterdragon.png", "atk": 48600, "hp": 255150 }
+		]
+	},
+	{
+		"id": "dungeon-022",
 		"name": "ゾーマ城",
-		"description": "最終ボス「ゾーマ」との決戦が待つ城",
+		"description": "「ゾーマ」との決戦が待つ城",
 		"enemies": [
 			{ "id": "baramos", "name": "バラモス", "icon": "battle/icons/enemies/baramos.png", "atk": 40000, "hp": 180000 },
 			{ "id": "baramos-zombie", "name": "バラモスゾンビ", "icon": "battle/icons/enemies/baramos-zombie.png", "atk": 55000, "hp": 220000 },
 			{ "id": "zoma", "name": "ゾーマ", "icon": "battle/icons/enemies/zoma.png", "atk": 80000, "hp": 420000 }
 		]
 	}
-
 ]
