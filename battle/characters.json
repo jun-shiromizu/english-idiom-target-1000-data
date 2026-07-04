@@ -141,7 +141,7 @@
 			"id": "active-difficulty-easy",
 			"name": "勉強させていただきます",
 			"effects": [
-				{ "effectType": "game-difficulty", "value": "easy" }
+				{ "effectType": "game-difficulty", "value": -5 }
 			],
 			"cooldownTurns": 7,
 			"description": "ゲーム難易度を簡単にする"
@@ -157,7 +157,7 @@
 			"id": "leader-hard-mode-atk-hp-triple",
 			"name": "人生ハードモード",
 			"effects": [
-				{ "effectType": "game-difficulty", "value": "hard" },
+				{ "effectType": "game-difficulty", "value": 5 },
 				{ "effectType": "atk-multiplier", "value": 3 },
 				{ "effectType": "hp-multiplier", "value": 3 }
 			],

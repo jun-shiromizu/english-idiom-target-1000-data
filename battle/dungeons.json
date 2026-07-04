@@ -154,6 +154,7 @@
 		"id": "dungeon-016",
 		"name": "肉弾戦",
 		"description": "頭が悪そうだけどパワフルな３体が相手だ",
+		"fallSpeed": 30,
 		"enemies": [
 			{ "id": "gigantes", "name": "ギガンテス", "icon": "battle/icons/enemies/gigantes.png", "atk": 3200, "hp": 14400 },
 			{ "id": "kandata", "name": "カンダタ", "icon": "battle/icons/enemies/kandata.png", "atk": 4400, "hp": 17600 },
@@ -164,6 +165,7 @@
 		"id": "dungeon-017",
 		"name": "ドラゴンの巣",
 		"description": "ドラゴンたちとの戦いのはじまり",
+		"fallSpeed": 32,
 		"enemies": [
 			{ "id": "dragon", "name": "ドラゴン", "icon": "battle/icons/enemies/dragon.png", "atk": 4800, "hp": 21600 },
 			{ "id": "keethdragon", "name": "キースドラゴン", "icon": "battle/icons/enemies/keethdragon.png", "atk": 6600, "hp": 26400 },
@@ -174,6 +176,7 @@
 		"id": "dungeon-018",
 		"name": "神秘のドラゴン",
 		"description": "神秘的な力を持つドラゴンたちとの戦い",
+		"fallSpeed": 34,
 		"enemies": [
 			{ "id": "skydragon", "name": "スカイドラゴン", "icon": "battle/icons/enemies/skydragon.png", "atk": 7200, "hp": 32400 },
 			{ "id": "snowdragon", "name": "スノードラゴン", "icon": "battle/icons/enemies/snowdragon.png", "atk": 9900, "hp": 39600 },
@@ -184,6 +187,7 @@
 		"id": "dungeon-019",
 		"name": "伝説のドラゴン",
 		"description": "最奥では日本の伝説に登場するドラゴンが待つ",
+		"fallSpeed": 36,
 		"enemies": [
 			{ "id": "bosgulm", "name": "ボスガルム", "icon": "battle/icons/enemies/bosgulm.png", "atk": 10800, "hp": 48600 },
 			{ "id": "gigantdragon", "name": "ギガントドラゴン", "icon": "battle/icons/enemies/gigantdragon.png", "atk": 14850, "hp": 59400 },
@@ -194,6 +198,7 @@
 		"id": "dungeon-020",
 		"name": "破壊のドラゴン",
 		"description": "破壊の力を持つドラゴンたち",
+		"fallSpeed": 38,
 		"enemies": [
 			{ "id": "battlerex", "name": "バトルレックス", "icon": "battle/icons/enemies/battlerex.png", "atk": 16200, "hp": 72900 },
 			{ "id": "axedragon", "name": "アックスドラゴン", "icon": "battle/icons/enemies/axedragon.png", "atk": 22275, "hp": 89100 },
@@ -204,6 +209,7 @@
 		"id": "dungeon-021",
 		"name": "究極のドラゴン",
 		"description": "究極のカリスマ的なドラゴンたちとの闘い",
+		"fallSpeed": 40,
 		"enemies": [
 			{ "id": "grandragon", "name": "グランドラゴン", "icon": "battle/icons/enemies/grandragon.png", "atk": 24300, "hp": 109350 },
 			{ "id": "greatdragon", "name": "グレートドラゴン", "icon": "battle/icons/enemies/greatdragon.png", "atk": 33413, "hp": 133650 },
@@ -214,6 +220,7 @@
 		"id": "dungeon-022",
 		"name": "ゾーマ城",
 		"description": "「ゾーマ」との決戦が待つ城",
+		"fallSpeed": 42,
 		"enemies": [
 			{ "id": "baramos", "name": "バラモス", "icon": "battle/icons/enemies/baramos.png", "atk": 40000, "hp": 180000 },
 			{ "id": "baramos-zombie", "name": "バラモスゾンビ", "icon": "battle/icons/enemies/baramos-zombie.png", "atk": 55000, "hp": 220000 },
