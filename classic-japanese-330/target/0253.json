@@ -1,7 +1,27 @@
 {
   "number": "0253",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "いうなり"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "上品だ。優美だ。",
+      "examples": [
+        {
+          "text": "女は男に逢ひましとしたれども、男はひどく愛情が深くなっていく。",
+          "translation": "女は男を嫌おうとしたけれども、男はひどく愛情が深くなっていく。"
+        }
+      ]
+    }
+  ],
+  "points": [
+    "「優なり」と書き、品性・品格が優れていることを表す。「言ふなり」と混同しない。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 234,
+      "image": "1234.jpg"
+    }
+  ]
 }

@@ -1,7 +1,27 @@
 {
   "number": "0271",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "うたて"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "いやなことに。不快に。",
+      "examples": [
+        {
+          "text": "うたて、なにしに、さ申しつらむ。",
+          "translation": "いやなことに、どうして私はあんなふうに申し上げてしまったのだろう。"
+        }
+      ]
+    }
+  ],
+  "points": [
+    "事のひどさに嫌な気持ちを表す。「うたてし」「うたてあり」「うたての」の形でも使う。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 248,
+      "image": "1248.jpg"
+    }
+  ]
 }

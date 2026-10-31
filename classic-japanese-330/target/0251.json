@@ -1,7 +1,27 @@
 {
   "number": "0251",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "こまやかなり"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "丁寧だ。心を込めている。",
+      "examples": []
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "細やかで美しい。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "細部まで整っていること、心を込めていること、人の容姿が美しいことなどを表す。現代語の「こまやか」より意味が広い。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 233,
+      "image": "1233.jpg"
+    }
+  ]
 }

@@ -1,7 +1,42 @@
 {
   "number": "0226",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "ところせし"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "いっぱいだ。あふれるくらいだ。",
+      "examples": [
+        {
+          "text": "（紫の上へは人形遊び）ところせきまで遊びひろげ給へり。",
+          "translation": "人形遊びを部屋いっぱいになるくらいまで広げていらっしゃる。"
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "窮屈だ。不自由だ。",
+      "examples": [
+        {
+          "text": "ところせきこそわびしけれ。",
+          "translation": "窮屈なのはつらい。"
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "meaning": "堂々としている。重々しい。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "空間的な窮屈さだけでなく、心理的な窮屈さをもたらすものも「ところせし」。高貴な身分を表す場合もある。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 214,
+      "image": "1214.jpg"
+    }
+  ]
 }

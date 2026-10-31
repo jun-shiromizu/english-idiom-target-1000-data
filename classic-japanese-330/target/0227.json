@@ -1,7 +1,27 @@
 {
   "number": "0227",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "つつまし"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "気がひける。遠慮する。",
+      "examples": [
+        {
+          "text": "立聞きかいまむ人のはいしで、心もとなく、つつまし。",
+          "translation": "立ち聞きやかいま見る人の気配がして、気がひける。"
+        }
+      ]
+    }
+  ],
+  "points": [
+    "動詞「つつむ」の形容詞形。気持ちを包み隠すように、遠慮したり気がひけたりすることを表す。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 215,
+      "image": "1215.jpg"
+    }
+  ]
 }

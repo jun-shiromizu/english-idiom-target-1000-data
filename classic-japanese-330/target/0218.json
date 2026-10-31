@@ -1,7 +1,37 @@
 {
   "number": "0218",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "こころやすし"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "安心だ。気楽だ。",
+      "examples": [
+        {
+          "text": "今ぞで心やすく黄泉路もまかるべき。",
+          "translation": "今は安心してあの世にも旅立てるだろう。"
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "気安い。穏やかだ。",
+      "examples": [
+        {
+          "text": "この位去りて、ただ心やすくてあらむ。",
+          "translation": "この位を譲って、ただ気楽な状態でいよう。"
+        }
+      ]
+    }
+  ],
+  "points": [
+    "「心安し」は心配がない、または気兼ねする必要がない状態を表す。関連語「やすからず」は穏やかでない、不愉快だの意。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 209,
+      "image": "1209.jpg"
+    }
+  ]
 }

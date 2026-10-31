@@ -1,7 +1,27 @@
 {
   "number": "0269",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "かたみに"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "互いに。",
+      "examples": [
+        {
+          "text": "かたみに思ひあふことかぎりなし。",
+          "translation": "男と女は互いに愛し合うことこの上もない。"
+        }
+      ]
+    }
+  ],
+  "points": [
+    "「互に」と書く。「形見」（思い出の品）と混同しない。関連語「おのがじし」「形見」。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 246,
+      "image": "1246.jpg"
+    }
+  ]
 }

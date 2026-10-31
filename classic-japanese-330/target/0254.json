@@ -1,7 +1,27 @@
 {
   "number": "0254",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "えんなり"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "優美だ。優れている。",
+      "examples": [
+        {
+          "text": "あら思はずや。東国にもこれほど優なる人のありけるよ。",
+          "translation": "ああ思いがけないことよ。東国にもこれほど優美な人がいたことだよ。"
+        }
+      ]
+    }
+  ],
+  "points": [
+    "「優なり」と書き、優美だ、上品だの意。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 235,
+      "image": "1235.jpg"
+    }
+  ]
 }

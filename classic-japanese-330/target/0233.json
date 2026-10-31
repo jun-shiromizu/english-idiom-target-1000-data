@@ -1,7 +1,27 @@
 {
   "number": "0233",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "ずちななし"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "どうしようもない。しかたがない。",
+      "examples": [
+        {
+          "text": "今日はずちななし。右の大臣に任せ申す。",
+          "translation": "今日はどうしようもない。（議事は）右大臣にお任せする。"
+        }
+      ]
+    }
+  ],
+  "points": [
+    "「術」は手段・方法の意。「術無し」は何の手段も方法もないこと。「すべなし」ともいう。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 222,
+      "image": "1222.jpg"
+    }
+  ]
 }

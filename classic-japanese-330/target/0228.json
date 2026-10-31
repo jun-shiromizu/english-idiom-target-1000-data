@@ -1,7 +1,37 @@
 {
   "number": "0228",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "まさなし"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "よくない。不都合だ。",
+      "examples": [
+        {
+          "text": "何をか奉らむ。まめまめしきものはまさなかりなむ。",
+          "translation": "何を差し上げようか。実用的なものはきっとよくないだろう。"
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "見苦しい。みっともない。",
+      "examples": [
+        {
+          "text": "いかに河尾環、まさなうも敵に後ろをば見するものかな。",
+          "translation": "なんと見苦しくも敵に背を見せるものだなあ。"
+        }
+      ]
+    }
+  ],
+  "points": [
+    "「まさなし」は予想や期待からはずれている様子を表す。1も2も大切で、文脈から訳を選ぶ。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 216,
+      "image": "1216.jpg"
+    }
+  ]
 }

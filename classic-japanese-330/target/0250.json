@@ -1,7 +1,27 @@
 {
   "number": "0250",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "みそかなり"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "ひそかだ。",
+      "examples": [
+        {
+          "text": "むすめを思ひかけて、みそかに通ひありきけり。",
+          "translation": "（男は友達の）娘を好きになって、ひそかに通っていた。"
+        }
+      ]
+    }
+  ],
+  "points": [
+    "「みそか」は今の「ひそか」。語頭の「み」が「ひ」に変わった語。『三十日』と混同しない。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 232,
+      "image": "1232.jpg"
+    }
+  ]
 }

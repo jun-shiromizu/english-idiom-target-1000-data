@@ -1,7 +1,47 @@
 {
   "number": "0265",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "かしこまり"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "お礼。",
+      "examples": [
+        {
+          "text": "限りなく喜び、かしこまり申す。",
+          "translation": "この上もなく喜び、（源氏に）お礼を申し上げる。"
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "お詫び。",
+      "examples": [
+        {
+          "text": "え参らぬ由のかしこまり申し給へり。",
+          "translation": "参上できないことのお詫びを申し上げなさった。"
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "meaning": "恐縮。",
+      "examples": [
+        {
+          "text": "御咎めを受けて家に籠もること。",
+          "translation": "（天皇のおとがめを）受けて家に籠もること。"
+        }
+      ]
+    }
+  ],
+  "points": [
+    "「かしこまる」の名詞形。つつしんで正座する意味から、お礼やお詫びなどの言葉、恐縮して謹慎することも表す。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 244,
+      "image": "1244.jpg"
+    }
+  ]
 }

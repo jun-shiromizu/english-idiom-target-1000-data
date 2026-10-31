@@ -1,7 +1,31 @@
 {
   "number": "0256",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "しな"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "身分。家柄。",
+      "examples": [
+        {
+          "text": "御方しも、受領の妻にて品定まりておはしまさむよ。",
+          "translation": "よりによってお嬢様が、受領の妻として身分が定まってしまわれるだろうよ。"
+        }
+      ]
+    }
+  ],
+  "points": [
+    "土地の生産や階級などの高低を表す語から、人の社会的な身分や家柄を表すようになった。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 238,
+      "image": "1238.jpg"
+    },
+    {
+      "bookPage": 239,
+      "image": "1239.jpg"
+    }
+  ]
 }

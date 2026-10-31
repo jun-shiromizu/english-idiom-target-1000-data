@@ -1,7 +1,27 @@
 {
   "number": "0252",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "らうたげなり"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "かわいらしい。可憐だ。",
+      "examples": [
+        {
+          "text": "灯台に向かひて寝たる顔どももらうたげなり。",
+          "translation": "灯台に向かって寝ている（舞姫たちの）顔もかわいらしい。"
+        }
+      ]
+    }
+  ],
+  "points": [
+    "形容詞「らうたし」に接尾語「げなり」が付いた語。か弱く守ってあげたいと感じる子どもや女性によく用いる。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 233,
+      "image": "1233.jpg"
+    }
+  ]
 }

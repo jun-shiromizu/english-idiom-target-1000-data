@@ -1,7 +1,47 @@
 {
   "number": "0267",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "かぎり"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "（人の）最期。最後。",
+      "examples": [
+        {
+          "text": "がなぎ御悩みと見ゆれども、かぎりのたびにもおはしますらむ。",
+          "translation": "少しのご病気と見えるが、最期の時でもいらっしゃるのだろう。"
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "すべて。",
+      "examples": [
+        {
+          "text": "罪のかぎり果てぬれば、迎ふるを、もとは泣き嘆く。",
+          "translation": "（かぐや姫の）罪のすべてが終わったので、月から迎えに来たのを、鈴は泣いて嘆く。"
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "meaning": "限界。",
+      "examples": [
+        {
+          "text": "門のかぎりを高う造る人もありけるは。",
+          "translation": "（家の）門だけを高く造る人もいたそうだよ。"
+        }
+      ]
+    }
+  ],
+  "points": [
+    "「限り」は多義語。「もうこれっきり会えない人の別れ」の意や、「～の限り」の形の用法が大切。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 245,
+      "image": "1245.jpg"
+    }
+  ]
 }

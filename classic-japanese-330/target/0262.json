@@ -1,7 +1,27 @@
 {
   "number": "0262",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "そらごと"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "偽り。うそ。",
+      "examples": [
+        {
+          "text": "世に語り伝ふること、まことはあいなきにや、多くはみなそらごとなり。",
+          "translation": "世間で語り伝えていることは真実ではつまらないのだろうか、多くはみなうそである。"
+        }
+      ]
+    }
+  ],
+  "points": [
+    "「そら」は空っぽ、「ごと」は言葉のこと。合わせて偽り・作りごとを表す。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 242,
+      "image": "1242.jpg"
+    }
+  ]
 }

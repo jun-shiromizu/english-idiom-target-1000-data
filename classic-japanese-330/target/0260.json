@@ -1,7 +1,46 @@
 {
   "number": "0260",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "ひがこと"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "間違い。過ち。",
+      "examples": [
+        {
+          "text": "鶴の大臣殿は、童名たづ君なり。鶴を飼ひ給ひけるゆゑにと申すは、ひがことなり。",
+          "translation": "鶴の大臣殿は幼名をたづ君という。鶴を飼っていらしたからだというのは間違いである。"
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "聞き違い。",
+      "examples": []
+    },
+    {
+      "senseNumber": 3,
+      "meaning": "思い違い。",
+      "examples": []
+    },
+    {
+      "senseNumber": 4,
+      "meaning": "記憶違い。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "「ひが」は「間違い」と覚える。ひが耳（聞き違い）、ひが心（思い違い）、ひが覚え（記憶違い）など。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 240,
+      "image": "1240.jpg"
+    },
+    {
+      "bookPage": 241,
+      "image": "1241.jpg"
+    }
+  ]
 }
