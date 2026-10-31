@@ -1,46 +1,37 @@
 {
   "number": "0260",
   "words": [
-    "ひがこと"
+    "ひま"
   ],
   "means": [
     {
       "senseNumber": 1,
-      "meaning": "間違い。過ち。",
+      "meaning": "すき間。機会。",
       "examples": [
         {
-          "text": "鶴の大臣殿は、童名たづ君なり。鶴を飼ひ給ひけるゆゑにと申すは、ひがことなり。",
-          "translation": "鶴の大臣殿は幼名をたづ君という。鶴を飼っていらしたからだというのは間違いである。"
+          "text": "御文奉らむよきひまなり。",
+          "translation": "（少将のお手紙を姫君に）差し上げるのによい機会だ。"
         }
       ]
     },
     {
       "senseNumber": 2,
-      "meaning": "聞き違い。",
-      "examples": []
-    },
-    {
-      "senseNumber": 3,
-      "meaning": "思い違い。",
-      "examples": []
-    },
-    {
-      "senseNumber": 4,
-      "meaning": "記憶違い。",
-      "examples": []
+      "meaning": "絶え間。",
+      "examples": [
+        {
+          "text": "灯火の光、絶え間なく見ゆ。",
+          "translation": "灯火の光が絶え間なく見える。"
+        }
+      ]
     }
   ],
   "points": [
-    "「ひが」は「間違い」と覚える。ひが耳（聞き違い）、ひが心（思い違い）、ひが覚え（記憶違い）など。"
+    "物と物のすき間、相手との切れ目、状態の絶え間を表す。関連語「ひまなし」にも注意。"
   ],
   "sourcePages": [
     {
       "bookPage": 240,
       "image": "1240.jpg"
-    },
-    {
-      "bookPage": 241,
-      "image": "1241.jpg"
     }
   ]
 }
