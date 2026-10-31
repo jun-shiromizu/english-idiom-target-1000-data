@@ -6,21 +6,41 @@
   "means": [
     {
       "senseNumber": 1,
-      "meaning": "必ず。",
-      "examples": []
+      "meaning": "注意して。気をつけて。",
+      "examples": [
+        {
+          "text": "かまへてよくよく宮仕へ、御心に違ふな。",
+          "translation": "（平家物語）注意してしっかりと奉公し、お心に背くな。"
+        }
+      ]
     },
     {
       "senseNumber": 2,
+      "meaning": "ぜひとも。",
+      "examples": [
+        {
+          "text": "（コロ馬ヲ）かまへて盗まむ。",
+          "translation": "（今物語集）"
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
       "meaning": "決して。",
-      "examples": []
+      "examples": [
+        {
+          "text": "（狐ハ）かまへて調ずまじきなり。",
+          "translation": "（宇治拾遺物語）"
+        }
+      ]
     }
   ],
   "points": [
-    "強い意志・命令や禁止とともに用いる。"
+    "動詞「構ふ」に助詞の「て」が付いて副詞となった語です。「心構えをして」というところから、十分に心を働かせて事に当たることを言うようになります。2は意志や願望の文の中で、3は禁止文の意味の中です。"
   ],
   "sourcePages": [
     {
-      "bookPage": 284,
+      "bookPage": 318,
       "image": "1284.jpg"
     }
   ]

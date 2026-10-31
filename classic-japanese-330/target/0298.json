@@ -6,26 +6,31 @@
   "means": [
     {
       "senseNumber": 1,
-      "meaning": "色。",
-      "examples": []
+      "meaning": "情趣。風情。",
+      "examples": [
+        {
+          "text": "むげにいろなく、いかにのり給ひけるぞ。",
+          "translation": "（今物語）まったく情趣もなく、どのようにのりなさったのだ。"
+        }
+      ]
     },
     {
       "senseNumber": 2,
-      "meaning": "風情。情趣。",
-      "examples": []
-    },
-    {
-      "senseNumber": 3,
-      "meaning": "恋愛感情。",
-      "examples": []
+      "meaning": "恋愛。異性。",
+      "examples": [
+        {
+          "text": "万事にすぐれていて、恋愛を好まないような男は、実に物足りなく、玉の盃でも底のない盃の感じがするだろう。",
+          "translation": "（徒然草）"
+        }
+      ]
     }
   ],
   "points": [
-    "色彩から、風情や男女の情愛まで幅広く表す。"
+    "「色彩」の意味が原義です。そこから「顔色」「容色」「禁色」などさまざまな語義が生じましたが、単調な人の世に彩りを添える「情趣」と「恋愛」の意味をしっかりと覚えましょう。"
   ],
   "sourcePages": [
     {
-      "bookPage": 270,
+      "bookPage": 298,
       "image": "1270.jpg"
     }
   ]

@@ -6,22 +6,32 @@
   "means": [
     {
       "senseNumber": 1,
-      "meaning": "折々。その時々。",
-      "examples": []
+      "meaning": "ちょうどその時。折も折。",
+      "examples": [
+        {
+          "text": "ころは正月二十日あまりのことなれば、比良の高嶺、志賀の山、昔からの雪も消え、谷々の氷うち解けて、",
+          "translation": "（平家物語）"
+        }
+      ]
     },
     {
       "senseNumber": 2,
-      "meaning": "季節。",
-      "examples": []
+      "meaning": "折々。季節。",
+      "examples": [
+        {
+          "text": "折節の移り変わるこそ、何事につけても趣深く感じられる。",
+          "translation": "（徒然草）"
+        }
+      ]
     }
   ],
   "points": [
-    "時の折々、または季節を表す。"
+    "「をり」も「ふし」も「その時」という意味です。そこから「その時もその時」、つまり「ちょうどその時」という副詞の意味が生じました。"
   ],
   "sourcePages": [
     {
-      "bookPage": 277,
-      "image": "1277.jpg"
+      "bookPage": 311,
+      "image": "1280.jpg"
     }
   ]
 }
