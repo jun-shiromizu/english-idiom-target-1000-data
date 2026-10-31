@@ -1,7 +1,32 @@
 {
   "number": "0303",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "やう"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "方法。",
+      "examples": []
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "様子。ありさま。",
+      "examples": []
+    },
+    {
+      "senseNumber": 3,
+      "meaning": "理由。わけ。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "「やう」は方法・様子・理由などを表す。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 273,
+      "image": "1273.jpg"
+    }
+  ]
 }

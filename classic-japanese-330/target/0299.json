@@ -1,7 +1,27 @@
 {
   "number": "0299",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "こころ"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "心。気持ち。",
+      "examples": []
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "情趣を解する心。風流心。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "古語の「心」には、情趣を解する心や風流心の意味がある。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 270,
+      "image": "1270.jpg"
+    }
+  ]
 }

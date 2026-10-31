@@ -1,7 +1,22 @@
 {
   "number": "0322",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "かずならず"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "取るに足りない。数にも入らない。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "自分を数に入れるほどの価値がない、という謙遜表現。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 286,
+      "image": "1286.jpg"
+    }
+  ]
 }

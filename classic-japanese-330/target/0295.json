@@ -1,7 +1,22 @@
 {
   "number": "0295",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "たのし"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "裕福だ。豊かだ。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "古語の「たのし」は、心楽しいよりも経済的に豊かな意。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 268,
+      "image": "1268.jpg"
+    }
+  ]
 }

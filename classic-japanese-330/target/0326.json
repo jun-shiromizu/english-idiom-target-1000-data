@@ -1,7 +1,27 @@
 {
   "number": "0326",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "ただならず"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "普通ではない。",
+      "examples": []
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "妊娠している。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "「ただならず」は普通でない状態、とくに妊娠を表すことがある。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 288,
+      "image": "1288.jpg"
+    }
+  ]
 }

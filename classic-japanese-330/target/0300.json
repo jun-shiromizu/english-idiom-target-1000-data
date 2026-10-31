@@ -1,7 +1,27 @@
 {
   "number": "0300",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "ゆゑ"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "理由。わけ。",
+      "examples": []
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "品格。風情。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "理由・由緒のほか、人や物の品格、風情も表す。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 271,
+      "image": "1271.jpg"
+    }
+  ]
 }

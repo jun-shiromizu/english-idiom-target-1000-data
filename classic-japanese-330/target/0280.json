@@ -1,7 +1,27 @@
 {
   "number": "0280",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "けしからず"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "異様だ。普通ではない。",
+      "examples": []
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "筋道が通らない。道理に合わない。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "「けしからず」は現代語の「けしからん」に通じ、道理に合わない様子を表す。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 255,
+      "image": "1255.jpg"
+    }
+  ]
 }

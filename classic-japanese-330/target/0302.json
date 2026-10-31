@@ -1,7 +1,27 @@
 {
   "number": "0302",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "さた"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "評定。評議。",
+      "examples": []
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "指図。処置。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "物事を評議し、指図・処置することを表す。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 272,
+      "image": "1272.jpg"
+    }
+  ]
 }

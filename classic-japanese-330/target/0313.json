@@ -1,7 +1,27 @@
 {
   "number": "0313",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "つくづくと"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "しみじみと。",
+      "examples": []
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "つくづく。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "物事を深く見つめたり、心静かに考えたりする様子を表す。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 281,
+      "image": "1281.jpg"
+    }
+  ]
 }

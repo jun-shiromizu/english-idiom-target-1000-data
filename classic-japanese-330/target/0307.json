@@ -1,7 +1,22 @@
 {
   "number": "0307",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "はらから"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "兄弟姉妹。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "同じ母から生まれた兄弟姉妹をいう。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 275,
+      "image": "1275.jpg"
+    }
+  ]
 }

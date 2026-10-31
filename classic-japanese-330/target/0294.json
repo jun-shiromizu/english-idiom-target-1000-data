@@ -1,7 +1,22 @@
 {
   "number": "0294",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "くやし"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "残念だ。後悔される。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "取り返しがつかないことを悔やむ気持ちを表す。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 268,
+      "image": "1268.jpg"
+    }
+  ]
 }

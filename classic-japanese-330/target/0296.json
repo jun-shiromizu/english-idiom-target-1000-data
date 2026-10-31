@@ -1,7 +1,22 @@
 {
   "number": "0296",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "おもはずなり"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "思いがけない。意外だ。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "「思はず」は予想していなかったことを表す。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 269,
+      "image": "1269.jpg"
+    }
+  ]
 }

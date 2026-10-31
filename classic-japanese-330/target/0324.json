@@ -1,7 +1,22 @@
 {
   "number": "0324",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "さればこそ"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "思ったとおりだ。案の定。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "予想していたとおりだという気持ちを表す。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 287,
+      "image": "1287.jpg"
+    }
+  ]
 }

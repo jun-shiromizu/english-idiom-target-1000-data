@@ -1,7 +1,27 @@
 {
   "number": "0311",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "をりふし"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "折々。その時々。",
+      "examples": []
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "季節。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "時の折々、または季節を表す。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 277,
+      "image": "1277.jpg"
+    }
+  ]
 }

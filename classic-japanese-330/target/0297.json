@@ -1,7 +1,22 @@
 {
   "number": "0297",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "ことなり"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "別である。異なる。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "「こと」は「異なる」の意。普通と違うことを表す。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 269,
+      "image": "1269.jpg"
+    }
+  ]
 }

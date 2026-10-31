@@ -1,7 +1,22 @@
 {
   "number": "0321",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "いとしもなし"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "たいしたことはない。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "「いとしも」は程度が甚だしい意。「なし」を伴い、たいしたことはない意。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 286,
+      "image": "1286.jpg"
+    }
+  ]
 }

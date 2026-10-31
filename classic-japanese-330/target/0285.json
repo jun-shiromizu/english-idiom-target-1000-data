@@ -1,7 +1,22 @@
 {
   "number": "0285",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "しほたる"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "涙にぬれる。涙を流す。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "「しほ」は潮・水気。涙でぬれる様子を表す。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 262,
+      "image": "1262.jpg"
+    }
+  ]
 }

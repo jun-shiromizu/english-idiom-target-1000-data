@@ -1,7 +1,22 @@
 {
   "number": "0293",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "こよなし"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "格段である。格段に違う。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "程度に大きな差があることを表す。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 267,
+      "image": "1267.jpg"
+    }
+  ]
 }

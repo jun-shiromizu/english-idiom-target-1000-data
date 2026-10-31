@@ -1,7 +1,22 @@
 {
   "number": "0288",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "らうらうじ"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "洗練されている。上品である。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "経験を積んだ、洗練された様子を表す。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 264,
+      "image": "1264.jpg"
+    }
+  ]
 }

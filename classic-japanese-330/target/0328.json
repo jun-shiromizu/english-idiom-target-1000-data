@@ -1,7 +1,22 @@
 {
   "number": "0328",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "ひとやりならず"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "人にさせられるのではなく、自分の心からする。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "「人やりならず」は他人のせいではなく、自分の心から起こること。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 289,
+      "image": "1289.jpg"
+    }
+  ]
 }

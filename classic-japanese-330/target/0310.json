@@ -1,7 +1,27 @@
 {
   "number": "0310",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "ただびと"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "天皇・皇族に対する臣下。",
+      "examples": []
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "一流の貴族に対する普通の貴族。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "「ただびと」は特別な身分でない普通の人をいう。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 277,
+      "image": "1277.jpg"
+    }
+  ]
 }

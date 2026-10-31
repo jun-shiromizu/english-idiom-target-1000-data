@@ -1,7 +1,22 @@
 {
   "number": "0283",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "すまふ"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "争う。抵抗する。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "「すまふ」は相手に抵抗して争う意。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 261,
+      "image": "1261.jpg"
+    }
+  ]
 }

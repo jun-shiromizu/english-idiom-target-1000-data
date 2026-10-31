@@ -1,7 +1,22 @@
 {
   "number": "0277",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "をさをさ"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "ほとんど～ない。めったに～ない。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "打消の語を伴って「ほとんど～ない」の意を表す。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 253,
+      "image": "1253.jpg"
+    }
+  ]
 }

@@ -1,7 +1,22 @@
 {
   "number": "0279",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "かちより"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "徒歩で。歩いて。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "「かち」は徒歩の意。「かちより」は徒歩で行くことを表す。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 254,
+      "image": "1254.jpg"
+    }
+  ]
 }

@@ -1,7 +1,27 @@
 {
   "number": "0320",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "さはれ"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "どうにでもなれ。",
+      "examples": []
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "どうともなれ。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "成り行きに任せる気持ちを表す感動詞。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 285,
+      "image": "1285.jpg"
+    }
+  ]
 }

@@ -1,7 +1,22 @@
 {
   "number": "0287",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "まつりごと"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "政治。政務。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "「まつりごと」は政（まつりごと）を行うこと。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 263,
+      "image": "1263.jpg"
+    }
+  ]
 }

@@ -1,7 +1,22 @@
 {
   "number": "0284",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "さす"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "戸などを閉める。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "戸を閉める意。現代語の「差す」と区別する。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 261,
+      "image": "1261.jpg"
+    }
+  ]
 }

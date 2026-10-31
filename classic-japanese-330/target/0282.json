@@ -1,7 +1,22 @@
 {
   "number": "0282",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "おきつ"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "決める。指図する。命令する。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "「おきつ」は物事を決めて指図する意。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 260,
+      "image": "1260.jpg"
+    }
+  ]
 }

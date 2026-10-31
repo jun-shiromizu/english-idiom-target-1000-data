@@ -1,7 +1,27 @@
 {
   "number": "0315",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "さりとも"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "そうであっても。",
+      "examples": []
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "いくらなんでも。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "前の内容を受け、「そうであっても」「いくらなんでも」の意。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 282,
+      "image": "1282.jpg"
+    }
+  ]
 }

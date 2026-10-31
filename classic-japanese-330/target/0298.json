@@ -1,7 +1,32 @@
 {
   "number": "0298",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "いろ"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "色。",
+      "examples": []
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "風情。情趣。",
+      "examples": []
+    },
+    {
+      "senseNumber": 3,
+      "meaning": "恋愛感情。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "色彩から、風情や男女の情愛まで幅広く表す。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 270,
+      "image": "1270.jpg"
+    }
+  ]
 }

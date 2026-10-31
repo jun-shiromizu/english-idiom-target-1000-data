@@ -1,7 +1,22 @@
 {
   "number": "0308",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "けぢめ"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "区別。違い。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "物事を区切って区別すること。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 276,
+      "image": "1276.jpg"
+    }
+  ]
 }

@@ -1,7 +1,22 @@
 {
   "number": "0329",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "またの日"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "翌日。次の日。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "「またの日」はその次の日を表す。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 290,
+      "image": "1290.jpg"
+    }
+  ]
 }

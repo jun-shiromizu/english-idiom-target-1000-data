@@ -1,7 +1,27 @@
 {
   "number": "0309",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "そのかみ"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "その時。",
+      "examples": []
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "昔。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "文脈により「その時」または「昔」を表す。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 276,
+      "image": "1276.jpg"
+    }
+  ]
 }

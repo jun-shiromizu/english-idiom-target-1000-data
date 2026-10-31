@@ -1,7 +1,22 @@
 {
   "number": "0323",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "いかにぞや"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "なんとなく感心しない。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "はっきりとは言えないが、どこか気に入らない様子を表す。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 287,
+      "image": "1287.jpg"
+    }
+  ]
 }

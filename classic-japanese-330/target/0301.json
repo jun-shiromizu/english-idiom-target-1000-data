@@ -1,7 +1,22 @@
 {
   "number": "0301",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "あない"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "案内。事情。内情。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "「案内」は事情や内情を知らせること。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 271,
+      "image": "1271.jpg"
+    }
+  ]
 }

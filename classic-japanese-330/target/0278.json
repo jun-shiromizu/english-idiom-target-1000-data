@@ -1,7 +1,22 @@
 {
   "number": "0278",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "あなかま"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "静かに。ああ、うるさい。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "人の声や話を制止する語。「あな」は感動詞、「かま」は「かまびすし（やかましい）」に関わる。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 254,
+      "image": "1254.jpg"
+    }
+  ]
 }

@@ -1,7 +1,22 @@
 {
   "number": "0314",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "せめて"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "無理に。しいて。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "程度や状況を押して無理に行う様子を表す。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 282,
+      "image": "1282.jpg"
+    }
+  ]
 }

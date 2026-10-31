@@ -1,7 +1,27 @@
 {
   "number": "0316",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "さて"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "そのまま。",
+      "examples": []
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "そのような状態で。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "前の状態を受けて「そのまま」「そのようにして」の意。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 283,
+      "image": "1283.jpg"
+    }
+  ]
 }

@@ -1,7 +1,27 @@
 {
   "number": "0292",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "しるし"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "はっきりしている。明白だ。",
+      "examples": []
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "効き目。ご利益。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "形容詞「しるし」は明白な意、名詞「しるし」は効き目・ご利益の意。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 266,
+      "image": "1266.jpg"
+    }
+  ]
 }

@@ -1,7 +1,27 @@
 {
   "number": "0306",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "つま"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "端。先端。",
+      "examples": []
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "きっかけ。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "物の端・先端を表すほか、事のきっかけの意もある。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 275,
+      "image": "1275.jpg"
+    }
+  ]
 }

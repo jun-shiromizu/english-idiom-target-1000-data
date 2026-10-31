@@ -1,7 +1,22 @@
 {
   "number": "0305",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "いそぎ"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "準備。用意。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "動詞「いそぐ」の名詞形で、準備・用意の意。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 274,
+      "image": "1274.jpg"
+    }
+  ]
 }

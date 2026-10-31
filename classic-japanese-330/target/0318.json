@@ -1,7 +1,27 @@
 {
   "number": "0318",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "かまへて"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "必ず。",
+      "examples": []
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "決して。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "強い意志・命令や禁止とともに用いる。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 284,
+      "image": "1284.jpg"
+    }
+  ]
 }

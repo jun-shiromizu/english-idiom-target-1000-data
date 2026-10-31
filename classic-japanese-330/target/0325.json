@@ -1,7 +1,22 @@
 {
   "number": "0325",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "よのつねなり"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "世間並みだ。普通だ。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "特別でなく、世間一般と同じであること。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 288,
+      "image": "1288.jpg"
+    }
+  ]
 }

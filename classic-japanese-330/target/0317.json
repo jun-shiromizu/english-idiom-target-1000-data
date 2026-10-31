@@ -1,7 +1,22 @@
 {
   "number": "0317",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "おほかた"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "（打消を伴い）まったく～ない。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "打消表現を伴い、全面的な否定を表す。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 284,
+      "image": "1284.jpg"
+    }
+  ]
 }

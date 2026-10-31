@@ -1,7 +1,22 @@
 {
   "number": "0291",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "いぶせし"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "気が晴れない。気がかりだ。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "心が晴れず、気がかりな様子を表す。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 266,
+      "image": "1266.jpg"
+    }
+  ]
 }

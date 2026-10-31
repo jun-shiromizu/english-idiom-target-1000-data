@@ -1,7 +1,22 @@
 {
   "number": "0319",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "させる"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "たいした。相当な。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "多く打消表現を伴い、「たいした～ない」の形で用いる。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 285,
+      "image": "1285.jpg"
+    }
+  ]
 }

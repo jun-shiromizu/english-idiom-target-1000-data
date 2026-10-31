@@ -1,7 +1,22 @@
 {
   "number": "0327",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "ものもおぼえず"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "正気を失う。我を忘れる。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "心が乱れて、物事の判断ができない状態を表す。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 289,
+      "image": "1289.jpg"
+    }
+  ]
 }

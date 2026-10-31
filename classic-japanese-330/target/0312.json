@@ -1,7 +1,22 @@
 {
   "number": "0312",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "はやく"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "以前。昔。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "副詞「はやく」は「以前・昔」の意で用いられる。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 278,
+      "image": "1278.jpg"
+    }
+  ]
 }

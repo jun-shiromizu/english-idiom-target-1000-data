@@ -1,7 +1,27 @@
 {
   "number": "0281",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "おもひやる"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "思いをはせる。想像する。",
+      "examples": [
+        {
+          "text": "今日は都のみぞ思ひやる。",
+          "translation": "今日は都のことばかり思いやる。"
+        }
+      ]
+    }
+  ],
+  "points": [
+    "その場にいない人や場所に心を向けて思う。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 260,
+      "image": "1260.jpg"
+    }
+  ]
 }

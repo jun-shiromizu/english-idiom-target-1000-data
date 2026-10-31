@@ -1,7 +1,22 @@
 {
   "number": "0290",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "おほけなし"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "身分不相応だ。恐れ多い。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "身のほどを越えていること、恐れ多いことを表す。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 265,
+      "image": "1265.jpg"
+    }
+  ]
 }

@@ -1,7 +1,22 @@
 {
   "number": "0330",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "あへず"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "最後まで～しきれない。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "動詞「敢ふ」の未然形に打消の助動詞「ず」が付いた語。最後までしきれない意。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 291,
+      "image": "1291.jpg"
+    }
+  ]
 }

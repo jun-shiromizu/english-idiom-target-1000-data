@@ -1,7 +1,27 @@
 {
   "number": "0286",
-  "words": [],
-  "means": [],
-  "points": [],
-  "sourcePages": []
+  "words": [
+    "たばかる"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "工夫する。計画する。",
+      "examples": []
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "だます。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "「たばかる」は工夫して計画する意から、策略をめぐらす・だます意にもなる。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 262,
+      "image": "1262.jpg"
+    }
+  ]
 }
