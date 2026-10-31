@@ -1,0 +1,27 @@
+{
+  "number": "0068",
+  "words": [
+    "わななく"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "震える。わなわなと震える。",
+      "examples": [
+        {
+          "text": "いと恐ろしと思して、わななき給ふ。",
+          "translation": "たいそう恐ろしいとお思いになって、震えていらっしゃる。"
+        }
+      ]
+    }
+  ],
+  "points": [
+    "恐怖や寒さなどで体が震えることを表す。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 86,
+      "image": "1086.jpg"
+    }
+  ]
+}

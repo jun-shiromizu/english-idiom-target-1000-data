@@ -1,0 +1,32 @@
+{
+  "number": "0129",
+  "words": [
+    "いつしか"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "早く（そうしたい・してほしい）。",
+      "examples": []
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "早くも。",
+      "examples": [
+        {
+          "text": "いつしか咲きたるを、あはれと聞く。",
+          "translation": "早くも咲いたのを、しみじみと聞く。"
+        }
+      ]
+    }
+  ],
+  "points": [
+    "意志・願望の形なら「早く（そうしたい）」、それ以外は「早くも」の意になる。願望の意味では未然形に接続する。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 138,
+      "image": "1138.jpg"
+    }
+  ]
+}

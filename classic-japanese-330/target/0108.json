@@ -1,0 +1,42 @@
+{
+  "number": "0108",
+  "words": [
+    "おほやけ"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "朝廷。",
+      "examples": [
+        {
+          "text": "おほやけの宮仕へしければ、常にはえまうでず。",
+          "translation": "朝廷へのご奉仕をしていたので、ふだんは参上できない。"
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "天皇。",
+      "examples": [
+        {
+          "text": "おほやけに御文奉り給ふ。",
+          "translation": "天皇にお手紙を差し上げなさる。"
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "meaning": "公的なこと。公共。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "「大宅」（大きな建物）がもとの意で、朝廷を表す。朝廷の主人として天皇の意、さらに「私」に対する「公」の意にもなる。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 120,
+      "image": "1120.jpg"
+    }
+  ]
+}

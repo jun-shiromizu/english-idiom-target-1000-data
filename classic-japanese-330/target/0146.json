@@ -1,0 +1,22 @@
+{
+  "number": "0146",
+  "words": ["例"],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "例。ためし。前例。",
+      "examples": [
+        {
+          "text": "例によって文をしたためて、使ひに持たせて来。",
+          "translation": "いつものように手紙を書いて、使いの者に持たせて来た。"
+        }
+      ]
+    }
+  ],
+  "points": [
+    "「例」は「ためし」と読み、以前の事例や前例を表す。"
+  ],
+  "sourcePages": [
+    { "bookPage": 150, "image": "1150.jpg" }
+  ]
+}

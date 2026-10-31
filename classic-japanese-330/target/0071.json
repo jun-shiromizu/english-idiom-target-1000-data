@@ -1,0 +1,37 @@
+{
+  "number": "0071",
+  "words": [
+    "かづく"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "（四段活用）褒美をいただく。かぶる。",
+      "examples": [
+        {
+          "text": "禄をかづきて、退出す。",
+          "translation": "褒美をいただいて、退出する。"
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "（下二段活用）褒美を与える。かぶせる。",
+      "examples": [
+        {
+          "text": "御衣をかづけ給ふ。",
+          "translation": "お召し物をお与えになる。"
+        }
+      ]
+    }
+  ],
+  "points": [
+    "四段活用と下二段活用で授受の方向が変わる。四段は受け取る、下二段は相手に与える意。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 88,
+      "image": "1088.jpg"
+    }
+  ]
+}

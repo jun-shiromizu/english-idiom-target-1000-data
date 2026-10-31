@@ -1,0 +1,27 @@
+{
+  "number": "0183",
+  "words": ["うちいづ"],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "口に出して言う。言葉にする。",
+      "examples": [
+        {
+          "text": "何事をかうちいづる言の葉にせむ。",
+          "translation": "どんなことを口に出して言おうか。"
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "詩歌を口ずさむ。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "「外に出る・外に出す」の意味から、声や言葉を口に出す意味が生じた。"
+  ],
+  "sourcePages": [
+    { "bookPage": 186, "image": "1186.jpg" }
+  ]
+}

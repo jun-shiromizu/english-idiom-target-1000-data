@@ -1,0 +1,41 @@
+{
+  "number": "0112",
+  "words": [
+    "ためし"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "例。先例。手本。",
+      "examples": [
+        {
+          "text": "久しくとどまりたる例なし。",
+          "translation": "いつまでもとどまっている例はない。"
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "語り草。話の種。",
+      "examples": [
+        {
+          "text": "世の例にもなりぬべき御もてなしなり。",
+          "translation": "後世の語り草になってしまうにちがいないご待遇である。"
+        }
+      ]
+    }
+  ],
+  "points": [
+    "現代語の「試し」ではなく、「うまくいったためしがない」の「ためし」。漢字では「例」と書く。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 122,
+      "image": "1122.jpg"
+    },
+    {
+      "bookPage": 123,
+      "image": "1123.jpg"
+    }
+  ]
+}

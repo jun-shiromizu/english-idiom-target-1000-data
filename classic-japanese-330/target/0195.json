@@ -1,0 +1,27 @@
+{
+  "number": "0195",
+  "words": ["さる", "避る"],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "避ける。よける。のがれる。",
+      "examples": [
+        {
+          "text": "道もさりあへず立つ折もあるぞかし。",
+          "translation": "道を避けきれずに立ち止まる時もあるのだよ。"
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "断る。辞退する。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "「去る」ではなく「避る」と書く語。身を避ける意味があり、表記から意味を判断する。"
+  ],
+  "sourcePages": [
+    { "bookPage": 193, "image": "1193.jpg" }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": "0067",
+  "words": [
+    "ものす"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "いる。ある。",
+      "examples": [
+        {
+          "text": "日ごろものしつる人、今日を帰りぬる。",
+          "translation": "数日一緒にいた人が、今日帰ってしまった。"
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "行く。来る。",
+      "examples": [
+        {
+          "text": "馬にてものせむ。",
+          "translation": "馬で行こう。"
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "meaning": "何かをする。召し上がる。いらっしゃる。",
+      "examples": [
+        {
+          "text": "いづこよりものしつるぞ。",
+          "translation": "どこからいらっしゃったのか。"
+        }
+      ]
+    }
+  ],
+  "points": [
+    "名詞「もの」と動詞「す」から成る複合動詞。文脈に応じて「あり」「行く」「来る」などに置き換えて考える。敬語表現にもなる。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 85,
+      "image": "1085.jpg"
+    }
+  ]
+}

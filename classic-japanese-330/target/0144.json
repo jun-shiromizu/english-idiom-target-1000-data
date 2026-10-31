@@ -1,0 +1,27 @@
+{
+  "number": "0144",
+  "words": ["なでふ", "なんでふ"],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "どういう。どんな。",
+      "examples": [
+        {
+          "text": "なでふことをかくは言ふぞ。",
+          "translation": "どういうことをこのように言うのか。"
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "どうして。なぜ。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "「何といふ」が変化した語。「なでふ」は疑問・反語を表し、後ろに「か」などを伴うこともある。"
+  ],
+  "sourcePages": [
+    { "bookPage": 149, "image": "1149.jpg" }
+  ]
+}

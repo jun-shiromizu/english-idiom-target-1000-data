@@ -1,0 +1,33 @@
+{
+  "number": "0143",
+  "words": ["など", "なぞ"],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "どうして。なぜ。",
+      "examples": [
+        {
+          "text": "などかくは仰せらるる。",
+          "translation": "どうしてこのようにおっしゃるのですか。"
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "どうして～か、いや～ない。",
+      "examples": [
+        {
+          "text": "正直の人などかなからむ。",
+          "translation": "正直な人がどうしていないだろうか、いやいるだろう。"
+        }
+      ]
+    }
+  ],
+  "points": [
+    "疑問・反語を表す副詞。「か」「かは」などを伴うことが多く、文末は連体形になる。疑問か反語かは文脈で判断する。"
+  ],
+  "sourcePages": [
+    { "bookPage": 148, "image": "1148.jpg" },
+    { "bookPage": 149, "image": "1149.jpg" }
+  ]
+}

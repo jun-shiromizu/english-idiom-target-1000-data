@@ -1,0 +1,27 @@
+{
+  "number": "0196",
+  "words": ["こうず", "困ず"],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "疲れる。疲労する。",
+      "examples": [
+        {
+          "text": "知らぬわざして、まろも困じにたり。",
+          "translation": "慣れない仕事をして、私も疲れてしまった。"
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "困る。弱りきる。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "漢字では「困ず」「困じる」と書く。心が弱る意味もあるが、古語では体がひどく疲れる意味が大切。"
+  ],
+  "sourcePages": [
+    { "bookPage": 194, "image": "1194.jpg" }
+  ]
+}

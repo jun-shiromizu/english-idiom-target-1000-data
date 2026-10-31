@@ -1,0 +1,37 @@
+{
+  "number": "0072",
+  "words": [
+    "すさぶ"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "気の向くままにする。興にまかせてする。",
+      "examples": [
+        {
+          "text": "手習ひをすさび給ふ。",
+          "translation": "気の向くままに手習いをなさる。"
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "（動詞の連用形に付いて）〜するのにふける。〜し続ける。",
+      "examples": [
+        {
+          "text": "吹きすさぶ。",
+          "translation": "風が吹き荒れる。"
+        }
+      ]
+    }
+  ],
+  "points": [
+    "「すさむ」とも。心のおもむくままに何かをする意で、動詞の連用形に付く用法もある。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 88,
+      "image": "1088.jpg"
+    }
+  ]
+}

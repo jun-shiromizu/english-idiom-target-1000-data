@@ -1,0 +1,27 @@
+{
+  "number": "0140",
+  "words": ["なかなか"],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "かえって。むしろ。",
+      "examples": [
+        {
+          "text": "なかなか帰り参らざらむよりは、悪しからず。",
+          "translation": "かえって、帰って参上しないよりは悪くない。"
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "かなり。相当。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "現代語の「なかなか」と意味が異なる。古語では「かえって」「むしろ」の意味に注意する。"
+  ],
+  "sourcePages": [
+    { "bookPage": 146, "image": "1146.jpg" }
+  ]
+}

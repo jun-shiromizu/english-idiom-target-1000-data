@@ -1,0 +1,22 @@
+{
+  "number": "0139",
+  "words": ["よも～じ"],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "まさか～ないだろう。",
+      "examples": [
+        {
+          "text": "今は逃ぐとも、よも逃がさじ。",
+          "translation": "今は逃げても、まさか逃がすまい。"
+        }
+      ]
+    }
+  ],
+  "points": [
+    "副詞「よも」に打消推量の助動詞「じ」が呼応した表現。"
+  ],
+  "sourcePages": [
+    { "bookPage": 145, "image": "1145.jpg" }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": "0077",
+  "words": [
+    "ゆゆし"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "不吉だ。恐ろしい。",
+      "examples": [
+        {
+          "text": "ゆゆしきことなり。",
+          "translation": "不吉なことだ。"
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "すばらしい。立派だ。",
+      "examples": [
+        {
+          "text": "ゆゆしき身に侍れば、若宮をかくておはします。",
+          "translation": "恐れ多い身分でございますので、若宮をこのようにお世話申し上げます。"
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "meaning": "はなはだしい。重大だ。",
+      "examples": [
+        {
+          "text": "ゆゆしき大事なり。",
+          "translation": "たいへんな大事件だ。"
+        }
+      ]
+    }
+  ],
+  "points": [
+    "もとは神聖なものに触れることへの畏れを表した。そこから不吉さ・恐ろしさ、さらに畏れ多いほどすばらしいことや程度の甚だしさを表す。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 94,
+      "image": "1094.jpg"
+    }
+  ]
+}

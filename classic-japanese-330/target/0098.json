@@ -1,0 +1,42 @@
+{
+  "number": "0098",
+  "words": [
+    "むつかし"
+  ],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "不快だ。わずらわしい。",
+      "examples": [
+        {
+          "text": "女君は暑くむつかしとて、御髪すまして、少しさはやかにしておはします。",
+          "translation": "女君は暑くて不快だとおっしゃり、髪を洗って少しさっぱりしていらっしゃる。"
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "面倒だ。煩わしい。",
+      "examples": []
+    },
+    {
+      "senseNumber": 3,
+      "meaning": "気味が悪い。恐ろしい。",
+      "examples": []
+    },
+    {
+      "senseNumber": 4,
+      "meaning": "不快感を表す。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "古語「むつかし」は、現代語「むずかしい（困難だ）」とは異なり、不快・わずらわしい・気味が悪いという意味を表す。"
+  ],
+  "sourcePages": [
+    {
+      "bookPage": 111,
+      "image": "1111.jpg"
+    }
+  ]
+}

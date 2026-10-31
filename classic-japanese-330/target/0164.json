@@ -1,0 +1,38 @@
+{
+  "number": "0164",
+  "words": ["はべり"],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "お仕えする。伺候する。「あり」「をり」の謙譲語。",
+      "examples": [
+        {
+          "text": "宿直人にて侍らむ。",
+          "translation": "宿直の番人としてお仕えしよう。"
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "あります。おります。ございます。",
+      "examples": [
+        {
+          "text": "御気色悪しくはべりき。",
+          "translation": "ご機嫌が悪うございました。"
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "meaning": "（丁寧語の補助動詞）～ございます。～です。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "高貴な方のそばに仕える意なら謙譲語、それ以外は丁寧語。丁寧語は会話文で使われ、補助動詞として形容詞などにも付く。"
+  ],
+  "sourcePages": [
+    { "bookPage": 168, "image": "1168.jpg" },
+    { "bookPage": 169, "image": "1169.jpg" }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "number": "0147",
+  "words": ["おとにきく"],
+  "means": [
+    {
+      "senseNumber": 1,
+      "meaning": "評判に聞く。うわさに聞く。",
+      "examples": [
+        {
+          "text": "音に聞く人なれば、つゆまどろまれず。",
+          "translation": "うわさに聞く人なので、少しも眠ることができない。"
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "名高い。評判である。",
+      "examples": []
+    }
+  ],
+  "points": [
+    "古語の「音」には物音のほかに「うわさ」「評判」の意味がある。「音に聞く」は評判を聞くことを表す。"
+  ],
+  "sourcePages": [
+    { "bookPage": 151, "image": "1151.jpg" }
+  ]
+}
