@@ -19,6 +19,10 @@
       "meaning": "行く。来る。",
       "examples": [
         {
+          "text": "馬にてものせむ。",
+          "translation": "馬で行こう。"
+        },
+        {
           "text": "中将はいづこよりものしつるぞ。",
           "translation": "中将はどこから来たのか。"
         }
