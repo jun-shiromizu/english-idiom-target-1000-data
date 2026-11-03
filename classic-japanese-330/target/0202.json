@@ -6,8 +6,23 @@
   "means": [
     {
       "senseNumber": 1,
-      "meaning": "ぐっと抑える。",
-      "examples": []
+      "meaning": "静養する。病勢を抑える。",
+      "examples": [
+        {
+          "text": "なやましう侍りつれば、しばしためらひて。。",
+          "translation": "気分が悪うございましたので、しばらく静養して。"
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "meaning": "気を静める。感情を抑える。",
+      "examples": [
+        {
+          "text": "ややためらひて仰せ言伝へきこゆ。",
+          "translation": "（命婦は）少し気を静めて（天皇の）お言葉をお伝え申し上げる。"
+        }
+      ]
     }
   ],
   "points": [
