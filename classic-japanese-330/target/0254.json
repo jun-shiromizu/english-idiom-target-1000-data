@@ -7,7 +7,12 @@
     {
       "senseNumber": 1,
       "meaning": "優美だ。",
-      "examples": []
+      "examples": [
+        {
+          "text": "あら思はずや。東にもこれほど優なる人のありけるよ。",
+          "translation": "ああ思いがけないことよ。東国にもこれほど優美な人がいたことだよ。"
+        }
+      ]
     }
   ],
   "points": [
